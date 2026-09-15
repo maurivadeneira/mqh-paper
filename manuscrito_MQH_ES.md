@@ -13,26 +13,29 @@ Date: September 16, 2026
 
 ---
 
-## ÍNDICE
+   ## ÍNDICE
 
-1. **Diagnóstico del Estado del Arte: La Crisis del Modelo Estándar**
-   1.1 El triunfo y la omisión de la mecánica clásica
-   1.2 La intuición del medio y el desvío relativista
-   1.3 La matematización sin contenido y el exilio de las dimensiones
-   1.4 El colapso cosmológico y el sesgo epistemológico
+**1. Diagnóstico del Estado del Arte: Desde Newton a La Crisis del Modelo Estándar**
+* 1.1 El triunfo y la omisión de la mecánica clásica.
+* 1.2 Maxwell: El fluido original frente al vacío abstracto.
+* 1.3 La crisis cuántica: Ecuaciones de onda, estadística y dimensiones vacías.
+* 1.4 El colapso cosmológico y el sesgo epistemológico.
 
-2. **Fundamentos de la Mecánica Cuántica Hidrodinámica (MQH)**
-   2.1 Definición del medio continuo hiperdenso (La Fuente)
-   2.2 La densidad base de ~63,700 kg/m³
+**2. La Solución: Mecánica Cuántica Hidrodinámica (MQH)**
+* 2.1 Definición del medio continuo hiperdenso.
+* 2.2 Geometría subatómica: El electrón como vórtice toroidal.
+* 2.3 Fatiga de material y cavitación (la vida media del muón).
+* 2.4 La ecuación armónica de vórtices frente a los parámetros libres.
 
-3. **Geometría Subatómica: El Electrón y las Frecuencias Armónicas**
-   3.1 El electrón como vórtice toroidal (Cálculo de 2.42 picómetros)
-   3.2 Fatiga de material, cavitación y la vida media del muón
-   3.3 La ecuación armónica de vórtices vs. los parámetros libres
+**3. Perspectivas Futuras y Conclusiones**
+* 3.1 La inercia y la gravedad como gradientes de presión fluida.
+* 3.2 La eliminación matemática de la materia oscura.
 
-4. **Derivación de la Gravedad y Conclusiones**
-   4.1 La inercia y la gravedad como gradientes de presión fluida
-   4.2 Perspectivas futuras
+---
+
+## DESARROLLO
+
+
 
 
 
