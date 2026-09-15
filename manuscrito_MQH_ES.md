@@ -48,9 +48,18 @@ Como resultado, la época aceptó una limitación pragmática: el éter fue desp
 **1.2 Los Campos y la síntesis de Maxwell: El fluido que se volvió vacío**
 Para resolver la acción a distancia, el siglo XIX introdujo el segundo gran pilar: los Campos. Michael Faraday intuyó líneas de fuerza físicas en el espacio, y James Clerk Maxwell se encargó de matematizarlas. Es un hecho histórico crucial que Maxwell no derivó sus ecuaciones pensando en un vacío abstracto. En su publicación de 1865, formuló **20 ecuaciones** basadas en la mecánica de fluidos, utilizando cuaterniones para modelar explícitamente las tensiones y los vórtices mecánicos de un medio continuo (el éter).
 
-La transformación hacia el vacío ocurrió años más tarde. Matemáticos como Oliver Heaviside tradujeron la obra de Maxwell al cálculo vectorial, condensando las 20 ecuaciones originales en las 4 elegantes fórmulas que estructuran el electromagnetismo moderno (como la ley de Gauss para el campo eléctrico: $\nabla\cdot\mathbf{E}=\frac{\rho}{\varepsilon_0}$).
+La transformación matemática ocurrió años más tarde. Científicos como Oliver Heaviside tradujeron la obra de Maxwell al cálculo vectorial, condensando las 20 ecuaciones originales en las 4 elegantes fórmulas que estructuran el electromagnetismo moderno:
 
-Esta brillante síntesis matemática facilitó el cálculo, pero tuvo un efecto colateral profundo: oscureció la necesidad del medio mecánico original. A principios del siglo XX, al toparse con límites experimentales, la física no contaba con el desarrollo de la dinámica de fluidos no lineales. Se tomó entonces un desvío pragmático: la Relatividad exilió el medio físico por completo, preservando las matemáticas del campo pero obligándolas a operar sobre un espacio geométrico vacío.
+1. Ley de Gauss (Campo eléctrico): $\nabla \cdot \mathbf{E} = \frac{\rho}{\varepsilon_0}$
+2. Ley de Gauss (Magnetismo): $\nabla \cdot \mathbf{B} = 0$
+3. Ley de Faraday: $\nabla \times \mathbf{E} = -\frac{\partial \mathbf{B}}{\partial t}$
+4. Ley de Ampère-Maxwell: $\nabla \times \mathbf{B} = \mu_0 \mathbf{J} + \mu_0 \varepsilon_0 \frac{\partial \mathbf{E}}{\partial t}$
+
+Estas ecuaciones abrieron el panorama a un nuevo universo intangible. La física se alejó de la exclusividad de la masa y le otorgó una realidad física e independiente al Campo. Describían ondas invisibles surcando el espacio, que ya eran detectables experimentalmente, pero que guardaban un secreto en sus constantes intrínsecas: la permitividad ($\varepsilon_0$) y la permeabilidad ($\mu_0$). Estas constantes operaban mecánicamente como la elasticidad (tensión) y la densidad de una sustancia, revelando que el espacio no estaba vacío.
+
+Impulsados por esta innegable sustancia de fondo, los físicos intentaron medir el "viento del éter" generado por el movimiento terrestre. Esto culminó en el famoso experimento de Michelson y Morley, cuyo resultado nulo no refutó la existencia del medio, sino que terminó con la idea absolutista de la "gran quietud" del universo (un marco de referencia totalmente estático).
+
+Esta encrucijada experimental tuvo un efecto colateral profundo. A principios del siglo XX, la física no contaba con el desarrollo de la dinámica de fluidos no lineales para explicar fenómenos de arrastre o medios dinámicos locales. Se tomó entonces un desvío pragmático: la Relatividad exilió el medio físico por completo. Se preservaron las impecables matemáticas de los campos variables, pero se obligó a las ondas a operar sobre un espacio puramente geométrico y vacío, un escenario abstracto despojado de su naturaleza mecánica original.
 
 **1.3 La crisis cuántica: Funciones, probabilidad y la pérdida de la Partícula**
 El tercer pilar matemático hizo su entrada al descender a la escala subatómica: las Funciones. Al encontrar comportamientos ondulatorios, la física cuántica se apoyó en la ecuación de onda de Schrödinger ($i\hbar\frac{\partial}{\partial t}\Psi=\hat{H}\Psi$). Inherente a cualquier onda mecánica es la perturbación de un fluido. Pero, al haber exiliado al medio en la etapa relativista anterior, la academia carecía de un sustrato material vibratorio.
