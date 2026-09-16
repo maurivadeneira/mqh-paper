@@ -139,7 +139,8 @@ Esta crisis nos indica de forma inequívoca que la matematización extrema, desp
 **1.5 El colapso cosmológico, las bajas aceleraciones y el sesgo epistemológico**
 Este andamiaje abstracto colapsó no solo en la microescala cuántica, sino también al enfrentarse a la macroescala. Al observar que las galaxias rotan con perfiles de velocidad anómalos, conservando una cohesión que sus masas visibles no podían justificar, los modelos gravitacionales estándar fallaron de forma estrepitosa. En lugar de revisar sus cimientos mecánicos, la física ortodoxa inventó la "materia oscura" y la "energía oscura", parámetros empíricos completamente indetectables que supuestamente componen el 95% del universo observable.
 
-Esto refleja un profundo sesgo epistemológico: la academia ha preferido rellenar el cosmos de fantasmas matemáticos e incertidumbre estadística antes que explorar otras posibilidades fundamentales. Se descartó, por ejemplo, la necesidad de reestructurar la clásica ley del inverso del cuadrado ($1/r^2$) de Newton, ignorando que la omisión de una dinámica dependiente de la escala —que contemple el régimen de bajas aceleraciones ($a_0$)— podría modificar completamente el comportamiento orbital en los bordes galácticos. Peor aún, se prefirió el misterio de la materia oscura antes que pensar en la existencia de un medio físico, continuo, estructurado e hiperdenso. Para dar un ejemplo: Formulación Matemática y la Expresión Completa de la Ley de Escala
+Esto refleja un profundo sesgo epistemológico: la academia ha preferido rellenar el cosmos de fantasmas matemáticos e incertidumbre estadística antes que explorar otras posibilidades fundamentales. Se descartó, por ejemplo, la necesidad de reestructurar la clásica ley del inverso del cuadrado ($1/r^2$) de Newton, ignorando que la omisión de una dinámica dependiente de la escala —que contemple el régimen de bajas aceleraciones ($a_0$)— podría modificar completamente el comportamiento orbital en los bordes galácticos. Peor aún, se prefirió el misterio de la materia oscura antes que pensar en la existencia de un medio físico, continuo, estructurado e hiperdenso. 
+Para dar un ejemplo: Formulación Matemática y la Expresión Completa de la Ley de Escala
 Para formalizar este comportamiento sin recurrir a masas invisibles, la deducción algebraica parte de redefinir la ley de la fuerza gravitacional introduciendo explícitamente la función de escala adimensional (
 μ
 ):
@@ -252,6 +253,7 @@ r
 /
 r
 ). Esto permite que el disco se mantenga cohesionado sin requerir materia oscura. Como veremos a continuación, donde la academia tradicional se estancó —tratando esto como un simple parche local— nuestro modelo demuestra que esta fuerza es el principio rector macro-arquitectónico.
+De esta forma pensamos, que tenemos realmente diferentes posibilidades de superar el estancamiento actual, o la crisis actual, que propondremos en el siguiente desarrollo. 
 
 Con este recuento histórico, hemos realizado un diagnóstico objetivo de la disciplina. Hemos observado cómo las urgencias del cálculo empujaron el discurso teórico hacia una matematización extrema y desprovista de sustancia, provocando la fractura actual entre la masa, los campos cuánticos y la gravedad. Llegados a este punto de ruptura, el diagnóstico está completo y el terreno ha sido despejado. Ya no es necesario forzar la estadística ni inventar partículas invisibles; es momento de presentar la solución geométrica y fluida.
 
