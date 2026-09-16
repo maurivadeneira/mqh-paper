@@ -40,9 +40,15 @@
 * 3.4 La Ley de Ampère-Maxwell (La Elasticidad de La Fuente).
 * 3.5 El Triunfo de la Mecánica.
 
-**4. Perspectivas Futuras y Conclusiones**
-* 4.1 La inercia y la gravedad como gradientes de presión fluida.
-* 4.2 La eliminación matemática de la materia oscura (cohesión galáctica).
+**4. La Tabla Periódica de los Vórtices (Reinterpretando el Modelo Estándar)**
+* 4.1 Leptones y Neutrinos: Armónicos y ondas de choque (cavitación).
+* 4.2 El Confinamiento de los Quarks como topología de nudos fluidos.
+* 4.3 Bosones: Desmitificando las partículas mensajeras (Fotones, W/Z y Gluones).
+* 4.4 La obsolescencia del Bosón de Higgs ante la inercia macroscópica.
+
+**5. Perspectivas Futuras y Conclusiones Cosmológicas**
+* 5.1 La inercia y la gravedad como gradientes de presión fluida.
+* 5.2 La eliminación matemática de la materia oscura (cohesión galáctica).
 
 ---
 
@@ -440,3 +446,30 @@ $$ \nabla \times \mathbf{B} = \mu_0 \mathbf{J} + \frac{1}{c^2} \frac{\partial \m
 
 **3.5 El Triunfo de la Mecánica (Conclusión del Capítulo)**
 Las ecuaciones de Maxwell nunca pertenecieron al vacío. Son, línea por línea, la descripción geométrica y cinemática de un fluido hiperdenso ($\rho_0 = 63,700 \text{ kg/m}^3$) siendo empujado, rotado y comprimido por estructuras toroidales. Al devolverle el sustrato material (La Fuente) a las matemáticas, la Mecánica Cuántica Hidrodinámica (MQH) no solo reconcilia el electromagnetismo con la gravedad (la inercia), sino que destierra para siempre el misticismo de las "acciones a distancia".
+
+# CAPÍTULO 4: La Tabla Periódica de los Vórtices (Reinterpretando el Modelo Estándar)
+
+El Modelo Estándar de la física de partículas es, indiscutiblemente, el modelo matemático más preciso jamás construido. Sin embargo, su éxito predictivo se basa en un catálogo de decenas de partículas "fundamentales" y fuerzas mediadas por bosones virtuales, careciendo de una ontología subyacente. Desde la perspectiva de la Mecánica Cuántica Hidrodinámica (MQH), este "zoológico de partículas" no es un conjunto de entidades distintas, sino una taxonomía exhaustiva de las diversas topologías, armónicos y tensiones que puede adoptar el fluido hiperdenso de *La Fuente*.
+
+**4.1 Leptones y Neutrinos: Armónicos y Ondas de Choque**
+Como se demostró en la sección de las 3 generaciones, la familia de los leptones masivos (Electrón, Muón y Tau) no está compuesta por partículas diferentes, sino por el mismo vórtice toroidal sometido a resonancias de armónicos superiores ($n=1, 2, 3$). 
+
+El Modelo Estándar postula la existencia de los *neutrinos* como partículas fantasmales, casi sin masa, que se emiten durante el decaimiento débil para conservar el momento. En la dinámica de fluidos de la MQH, el neutrino pierde su estatus de "partícula". Cuando un armónico superior (Muón o Tau) sufre cavitación debido al extremo estrés topológico, el vórtice colapsa violentamente hacia su estado base. La energía cinética confinada no desaparece; se libera como un pulso acústico direccional de altísima energía a través de *La Fuente*. El neutrino no es más que **la onda de choque transversal** producto de este evento de cavitación. Al carecer de vorticidad cerrada (no es un remolino continuo), no opone arrastre hidrodinámico sostenido; de ahí que su "masa" (inercia) medida experimentalmente sea prácticamente nula y no interactúe con el gradiente de presión (no tiene carga).
+
+**4.2 El Confinamiento de los Quarks como Topología de Nudos**
+El pilar de la física nuclear es que los protones y neutrones están compuestos por *quarks*. Sin embargo, la física ortodoxa enfrenta un problema empírico irresoluble: jamás se ha podido observar un quark aislado. A este fenómeno se le llamó "confinamiento del color". 
+
+La MQH ofrece una solución puramente euclidiana. En la mecánica de fluidos avanzada, los vórtices no se limitan a formar anillos simples (toroides de leptones); también pueden anudarse sobre sí mismos formando estructuras topológicas complejas, como un nudo de trébol. Bajo esta visión, un protón no es una bolsa que contiene tres esferas sólidas llamadas quarks; el protón es **un único vórtice anudado**, y los "quarks" son simplemente los tres bucles o curvas internas de ese mismo nudo topológico. 
+¿Por qué es imposible extraer un quark del protón? Porque es matemáticamente imposible aislar un bucle de un nudo continuo sin cortar el vórtice y destruir la estructura por completo. El confinamiento no es una fuerza misteriosa, es una restricción geométrica de los fluidos anudados.
+
+**4.3 Bosones: Desmitificando las Partículas Mensajeras**
+El Modelo Estándar exige que todas las fuerzas sean transmitidas por partículas mensajeras (bosones de gauge). Al recuperar el medio continuo, las "fuerzas a distancia" desaparecen, y los bosones se revelan como propiedades dinámicas del fluido:
+*   **El Fotón:** No es un proyectil corpuscular, sino la onda transversal estándar propagándose a través de la tensión elástica del fluido a la velocidad de la luz ($c = \sqrt{K/\rho_0}$).
+*   **Bosones W y Z (Fuerza Débil):** Se les atribuye una masa inmensa y son responsables del decaimiento radiactivo. En la MQH, no son partículas reales que "median" interacciones. Representan matemáticamente el **límite de fractura elástica (yield stress)** de *La Fuente*. Son la barrera de tensión cortante que el fluido debe superar para que un vórtice cavite o se transmute.
+*   **Gluones (Fuerza Fuerte):** Descritos como el "pegamento" de los quarks, en el modelo hidrodinámico representan las extremas presiones internas (convección local) que mantienen estable el nudo topológico del protón contra la repulsión de sus propios flujos de corriente.
+
+**4.4 La Obsolescencia del Bosón de Higgs ante la Inercia Macroscópica**
+El mecanismo de Higgs fue introducido para explicar cómo las partículas fundamentales adquieren masa a través de la fricción con un campo escalar que impregna el universo. Con la formalización de la MQH, este mecanismo se vuelve redundante y obsoleto. 
+
+Como se estableció analíticamente, el universo ya está permeado por un campo sustancial: *La Fuente*, con una densidad de $\rho_0 \approx 63,700 \text{ kg/m}^3$. La inercia (masa) no requiere de un bosón mediador; nace estrictamente de la mecánica clásica de fluidos, siendo el resultado directo del arrastre topológico de un vórtice cerrado moviéndose a través de este medio hiperdenso. El vacío no requiere "melaza cuántica" cuando ya es, axiomáticamente, un océano mecánico perfecto.
+
