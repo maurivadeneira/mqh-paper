@@ -473,3 +473,30 @@ El mecanismo de Higgs fue introducido para explicar cómo las partículas fundam
 
 Como se estableció analíticamente, el universo ya está permeado por un campo sustancial: *La Fuente*, con una densidad de $\rho_0 \approx 63,700 \text{ kg/m}^3$. La inercia (masa) no requiere de un bosón mediador; nace estrictamente de la mecánica clásica de fluidos, siendo el resultado directo del arrastre topológico de un vórtice cerrado moviéndose a través de este medio hiperdenso. El vacío no requiere "melaza cuántica" cuando ya es, axiomáticamente, un océano mecánico perfecto.
 
+# CAPÍTULO 5: Perspectivas Futuras y Conclusiones Cosmológicas
+
+Si la Mecánica Cuántica Hidrodinámica (MQH) ha demostrado que las partículas elementales son vórtices y el electromagnetismo es la cinemática de un fluido hiperdenso (*La Fuente*), el corolario lógico es que las fuerzas a escala cósmica —la inercia y la gravedad— deben emerger de la misma dinámica de fluidos macroscópica. Al escalar el modelo desde el femtómetro hasta el megapársec, la MQH elimina las dos aberraciones más grandes de la astrofísica contemporánea: la geometrización abstracta de la gravedad y la hipótesis de la materia oscura.
+
+**5.1 La Inercia y la Gravedad como Gradientes de Presión Fluida**
+La Relatividad General de Einstein fue un triunfo matemático, pero un retroceso ontológico. Al modelar la gravedad como la "curvatura del espacio-tiempo" ($G_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu}$), Einstein geometrizó el vacío, creando un modelo donde las masas se atraen siguiendo líneas geodésicas en una topología sin sustancia. Sin embargo, la propia ecuación de campo de Einstein revela su naturaleza incompleta: el tensor de energía-impulso ($T_{\mu\nu}$) es, en su forma fundamental, **el tensor de tensiones de un fluido perfecto**. 
+
+Bajo la MQH, la gravedad deja de ser una deformación del espacio vacío y se revela como un **gradiente de presión hidrodinámica**. 
+Como se estableció en los capítulos previos, la masa no es intrínseca, sino el arrastre topológico de un vórtice cerrado. Cada protón y neutrón (nudos de vórtices) en un planeta actúa como un sumidero de presión microscópico, consumiendo energía cinética local de *La Fuente*. Cuando miles de billones de estos vórtices se agrupan (formando una masa estelar o planetaria), crean una zona masiva de baja presión macroscópica.
+
+La gravedad, por tanto, es una fuerza de empuje, no de tracción. Los objetos no se "atraen" mágicamente a distancia; son empujados el uno hacia el otro por la inmensa presión externa del fluido hiperdenso ($\rho_0 \approx 63,700 \text{ kg/m}^3$) intentando llenar el déficit de presión generado por la materia. La clásica ley de la inversa del cuadrado ($1/r^2$) de Newton no es más que la consecuencia geométrica de cómo este gradiente de presión esférico se difunde tridimensionalmente en el medio a medida que nos alejamos del sumidero.
+
+**5.2 La Eliminación Matemática de la Materia Oscura (Cohesión Galáctica)**
+El mayor síntoma del colapso del paradigma actual es el problema de las curvas de rotación galáctica. Al observar las galaxias espirales, la astrofísica notó que las estrellas en los bordes giran demasiado rápido. Según las leyes de Newton y Einstein, deberían salir disparadas al espacio. Para salvar sus ecuaciones, la física ortodoxa inventó la "Materia Oscura": un halo masivo de partículas invisibles e indetectables que supuestamente aporta la gravedad extra para mantener la galaxia unida.
+
+La MQH descarta la materia oscura como un artefacto matemático (epiciclos modernos) nacido de aplicar leyes de cuerpos rígidos a un sistema fluido. Las anomalías en la velocidad de rotación galáctica no requieren materia invisible, sino la comprensión de la **dinámica dependiente de la escala** en un medio continuo.
+
+A escalas galácticas, estamos observando el comportamiento de vórtices macroscópicos. La cohesión de una galaxia no está dictada por una suma newtoniana de masas puntuales, sino por la macro-vorticidad del fluido base. Cuando modelamos la galaxia como un remolino gigante en *La Fuente*, las modificaciones a la dinámica de fuerzas (como las variaciones en la clásica fuerza dependiente de $1/r$) surgen naturalmente de las ecuaciones de Navier-Stokes aplicadas a discos de acreción en fluidos hiperdensos. 
+
+Las velocidades orbitales "anómalamente altas" en las periferias galácticas son exactamente el perfil de velocidades esperado en un vórtice fluido sostenido por la inercia constante del medio ($\rho_0$). La galaxia no se desintegra porque está cohesivamente unida por la misma mecánica de fluidos que mantiene estable al electrón, operando bajo leyes de escalamiento fractal. 
+
+**Conclusión General**
+La física del siglo XX sacrificó el sentido común y la causalidad mecánica en el altar del pragmatismo estadístico. Inventó un universo esquizofrénico donde lo microscópico es un juego de dados probabilístico, lo macroscópico es una sábana geométrica curvada, y el 95% del cosmos está hecho de materia y energía oscuras que nadie ha visto.
+
+La Mecánica Cuántica Hidrodinámica (MQH) devuelve la física a sus raíces deterministas. Con un solo postulado físico innegable —la existencia de *La Fuente* como un medio fluido continuo, incompresible y dotado de inercia—, este modelo ha deducido analíticamente la densidad del vacío, ha explicado la naturaleza inercial de la masa, ha resuelto el misterio de las 3 generaciones por cavitación, ha unificado las leyes del electromagnetismo de Maxwell y ha eliminado la necesidad de la materia oscura.
+
+El universo no es un vacío estadístico; es el océano de fluidos perfecto. Y la materia, desde el electrón hasta las galaxias, no es más que la majestuosa geometría de su turbulencia.
