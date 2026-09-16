@@ -22,17 +22,27 @@
   * 1.3.2 La Relatividad General y la ironía del Tensor $T_{\mu\nu}$.
   * 1.3.3 El éxito orbital frente a la singularidad cosmológica.
 * 1.4 La crisis cuántica: Funciones, probabilidad y la pérdida de la Partícula.
+  * 1.4.1 El continuo de Planck frente a la invención de la discontinuidad.
 * 1.5 El colapso cosmológico y el sesgo epistemológico.
 
 **2. La Solución: Mecánica Cuántica Hidrodinámica (MQH)**
-* 2.1 Definición del medio continuo hiperdenso.
+* 2.1 El Diccionario de Equivalencias y la transición ontológica.
 * 2.2 Geometría subatómica: El electrón como vórtice toroidal.
-* 2.3 Fatiga de material y cavitación (la vida media del muón).
-* 2.4 La ecuación armónica de vórtices frente a los parámetros libres.
+* 2.3 La Ecuación del Vórtice y la derivación analítica de la Densidad Base ($\rho_0$).
+* 2.4 El Reto Empírico: Las 3 Generaciones y la Autopsia Topológica del Decaimiento.
+* 2.5 El Aporte Original de la MQH: Más allá de la Hidrodinámica Cuántica.
+* 2.6 Síntesis Axiomática: Las Ecuaciones Fundamentales de La Fuente.
 
-**3. Perspectivas Futuras y Conclusiones**
-* 3.1 La inercia y la gravedad como gradientes de presión fluida.
-* 3.2 La eliminación matemática de la materia oscura.
+**3. La Unificación Electromagnética (De Navier-Stokes a Maxwell)**
+* 3.1 La Identidad Matemática del Fluido.
+* 3.2 Derivación de las Leyes "Sin Fuentes" (Gauss Magnético y Faraday).
+* 3.3 La Ley de Gauss para la Electricidad (El Origen Hidrodinámico de la Carga).
+* 3.4 La Ley de Ampère-Maxwell (La Elasticidad de La Fuente).
+* 3.5 El Triunfo de la Mecánica.
+
+**4. Perspectivas Futuras y Conclusiones**
+* 4.1 La inercia y la gravedad como gradientes de presión fluida.
+* 4.2 La eliminación matemática de la materia oscura (cohesión galáctica).
 
 ---
 
