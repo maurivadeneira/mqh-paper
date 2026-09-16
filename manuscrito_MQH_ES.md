@@ -92,12 +92,15 @@ Del mismo modo en que la física normalizó una singularidad sin volumen para ex
 ### 1.4 La crisis cuántica: Del parche matemático al callejón del Modelo Estándar
 El tercer pilar matemático hizo su entrada triunfal al intentar descifrar la escala subatómica. Sin embargo, al igual que ocurrió en las etapas clásicas y relativistas, la física cuántica construyó su andamiaje sobre soluciones pragmáticas impulsadas por la urgencia del cálculo. La evolución de sus ecuaciones muestra cómo la ciencia fue ganando una precisión predictiva asombrosa, pero a costa de sacrificar, paso a paso, la estructura física de la materia.
 
-**1.4.1 Planck y la invención de $h$: El origen industrial**
+**1.4.1 Planck y la invención de $h$: El origen industrial y la fractura del continuo**
 El origen de la cuántica no fue una indagación filosófica, sino un problema de ingeniería. A finales del siglo XIX, la industria alemana necesitaba optimizar las bombillas incandescentes, pero las ecuaciones clásicas fracasaban al predecir la radiación térmica (la llamada "catástrofe ultravioleta"). 
 
 Para forzar a que la matemática coincidiera con los datos de las fábricas, Max Planck introdujo en 1900 un atajo heurístico. Propuso que la energía no se emitía de forma continua, sino en "paquetes" discretos, vinculando la energía a la frecuencia mediante una nueva constante: 
 $E = h\nu$
-Planck dejó documentado que consideraba este "cuanto" de acción ($h$) como un truco matemático de emergencia. Sin embargo, la física posterior tomó este parche metodológico y lo elevó a dogma fundamental, asumiendo que el universo operaba a saltos discontinuos y fracturando la noción de un medio continuo.
+
+Es vital comprender la magnitud del malentendido histórico que ocurrió aquí. Planck era un defensor del medio continuo; para él, este "cuanto" de acción era un truco matemático de emergencia aplicable únicamente al *mecanismo de emisión*. Es decir, la materia liberaba energía a saltos (como una válvula que libera presión en ráfagas), pero la energía misma viajaba a través de un sustrato continuo. 
+
+Sin embargo, la física posterior tergiversó este modelo: al observar que la energía se emitía y absorbía en "gotas" (fotones), decretaron que el espacio y la energía misma estaban inherentemente rotos y cuantizados. Para ilustrar este error conceptual, basta pensar en la mecánica de un grifo: el agua es inherentemente un fluido continuo, pero bajo ciertas condiciones de presión, se emite en "paquetes discretos" (gotas). La física ortodoxa observó las gotas subatómicas y concluyó, de forma precipitada, que el fluido no existía; asumió que el universo entero estaba construido por "píxeles" inconexos, elevando un atajo de emisión al dogma fundamental que destruyó la noción del medio hidrodinámico en el siglo XX.
 
 **1.4.2 Schrödinger y la probabilidad: Ondas sin medio**
 Décadas más tarde, al descubrirse que entidades como el electrón exhibían claros comportamientos ondulatorios, la disciplina se apoyó en la mecánica ondulatoria. Erwin Schrödinger formuló su célebre ecuación para describir la evolución temporal de estas ondas:
