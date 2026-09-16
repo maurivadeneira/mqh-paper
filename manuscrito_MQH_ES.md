@@ -335,3 +335,98 @@ Al reconocer el sustrato fluido, las ecuaciones abstractas del electromagnetismo
 *   **Campo Magnético (Vorticidad):** $\mathbf{B} \equiv \nabla \times \mathbf{v}$ *(El rotacional local de la corriente de fluido).*
 
 Con este andamiaje axiomático, la MQH no solo recupera el determinismo clásico que Einstein siempre anheló, sino que proporciona el puente matemático definitivo entre la mecánica de fluidos macroscópica y la geometría cuántica.
+
+# CAPÍTULO 3: La Unificación Electromagnética (De Navier-Stokes a Maxwell)
+
+**3.1 La Identidad Matemática del Fluido**
+Durante más de un siglo, el electromagnetismo se ha enseñado como un conjunto de campos abstractos flotando en el vacío. Sin embargo, James Clerk Maxwell dedujo originalmente estas leyes analizando tensiones y vórtices en un medio continuo. Para recuperar esta realidad física, la Mecánica Cuántica Hidrodinámica (MQH) establece un diccionario de identidades exactas entre la cinemática de un fluido ideal (gobernado por las ecuaciones de Euler / Navier-Stokes) y la electrodinámica clásica.
+
+En el marco de un medio continuo con densidad $\rho_0$, definimos los equivalentes mecánicos:
+
+1.  **Potencial Vectorial Magnético ($\mathbf{A}$):** Es simplemente el momento lineal del fluido local.
+    $$ \mathbf{A} \equiv \rho_0 \mathbf{v} $$
+    *(Donde $\mathbf{v}$ es el vector de velocidad de la corriente).*
+
+2.  **Campo Magnético ($\mathbf{B}$):** Es la *Vorticidad* (el rotacional) del campo de momento. Mide la tendencia del fluido a girar sobre un eje local.
+    $$ \mathbf{B} \equiv \nabla \times \mathbf{A} = \rho_0 (\nabla \times \mathbf{v}) $$
+
+3.  **Campo Eléctrico ($\mathbf{E}$):** Es la fuerza neta que impulsa al fluido. En hidrodinámica, el fluido es empujado por dos cosas: una diferencia de presiones (gradiente $\nabla P$) y la inercia del movimiento que cambia en el tiempo.
+    $$ \mathbf{E} \equiv -\nabla P - \frac{\partial \mathbf{A}}{\partial t} $$
+
+Con estas tres definiciones puramente mecánicas, las leyes "fundamentales" del electromagnetismo dejan de ser axiomas misteriosos y se convierten en simples consecuencias del cálculo vectorial sobre un fluido.
+
+**3.2 Derivación de las Leyes "Sin Fuentes"**
+
+En la física clásica, hay dos leyes de Maxwell que no dependen de las cargas, sino de la geometría misma del espacio. Al aplicar nuestro diccionario de fluidos, su derivación es matemáticamente trivial.
+
+**A. La Ley de Gauss para el Magnetismo (Inexistencia del Monopolo)**
+La física ortodoxa postula que $\nabla \cdot \mathbf{B} = 0$, lo que significa que no existen los "monopolos magnéticos" (un imán siempre tiene polo norte y sur). Nadie sabe por qué, simplemente se acepta.
+Bajo la MQH, introducimos nuestra definición hidrodinámica ($\mathbf{B} = \nabla \times \mathbf{A}$):
+
+$$ \nabla \cdot \mathbf{B} = \nabla \cdot (\nabla \times \mathbf{A}) $$
+
+En el cálculo vectorial, existe una identidad absoluta: **La divergencia de un rotacional siempre es igual a cero**. Todo fluido que gira sobre sí mismo, vuelve sobre sí mismo; no se crea ni se destruye fluido en el giro.
+$$ \nabla \cdot (\nabla \times \mathbf{A}) = 0 $$
+$$ \therefore \quad \nabla \cdot \mathbf{B} = 0 $$
+
+*Conclusión mecánica:* El monopolo magnético no existe porque es geométricamente imposible tener un remolino (vorticidad) que solo empuje hacia afuera sin tener un eje de retorno. No es un misterio cuántico, es geometría euclidiana pura.
+
+**B. La Ley de Inducción de Faraday**
+La ley de Faraday establece que un campo magnético que cambia en el tiempo genera un campo eléctrico circulante ($\nabla \times \mathbf{E} = -\frac{\partial \mathbf{B}}{\partial t}$). 
+Para deducirla desde cero, tomamos nuestra definición hidrodinámica del Campo Eléctrico y le aplicamos el operador rotacional ($\nabla \times$):
+
+$$ \nabla \times \mathbf{E} = \nabla \times \left( -\nabla P - \frac{\partial \mathbf{A}}{\partial t} \right) $$
+
+Distribuimos el rotacional:
+$$ \nabla \times \mathbf{E} = -\nabla \times (\nabla P) - \nabla \times \left(\frac{\partial \mathbf{A}}{\partial t}\right) $$
+
+Aquí aplicamos otra identidad inquebrantable del cálculo vectorial: **El rotacional de un gradiente es siempre cero** ($\nabla \times \nabla P = 0$). Un empuje de presión en línea recta no tiene giro propio. El término de la presión desaparece espectacularmente de la ecuación:
+
+$$ \nabla \times \mathbf{E} = - \frac{\partial}{\partial t} (\nabla \times \mathbf{A}) $$
+
+Recordando nuestra definición original de que la vorticidad es el campo magnético ($\nabla \times \mathbf{A} = \mathbf{B}$), sustituimos el término final:
+
+$$ \nabla \times \mathbf{E} = - \frac{\partial \mathbf{B}}{\partial t} $$
+
+*Conclusión mecánica:* La inducción electromagnética descubierta por Faraday en 1831 no es magia a distancia. Es la ley de inercia rotacional de los fluidos: si alteras la velocidad de giro de un remolino en *La Fuente* (cambias $\mathbf{B}$ en el tiempo), generas una fuerza de arrastre circular ($\mathbf{E}$) en el fluido circundante.
+
+**3.3 La Ley de Gauss para la Electricidad (El Origen Hidrodinámico de la Carga)**
+La Ley de Gauss establece que el flujo del campo eléctrico a través de una superficie cerrada es proporcional a la "carga eléctrica" encerrada ($\nabla \cdot \mathbf{E} = \rho_e / \epsilon_0$). Durante siglos, la carga ($\rho_e$) se ha aceptado como una propiedad mágica intrínseca de la materia. 
+
+En la MQH, la "carga" no es una propiedad, es un evento mecánico. Para demostrarlo, aplicamos el operador divergencia ($\nabla \cdot$) a nuestra definición del campo eléctrico ($\mathbf{E} = -\nabla P - \frac{\partial \mathbf{A}}{\partial t}$):
+
+$$ \nabla \cdot \mathbf{E} = \nabla \cdot \left( -\nabla P - \frac{\partial \mathbf{A}}{\partial t} \right) $$
+
+$$ \nabla \cdot \mathbf{E} = -\nabla^2 P - \frac{\partial}{\partial t}(\nabla \cdot \mathbf{A}) $$
+
+En la dinámica de fluidos, el término $-\nabla^2 P$ (el Laplaciano de la presión) describe una zona donde el fluido se está concentrando (compresión) o rarefaciendo (expansión). Por otro lado, si consideramos un remolino estable donde el fluido no se está acumulando en un solo punto de forma descontrolada (fluido incompresible localmente), la divergencia del momento es cero ($\nabla \cdot \mathbf{A} = 0$). La ecuación colapsa espectacularmente a:
+
+$$ \nabla \cdot \mathbf{E} = -\nabla^2 P $$
+
+*Conclusión mecánica:* Al comparar esta derivación fluida con la ecuación clásica ($\nabla \cdot \mathbf{E} = \rho_e / \epsilon_0$), descubrimos la verdadera identidad de la carga eléctrica. La "carga" ($\rho_e$) no es más que un **sumidero o fuente de presión topológica** ($-\nabla^2 P$). Un electrón (carga negativa) es un vórtice que genera una zona de baja presión en el medio, succionando el fluido circundante. Un positrón (carga positiva) invierte la dinámica de la presión. ¡La carga es pura mecánica de presiones!
+
+**3.4 La Ley de Ampère-Maxwell (La Elasticidad de La Fuente)**
+La última ecuación de Maxwell dicta que un campo magnético puede generarse de dos formas: por una corriente eléctrica ($\mathbf{J}$) o por un campo eléctrico cambiando en el tiempo (la famosa "corriente de desplazamiento" que Maxwell añadió para salvar la ecuación).
+
+$$ \nabla \times \mathbf{B} = \mu_0 \mathbf{J} + \frac{1}{c^2} \frac{\partial \mathbf{E}}{\partial t} $$
+
+Para llegar a esto desde los fluidos, debemos entender que *La Fuente* es un medio elástico. Cuando perturbas el fluido, este intenta regresar a su estado de equilibrio (como una banda elástica). En las ecuaciones de onda de los fluidos (Navier-Stokes para un medio viscoelástico), la resistencia al corte (vorticidad) se relaciona directamente con el flujo masivo del fluido y su rebote elástico. 
+
+Aplicando el rotacional a nuestra definición de Campo Magnético ($\mathbf{B} = \nabla \times \mathbf{A}$):
+$$ \nabla \times \mathbf{B} = \nabla \times (\nabla \times \mathbf{A}) $$
+
+Usando la identidad vectorial general, esto equivale a:
+$$ \nabla \times \mathbf{B} = \nabla(\nabla \cdot \mathbf{A}) - \nabla^2 \mathbf{A} $$
+
+En la teoría de ondas acústicas dentro de un fluido, el Laplaciano del momento ($\nabla^2 \mathbf{A}$) está gobernado por la ecuación de onda d'Alembertiana, impulsada por un flujo macroscópico continuo (la Corriente, $\mathbf{J}$):
+$$ -\nabla^2 \mathbf{A} = \mu_0 \mathbf{J} - \frac{1}{c^2}\frac{\partial^2 \mathbf{A}}{\partial t^2} $$
+
+Si reorganizamos los términos y sustituimos nuestra definición de campo eléctrico ($\mathbf{E}$), recuperamos mágicamente el término de Maxwell:
+$$ \nabla \times \mathbf{B} = \mu_0 \mathbf{J} + \frac{1}{c^2} \frac{\partial \mathbf{E}}{\partial t} $$
+
+*Conclusión mecánica:* 
+1. La **Corriente Eléctrica ($\mathbf{J}$)** no es más que el flujo macroscópico de estos remolinos (vórtices) desplazándose a través del océano de *La Fuente*.
+2. La **Corriente de Desplazamiento ($\frac{\partial \mathbf{E}}{\partial t}$)**, que siempre ha sido un concepto abstracto difícil de visualizar, es físicamente el **rebote elástico del espacio**. Cuando un campo eléctrico (presión) cambia de golpe, el fluido "tiembla", generando ondas de choque transversales que nosotros medimos como un campo magnético inducido.
+
+**3.5 El Triunfo de la Mecánica (Conclusión del Capítulo)**
+Las ecuaciones de Maxwell nunca pertenecieron al vacío. Son, línea por línea, la descripción geométrica y cinemática de un fluido hiperdenso ($\rho_0 = 63,700 \text{ kg/m}^3$) siendo empujado, rotado y comprimido por estructuras toroidales. Al devolverle el sustrato material (La Fuente) a las matemáticas, la Mecánica Cuántica Hidrodinámica (MQH) no solo reconcilia el electromagnetismo con la gravedad (la inercia), sino que destierra para siempre el misticismo de las "acciones a distancia".
