@@ -412,22 +412,27 @@ Con este andamiaje axiomático, la MQH no solo recupera el determinismo clásico
 **CAPÍTULO 3: La Unificación Electromagnética (De Navier-Stokes a Maxwell)**
 
 **3.1 La Identidad Matemática del Fluido**
+
 Durante más de un siglo, el electromagnetismo se ha enseñado como un conjunto de campos abstractos flotando en el vacío. Sin embargo, James Clerk Maxwell dedujo originalmente estas leyes analizando tensiones y vórtices en un medio continuo. Para recuperar esta realidad física, la Mecánica Cuántica Hidrodinámica (MQH) establece un diccionario de identidades exactas entre la cinemática de un fluido ideal (gobernado por las ecuaciones de Euler / Navier-Stokes) y la electrodinámica clásica.
 
 En el marco de un medio continuo con densidad $\rho_0$, definimos los equivalentes mecánicos:
 
 * **Potencial Vectorial Magnético ($\mathbf{A}$):** Es simplemente el momento lineal del fluido local.
+
 $$
 \mathbf{A} \equiv \rho_0 \mathbf{v}
 $$
+
 *(Donde $\mathbf{v}$ es el vector de velocidad de la corriente).*
 
 * **Campo Magnético ($\mathbf{B}$):** Es la Vorticidad (el rotacional) del campo de momento. Mide la tendencia del fluido a girar sobre un eje local.
+
 $$
 \mathbf{B} \equiv \nabla \times \mathbf{A} = \rho_0 (\nabla \times \mathbf{v})
 $$
 
 * **Campo Eléctrico ($\mathbf{E}$):** Es la fuerza neta que impulsa al fluido. En hidrodinámica, el fluido es empujado por dos cosas: una diferencia de presiones (gradiente $\nabla P$) y la inercia del movimiento que cambia en el tiempo.
+
 $$
 \mathbf{E} \equiv -\nabla P - \frac{\partial \mathbf{A}}{\partial t}
 $$
