@@ -59,9 +59,8 @@
 
 ## DESARROLLO
 
-### 1. Diagnóstico del Estado del Arte: Desde Newton a La Crisis del Modelo Estándar
-
 **1.1 La Fuerza, la Masa y el triunfo de la mecánica clásica**
+
 El desarrollo histórico de la física moderna puede rastrearse a través de la evolución de las herramientas matemáticas que buscaron definir la realidad. El primer gran hito fue la matematización de la Fuerza ($F$), consolidada en la mecánica clásica. Mediante la segunda ley de Newton ($F=ma$) y la gravitación universal ($F=G\frac{m_1m_2}{r^2}$), la ciencia logró calcular órbitas y trayectorias con una precisión sin precedentes.
 
 Sin embargo, para lograr esta operabilidad, la mecánica clásica calculó los efectos de la masa impecablemente, pero la trató como un axioma: un "dato dado". Además, las ecuaciones describían fuerzas operando a través del vacío sin un mecanismo de transmisión físico (la "acción a distancia"). 
@@ -69,6 +68,10 @@ Sin embargo, para lograr esta operabilidad, la mecánica clásica calculó los e
 Es vital comprender el contexto de esta omisión. La ciencia clásica emergía de siglos de fuerte dogmatismo religioso. En aquel entonces, la noción de un "éter" o sustancia primigenia arrastraba una profunda carga teológica y filosófica, resultando incómoda para un método científico que luchaba por su emancipación objetiva. Careciendo de un modelo atómico moderno y con la observación restringida estrictamente a la escala macroscópica (la dinámica entre la Tierra, la Luna y el Sol), la física concentró sus esfuerzos en los cuerpos másicos tangibles. 
 
 Como resultado, la época aceptó una limitación pragmática: el éter fue despojado de cualquier propiedad hidrodinámica medible y quedó reducido a un simple andamiaje geométrico, un sistema de coordenadas absolutas e inertes que servía como telón de fondo para el universo. Las fórmulas funcionaban, y el vacío se aceptó temporalmente, dejando la búsqueda de un medio continuo real para el siguiente salto evolutivo.
+
+**La bifurcación matemática y el lenguaje de los fluidos**
+
+Cuando la física de principios del siglo XX hizo a un lado la noción del éter para abrazar el concepto del vacío, se produjo una bifurcación natural en el desarrollo de las herramientas matemáticas. Por un lado, la física teórica se volcó hacia la probabilidad, el álgebra matricial y la geometría abstracta para modelar su nuevo entorno sin sustrato. Paralelamente, el mundo práctico de la ingeniería y la física macroscópica tenía urgencias tangibles; necesitaban calcular el comportamiento de los líquidos y los gases. Fue en este frente pragmático donde maduró de forma extraordinaria la Mecánica de Medios Continuos y las ecuaciones de Navier-Stokes (1822-1845). Sin embargo, debido a su inmenso éxito industrial y terrenal, este sofisticado lenguaje matemático pasó prácticamente desapercibido para la física fundamental. Al haberse descartado la existencia de una sustancia primigenia, la física teórica simplemente no consideró que la mecánica desarrollada para comprender el agua o la aerodinámica albergara algo importante para describir la estructura íntima del universo.
 
 **1.2 Los Campos y la síntesis de Maxwell: El fluido que se volvió vacío**
 Para resolver la acción a distancia, el siglo XIX introdujo el segundo gran pilar: los Campos. Michael Faraday intuyó líneas de fuerza físicas en el espacio, y James Clerk Maxwell se encargó de matematizarlas. Es un hecho histórico crucial que Maxwell no derivó sus ecuaciones pensando en un vacío abstracto. En su publicación de 1865, formuló **20 ecuaciones** basadas en la mecánica de fluidos, utilizando cuaterniones para modelar explícitamente las tensiones y los vórtices mecánicos de un medio continuo (el éter).
