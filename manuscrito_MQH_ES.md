@@ -369,27 +369,43 @@ El aporte original y la ruptura histórica de la MQH no radica en inventar la di
 Tal como Albert Einstein tomó las transformaciones matemáticas de Lorentz (quien creía que la contracción del espacio-tiempo era una ilusión óptica) y les otorgó una realidad física fundamental, la MQH toma las ecuaciones del electromagnetismo y los fluidos y les devuelve su materialidad. No estamos ante un modelo probabilístico; estamos ante la ingeniería mecánica del universo.
 
 **2.6 Síntesis Axiomática: Las Ecuaciones Fundamentales de La Fuente**
+
 Habiendo despojado a la física de partículas de sus parámetros libres y nubes estadísticas, la Mecánica Cuántica Hidrodinámica (MQH) consolida su marco teórico en un conjunto de ecuaciones deterministas. Todo fenómeno subatómico, electromagnético y másico en el universo observable emerge de las siguientes leyes que gobiernan nuestro medio continuo:
 
 **I. La Ecuación de Estado (Densidad Universal)**
 El espacio no es un ente geométrico vacío, sino un fluido hiperdenso. Su inercia base ($\rho_0$) dicta la constante de resistencia a la que se somete cualquier deformación topológica:
-$$ \rho_0 = \frac{2 m_e^3 c^2}{h^2 R_e} \approx 63,700 \text{ kg/m}^3 $$
+
+$$
+\rho_0 = \frac{2 m_e^3 c^2}{h^2 R_e} \approx 63,700 \text{ kg/m}^3
+$$
 
 **II. La Cinemática del Fluido (Límite Elástico)**
-La velocidad de la luz ($c$) pierde su misticismo relativista para definirse estrictamente como la *velocidad del sonido* dentro de La Fuente. Es el límite máximo de propagación de una onda mecánica transversal a través del medio:
-$$ v_{max} = c = \sqrt{\frac{K}{\rho_0}} $$
-*(Donde $K$ representa el módulo de incompresibilidad del fluido).*
+La velocidad de la luz ($c$) pierde su misticismo relativista para definirse estrictamente como la velocidad del sonido dentro de La Fuente. Es el límite máximo de propagación de una onda mecánica transversal a través del medio:
+
+$$
+v_{max} = c = \sqrt{\frac{K}{\rho_0}}
+$$
+
+(Donde $K$ representa el módulo de incompresibilidad del fluido).
 
 **III. La Ecuación Topológica de la Materia (Cuantización)**
 La materia no es fundamental; es un estado de resonancia del fluido. La existencia de un fermión requiere que el fluido circule ($\Gamma$) en órbitas cerradas dictadas por la tensión de corte ($h$):
-$$ \Gamma_n = \frac{n \cdot h}{m_n} $$
+
+$$
+\Gamma_n = \frac{n \cdot h}{m_n}
+$$
+
 Cuyo bloqueo topológico y decaimiento por cavitación está gobernado por el estrés logarítmico:
-$$ \ln\left(\frac{8R_n}{r_n}\right) = \frac{1}{n^3} \left(\frac{m_n}{m_e}\right)^4 $$
+
+$$
+\ln\left(\frac{8R_n}{r_n}\right) = \frac{1}{n^3} \left(\frac{m_n}{m_e}\right)^4
+$$
 
 **IV. La Identidad de Maxwell - Navier-Stokes (El Electromagnetismo)**
 Al reconocer el sustrato fluido, las ecuaciones abstractas del electromagnetismo clásico se revelan como casos particulares de las ecuaciones de Navier-Stokes para un medio continuo. Los campos vectoriales se traducen a hidrodinámica pura:
-*   **Campo Eléctrico (Presión):** $\mathbf{E} \equiv \nabla P$ *(El gradiente de presión empujando el fluido).*
-*   **Campo Magnético (Vorticidad):** $\mathbf{B} \equiv \nabla \times \mathbf{v}$ *(El rotacional local de la corriente de fluido).*
+
+* **Campo Eléctrico (Presión):** $\mathbf{E} \equiv \nabla P$ (El gradiente de presión empujando el fluido).
+* **Campo Magnético (Vorticidad):** $\mathbf{B} \equiv \nabla \times \mathbf{v}$ (El rotacional local de la corriente de fluido).
 
 Con este andamiaje axiomático, la MQH no solo recupera el determinismo clásico que Einstein siempre anheló, sino que proporciona el puente matemático definitivo entre la mecánica de fluidos macroscópica y la geometría cuántica.
 
