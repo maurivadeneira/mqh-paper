@@ -143,23 +143,26 @@ Sin embargo, en lugar de abrazar la idea de un medio continuo (el mar), la físi
 Este rechazo del medio consolidó un absurdo aún mayor: el *espín*. Las matemáticas de Dirac exigían que el electrón tuviera un momento angular intrínseco (como un trompo girando). Pero bajo el dogma de que el electrón es un "punto" de radio cero, es mecánicamente imposible que rote. En lugar de devolverle el volumen físico a la partícula para explicar su rotación (como ocurriría naturalmente en un vórtice de fluido), la física ortodoxa decretó que el espín era una propiedad "puramente cuántica", una rotación fantasma sin tamaño real.
 
 **1.4.4 El Modelo Estándar: El zoológico de partículas y la crisis actual**
-A mediados del siglo XX, al colisionar átomos a altas energías, los físicos rompieron los núcleos y descubrieron docenas de subpartículas efímeras, revelando dos fuerzas inéditas: la nuclear fuerte (que une los núcleos) y la nuclear débil (responsable de la radiación). Para amarrar todo esto sin un fluido base, construyeron la Teoría Cuántica de Campos (QFT) y su obra cumbre: el Lagrangiano del Modelo Estándar ($\mathcal{L}_{SM}$).
 
-Lejos de ser una fórmula unificadora y elegante, esta ecuación es un monumental ensamblaje de cuatro bloques matemáticos:
-$\mathcal{L}_{SM} = \mathcal{L}_{gauge} + \mathcal{L}_{fermion} + \mathcal{L}_{Higgs} + \mathcal{L}_{Yukawa}$
+A mediados del siglo XX, al colisionar átomos a altas energías, los físicos rompieron los núcleos y descubrieron docenas de subpartículas efímeras, revelando dos fuerzas inéditas: la nuclear fuerte (que une los núcleos) y la nuclear débil (responsable de la radiación). Para amarrar todo esto sin un fluido base, construyeron la Teoría Cuántica de Campos (QFT) y su obra cumbre: el Lagrangiano del Modelo Estándar (LSM).
+
+Lejos de ser una fórmula unificadora y elegante, esta ecuación es un monumental ensamblaje de cuatro bloques matemáticos: 
+
+$$ \mathcal{L}_{SM} = \mathcal{L}_{gauge} + \mathcal{L}_{fermion} + \mathcal{L}_{Higgs} + \mathcal{L}_{Yukawa} $$
 
 En conjunto, estos bloques catalogan el universo en 17 partículas fundamentales, divididas rigurosamente en dos bandos: los Bosones (portadores de fuerza) y los Fermiones (partículas de materia).
 
 Los Bosones son 4: el fotón (electromagnetismo), el gluón (fuerza fuerte) y los bosones W y Z (fuerza débil). A estos se suma el solitario Bosón de Higgs, añadido en el bloque $\mathcal{L}_{Higgs}$ para actuar como un "freno" cósmico que le otorga masa a las demás partículas puntuales.
 
 Pero es en los Fermiones, descritos en $\mathcal{L}_{fermion}$, donde el modelo revela su ceguera estructural. La materia se agrupa en 12 partículas, organizadas misteriosamente en tres "generaciones" o familias:
-1. **Primera generación:** Contiene al electrón, al neutrino electrónico y a los quarks *Up* y *Down*. Estas cuatro partículas son estables y conforman toda la materia ordinaria del universo observable.
-2. **Segunda y Tercera generación:** Aquí reside el enigma. El modelo revela la existencia de partículas idénticas a las de la primera generación, pero absurdamente más masivas y violentamente inestables. Por ejemplo, el muón (segunda generación) es idéntico al electrón, pero pesa 207 veces más y se desintegra en microsegundos. El quark *Top* (tercera generación) pesa casi lo mismo que un átomo entero de oro, a pesar de ser teóricamente un "punto" sin volumen.
 
-Es aquí donde el bloque final de la ecuación, los Acoplamientos de Yukawa ($\mathcal{L}_{Yukawa}$), actúa como un parche empírico. Al aferrarse a que todas estas partículas son "puntos matemáticos", el modelo carece de una geometría de fluidos que diferencie estructuralmente a un electrón de un muón. No sabe *por qué* el muón pesa 207 veces más. Como resultado, la teoría no puede deducir sus masas analíticamente; exige que los científicos midan los pesos en los colisionadores y los inserten a mano en la ecuación (los famosos "parámetros libres").
+* **Primera generación:** Contiene al electrón, al neutrino electrónico y a los quarks Up y Down. Estas cuatro partículas son estables y conforman toda la materia ordinaria del universo observable.
+* **Segunda y Tercera generación:** Aquí reside el enigma. El modelo revela la existencia de partículas idénticas a las de la primera generación, pero absurdamente más masivas y violentamente inestables. Por ejemplo, el muón (segunda generación) es idéntico al electrón, pero pesa 207 veces más y se desintegra en microsegundos. El quark Top (tercera generación) pesa casi lo mismo que un átomo entero de oro, a pesar de ser teóricamente un "punto" sin volumen.
 
-**¿Dónde estamos parados hoy?**
-Hoy, la física teórica se encuentra en un callejón sin salida. Posee un Modelo Estándar que es la teoría más precisa jamás creada para predecir interacciones microscópicas, pero que es conceptualmente hueca. Sabemos que existen 17 partículas, pero ignoramos por qué la naturaleza se replica en tres generaciones de masas crecientes. Tratamos a la materia como puntos sin volumen que giran mágicamente, no podemos explicar la inercia sin recurrir a más de 20 parámetros empíricos, y la matemática entera es incompatible con la gravedad de Einstein. 
+Es aquí donde el bloque final de la ecuación, los Acoplamientos de Yukawa ($\mathcal{L}_{Yukawa}$), actúa como un parche empírico. Al aferrarse a que todas estas partículas son "puntos matemáticos", el modelo carece de una geometría de fluidos que diferencie estructuralmente a un electrón de un muón. No sabe por qué el muón pesa 207 veces más. Como resultado, la teoría no puede deducir sus masas analíticamente; exige que los científicos midan los pesos en los colisionadores y los inserten a mano en la ecuación (los famosos "parámetros libres").
+
+**¿Dónde estamos parados hoy?** 
+Hoy, la física teórica se encuentra en un callejón sin salida. Posee un Modelo Estándar que es la teoría más precisa jamás creada para predecir interacciones microscópicas, pero que es conceptualmente hueca. Sabemos que existen 17 partículas, pero ignoramos por qué la naturaleza se replica en tres generaciones de masas crecientes. Tratamos a la materia como puntos sin volumen que giran mágicamente, no podemos explicar la inercia sin recurrir a más de 20 parámetros empíricos, y la matemática entera es incompatible con la gravedad de Einstein.
 
 Esta crisis nos indica de forma inequívoca que la matematización extrema, despojada de una mecánica de fluidos continua, ha alcanzado su frontera absoluta. La respuesta no reside en añadir más dimensiones invisibles ni nuevos parches algebraicos, sino en devolverle al universo su sustrato material: comprender las partículas no como puntos probabilísticos, sino como vórtices estructurados dentro de un fluido hiperdenso.
 
