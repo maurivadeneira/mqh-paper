@@ -302,13 +302,14 @@ $$ \rho_0 \approx 63,700 \text{ kg/m}^3 $$
 El espacio no está vacío. Estamos inmersos en un océano continuo cuya densidad supera por decenas de veces a la del osmio o el platino. Es esta aplastante inercia primigenia la que estabiliza la tremenda energía cinética confinada dentro de los micro-huracanes que componen toda la materia observable.
 
 **2.4 El Reto Empírico: Las 3 Generaciones y la Autopsia Topológica del Decaimiento**
+
 Uno de los mayores fracasos explicativos del Modelo Estándar es la existencia de las tres "generaciones" de leptones. Empíricamente, la familia del electrón posee dos hermanos mayores: el Muón y el Tau. Estas partículas poseen exactamente las mismas propiedades (carga, espín), con la única diferencia de que son exorbitantemente más masivas y profundamente inestables. Al carecer de una mecánica subyacente, la física ortodoxa se limitó a clasificar este fenómeno sin explicarlo.
 
-Bajo la Mecánica Cuántica Hidrodinámica (MQH), este enigma se resuelve mediante las leyes de la acústica de fluidos: el Muón y el Tau no son entidades fundamentales distintas, sino el mismo vórtice (el electrón) sometido a armónicos de resonancia superiores ($n=2$ y $n=3$). 
+Bajo la Mecánica Cuántica Hidrodinámica (MQH), este enigma se resuelve mediante las leyes de la acústica de fluidos: el Muón y el Tau no son entidades fundamentales distintas, sino el mismo vórtice (el electrón) sometido a armónicos de resonancia superiores ($n=2$ y $n=3$).
 
-Para demostrar por qué son tan masivos y por qué se destruyen casi instantáneamente (lo que el Modelo Estándar denomina, sin explicar la causa, "decaimiento débil"), debemos aplicar nuestra ecuación de masa generalizada. 
+Para demostrar por qué son tan masivos y por qué se destruyen casi instantáneamente (lo que el Modelo Estándar denomina, sin explicar la causa, "decaimiento débil"), debemos aplicar nuestra ecuación de masa generalizada.
 
-Sustituyendo la circulación generalizada ($\Gamma_n = \frac{n \cdot h}{m_n}$) y el radio respectivo ($R_n = \frac{n \cdot h}{2\pi m_n c}$) en la ecuación inercial de La Fuente, la constante de densidad ($\rho_0$) se simplifica, revelando la ley de escalamiento universal de las generaciones:
+Sustituyendo la circulación generalizada ($\Gamma_n = n \cdot \frac{h}{m_n}$) y el radio respectivo ($R_n = n \cdot \frac{h}{2\pi m_n c}$) en la ecuación inercial de La Fuente, la constante de densidad ($\rho_0$) se simplifica, revelando la ley de escalamiento universal de las generaciones:
 
 $$ m_n^4 = m_e^4 \cdot n^3 \cdot \ln\left(\frac{8R_n}{r_n}\right) $$
 
@@ -317,20 +318,20 @@ Esta ecuación maestra nos indica que el estado de deformación geométrica (el 
 $$ \ln\left(\frac{8R_n}{r_n}\right) = \frac{1}{n^3} \left(\frac{m_n}{m_e}\right)^4 $$
 
 **1. El Electrón (Armónico Base, $n=1$, $m_e = 0.511 \text{ MeV}$)**
-$$ \ln\left(\frac{8R}{r}\right) = \frac{1}{1^3} \left(\frac{0.511}{0.511}\right)^4 = 1 $$
+$$ \ln\left(\frac{8R_1}{r_1}\right) = \frac{1}{1^3} \left(\frac{0.511}{0.511}\right)^4 = 1 $$
 El remolino se encuentra en perfecta armonía topológica ($8R/r = e$). El fluido no sufre estrés, las presiones internas y externas se anulan, logrando una estabilidad absoluta. Por eso el electrón es inmortal y no decae.
 
 **2. El Muón (Segundo Armónico, $n=2$, $m_\mu = 105.6 \text{ MeV}$)**
 Forzado a vibrar en la segunda octava, la inercia rotacional aumenta dramáticamente, haciendo al Muón $\approx 206.7$ veces más masivo. Evaluando su topología:
 $$ \ln\left(\frac{8R_\mu}{r_\mu}\right) = \frac{1}{2^3} (206.7)^4 \approx 228,000,000 $$
-El logaritmo pasa de $1$ a $228$ millones. Mecánicamente, esto significa que el "tubo" del vórtice se ha estirado y adelgazado hasta volverse casi infinitamente estrecho ($e^{228,000,000}$). La tensión del fluido no puede sostener una geometría tan extrema; el límite elástico de La Fuente se rompe. El remolino sufre *cavitación* y estalla en apenas $2.2$ microsegundos, expulsando la energía excedente hasta regresar a su estado base ($n=1$).
+El logaritmo pasa de 1 a 228 millones. Mecánicamente, esto significa que el "tubo" del vórtice se ha estirado y adelgazado hasta volverse casi infinitamente estrecho ($e^{228,000,000}$). La tensión del fluido no puede sostener una geometría tan extrema; el límite elástico de La Fuente se rompe. El remolino sufre cavitación y estalla en apenas $2.2$ microsegundos, expulsando la energía excedente hasta regresar a su estado base ($n=1$).
 
 **3. El Tau (Tercer Armónico, $n=3$, $m_\tau = 1776 \text{ MeV}$)**
 Sometido al tercer armónico, confina una masa $\approx 3475$ veces superior a la del electrón.
 $$ \ln\left(\frac{8R_\tau}{r_\tau}\right) = \frac{1}{3^3} (3475)^4 \approx 5,400,000,000,000 $$
-En el tercer armónico, el estiramiento topológico alcanza la insostenible cifra de $5.4$ billones. El estrés cortante (shear stress) sobre La Fuente es absoluto; la estructura es un filamento inmensamente masivo pero absurdamente frágil. Apenas se forma, la tensión hidrodinámica lo aniquila en $2.9 \times 10^{-13}$ segundos.
+En el tercer armónico, el estiramiento topológico alcanza la insostenible cifra de 5.4 billones. El estrés cortante (shear stress) sobre La Fuente es absoluto; la estructura es un filamento inmensamente masivo pero absurdamente frágil. Apenas se forma, la tensión hidrodinámica lo aniquila en $2.9 \times 10^{-13}$ segundos.
 
-La física de partículas ha ignorado durante décadas que las generaciones no son parámetros libres, sino la consecuencia geométrica ineludible de la resonancia de fluidos en *La Fuente*. El decaimiento no es magia; es la respuesta mecánica de un fluido al estrés topológico extremo.
+La física de partículas ha ignorado durante décadas que las generaciones no son parámetros libres, sino la consecuencia geométrica ineludible de la resonancia de fluidos en La Fuente. El decaimiento no es magia; es la respuesta mecánica de un fluido al estrés topológico extremo.
 
 **La Temporalidad del Colapso (Horizonte Predictivo)**
 Aunque esta autopsia topológica demuestra cuantitativamente la causa mecánica de la inestabilidad (el estrés cortante extremo), el cálculo analítico del tiempo exacto de vida media de estas partículas constituye el próximo horizonte predictivo de la MQH. En la dinámica de fluidos pura, el tiempo de colapso por cavitación está dictado por la velocidad de propagación de la ruptura (la velocidad $c$) a través de la geometría estirada del vórtice. Derivar teóricamente los $2.2$ microsegundos del Muón y los $2.9 \times 10^{-13}$ segundos del Tau de forma directa desde su magnitud logarítmica de deformación será la prueba de fuego definitiva de este modelo matemático en futuras investigaciones.
