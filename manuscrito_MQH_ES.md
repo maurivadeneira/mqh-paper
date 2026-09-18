@@ -618,3 +618,53 @@ Si la materia (los quarks y leptones) consiste únicamente en geometrías de nud
 **6.4 Navegación de Gradientes: El Futuro de la Propulsión Espacial**
 Al abolir la Relatividad General vacía y comprender la gravedad como un gradiente de presión hidrodinámica macroscópica (Capítulo 5), la exploración espacial se liberará de la dictadura de la propulsión química newtoniana. La expulsión de masa para lograr aceleración (acción-reacción) será reemplazada por la "Navegación de Gradientes". 
 Las naves del futuro operarán mediante metamateriales o emisores electromagnéticos que induzcan un vacío de presión topológica de forma asimétrica (un sumidero hidrodinámico localizado en la proa de la nave). Al crear artificialmente una zona de baja presión por delante, la inmensa inercia constante de La Fuente ($\rho_0 \approx 63,700 \text{ kg/m}^3$) empujará la nave desde atrás, logrando velocidades extremas sin los devastadores efectos de fuerza G convencionales, ya que la nave y su tripulación no estarían acelerando en el sentido clásico, sino "cayendo" perpetuamente en una ola de presión inducida.
+
+## REFERENCIAS Y BIBLIOGRAFÍA
+
+**[1] Rivadeneira, M. (2026).** *The Architectural Cosmos*. Zenodo. DOI: 10.5281/zenodo.22167243. (Documento fundacional sobre la dinámica dependiente de la escala y la eliminación de la materia oscura).
+
+**[2] Newton, I. (1687).** *Philosophiæ Naturalis Principia Mathematica*. (Establecimiento histórico de la inercia y la gravedad abstracta sin medio mecánico).
+
+**[3] Faraday, M. (1832).** *Experimental Researches in Electricity*. Philosophical Transactions of the Royal Society. (Intuición original de las líneas de fuerza y campos físicos).
+
+**[4] Stokes, G. G. (1845).** *On the Theories of the Internal Friction of Fluids in Motion*. Trans. Cambridge Philos. Soc. (Bases de las ecuaciones de Navier-Stokes para fluidos viscosos e ideales).
+
+**[5] von Helmholtz, H. (1858).** *Über Integrale der hydrodynamischen Gleichungen, welche den Wirbelbewegungen entsprechen*. Crelle's Journal. (Teoremas fundamentales de la dinámica de vórtices y conservación de la vorticidad).
+
+**[6] Maxwell, J. C. (1865).** *A Dynamical Theory of the Electromagnetic Field*. Philosophical Transactions of the Royal Society of London. (Las 20 ecuaciones originales basadas en la mecánica de fluidos).
+
+**[7] Thomson, W. (Lord Kelvin). (1867).** *On Vortex Atoms*. Proceedings of the Royal Society of Edinburgh. (Precedente histórico conceptual de la materia formada por vórtices anudados en el éter).
+
+**[8] Michelson, A. A., & Morley, E. W. (1887).** *On the Relative Motion of the Earth and the Luminiferous Ether*. American Journal of Science. (Experimento que provocó el exilio histórico del medio continuo).
+
+**[9] Heaviside, O. (1893).** *Electromagnetic Theory*. The Electrician Printing and Publishing. (Traducción del modelo de Maxwell al cálculo vectorial moderno de 4 ecuaciones).
+
+**[10] Planck, M. (1901).** *On the Law of Distribution of Energy in the Normal Spectrum*. Annalen der Physik. (Origen empírico de la constante $h$, reinterpretada en la MQH como tensión de corte del fluido).
+
+**[11] Einstein, A. (1915).** *Die Feldgleichungen der Gravitation*. Sitzungsberichte der Preussischen Akademie der Wissenschaften. (Formulación del tensor de energía-impulso y la geometrización de la gravedad).
+
+**[12] Rayleigh, Lord. (1917).** *On the pressure developed in a liquid during the collapse of a spherical cavity*. Philosophical Magazine. (Física fundamental del colapso por cavitación en fluidos).
+
+**[13] Schrödinger, E. (1926).** *An Undulatory Theory of the Mechanics of Atoms and Molecules*. Physical Review. (Formulación ondulatoria previa a su reinterpretación probabilística).
+
+**[14] Born, M. (1926).** *Zur Quantenmechanik der Stoßvorgänge*. Zeitschrift für Physik. (Introducción de la interpretación estadística y el abandono de la onda física).
+
+**[15] Heisenberg, W. (1927).** *Über den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik*. Zeitschrift für Physik. (Principio de incertidumbre y renuncia al determinismo mecánico).
+
+**[16] Madelung, E. (1927).** *Quantentheorie in hydrodynamischer Form*. Zeitschrift für Physik. (Traducción matemática de la ecuación de Schrödinger a ecuaciones hidrodinámicas de Euler).
+
+**[17] Dirac, P. A. M. (1928).** *The Quantum Theory of the Electron*. Proceedings of the Royal Society A. (Matemática del espinor y la necesidad mecánica de un "Mar" hiperdenso de energía negativa).
+
+**[18] Lamb, H. (1932).** *Hydrodynamics (6th ed.)*. Cambridge University Press. (Tratado definitivo sobre la dinámica de fluidos y la geometría estructural de los anillos de vórtice).
+
+**[19] Yukawa, H. (1935).** *On the Interaction of Elementary Particles*. Proc. Phys.-Math. Soc. Japan. (Origen de los parámetros empíricos para las interacciones nucleares sin ontología topológica).
+
+**[20] Bohm, D. (1952).** *A Suggested Interpretation of the Quantum Theory in Terms of "Hidden" Variables*. Physical Review. (Resistencia histórica al modelo estadístico puro mediante un potencial subyacente).
+
+**[21] Gell-Mann, M. (1964).** *A Schematic Model of Baryons and Mesons*. Physics Letters. (Introducción del modelo de Quarks, explicado en la MQH mediante geometría de nudos).
+
+**[22] Higgs, P. W. (1964).** *Broken Symmetries and the Masses of Gauge Bosons*. Physical Review Letters. (Mecanismo postulado para otorgar inercia, superado por el arrastre topológico macroscópico).
+
+**[23] Milgrom, M. (1983).** *A Modification of the Newtonian Dynamics as a Possible Alternative to the Hidden Mass Hypothesis*. Astrophysical Journal. (Modificación fenomenológica de las leyes de escala a bajas aceleraciones).
+
+**[24] Batchelor, G. K. (1967).** *An Introduction to Fluid Dynamics*. Cambridge University Press. (Marco moderno para el análisis de los gradientes de presión y esfuerzos elásticos en fluidos continuos).
