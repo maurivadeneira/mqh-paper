@@ -234,9 +234,10 @@ Bajo esta óptica, eventos como la fisión nuclear pierden su velo de misterio c
 En conclusión, la materia ordinaria no está formada por esferas sólidas. Cualquier cuerpo físico es, en realidad, un enjambre de miles de millones de micro-huracanes de energía cinética, estructuralmente estabilizados por la presión aplastante e invisible de La Fuente.
 
 **2.3 La Ecuación del Vórtice y la derivación analítica de la Densidad Base ($\rho_0$)**
+
 Para demostrar matemáticamente que la materia es un estado dinámico de La Fuente, debemos abandonar las matrices probabilísticas y utilizar las ecuaciones exactas de la dinámica de fluidos para un anillo de vórtice (Toroide de Lamb). 
 
-En la mecánica de fluidos, la energía total ($E$) de un remolino toroidal depende de la velocidad de rotación del fluido alrededor del núcleo, conocida como *Circulación* ($\Gamma$), y de su geometría macroscópica ($R$ y $r$). Aplicando el principio de equivalencia inercial ($m = E/c^2$), la masa de nuestra partícula fundamental queda definida de forma estrictamente mecánica:
+En la mecánica de fluidos, la energía total ($E$) de un remolino toroidal depende de la velocidad de rotación del fluido alrededor del núcleo, conocida como Circulación ($\Gamma$), y de su geometría macroscópica ($R$ y $r$). Aplicando el principio de equivalencia inercial ($m = E/c^2$), la masa de nuestra partícula fundamental queda definida de forma estrictamente mecánica:
 
 $$ m = \frac{\rho_0 \Gamma^2 R}{2c^2} \ln\left(\frac{8R}{r}\right) $$
 
@@ -251,18 +252,21 @@ $$ \Gamma = c \cdot L $$
 
 Al igualar la condición de tensión del medio con la cinemática del fluido, obtenemos la ecuación rectora que dicta el tamaño de la partícula:
 
-$$ c \cdot L = \frac{h}{m} \quad \implies \quad L = \frac{h}{m \cdot c} $$
+$$ c \cdot L = \frac{h}{m} \implies L = \frac{h}{m \cdot c} $$
 
 Para demostrar la exactitud de esta predicción, reemplazamos los valores fundamentales (considerados en el Modelo Estándar como parámetros abstractos, pero que aquí revelan la cinemática real del fluido):
-*   $h = 6.62607 \times 10^{-34} \text{ kg}\cdot\text{m}^2/\text{s}$ *(Límite de tensión)*
-*   $m = 9.10938 \times 10^{-31} \text{ kg}$ *(Masa inercial del armónico base)*
-*   $c = 2.99792 \times 10^8 \text{ m/s}$ *(Velocidad máxima de propagación)*
 
-Al realizar el cálculo explícito:
-$$ L = \frac{6.62607 \times 10^{-34}}{(9.10938 \times 10^{-31}) \cdot (2.99792 \times 10^8)} $$
+* $h = 6.62607 \times 10^{-34} \text{ kg} \cdot \text{m}^2/\text{s}$ (Límite de tensión)
+* $m = 9.10938 \times 10^{-31} \text{ kg}$ (Masa inercial del armónico base)
+* $c = 2.99792 \times 10^8 \text{ m/s}$ (Velocidad máxima de propagación)
+
+Al realizar el cálculo explícito: 
+
+$$ L = \frac{6.62607 \times 10^{-34}}{(9.10938 \times 10^{-31}) \cdot (2.99792 \times 10^8)} $$ 
+
 $$ L = 2.42631 \times 10^{-12} \text{ metros} $$
 
-Al introducir las constantes universales puras en nuestra deducción teórica, la ecuación arroja un tamaño geométrico exacto de **$2.42$ picómetros**. La física ortodoxa midió este valor empíricamente en 1923 (denominándolo *Longitud de onda de Compton*), pero su dogma de la "partícula puntual" le prohibió reconocerlo como el perímetro físico real de la partícula. En la MQH, este valor es una predicción analítica ineludible de la estabilidad hidrodinámica.
+Al introducir las constantes universales puras en nuestra deducción teórica, la ecuación arroja un tamaño geométrico exacto de 2.42 picómetros. La física ortodoxa midió este valor empíricamente en 1923 (denominándolo Longitud de onda de Compton), pero su dogma de la "partícula puntual" le prohibió reconocerlo como el perímetro físico real de la partícula. En la MQH, este valor es una predicción analítica ineludible de la estabilidad hidrodinámica.
 
 **El Bloqueo Topológico y el Cálculo de $\rho_0$**
 Sustituyendo nuestra condición de circulación ($\Gamma = h/m$) en la ecuación original de masa:
@@ -273,18 +277,20 @@ Llegados a este punto, la física clásica se encuentra con el obstáculo del t�
 
 Bajo este "bloqueo topológico" perfecto ocurre una simplificación matemática extraordinaria: $\ln(e) = 1$. El término logarítmico desaparece de la ecuación, revelando la estructura cúbica desnuda de la masa:
 
-$$ m^3 = \frac{\rho_0 h^2 R}{2 c^2} $$
+$$ m^3 = \frac{\rho_0 h^2 R}{2c^2} $$
 
 Despejando finalmente la densidad base del espacio ($\rho_0$), obtenemos la ecuación rectora del medio continuo:
 
-$$ \rho_0 = \frac{2 m^3 c^2}{h^2 R} $$
+$$ \rho_0 = \frac{2m^3 c^2}{h^2 R} $$
 
-Para revelar la densidad del universo, evaluamos la ecuación paso a paso con los valores ya conocidos y el radio de resonancia toroidal ($R$) derivado geométricamente de su perímetro ($R = L / 2\pi$, equivalente al radio de Compton reducido):
-*   $m^3 = (9.10938 \times 10^{-31})^3 = 7.558 \times 10^{-91} \text{ kg}^3$
-*   $c^2 = (2.99792 \times 10^8)^2 = 8.987 \times 10^{16} \text{ m}^2/\text{s}^2$
-*   $h^2 = (6.62607 \times 10^{-34})^2 = 4.390 \times 10^{-67} \text{ kg}^2\cdot\text{m}^4/\text{s}^2$
+Para revelar la densidad del universo, evaluamos la ecuación paso a paso con los valores ya conocidos y el radio de resonancia toroidal ($R$) derivado geométricamente de su perímetro ($R = L/2\pi$, equivalente al radio de Compton reducido):
 
-Sustituyendo aritméticamente en el numerador y denominador:
+$$ m^3 = (9.10938 \times 10^{-31})^3 = 7.558 \times 10^{-91} \text{ kg}^3 $$
+$$ c^2 = (2.99792 \times 10^8)^2 = 8.987 \times 10^{16} \text{ m}^2/\text{s}^2 $$
+$$ h^2 = (6.62607 \times 10^{-34})^2 = 4.390 \times 10^{-67} \text{ kg}^2 \cdot \text{m}^4/\text{s}^2 $$
+
+Sustituyendo aritméticamente en el numerador y denominador: 
+
 $$ \rho_0 = \frac{2 \cdot (7.558 \times 10^{-91}) \cdot (8.987 \times 10^{16})}{(4.390 \times 10^{-67}) \cdot R} $$
 
 $$ \rho_0 = \frac{1.358 \times 10^{-73}}{(4.390 \times 10^{-67}) \cdot R} $$
