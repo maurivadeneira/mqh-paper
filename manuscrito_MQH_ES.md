@@ -8,9 +8,6 @@
 **Fecha:** 16 de septiembre de 2026
 
 **Resumen:** 
-Este documento formaliza el marco de la Mecánica Cuántica Hidrodinámica (MQH), postulando que el espacio no es un vacío probabilístico, sino un medio físico, continuo e incompresible (con una densidad base de $\approx 63,700 \text{ kg/m}^3$). Bajo este paradigma, se demuestra que las partículas fundamentales no son entidades puntuales, sino vórtices toroidales armónicos. Mediante principios de la dinámica de fluidos, se deriva analíticamente el tamaño físico del estado base (el electrón, $2.42 \text{ pm}$) y se explica la inestabilidad de los armónicos superiores (como el muón) a través de mecánicas de cavitación. Adicionalmente, el documento reinterpreta la física nuclear al demostrar que los quarks no poseen carga fraccionaria intrínseca, sino que representan vórtices seccionados obligados topológicamente a confinarse en un Nudo Trébol ($T_{2,3}$). Esta configuración geométrica permite derivar de manera estrictamente analítica la relación de la inercia bariónica (el ratio protón-electrón, $M_p/m_e = 6\pi^5 \approx 1836.118$) sin requerir parámetros empíricos libres. Así, la MQH propone sustituir los bosones virtuales y la energía de enlace del Modelo Estándar por una arquitectura topológica exacta dictada por la mecánica clásica de fluidos.
-
----
 
 ## PRINCIPIOS TOPOLÓGICOS DE LA MECÁNICA CUÁNTICA HIDRODINÁMICA (MQH)
 
