@@ -8,7 +8,40 @@
 **Fecha:** 16 de septiembre de 2026
 
 > **Resumen:**
-> Este documento formaliza el marco de la Mecánica Cuántica Hidrodinámica (MQH), postulando que el espacio no es un vacío geométrico, sino un medio físico, continuo e hiperdenso (con una densidad base de ~63,700 kg/m³). Bajo este paradigma, se demuestra que las partículas fundamentales no son entidades puntuales probabilísticas, sino vórtices toroidales armónicos. Mediante principios estables de la dinámica de fluidos, se deriva analíticamente el tamaño físico del electrón (2.42 picómetros) y se explica la inestabilidad temporal de partículas más masivas (como el muón) a través de mecánicas de fatiga de material y cavitación. Finalmente, se derivan las masas de las distintas "generaciones" de partículas utilizando una ecuación armónica de vórtices, sustituyendo los parámetros libres del Modelo Estándar por una tabla de frecuencias armónicas de un fluido hiperdenso.
+> ## PRINCIPIOS TOPOLÓGICOS DE LA MECÁNICA CUÁNTICA HIDRODINÁMICA (MQH)
+
+**1. LA FUENTE**
+El espacio es un medio físico, continuo, incompresible e hiperdenso. El vacío probabilístico no existe.
+
+**2. FÓRMULAS FUNDAMENTALES**
+* **Velocidad de la luz ($c$):** La velocidad de propagación de la onda transversal en el medio.
+$$c = \sqrt{\frac{K}{\rho_0}}$$
+* **Constante de Planck ($h$):** El límite de tensión elástica y cuantización de la vorticidad del fluido.
+$$h = \Gamma \cdot m$$
+* **Masa ($m$):** Coeficiente de resistencia hidrodinámica (arrastre topológico), no una sustancia intrínseca.
+$$m = \frac{E}{c^2}$$
+
+**3. DENSIDAD DEL MEDIO ($\rho_0$)**
+La masa volumétrica inercial de La Fuente calculada a partir de las constantes fundamentales:
+$$\rho_0 = \frac{2m^3 c^2}{h^2 R}$$
+**Valor deducido:** $63,700 \text{ kg/m}^3$
+
+**4. EL ELECTRÓN (Fermión Base)**
+La topología estable más simple en rotación: un vórtice toroidal simple ($n=1$).
+* **Equilibrio de presiones:** $\frac{8R}{r} = e$
+* **Tamaño físico (Radio):** $2.42 \text{ pm}$
+
+**5. EL PROTÓN Y LA MASA BARIÓNICA**
+Topología geométrica requerida para confinar tres vórtices abiertos (quarks) sin que el medio los aplaste: el Nudo Trébol ($T_{2,3}$).
+* **Invariante topológico (Helicidad):** 
+$$H = \int \mathbf{v} \cdot \boldsymbol{\omega} \, dV$$
+* **Estrés topológico lineal (cruces):** $p \times q = 2 \times 3 = 6$
+* **Estrés topológico volumétrico (torsión 3D):** $\pi^5$
+
+**Relación de Masa Protón/Electrón ($M_p/m_e$):**
+El costo geométrico exacto de mantener el fluido anudado frente a la presión de La Fuente, derivado analíticamente sin parámetros empíricos libres:
+$$\frac{M_p}{m_e} = (p \times q)\pi^5 = 6\pi^5$$
+$$6\pi^5 \approx 1836.118$$
 
 ---
 
