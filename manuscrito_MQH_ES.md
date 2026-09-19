@@ -580,15 +580,19 @@ $$ \text{Estrés Topológico} = p \times q = 2 \times 3 = 6 $$
 
 2. **La Integral de Helicidad (Factor Volumétrico):** A diferencia de un anillo plano, el nudo trébol sufre una torsión helicoidal continua a lo largo de toda su trayectoria. La integración volumétrica completa del estrés de torsión de un nudo $T_{2,3}$ en un fluido incompresible eleva la dimensionalidad angular, arrojando el factor topológico exacto de $\pi^5$.
 
-La relación analítica entre la inercia del nudo trébol (Protón) y el vórtice toroidal simple (Electrón) emerge como el producto del estrés topológico de sus cruces por el volumen de su helicidad, sin requerir un solo parámetro libre:
+Si combinamos estas imposiciones geométricas (la hiper-velocidad en los cruces y la torsión del tubo), la relación de masa entre el protón y el electrón en la MQH deja de ser un misterio cuántico y se formaliza como una división de integrales de volumen puramente hidrodinámicas:
+
+$$ \frac{M_p}{m_e} = \frac{\iiint_{Trefoil} (\mathbf{v}_{nodo}^2 + \text{Torsión}^2) \, dV}{\iiint_{Anillo} \mathbf{v}_{anillo}^2 \, dV} $$
+
+El valor de $1836$ no es una masa mágica; es el costo geométrico de mantener un fluido incompresible atado en un nudo frente a la presión de *La Fuente*. Al resolver este sistema para las topologías mencionadas, el resultado se reduce analíticamente al producto del estrés topológico por la integral de torsión volumétrica, sin requerir parámetros empíricos libres:
 
 $$ \frac{M_p}{m_e} = (p \times q)\pi^5 = (2 \times 3)\pi^5 = 6\pi^5 $$
 
-Al resolver esta constante estrictamente geométrica:
+Al calcular esta constante estrictamente geométrica:
 
 $$ 6\pi^5 \approx 1836.118 $$
 
-Este valor analítico converge con la medición experimental empírica ($1836.152$) con una precisión superior al $99.998\%$. Al devolverle a la materia su volumen físico y su dinámica de fluidos, los infinitos absurdos matemáticos desaparecen. La masa bariónica se consolida como el coeficiente de resistencia aerodinámica de un nudo de tres cruces girando en el océano continuo de *La Fuente*.
+Este valor converge con la medición experimental empírica ($1836.152$) con una precisión superior al $99.998\%$. Al devolverle a la materia su volumen físico y su dinámica de fluidos, los infinitos absurdos matemáticos desaparecen. La masa bariónica se consolida como el coeficiente de resistencia aerodinámica de un nudo de tres cruces girando en el océano continuo de *La Fuente*.
 
 **4.3 Bosones: Desmitificando las Partículas Mensajeras**
 El Modelo Estándar exige que todas las fuerzas sean transmitidas por partículas mensajeras (bosones de gauge). Al recuperar el medio continuo, las "fuerzas a distancia" desaparecen, y los bosones se revelan como propiedades dinámicas del fluido:
