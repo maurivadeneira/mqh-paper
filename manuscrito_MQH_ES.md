@@ -7,22 +7,21 @@
 **Contacto:** * maurivadeneira@gmail.com
 **Fecha:** 16 de septiembre de 2026
 
-> **Resumen:**
-> ## PRINCIPIOS TOPOLÓGICOS DE LA MECÁNICA CUÁNTICA HIDRODINÁMICA (MQH)
+**Resumen:**
+## PRINCIPIOS TOPOLÓGICOS DE LA MECÁNICA CUÁNTICA HIDRODINÁMICA (MQH)
 
 **1. LA FUENTE**
-El espacio es un medio físico, continuo, incompresible e hiperdenso. El vacío probabilístico no existe.
+El espacio es un medio físico, continuo, incompresible e hiperdenso.
 
 **2. FÓRMULAS FUNDAMENTALES**
 * **Velocidad de la luz ($c$):** La velocidad de propagación de la onda transversal en el medio.
 $$c = \sqrt{\frac{K}{\rho_0}}$$
-* **Constante de Planck ($h$):** El límite de tensión elástica y cuantización de la vorticidad del fluido.
+* **Constante de Planck ($h$):** El límite de tensión elástica y cuantización de la vorticidad del fluido. 
 $$h = \Gamma \cdot m$$
-* **Masa ($m$):** Coeficiente de resistencia hidrodinámica (arrastre topológico), no una sustancia intrínseca.
+* **Masa ($m$):** Coeficiente de resistencia hidrodinámica (arrastre topológico).
 $$m = \frac{E}{c^2}$$
 
 **3. DENSIDAD DEL MEDIO ($\rho_0$)**
-La masa volumétrica inercial de La Fuente calculada a partir de las constantes fundamentales:
 $$\rho_0 = \frac{2m^3 c^2}{h^2 R}$$
 **Valor deducido:** $63,700 \text{ kg/m}^3$
 
@@ -39,7 +38,6 @@ $$H = \int \mathbf{v} \cdot \boldsymbol{\omega} \, dV$$
 * **Estrés topológico volumétrico (torsión 3D):** $\pi^5$
 
 **Relación de Masa Protón/Electrón ($M_p/m_e$):**
-El costo geométrico exacto de mantener el fluido anudado frente a la presión de La Fuente, derivado analíticamente sin parámetros empíricos libres:
 $$\frac{M_p}{m_e} = (p \times q)\pi^5 = 6\pi^5$$
 $$6\pi^5 \approx 1836.118$$
 
