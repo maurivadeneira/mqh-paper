@@ -7,7 +7,6 @@
 **Contacto:** * maurivadeneira@gmail.com
 **Fecha:** 16 de septiembre de 2026
 
-**Resumen:**
 ## PRINCIPIOS TOPOLÓGICOS DE LA MECÁNICA CUÁNTICA HIDRODINÁMICA (MQH)
 
 **1. LA FUENTE**
