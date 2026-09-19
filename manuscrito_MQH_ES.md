@@ -573,26 +573,37 @@ Con el protón definido estrictamente como un nudo topológico de tres vórtices
 
 En la MQH, ese $99\%$ de inercia adicional no es materia: es estrés topológico puro. En el electrón (anillo simple), el invariante físico era la circulación bidimensional. Sin embargo, en un nudo topológico tridimensional como el protón, el tubo de fluido se enrolla y se cruza sobre sí mismo. En la mecánica de fluidos topológica, la cantidad que mide este grado de anudamiento —y que es estrictamente invariable en un superfluido perfecto— es la **Helicidad** ($H$):
 
-$$H = \int \mathbf{v} \cdot \boldsymbol{\omega} \, dV$$
+$$
+H = \int \mathbf{v} \cdot \boldsymbol{\omega} \, dV
+$$
 
 Donde $\mathbf{v}$ es la velocidad del fluido y $\boldsymbol{\omega}$ es la vorticidad (el rizo de la velocidad). La Helicidad determina cuánta energía topológica está irremediablemente atrapada por el hecho de que el vórtice esté anudado. Bajo la MQH, la masa del protón es directamente proporcional a esta Helicidad. El costo energético (inercia) exigido para mantener este nudo de fluido atado frente a la presión externa de *La Fuente* se determina por dos factores geométricos deductivos:
 
 1. **El Coeficiente de Estrés en los Cruces (Factor Lineal):** En un nudo trébol ($T_{2,3}$), la tubería vorticial pasa sobre sí misma en tres cuellos de botella. En estos cruces, las corrientes adyacentes inducen hiper-velocidades localizadas. Por el Principio de Bernoulli, esta aceleración genera caídas de presión drásticas y una hiper-succión cruzada. El factor de estrés topológico de este confinamiento equivale al producto de los índices de enlazamiento del nudo: el meridional ($p=2$) y el longitudinal ($q=3$). 
-$$ \text{Estrés Topológico} = p \times q = 2 \times 3 = 6 $$
+
+$$
+\text{Estrés Topológico} = p \times q = 2 \times 3 = 6
+$$
 
 2. **La Integral de Helicidad (Factor Volumétrico):** A diferencia de un anillo plano, el nudo trébol sufre una torsión helicoidal continua a lo largo de toda su trayectoria. La integración volumétrica completa del estrés de torsión de un nudo $T_{2,3}$ en un fluido incompresible eleva la dimensionalidad angular, arrojando el factor topológico exacto de $\pi^5$.
 
 Al combinar estas imposiciones geométricas (la hiper-velocidad en los cruces y la torsión del tubo), la relación de masa entre el protón y el electrón en la MQH se formaliza como una división de integrales de volumen puramente hidrodinámicas:
 
-$$ \frac{M_p}{m_e} = \frac{\iiint_{Trefoil} (\mathbf{v}_{nodo}^2 + \text{Torsión}^2) \, dV}{\iiint_{Anillo} \mathbf{v}_{anillo}^2 \, dV} $$
+$$
+\frac{M_p}{m_e} = \frac{\iiint_{\text{Trefoil}} (\mathbf{v}_{\text{nodo}}^2 + \text{Torsión}^2) \, dV}{\iiint_{\text{Anillo}} \mathbf{v}_{\text{anillo}}^2 \, dV}
+$$
 
 El valor de $1836$ no es una masa mágica; es el costo geométrico de mantener un fluido incompresible atado en un nudo frente a la presión de *La Fuente*. Al resolver este sistema para las topologías mencionadas, el resultado se reduce analíticamente al producto del estrés topológico por la integral de torsión volumétrica, sin requerir parámetros empíricos libres:
 
-$$ \frac{M_p}{m_e} = (p \times q)\pi^5 = (2 \times 3)\pi^5 = 6\pi^5 $$
+$$
+\frac{M_p}{m_e} = (p \times q)\pi^5 = (2 \times 3)\pi^5 = 6\pi^5
+$$
 
 Al calcular esta constante estrictamente geométrica:
 
-$$ 6\pi^5 \approx 1836.118 $$
+$$
+6\pi^5 \approx 1836.118
+$$
 
 Este valor converge con la medición experimental empírica ($1836.152$) con una precisión superior al $99.998\%$. Al devolverle a la materia su volumen físico y su dinámica de fluidos, los infinitos absurdos matemáticos desaparecen. La masa bariónica se consolida como el coeficiente de resistencia aerodinámica de un nudo de tres cruces girando en el océano continuo de *La Fuente*.
 
