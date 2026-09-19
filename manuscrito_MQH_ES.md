@@ -571,16 +571,18 @@ Bajo esta visión, el protón no es una "bolsa" que contiene tres esferas sólid
 
 Con el protón definido estrictamente como un nudo topológico de tres vórtices acoplados, se resuelve de manera deductiva el mayor misterio de su inercia. En el Modelo Estándar, los quarks apenas suman el $1\%$ de la masa total del protón; el $99\%$ restante se atribuye vagamente a la energía de enlace, recurriendo a artificios como la renormalización para forzar el número que arroja la balanza del laboratorio ($M_p \approx 1836 \times m_e$).
 
-En la MQH, ese $99\%$ de inercia adicional no es materia: es estrés topológico puro. Si el electrón encuentra su equilibrio como un vórtice toroidal simple, el protón es la configuración geométricamente estable más elemental para confinar tres flujos en 3D: el Nudo Trébol (un *Torus Knot* de tipo $T_{2,3}$).
+En la MQH, ese $99\%$ de inercia adicional no es materia: es estrés topológico puro. En el electrón (anillo simple), el invariante físico era la circulación bidimensional. Sin embargo, en un nudo topológico tridimensional como el protón, el tubo de fluido se enrolla y se cruza sobre sí mismo. En la mecánica de fluidos topológica, la cantidad que mide este grado de anudamiento —y que es estrictamente invariable en un superfluido perfecto— es la **Helicidad** ($H$):
 
-El costo energético (inercia) exigido para mantener este fluido atado frente a la presión externa de *La Fuente* se determina por dos factores geométricos deductivos:
+$$H = \int \mathbf{v} \cdot \boldsymbol{\omega} \, dV$$
 
-1. **El Coeficiente de Estrés en los Cruces (Factor Lineal):** En un nudo $T_{2,3}$, la tubería vorticial pasa sobre sí misma en tres cuellos de botella. En estos cruces, las corrientes adyacentes inducen hiper-velocidades localizadas. Por el Principio de Bernoulli, esta aceleración genera caídas de presión drásticas y una hiper-succión cruzada. El factor de estrés topológico de este confinamiento equivale al producto de los índices de enlazamiento del nudo: el meridional ($p=2$) y el longitudinal ($q=3$). 
+Donde $\mathbf{v}$ es la velocidad del fluido y $\boldsymbol{\omega}$ es la vorticidad (el rizo de la velocidad). La Helicidad determina cuánta energía topológica está irremediablemente atrapada por el hecho de que el vórtice esté anudado. Bajo la MQH, la masa del protón es directamente proporcional a esta Helicidad. El costo energético (inercia) exigido para mantener este nudo de fluido atado frente a la presión externa de *La Fuente* se determina por dos factores geométricos deductivos:
+
+1. **El Coeficiente de Estrés en los Cruces (Factor Lineal):** En un nudo trébol ($T_{2,3}$), la tubería vorticial pasa sobre sí misma en tres cuellos de botella. En estos cruces, las corrientes adyacentes inducen hiper-velocidades localizadas. Por el Principio de Bernoulli, esta aceleración genera caídas de presión drásticas y una hiper-succión cruzada. El factor de estrés topológico de este confinamiento equivale al producto de los índices de enlazamiento del nudo: el meridional ($p=2$) y el longitudinal ($q=3$). 
 $$ \text{Estrés Topológico} = p \times q = 2 \times 3 = 6 $$
 
 2. **La Integral de Helicidad (Factor Volumétrico):** A diferencia de un anillo plano, el nudo trébol sufre una torsión helicoidal continua a lo largo de toda su trayectoria. La integración volumétrica completa del estrés de torsión de un nudo $T_{2,3}$ en un fluido incompresible eleva la dimensionalidad angular, arrojando el factor topológico exacto de $\pi^5$.
 
-Si combinamos estas imposiciones geométricas (la hiper-velocidad en los cruces y la torsión del tubo), la relación de masa entre el protón y el electrón en la MQH deja de ser un misterio cuántico y se formaliza como una división de integrales de volumen puramente hidrodinámicas:
+Al combinar estas imposiciones geométricas (la hiper-velocidad en los cruces y la torsión del tubo), la relación de masa entre el protón y el electrón en la MQH se formaliza como una división de integrales de volumen puramente hidrodinámicas:
 
 $$ \frac{M_p}{m_e} = \frac{\iiint_{Trefoil} (\mathbf{v}_{nodo}^2 + \text{Torsión}^2) \, dV}{\iiint_{Anillo} \mathbf{v}_{anillo}^2 \, dV} $$
 
