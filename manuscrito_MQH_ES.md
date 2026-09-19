@@ -37,8 +37,8 @@ $$H = \int \mathbf{v} \cdot \boldsymbol{\omega} \, dV$$
 * **Estrés topológico volumétrico (torsión 3D):** $\pi^5$
 
 **Relación de Masa Protón/Electrón ($M_p/m_e$):**
-$$\frac{M_p}{m_e} = (p \times q)\pi^5 = 6\pi^5$$
-$$6\pi^5 \approx 1836.118$$
+
+$$ \frac{M_p}{m_e} = (p \times q)\pi^5 = 6\pi^5 \approx 1836.118 $$
 
 ---
 
