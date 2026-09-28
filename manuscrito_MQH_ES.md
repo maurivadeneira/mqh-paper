@@ -351,27 +351,24 @@ $$
 m = \frac{\rho_0 \Gamma^2 R}{2c^2} \ln\left(\frac{8R}{r}\right)
 $$
 
-**La Cuantización de la Circulación y el Tamaño Geométrico del Electrón**  
-A diferencia de los remolinos efímeros macroscópicos, el fermión más estable del universo —**el electrón**— es un armónico de estabilidad perpetua. En la dinámica de superfluidos, esto exige que la circulación ($\Gamma$) obedezca a la cuantización estricta del Postulado 4 ($\Gamma = h/m_e$). Simultáneamente, la condición cinemática del Postulado 5 establece que el flujo interno gira a la velocidad límite del medio ($c$), relacionando la circulación con el perímetro perimetral ($\Gamma = c \cdot L$).
+**La Cuantización de la Circulación, el Tamaño Geométrico ($L$) y la Deducción de la Masa ($m_e$)**  
+A diferencia de los remolinos efímeros macroscópicos, el fermión más estable del universo —**el electrón**— es un armónico de estabilidad perpetua. En la dinámica de superfluidos, esto exige que la circulación ($\Gamma$) obedezca a la cuantización estricta del Postulado 4 ($\Gamma = h/m_e$). Simultáneamente, la condición cinemática del Postulado 5 establece que el flujo interno gira a la velocidad límite del medio ($c$), relacionando la circulación con el perímetro perimetral del vórtice ($\Gamma = c \cdot L$).
 
-Igualando ambas expresiones de la circulación para aislar la escala de longitud del vórtice, obtenemos:
-
-$$
-c \cdot L = \frac{h}{m_e} \implies L = \frac{h}{m_e \cdot c}
-$$
-
-Para verificar el poder predictivo de este teorema, introducimos las constantes universales aplicadas específicamente a la masa del **electrón** (el armónico base de la materia):
-* $h = 6.62607 \times 10^{-34} \text{ kg} \cdot \text{m}^2/\text{s}$ (Límite de tensión elástica)
-* $m_e = 9.10938 \times 10^{-31} \text{ kg}$ (Masa inercial del electrón)
-* $c = 2.99792 \times 10^8 \text{ m/s}$ (Velocidad máxima de propagación)
-
-Al realizar el cálculo explícito:
+Igualando ambas expresiones, presenciamos la disolución matemática del concepto clásico de "masa" como sustancia:
 
 $$
-L = \frac{6.62607 \times 10^{-34}}{(9.10938 \times 10^{-31}) \cdot (2.99792 \times 10^8)} = 2.42631 \times 10^{-12} \text{ m}
+c \cdot L = \frac{h}{m_e} \implies m_e = \frac{h}{c \cdot L}
 $$
 
-La ecuación arroja un tamaño geométrico exacto de $2.42$ picómetros para el perímetro físico del **electrón**. La física ortodoxa midió este valor empíricamente en 1923 (bautizándolo como la *Longitud de onda de Compton del electrón*), pero su dogma de la partícula puntual le prohibió reconocerlo como el perímetro físico real del vórtice. En la MQH, este resultado es una consecuencia analítica ineludible.
+Esta simple transposición algebraica es conceptualmente sísmica: **el electrón no *tiene* masa**. Lo que llamamos masa inercial ($m_e$) es únicamente el resultado mecánico de confinar la tensión elástica máxima del medio ($h$) rotando a la velocidad límite ($c$) dentro de un bucle de perímetro $L$. La masa emerge empíricamente como pura resistencia geométrica.
+
+Para demostrarlo, partimos de una única observación objetiva real de la naturaleza: el tamaño empírico del vórtice, medido en laboratorio desde 1923 (conocido ortodoxamente como la *Longitud de onda de Compton*). La naturaleza nos indica que el nudo estable más pequeño posible mide exactamente $L = 2.42631 \times 10^{-12} \text{ m}$ (2.42 picómetros). Al introducir este dato geométrico, la ecuación hidrodinámica genera el "peso" exacto del electrón de forma obligatoria y determinista:
+
+$$
+m_e = \frac{6.62607 \times 10^{-34} \text{ kg} \cdot \text{m}^2/\text{s}}{(2.99792 \times 10^8 \text{ m/s}) \cdot (2.42631 \times 10^{-12} \text{ m})} = 9.10938 \times 10^{-31} \text{ kg}
+$$
+
+Al confinar el fluido continuo en un nudo de $2.42$ picómetros, la inercia generada equivale exactamente a $0.511 \text{ MeV}$. La física de partículas dogmatizó este valor como una "carga intrínseca" en una partícula puntual, prohibiéndose reconocer que es una consecuencia espacial directa. En la MQH, la materia es simplemente geometría en movimiento.
 
 **El Bloqueo Topológico y el Cálculo de $\rho_0$**  
 Sustituyendo la condición de circulación del Postulado 4 ($\Gamma = h/m_e$) en nuestra ecuación de masa previamente deducida para el electrón, tenemos:
