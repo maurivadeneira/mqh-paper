@@ -382,7 +382,13 @@ $$
 
 Para resolver el término logarítmico $\ln(8R_e/r_e)$, aplicamos la condición de estabilidad de máxima eficiencia del vórtice cuántico: el sistema alcanza su equilibrio topológico cuando el cociente entre el radio mayor y el núcleo converge con la proporción del número de Euler ($8R_e/r_e = e \approx 2.718$).
 
-Bajo este "bloqueo topológico" natural, la matemática se simplifica de forma extraordinaria: $\ln(e) = 1$. El término logarítmico desaparece, revelando la estructura cúbica desnuda de la masa:
+Bajo este "bloqueo topológico" natural, la matemática se simplifica de forma extraordinaria: $\ln(e) = 1$. El término logarítmico desaparece. Al mismo tiempo, desarrollamos el cuadrado de la fracción de la circulación $(h/m_e)^2 = h^2/m_e^2$, lo que nos deja la ecuación de la siguiente manera:
+
+$$
+m_e = \frac{\rho_0 h^2 R_e}{2 c^2 m_e^2}
+$$
+
+Para despejar el sistema, pasamos el término $m_e^2$ (que está dividiendo en el lado derecho) a multiplicar al lado izquierdo ($m_e \cdot m_e^2$). Es en este paso algebraico exacto donde emerge de forma natural la estructura cúbica de la masa:
 
 $$
 m_e^3 = \frac{\rho_0 h^2 R_e}{2c^2}
