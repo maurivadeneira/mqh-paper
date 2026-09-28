@@ -236,7 +236,8 @@ El espacio físico no es un vacío, sino un medio fluido continuo, incompresible
 **Postulado 2. Principio de Equivalencia Inercial (La Naturaleza de la Materia)**  
 La masa inercial es energía confinada ($m = E/c^2$). En este marco, $m$ no es una partícula material sólida flotando en el vacío, sino una región de energía dinámica localizada; es decir, un remolino estructurado y formado por el mismo fluido primordial de La Fuente.
 
-**Postulado 3. Energía del Medio Continuo y Geometría Toroidal**  
+### Postulado 3. Energía del Medio Continuo y Geometría Toroidal
+
 Al ser el espacio un fluido pleno, toda energía $E$ existente corresponde exclusivamente a la energía cinética del fluido en movimiento. Su magnitud global se rige por la integral de volumen clásica de Euler/Navier-Stokes:
 
 $$
@@ -249,7 +250,7 @@ $$
 E = \frac{1}{2} \rho_0 \Gamma^2 R \ln \left( \frac{8R}{r} \right)
 $$
 
-(Donde $R$ es el radio mayor del anillo y $r$ el radio de su núcleo. La sustitución directa de esta energía geométrica en el Postulado 2 será la base para la demostración analítica de la Ecuación de la Masa).
+*(Donde $R$ es el radio mayor del anillo y $r$ el radio menor de su núcleo. La sustitución directa de esta energía geométrica en el Postulado 2 será la base para la demostración analítica de la Ecuación de la Masa).*
 
 **Postulado 4. Cuantización de la Circulación (El Puente Cuántico)**  
 A diferencia de los remolinos macroscópicos cuyo giro puede tomar valores arbitrarios, los vórtices fundamentales que estructuran la materia son topológicamente estables porque su rotación está cuantizada. La circulación del fluido ($\Gamma$) obedece a una relación estrictamente inversa con la masa confinada, definida por:
