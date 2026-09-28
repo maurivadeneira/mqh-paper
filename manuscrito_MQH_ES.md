@@ -351,18 +351,18 @@ $$
 m = \frac{\rho_0 \Gamma^2 R}{2c^2} \ln\left(\frac{8R}{r}\right)
 $$
 
-**La Cuantización de la Circulación y el Tamaño Geométrico Predicho**  
-A diferencia de los remolinos efímeros macroscópicos, el electrón es un armónico de estabilidad perpetua. En la dinámica de superfluidos, esto exige que la circulación ($\Gamma$) obedezca a la cuantización estricta del Postulado 4 ($\Gamma = h/m$). Simultáneamente, la condición cinemática del Postulado 5 establece que el flujo interno gira a la velocidad límite del medio ($c$), relacionando la circulación con el perímetro perimetral ($\Gamma = c \cdot L$).
+**La Cuantización de la Circulación y el Tamaño Geométrico del Electrón**  
+A diferencia de los remolinos efímeros macroscópicos, el fermión más estable del universo —**el electrón**— es un armónico de estabilidad perpetua. En la dinámica de superfluidos, esto exige que la circulación ($\Gamma$) obedezca a la cuantización estricta del Postulado 4 ($\Gamma = h/m_e$). Simultáneamente, la condición cinemática del Postulado 5 establece que el flujo interno gira a la velocidad límite del medio ($c$), relacionando la circulación con el perímetro perimetral ($\Gamma = c \cdot L$).
 
 Igualando ambas expresiones de la circulación para aislar la escala de longitud del vórtice, obtenemos:
 
 $$
-c \cdot L = \frac{h}{m} \implies L = \frac{h}{m \cdot c}
+c \cdot L = \frac{h}{m_e} \implies L = \frac{h}{m_e \cdot c}
 $$
 
-Para verificar el poder predictivo de este teorema, sustituimos los valores de las constantes universales:
+Para verificar el poder predictivo de este teorema, introducimos las constantes universales aplicadas específicamente a la masa del **electrón** (el armónico base de la materia):
 * $h = 6.62607 \times 10^{-34} \text{ kg} \cdot \text{m}^2/\text{s}$ (Límite de tensión elástica)
-* $m = 9.10938 \times 10^{-31} \text{ kg}$ (Masa inercial del armónico base)
+* $m_e = 9.10938 \times 10^{-31} \text{ kg}$ (Masa inercial del electrón)
 * $c = 2.99792 \times 10^8 \text{ m/s}$ (Velocidad máxima de propagación)
 
 Al realizar el cálculo explícito:
@@ -371,33 +371,33 @@ $$
 L = \frac{6.62607 \times 10^{-34}}{(9.10938 \times 10^{-31}) \cdot (2.99792 \times 10^8)} = 2.42631 \times 10^{-12} \text{ m}
 $$
 
-La ecuación arroja un tamaño geométrico exacto de $2.42$ picómetros. La física ortodoxa midió este valor empíricamente en 1923 (bautizándolo como la *Longitud de onda de Compton*), pero su dogma de la partícula puntual le prohibió reconocerlo como el perímetro físico real del vórtice. En la MQH, este resultado es una consecuencia analítica ineludible.
+La ecuación arroja un tamaño geométrico exacto de $2.42$ picómetros para el perímetro físico del **electrón**. La física ortodoxa midió este valor empíricamente en 1923 (bautizándolo como la *Longitud de onda de Compton del electrón*), pero su dogma de la partícula puntual le prohibió reconocerlo como el perímetro físico real del vórtice. En la MQH, este resultado es una consecuencia analítica ineludible.
 
 **El Bloqueo Topológico y el Cálculo de $\rho_0$**  
-Sustituyendo la condición de circulación del Postulado 4 ($\Gamma = h/m$) en nuestra ecuación de masa previamente deducida, tenemos:
+Sustituyendo la condición de circulación del Postulado 4 ($\Gamma = h/m_e$) en nuestra ecuación de masa previamente deducida para el electrón, tenemos:
 
 $$
-m = \frac{\rho_0 \left(\frac{h}{m}\right)^2 R}{2c^2} \ln\left(\frac{8R}{r}\right)
+m_e = \frac{\rho_0 \left(\frac{h}{m_e}\right)^2 R_e}{2c^2} \ln\left(\frac{8R_e}{r_e}\right)
 $$
 
-Para resolver el término logarítmico $\ln(8R/r)$, aplicamos la condición de estabilidad de máxima eficiencia del vórtice cuántico: el sistema alcanza su equilibrio topológico cuando el cociente entre el radio mayor y el núcleo converge con la proporción del número de Euler ($8R/r = e \approx 2.718$).
+Para resolver el término logarítmico $\ln(8R_e/r_e)$, aplicamos la condición de estabilidad de máxima eficiencia del vórtice cuántico: el sistema alcanza su equilibrio topológico cuando el cociente entre el radio mayor y el núcleo converge con la proporción del número de Euler ($8R_e/r_e = e \approx 2.718$).
 
 Bajo este "bloqueo topológico" natural, la matemática se simplifica de forma extraordinaria: $\ln(e) = 1$. El término logarítmico desaparece, revelando la estructura cúbica desnuda de la masa:
 
 $$
-m^3 = \frac{\rho_0 h^2 R}{2c^2}
+m_e^3 = \frac{\rho_0 h^2 R_e}{2c^2}
 $$
 
 Despejando finalmente la densidad base del espacio ($\rho_0$), obtenemos la fórmula analítica universal del medio continuo:
 
 $$
-\rho_0 = \frac{2m^3 c^2}{h^2 R}
+\rho_0 = \frac{2m_e^3 c^2}{h^2 R_e}
 $$
 
-Evaluando la ecuación paso a paso con los valores conocidos y el radio toroidal asociado a su perímetro ($R = L/2\pi$, equivalente al radio de Compton reducido):
+Evaluando la ecuación paso a paso con los valores conocidos y el radio toroidal asociado al perímetro del electrón ($R_e = L/2\pi$, equivalente al radio de Compton reducido):
 
 $$
-m^3 = (9.10938 \times 10^{-31})^3 = 7.558 \times 10^{-91} \text{ kg}^3
+m_e^3 = (9.10938 \times 10^{-31})^3 = 7.558 \times 10^{-91} \text{ kg}^3
 $$
 $$
 c^2 = (2.99792 \times 10^8)^2 = 8.987 \times 10^{16} \text{ m}^2/\text{s}^2
@@ -409,7 +409,7 @@ $$
 Sustituyendo aritméticamente en la expresión:
 
 $$
-\rho_0 = \frac{2 \cdot (7.558 \times 10^{-91}) \cdot (8.987 \times 10^{16})}{(4.390 \times 10^{-67}) \cdot R}
+\rho_0 = \frac{2 \cdot (7.558 \times 10^{-91}) \cdot (8.987 \times 10^{16})}{(4.390 \times 10^{-67}) \cdot R_e}
 $$
 
 Al resolver la operación con el radio macroscópico exacto del vórtice, el resultado colapsa de manera determinista en una constante absoluta del cosmos:
