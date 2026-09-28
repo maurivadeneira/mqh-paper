@@ -236,7 +236,7 @@ El espacio físico no es un vacío, sino un medio fluido continuo, incompresible
 **Postulado 2. Principio de Equivalencia Inercial (La Naturaleza de la Materia)**  
 La masa inercial es energía confinada ($m = E/c^2$). En este marco, $m$ no es una partícula material sólida flotando en el vacío, sino una región de energía dinámica localizada; es decir, un remolino estructurado y formado por el mismo fluido primordial de La Fuente.
 
-### Postulado 3. Energía del Medio Continuo y Geometría Toroidal
+### Postulado 3. Energía del Medio Continuo y la Bifurcación de La Fuente
 
 Al ser el espacio un fluido pleno, toda energía $E$ existente corresponde exclusivamente a la energía cinética del fluido en movimiento. Su magnitud global se rige por la integral de volumen clásica de Euler/Navier-Stokes:
 
@@ -244,13 +244,17 @@ $$
 E = \iiint \frac{1}{2} \rho_0 v^2 \, dV
 $$
 
-Dado que la estructura topológicamente estable de este remolino fundamental es un anillo de vórtice (toroide), la resolución analítica exacta de esta integral triple colapsa en la solución hidrodinámica de Sir Horace Lamb:
+Esta integral universal divide el comportamiento hidrodinámico del espacio en dos grandes regímenes físicos (La Bifurcación de La Fuente):
+1. **Flujos Abiertos (Campos y Fuerzas):** Flujos no estables y variaciones de presión que no se encierran sobre sí mismos. Aquí habitan las ondas transversales y la energía libre.
+2. **Flujos Cerrados (Masa y Materia):** Corrientes anudadas sobre sí mismas formando remolinos de energía confinada y perpetuamente estable. 
+
+Dado que la estructura topológicamente estable de este remolino fundamental es un anillo de vórtice (toroide), la resolución analítica exacta de esta integral triple para el régimen de flujos cerrados colapsa en la solución hidrodinámica de Sir Horace Lamb:
 
 $$
 E = \frac{1}{2} \rho_0 \Gamma^2 R \ln \left( \frac{8R}{r} \right)
 $$
 
-*(Donde $R$ es el radio mayor del anillo y $r$ el radio menor de su núcleo. La sustitución directa de esta energía geométrica en el Postulado 2 será la base para la demostración analítica de la Ecuación de la Masa).*
+*(Donde $R$ es el radio mayor del anillo y $r$ el radio menor de su núcleo. La sustitución directa de esta energía geométrica toroidal en el Postulado 2 será la base para la demostración analítica de la Ecuación de la Masa).*
 
 **Postulado 4. Cuantización de la Circulación (El Puente Cuántico)**  
 A diferencia de los remolinos macroscópicos cuyo giro puede tomar valores arbitrarios, los vórtices fundamentales que estructuran la materia son topológicamente estables porque su rotación está cuantizada. La circulación del fluido ($\Gamma$) obedece a una relación estrictamente inversa con la masa confinada, definida por:
