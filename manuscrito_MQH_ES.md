@@ -296,22 +296,26 @@ Es imperativo delimitar el rol de las ecuaciones de la dinámica de fluidos en e
 En la MQH no estamos utilizando la hidrodinámica como una simple metáfora visual para intentar explicar el cosmos; estamos adoptando su estricta sintaxis analítica como la herramienta matemática óptima e ineludible para calcular la estructura íntima del universo. Bajo esta óptica, las entidades abstractas del Modelo Estándar —partículas puntuales, cargas mágicas y bosones mensajeros— pierden su estatus fundamental para traducirse en estados cinemáticos exactos, gradientes de presión y resonancias topológicas de este medio hiperdenso.
 
 
-**2.2 Geometría subatómica y el origen inercial de la Masa**
-Bajo la dinámica de La Fuente, el concepto de la "partícula puntual" del Modelo Estándar pierde todo sentido. Para comprender la materia, basta con observar la ecuación más famosa de la historia, invirtiendo su lógica hacia la ingeniería de fluidos:
+### 2.2 Geometría Subatómica y el Origen Inercial de la Masa
 
-$$ m = \frac{E}{c^2} $$
+En estricta obediencia al Postulado 2, bajo la dinámica de La Fuente, el concepto de la "partícula puntual" del Modelo Estándar pierde todo sentido. Para comprender la materia, basta con observar la ecuación más famosa de la historia, invirtiendo su lógica abstracta hacia la ingeniería de fluidos:
 
-Mecánicamente, esta ecuación no postula una transmutación alquímica entre dos entidades distintas, sino un estado de confinamiento. Nos indica que la *Masa* ($m$) es simplemente el nombre empírico que le otorgamos a la *Energía* ($E$) cuando esta queda atrapada girando en un mismo sitio, dividida por la rigidez del medio por el que viaja ($c^2$).
+$$
+m = \frac{E}{c^2}
+$$
+
+Mecánicamente, esta ecuación no postula una transmutación alquímica incomprensible entre dos entidades distintas, sino un estado de confinamiento. Nos indica que la *Masa* ($m$) es simplemente el nombre empírico que le otorgamos a la *Energía* ($E$) cuando esta queda atrapada girando en un mismo sitio, dividida por la rigidez elástica del medio por el que viaja ($c^2$).
 
 Para visualizar este fenómeno, podemos utilizar la analogía hidrodinámica de la corriente de un río:
+
 *   **Energía Libre (Bosones / Luz):** Imagínese el agua fluyendo en línea recta. Lleva consigo una inmensa cantidad de energía, empuja y viaja por el cauce, pero no posee "masa en reposo" porque no ocupa un punto fijo. Simplemente atraviesa el medio libremente como una onda mecánica propagada a través de La Fuente.
 *   **Energía Atrapada (Fermiones / Materia):** Repentinamente, debido a la interacción de flujos o a una presión extrema, esa misma onda tropieza y se enrolla sobre sí misma, formando un vórtice toroidal cerrado. El fluido sigue moviéndose internamente a velocidades formidables, pero ahora gira en círculos dentro de un área confinada.
 
-Si intentamos desplazar ese remolino cerrado empujándolo desde el exterior, el sistema opondrá una resistencia monumental. Esta resistencia no existe porque haya una "piedra sólida" en su interior, sino por la conservación del momento angular: se está peleando directamente contra la inercia del giro hidrodinámico. Esa resistencia mecánica que opone el vórtice toroidal al ser empujado, es exactamente la propiedad macroscópica que la física clásica midió y bautizó como *Masa*. 
+Si intentamos desplazar ese remolino cerrado empujándolo desde el exterior, el sistema opondrá una resistencia monumental. Esta resistencia no existe porque haya una "piedra sólida" en su interior, sino por la estricta conservación del momento angular: se está peleando directamente contra la inercia del giro hidrodinámico. Esa resistencia mecánica que opone el vórtice toroidal al ser empujado, es exactamente la propiedad macroscópica que la física clásica midió y bautizó como *Masa*.
 
-Bajo esta óptica, eventos como la fisión nuclear pierden su velo de misterio cuántico. En la explosión de una bomba atómica, la energía del fluido que llevaba miles de millones de años atrapada girando en círculos cerrados (el núcleo atómico estabilizado) pierde su condición de resonancia; el remolino, topológicamente bloqueado, simplemente se rompe. Al desarmarse, toda esa energía confinada sale disparada hacia afuera en forma de olas lineales (radiación electromagnética y ondas de choque térmico). Nunca hubo "materia sólida" aniquilándose; solo energía cinética confinada liberando violentamente su tensión contra el medio.
+Bajo esta óptica, eventos como la fisión nuclear pierden su velo de misterio cuántico. En la explosión de una bomba atómica, la energía del fluido que llevaba miles de millones de años atrapada girando en círculos cerrados (el núcleo atómico estabilizado) pierde su condición de resonancia; el remolino, topológicamente bloqueado, simplemente se rompe. Al desarmarse, toda esa energía confinada sale disparada hacia afuera en forma de ondas lineales (radiación electromagnética y ondas de choque térmico). Nunca hubo "materia sólida" aniquilándose; solo energía cinética confinada liberando violentamente su tensión contra el medio.
 
-En conclusión, la materia ordinaria no está formada por esferas sólidas. Cualquier cuerpo físico es, en realidad, un enjambre de miles de millones de micro-huracanes de energía cinética, estructuralmente estabilizados por la presión aplastante e invisible de La Fuente.
+En conclusión, la materia ordinaria no está formada por esferas sólidas elementales. Cualquier cuerpo físico es, en realidad, un enjambre de miles de millones de micro-huracanes de energía cinética, estructuralmente estabilizados por la presión aplastante e invisible de La Fuente.
 
 **2.3 La Ecuación del Vórtice y la derivación analítica de la Densidad Base ($\rho_0$)**
 
