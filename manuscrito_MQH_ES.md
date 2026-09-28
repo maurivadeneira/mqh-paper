@@ -431,6 +431,52 @@ $$
 
 El espacio no está vacío. Estamos inmersos en un océano continuo cuya densidad supera por decenas de miles de veces a la del agua. Es esta inmensa inercia primigenia la que confina y estabiliza la tremenda energía cinética de los micro-huracanes que componen toda la materia del universo.
 
+### 2.4 Las 3 Generaciones (Electrón, Muón, Tau) y la Deducción del Decaimiento
+
+Uno de los mayores callejones sin salida del Modelo Estándar es la existencia empírica de las tres "generaciones" de leptones. La familia del electrón posee dos hermanos mayores: el Muón y el Tau. Estas tres partículas comparten exactamente las mismas propiedades fundamentales (carga y espín), con la única diferencia de que las generaciones superiores son exorbitantemente más masivas y profundamente inestables. Al carecer de una mecánica espacial subyacente, la física ortodoxa se limitó a catalogar este comportamiento como un misterio insondable.
+
+Bajo la Mecánica Cuántica Hidrodinámica (MQH), este enigma se resuelve recordando una propiedad universal de la dinámica de fluidos y la acústica: **la resonancia en sistemas cerrados**. 
+
+Dado que nuestra partícula fundamental es un vórtice toroidal (un anillo cerrado de fluido), la onda interna no puede girar a cualquier velocidad arbitraria. Para que la corriente fluida complete la vuelta y se acople consigo misma de forma constructiva, su circulación debe ser un armónico exacto ($n = 1, 2, 3...$).
+
+El Muón y el Tau, por lo tanto, no son partículas elementales distintas. Son exactamente el mismo vórtice fundamental (el electrón), forzado por colisiones de extrema energía a resonar en "sobremarcha" hidrodinámica. El electrón es el estado base relajado ($n=1$), mientras que el Muón es el segundo armónico ($n=2$) y el Tau el tercero ($n=3$).
+
+**El Límite de Ruptura Lineal y la Deducción del Muón**  
+En la dinámica de fluidos clásica, cuando un vórtice vibra en un armónico superior, su geometría en expansión arrastra consigo una capa del fluido circundante, fenómeno conocido como "masa virtual" o "masa añadida". El límite absoluto de masa extra que el remolino puede confinar depende directamente de la impedancia o resistencia elástica del medio.
+
+Esta resistencia estructural del espacio está gobernada por la Constante de Estructura Fina ($\alpha \approx 1/137.036$). *(Nota: Aunque la física ortodoxa trata a $\alpha$ como un parámetro electromagnético abstracto, en el Capítulo 3 de este texto demostraremos analíticamente cómo el electromagnetismo se deriva de las ecuaciones de Navier-Stokes, revelando que $\alpha$ es la impedancia acústico-elástica de La Fuente).*
+
+Para el segundo armónico ($n=2$), la interacción geométrica entre el vórtice y la resistencia del espacio ($\alpha^{-1}$) genera un coeficiente de arrastre hidrodinámico. La masa inercial total que el remolino puede confinar en régimen lineal obedece a la relación teórica:
+
+$$
+m_\mu \approx m_e \left( 1 + \frac{3}{2\alpha} \right)
+$$
+
+Al evaluar esta predicción geométrica ideal con la resistencia del vacío ($\alpha^{-1} = 137.036$), obtenemos:
+
+$$
+m_\mu \approx m_e \left( 1 + \frac{3}{2} (137.036) \right) = 206.55 \, m_e
+$$
+
+Este resultado analítico de primer orden ($206.55 \, m_e$) converge con una asombrosa precisión del **99.89%** respecto al valor empírico oficial medido en laboratorio ($206.76 \, m_e$). El ínfimo desfase del $0.11\%$ no es un error, sino la huella mecánica predecible de la compresión del núcleo del vórtice y la contracción relativista; la inmensa presión deforma levemente la geometría ideal del remolino real. 
+
+**La Sobremarcha No Lineal (El Tau) y la Autopsia Topológica**  
+El Tau ($n=3$) representa el último armónico posible antes de la desintegración total. Sometido a una resonancia extrema, el vórtice entra en un régimen turbulento no lineal que arrastra una masa inercial monstruosa equivalente a $\approx 3477 \, m_e$. 
+
+Para observar analíticamente por qué estas partículas estallan y decaen, convocamos el Postulado 4 ($\Gamma_n = n \cdot h / m_n$) y el Postulado 5 ($\Gamma_n = c \cdot L_n$). Sustituyendo ambas variables en la ecuación de Lamb deducida en la sección anterior, obtenemos la **ley de escalamiento universal del decaimiento**:
+
+$$
+m_n^4 = m_e^4 \cdot n^3 \cdot \ln\left(\frac{8R_n}{r_n}\right)
+$$
+
+Despejando el término del estrés topológico $\ln(8R/r)$, realizamos una "autopsia" exacta de la tensión del fluido para cada generación:
+
+*   **El Electrón ($n=1$):** Al sustituir sus valores base, el logaritmo se aproxima a la unidad ($\ln(8R/r) \approx 1$). El remolino base descansa en el "bloqueo topológico" óptimo. El electrón es geométricamente inmortal.
+*   **El Muón ($n=2$):** Al introducir su masa empírica ($206.76 \, m_e$), el requerimiento topológico salta violentamente a $\approx 228,000,000$. Para confinar esa energía, el tubo del vórtice requiere una delgadez millones de veces superior a su radio, excediendo el límite elástico del medio. Estalla en $2.2$ microsegundos.
+*   **El Tau ($n=3$):** Confinando su masa extrema ($\approx 3477 \, m_e$), el estrés exigido alcanza la cifra insostenible de $\approx 5.4 \times 10^{12}$ (5.4 billones). El desgarro estructural es tan violento que el colapso ocurre en apenas $2.9 \times 10^{-13}$ segundos.
+
+Las generaciones de leptones no son un capricho divino ni un azar cuántico. El decaimiento débil es simplemente la respuesta mecánica y predecible de un fluido continuo sometido a una resonancia destructiva.
+
 ### 2.4 Las 3 Generaciones (Electrón, Muón, Tau) y la Autopsia Topológica del Decaimiento
 
 Uno de los mayores callejones sin salida del Modelo Estándar es la existencia de las tres "generaciones" de leptones. Empíricamente, la familia del electrón posee dos hermanos mayores: el Muón y el Tau. Estas partículas comparten exactamente las mismas propiedades fundamentales (carga y espín), con la única diferencia de que son exorbitantemente más masivas y profundamente inestables. Al carecer de una mecánica subyacente, la física ortodoxa se limitó a catalogar este comportamiento como un hecho estadístico dado, sin explicar jamás su causa estructural.
