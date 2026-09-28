@@ -426,11 +426,15 @@ $$
 
 El espacio no está vacío. Estamos inmersos en un océano continuo cuya densidad supera por decenas de miles de veces a la del agua. Es esta inmensa inercia primigenia la que confina y estabiliza la tremenda energía cinética de los micro-huracanes que componen toda la materia del universo.
 
-### 2.4 El Reto Empírico: Las 3 Generaciones y la Autopsia Topológica del Decaimiento
+### 2.4 Las 3 Generaciones (Electrón, Muón, Tau) y la Autopsia Topológica del Decaimiento
 
 Uno de los mayores callejones sin salida del Modelo Estándar es la existencia de las tres "generaciones" de leptones. Empíricamente, la familia del electrón posee dos hermanos mayores: el Muón y el Tau. Estas partículas comparten exactamente las mismas propiedades fundamentales (carga y espín), con la única diferencia de que son exorbitantemente más masivas y profundamente inestables. Al carecer de una mecánica subyacente, la física ortodoxa se limitó a catalogar este comportamiento como un hecho estadístico dado, sin explicar jamás su causa estructural.
 
-Bajo la Mecánica Cuántica Hidrodinámica (MQH), este enigma se resuelve mediante la acústica elemental de fluidos: el Muón y el Tau no son partículas elementales distintas, sino exactamente el mismo vórtice (el electrón) obligado a resonar en armónicos superiores ($n=2$ y $n=3$).
+Bajo la Mecánica Cuántica Hidrodinámica (MQH), este enigma se resuelve recordando una propiedad fundamental de la dinámica de fluidos y la acústica: **la resonancia en sistemas cerrados**. 
+
+Dado que nuestra partícula fundamental es un vórtice toroidal (un anillo cerrado de fluido), la onda interna no puede girar a cualquier velocidad arbitraria. Para que la corriente fluida complete la vuelta y se acople consigo misma sin cancelarse, su circulación debe ser un múltiplo entero exacto. A estos modos permitidos de vibración se les conoce como armónicos ($n = 1, 2, 3...$).
+
+El Muón y el Tau, por lo tanto, no son partículas elementales distintas creadas por la naturaleza. Son exactamente el mismo vórtice fundamental (el electrón), pero forzado por colisiones de extrema energía a resonar en "sobremarcha" hidrodinámica. El electrón es el estado base relajado ($n=1$), mientras que el Muón y el Tau son el segundo ($n=2$) y el tercer armónico ($n=3$), respectivamente.
 
 Para demostrar cuantitativamente por qué son tan masivas y por qué se destruyen casi instantáneamente (fenómeno que el Modelo Estándar tipifica como "decaimiento débil"), partimos de la ecuación general de la masa para cualquier armónico $n$:
 
@@ -487,7 +491,7 @@ $$
 \ln\left(\frac{8R_n}{r_n}\right) = \frac{1}{n^3} \left(\frac{m_n}{m_e}\right)^4
 $$
 
-**1. El Electrón (Armónico Base, $n=1$, $m_e = 0.511 \text{ MeV}$)**
+**1. El Electrón (Armónico Base, $n=1$, $m_e = 0.511 \text{ MeV}$)**  
 Sustituyendo los valores para la primera generación:
 
 $$
@@ -496,7 +500,7 @@ $$
 
 Como demostramos en la sección 2.3, el remolino base se encuentra en perfecta armonía topológica ($8R/r = e \approx 2.718$). El fluido no sufre tensión excesiva; las presiones internas y externas del vórtice se anulan, logrando una estabilidad absoluta. Por esta razón estricta y mecánica, el electrón es inmortal y no experimenta decaimiento.
 
-**2. El Muón (Segundo Armónico, $n=2$, $m_\mu = 105.6 \text{ MeV}$)**
+**2. El Muón (Segundo Armónico, $n=2$, $m_\mu = 105.6 \text{ MeV}$)**  
 Forzado a vibrar en la segunda octava, la inercia rotacional aumenta de forma dramática, haciendo al Muón $\approx 206.7$ veces más masivo que el electrón. Evaluando su topología con la ecuación maestra:
 
 $$
@@ -505,7 +509,7 @@ $$
 
 El término logarítmico salta violentamente de $1$ a $228$ millones. Mecánicamente, esto significa que el "tubo" del vórtice toroidal se ha estirado y adelgazado hasta volverse un filamento casi infinitamente estrecho. La tensión de corte (*shear stress*) del fluido no puede sostener una geometría tan extrema; el límite elástico de La Fuente se rompe. El remolino sufre un fenómeno hidrodinámico idéntico a la cavitación y estalla en apenas $2.2$ microsegundos, expulsando la energía excedente en forma de onda hasta que el sistema colapsa de regreso a su estado base ($n=1$).
 
-**3. El Tau (Tercer Armónico, $n=3$, $m_\tau = 1776 \text{ MeV}$)**
+**3. El Tau (Tercer Armónico, $n=3$, $m_\tau = 1776 \text{ MeV}$)**  
 Sometido al tercer armónico de resonancia, el fluido confina una masa $\approx 3475$ veces superior a la del electrón. Evaluando su geometría límite:
 
 $$
@@ -516,7 +520,7 @@ En este nivel de vibración, el estiramiento topológico alcanza la insostenible
 
 La física de partículas ha ignorado durante décadas que las generaciones de masa no son parámetros libres impuestos por decreto divino, sino la consecuencia geométrica ineludible de la resonancia de fluidos en La Fuente. El decaimiento débil no es un suceso probabilístico "mágico"; es la respuesta mecánica, pura y determinista de un medio continuo sometido a un estrés topológico insostenible.
 
-**La Temporalidad del Colapso (Horizonte Predictivo)**
+**La Temporalidad del Colapso (Horizonte Predictivo)**  
 Aunque esta autopsia topológica demuestra cuantitativamente la causa mecánica de la inestabilidad (el estrés cortante extremo), el cálculo analítico del tiempo exacto de vida media de estas partículas constituye el próximo horizonte predictivo de la MQH. En la dinámica de fluidos pura, el tiempo de colapso por cavitación está dictado por la velocidad de propagación de la ruptura (la velocidad máxima del medio, $c$) a través de la geometría estirada del vórtice. Derivar teóricamente los $2.2$ microsegundos del Muón y los $2.9 \times 10^{-13}$ segundos del Tau de forma directa desde su magnitud logarítmica de deformación será la prueba de fuego definitiva de este modelo matemático en las simulaciones de ingeniería venideras.
 
 **2.5 El Aporte Original de la MQH: Más allá de la Hidrodinámica Cuántica**
