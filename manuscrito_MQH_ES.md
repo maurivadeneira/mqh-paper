@@ -327,13 +327,18 @@ $$
 E = \iiint \frac{1}{2} \rho_0 v^2 \, dV
 $$
 
-Para resolver esta integral tridimensional en la geometría estable del remolino fundamental (un toroide delgado o anillo de vórtice), integramos el campo de velocidades $\mathbf{v}$ en todo el volumen del tubo toroidal, donde $R$ representa el radio mayor del anillo y $r$ el radio menor de su núcleo. La resolución analítica exacta de esta integral triple, lograda por Sir Horace Lamb, colapsa el caos tridimensional en la siguiente expresión geométrica de energía:
+**La Bifurcación de La Fuente: Masa vs. Campos**  
+Llegados a esta integral universal, la MQH establece una bifurcación ontológica y matemática que divide el comportamiento físico en dos grandes regímenes operativos:
+1. **El Régimen Abierto (Campos, Gradientes e Ingeniería):** Si el flujo no se encierra sobre sí mismo, la integral describe energía libre: ondas transversales, campos electromagnéticos y vectores de macro-presión. Este es el dominio que permite trascender la mecánica clásica hacia la Ingeniería de La Fuente (desarrollada en los Capítulos 3 y 6), sentando las bases teóricas para la manipulación de densidades de energía, la alteración de gradientes de vacío y los futuros motores de propulsión sin inercia.
+2. **El Régimen Confinado (Inercia y Física de Partículas):** Si la interacción de flujos obliga a la energía a anudarse en un bucle topológico estable, el fluido queda atrapado girando en el mismo sitio. Es aquí donde nace la materia. 
+
+Para el propósito estricto de derivar la masa de la partícula fundamental, tomamos este segundo camino geométrico: el remolino cerrado (un toroide delgado o anillo de vórtice). Al integrar el campo de velocidades $\mathbf{v}$ en todo el volumen de este tubo, donde $R$ es el radio mayor del anillo y $r$ el radio de su núcleo, la resolución analítica exacta lograda por Sir Horace Lamb colapsa el caos tridimensional en la siguiente expresión geométrica de energía:
 
 $$
 E = \frac{1}{2} \rho_0 \Gamma^2 R \ln \left( \frac{8R}{r} \right)
 $$
 
-Una vez obtenida la energía cinética del medio continuo, aplicamos el Principio de Equivalencia Inercial del Postulado 2, el cual establece que la masa inercial ($m$) es estrictamente la energía confinada dividida por el cuadrado de la velocidad límite del medio ($c^2$):
+Una vez obtenida la energía cinética del medio continuo confinado, aplicamos el Principio de Equivalencia Inercial del Postulado 2, el cual establece que la masa inercial ($m$) es estrictamente la energía encerrada dividida por el cuadrado de la velocidad límite del medio ($c^2$):
 
 $$
 m = \frac{E}{c^2}
@@ -345,74 +350,9 @@ $$
 m = \frac{\rho_0 \Gamma^2 R}{2c^2} \ln\left(\frac{8R}{r}\right)
 $$
 
-**La Cuantización de la Circulación y el Tamaño Geométrico Predicho**  
-A diferencia de los remolinos efímeros macroscópicos, el electrón es un armónico de estabilidad perpetua. En la dinámica de superfluidos, esto exige que la circulación ($\Gamma$) obedezca a la cuantización estricta del Postulado 4 ($\Gamma = h/m$). Simultáneamente, la condición cinemática del Postulado 5 establece que el flujo interno gira a la velocidad límite del medio ($c$), relacionando la circulación con el perímetro perimetral ($\Gamma = c \cdot L$).
+*(... Y a partir de aquí continúa el resto del bloque 2.3 con el cálculo exacto de $\rho_0$ y el tamaño del electrón que ya teníamos listo...)*
 
-Igualando ambas expresiones de la circulación para aislar la escala de longitud del vórtice, obtenemos:
 
-$$
-c \cdot L = \frac{h}{m} \implies L = \frac{h}{m \cdot c}
-$$
-
-Para verificar el poder predictivo de este teorema, sustituimos los valores de las constantes universales:
-* $h = 6.62607 \times 10^{-34} \text{ kg} \cdot \text{m}^2/\text{s}$ (Límite de tensión elástica)
-* $m = 9.10938 \times 10^{-31} \text{ kg}$ (Masa inercial del armónico base)
-* $c = 2.99792 \times 10^8 \text{ m/s}$ (Velocidad máxima de propagación)
-
-Al realizar el cálculo explícito:
-
-$$
-L = \frac{6.62607 \times 10^{-34}}{(9.10938 \times 10^{-31}) \cdot (2.99792 \times 10^8)} = 2.42631 \times 10^{-12} \text{ m}
-$$
-
-La ecuación arroja un tamaño geométrico exacto de $2.42$ picómetros. La física ortodoxa midió este valor empíricamente en 1923 (bautizándolo como la *Longitud de onda de Compton*), pero su dogma de la partícula puntual le prohibió reconocerlo como el perímetro físico real del vórtice. En la MQH, este resultado es una consecuencia analítica ineludible.
-
-**El Bloqueo Topológico y el Cálculo de $\rho_0$**  
-Sustituyendo la condición de circulación del Postulado 4 ($\Gamma = h/m$) en nuestra ecuación de masa previamente deducida, tenemos:
-
-$$
-m = \frac{\rho_0 \left(\frac{h}{m}\right)^2 R}{2c^2} \ln\left(\frac{8R}{r}\right)
-$$
-
-Para resolver el término logarítmico $\ln(8R/r)$, aplicamos la condición de estabilidad de máxima eficiencia del vórtice cuántico: el sistema alcanza su equilibrio topológico cuando el cociente entre el radio mayor y el núcleo converge con la proporción del número de Euler ($8R/r = e \approx 2.718$).
-
-Bajo este "bloqueo topológico" natural, la matemática se simplifica de forma extraordinaria: $\ln(e) = 1$. El término logarítmico desaparece, revelando la estructura cúbica desnuda de la masa:
-
-$$
-m^3 = \frac{\rho_0 h^2 R}{2c^2}
-$$
-
-Despejando finalmente la densidad base del espacio ($\rho_0$), obtenemos la fórmula analítica universal del medio continuo:
-
-$$
-\rho_0 = \frac{2m^3 c^2}{h^2 R}
-$$
-
-Evaluando la ecuación paso a paso con los valores conocidos y el radio toroidal asociado a su perímetro ($R = L/2\pi$, equivalente al radio de Compton reducido):
-
-$$
-m^3 = (9.10938 \times 10^{-31})^3 = 7.558 \times 10^{-91} \text{ kg}^3
-$$
-$$
-c^2 = (2.99792 \times 10^8)^2 = 8.987 \times 10^{16} \text{ m}^2/\text{s}^2
-$$
-$$
-h^2 = (6.62607 \times 10^{-34})^2 = 4.390 \times 10^{-67} \text{ kg}^2 \cdot \text{m}^4/\text{s}^2
-$$
-
-Sustituyendo aritméticamente en la expresión:
-
-$$
-\rho_0 = \frac{2 \cdot (7.558 \times 10^{-91}) \cdot (8.987 \times 10^{16})}{(4.390 \times 10^{-67}) \cdot R}
-$$
-
-Al resolver la operación con el radio macroscópico exacto del vórtice, el resultado colapsa de manera determinista en una constante absoluta del cosmos:
-
-$$
-\rho_0 \approx 63,700 \text{ kg/m}^3
-$$
-
-El espacio no está vacío. Estamos inmersos en un océano continuo cuya densidad supera por decenas de miles de veces a la del agua. Es esta inmensa inercia primigenia la que confina y estabiliza la tremenda energía cinética de los micro-huracanes que componen toda la materia del universo.
 **2.4 El Reto Empírico: Las 3 Generaciones y la Autopsia Topológica del Decaimiento**
 
 Uno de los mayores fracasos explicativos del Modelo Estándar es la existencia de las tres "generaciones" de leptones. Empíricamente, la familia del electrón posee dos hermanos mayores: el Muón y el Tau. Estas partículas poseen exactamente las mismas propiedades (carga, espín), con la única diferencia de que son exorbitantemente más masivas y profundamente inestables. Al carecer de una mecánica subyacente, la física ortodoxa se limitó a clasificar este fenómeno sin explicarlo.
