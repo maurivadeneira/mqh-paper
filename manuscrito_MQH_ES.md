@@ -225,6 +225,54 @@ Esta formulación deja plenamente transparente que la modificación altera de fo
 Con este recuento histórico, hemos realizado un diagnóstico objetivo de la disciplina. Hemos observado cómo las urgencias del cálculo empujaron el discurso teórico hacia una matematización extrema y desprovista de sustancia, provocando la fractura actual entre la masa, los campos cuánticos y la gravedad. Llegados a este punto de ruptura, el diagnóstico está completo y el terreno ha sido despejado. Ya no es necesario forzar la estadística ni inventar partículas invisibles; es momento de presentar la solución geométrica y fluida.
 
 ## 2. La Solución: Mecánica Cuántica Hidrodinámica (MQH)
+Síntesis Axiomática: Los Postulados Fundamentales de La Fuente
+
+La Mecánica Cuántica Hidrodinámica (MQH) se erige sobre siete axiomas o postulados ineludibles. Estos principios no introducen entidades metafísicas ni matemáticas abstractas, sino que aplican el rigor estricto de la mecánica de fluidos clásica a la escala cuántica y relativista.
+
+**Postulado 1. La Fuente (Naturaleza del Medio)**  
+El espacio físico no es un vacío, sino un medio fluido continuo, incompresible y perfecto. Este medio primordial es isotrópico y está caracterizado por poseer una densidad absoluta, constante y uniforme $\rho_0$ *(cuyo valor exacto, que ronda los $63,700 \text{ kg/m}^3$, será deducido analíticamente en el Capítulo 3 a partir de las constantes fundamentales de la cuántica y la relatividad)*.
+
+**Postulado 2. Principio de Equivalencia Inercial (La Naturaleza de la Materia)**  
+La masa inercial es energía confinada ($m = E/c^2$). En este marco, $m$ no es una partícula material sólida flotando en el vacío, sino una región de energía dinámica localizada; es decir, un remolino estructurado y formado por el mismo fluido primordial de La Fuente.
+
+**Postulado 3. Energía del Medio Continuo y Geometría Toroidal**  
+Al ser el espacio un fluido pleno, toda energía $E$ existente corresponde exclusivamente a la energía cinética del fluido en movimiento. Su magnitud global se rige por la integral de volumen clásica de Euler/Navier-Stokes:
+$$
+E = \iiint \frac{1}{2} \rho_0 v^2 \, dV
+$$
+Dado que la estructura topológicamente estable de este remolino fundamental es un anillo de vórtice (toroide), la resolución analítica exacta de esta integral triple colapsa en la solución hidrodinámica de Sir Horace Lamb:
+$$
+E = \frac{1}{2} \rho_0 \Gamma^2 R \ln \left( \frac{8R}{r} \right)
+$$
+*(Donde $R$ es el radio mayor del anillo y $r$ el radio de su núcleo. La sustitución directa de esta energía geométrica en el Postulado 2 será la base para la demostración analítica de la Ecuación de la Masa).*
+
+**Postulado 4. Cuantización de la Circulación (El Puente Cuántico)**  
+A diferencia de los remolinos macroscópicos cuyo giro puede tomar valores arbitrarios, los vórtices fundamentales que estructuran la materia son topológicamente estables porque su rotación está cuantizada. La circulación del fluido ($\Gamma$) obedece a una relación estrictamente inversa con la masa confinada, definida por:
+$$
+\Gamma = \frac{h}{m}
+$$
+Donde $h$ (la constante de Planck) deja de ser un parámetro probabilístico abstracto y se revela como el **cuanto fundamental de acción hidrodinámica**; es decir, la medida mínima e indivisible de momento angular que el fluido de La Fuente permite para sostener un vórtice estable.
+
+**Postulado 5. Límite Cinemático (El Origen Físico de $c$)**  
+La velocidad de la luz ($c$) no es una barrera abstracta del espacio-tiempo, sino la velocidad máxima de tensión, cizalla y propagación mecánica que soporta el fluido incompresible de La Fuente. En su estructuración, el flujo interno del vórtice gira exactamente a esta velocidad límite, estableciendo la condición de frontera:
+$$
+\Gamma = c \cdot L
+$$
+Donde $L$ representa la longitud característica de la línea de corriente interna (el perímetro del núcleo del vórtice). Esta condición cinemática explica físicamente por qué ninguna partícula con masa puede superar $c$: dado que el fluido que la conforma ya está girando a la máxima velocidad que el medio permite, cualquier empuje adicional provocaría la ruptura topológica del remolino.
+
+**Postulado 6. Gradiente de Presión (El Origen Hidrodinámico de las Fuerzas)**  
+En el medio continuo de La Fuente, se descarta el concepto de "acción a distancia" o campos inmateriales de atracción. Toda interacción entre partículas (gravedad o electromagnetismo) es el resultado estricto de variaciones locales de presión en el fluido. Conforme al teorema de Bernoulli y las ecuaciones de Euler para fluidos incompresibles:
+$$
+P + \frac{1}{2}\rho_0 v^2 = \text{Constante}
+$$
+Cuando dos vórtices interactúan, la superposición de sus campos de velocidad genera una caída de presión en el espacio intermedio. La "fuerza de atracción" es mecánicamente el empuje que ejerce la alta presión de La Fuente circundante hacia las zonas de baja presión.
+
+**Postulado 7. Confinamiento Topológico (La Conservación de la Materia)**  
+Para que una fluctuación de energía en La Fuente adquiera la estabilidad de una partícula material permanente y no se disipe, debe constituir un "nudo" hidrodinámico. Esto exige que su campo de velocidades ($\mathbf{v}$) y su campo de vorticidad ($\boldsymbol{\omega}$) estén entrelazados, poseyendo una helicidad hidrodinámica invariante y distinta de cero:
+$$
+H = \iiint \mathbf{v} \cdot \boldsymbol{\omega} \, dV \neq 0
+$$
+Dado que La Fuente es un fluido perfecto (Postulado 1), la topología matemática dicta que la helicidad se conserva de forma absoluta. Un electrón no se desvanece ni se disuelve espontáneamente porque su estructura de vórtice es un nudo topológico que no puede desatarse a sí mismo, fundamentando mecánicamente la Ley de Conservación de la Materia.
 
 **2.1 La transición ontológica y el Diccionario de Equivalencias**
 
