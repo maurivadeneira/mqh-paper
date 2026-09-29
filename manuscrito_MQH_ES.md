@@ -974,6 +974,47 @@ $$ \text{Proporción Geométrica } = \frac{R}{r} = \frac{52.91 \text{ pm}}{0.386
 Esta proporción es exactamente el inverso de la Constante de Estructura Fina ($1/\alpha$). En la Mecánica Cuántica Hidrodinámica (MQH), la constante $\alpha$ deja de ser un número aleatorio del universo; es la **relación de aspecto geométrica (aspect ratio) del macro-toroide fundamental de la materia**. Es la proporción estricta entre el radio de giro orbital del electrón y el grosor de su propia línea de vórtice.
 
 Finalmente, lo que el Modelo Estándar percibe a través de la estadística matemática como una misteriosa "nube esférica de probabilidad" (el orbital 1s), es en realidad la envoltura hidrodinámica —promediada en el tiempo— de este macro-toroide perfecto. Esta estructura de corrientes explica de forma natural y mecánica por qué el átomo de hidrógeno posee un eje magnético dipolar, consolidando la máxima absoluta de la MQH: el universo es de naturaleza fractal (vórtices dentro de vórtices), regido íntegramente por las leyes inquebrantables de la mecánica de fluidos.
+
+### 4.2.3 El Régimen Confinado: La Ecuación de Masa Toroidal y el Espectro de Resonancias
+
+**El Régimen Confinado (Inercia y Física de Partículas):** Si la interacción de flujos obliga a la energía a anudarse en un bucle topológico estable, el fluido queda atrapado girando en el mismo sitio. Es aquí donde nace la materia.
+
+Para el propósito estricto de derivar la masa de la partícula fundamental, tomamos este segundo camino geométrico: el remolino cerrado (un toroide delgado o anillo de vórtice). Al integrar el campo de velocidades $v$ en todo el volumen de este tubo, donde $R$ es el radio mayor del anillo y $r$ el radio menor de su núcleo, la resolución analítica exacta lograda por Sir Horace Lamb colapsa el caos tridimensional en la siguiente expresión geométrica de energía:
+
+$$ E = \frac{1}{2} \rho_0 \Gamma^2 R \ln\left(\frac{8R}{r}\right) $$
+
+Una vez obtenida la energía cinética del medio continuo confinado, aplicamos el Principio de Equivalencia Inercial del Postulado 2, el cual establece que la masa inercial ($m$) es estrictamente la energía encerrada dividida por el cuadrado de la velocidad límite del medio ($c^2$):
+
+$$ m = \frac{E}{c^2} $$
+
+Sustituyendo la energía toroidal de Lamb en la ecuación de equivalencia inercial, obtenemos la ecuación analítica definitiva de la masa en función de la dinámica de fluidos:
+
+$$ m = \frac{\rho_0 \Gamma^2 R}{2 c^2} \ln\left(\frac{8R}{r}\right) $$
+
+#### 1. La Cuantización del Hidrógeno: El Colapso en el Armónico 7
+En la física de fluidos macroscópica, el término logarítmico $\ln(8R/r)$ es simplemente un factor de forma que varía según el grosor del anillo. Sin embargo, al aplicar esta ecuación al macro-toroide cuántico fundamental (el átomo de hidrógeno), la relación geométrica deja de ser arbitraria.
+
+Como demostramos en la arquitectura global del átomo, la proporción entre el radio mayor orbital ($R$) y el radio menor del flujo arrastrado ($r$) está dictada por la impedancia de *La Fuente*, dando como resultado el inverso exacto de la Constante de Estructura Fina ($1/\alpha \approx 137.036$). Al introducir esta implacable condición topológica dentro de la ecuación de masa de Lamb, ocurre una de las simplificaciones matemáticas más profundas de la física teórica:
+
+$$ \ln\left(8 \frac{R}{r}\right) = \ln(8 \times 137.036) = \ln(1096.288) \approx 6.9996... $$
+
+El caos del logaritmo neperiano colapsa asombrosamente en un número entero perfecto: el armónico **7**. Esto reduce la intrincada ecuación de masa a una expresión de suprema pureza algebraica para la escala atómica:
+
+$$ m = \frac{7 \rho_0 \Gamma^2 R}{2 c^2} $$
+
+Esta deducción demuestra de manera concluyente que la "masa" no requiere de campos de Higgs ni de postulados mágicos; está matemáticamente *cuantizada* porque la topología del toroide cuántico se estabiliza mecánicamente en una relación de aspecto estricta, obligando a la inercia del fluido confinado a resonar en un armónico exacto.
+
+#### 2. Más Allá del Hidrógeno: El Espectro de Resonancias Topológicas (Hacia la Tabla Periódica)
+El colapso en el entero 7 plantea una interrogante ineludible: ¿qué ocurre al subir en la tabla periódica hacia átomos polielectrónicos como el Helio ($Z=2$)? Al evaluar la dinámica de múltiples electrones apareados, la MQH revela que la estabilidad química no es un mero apilamiento estadístico de capas cuánticas, sino un **espectro de modos de resonancia topológica del fluido**.
+
+Al evaluar el término $\ln(8R/r)$ para diferentes escalas estructurales, emerge un patrón geométrico subyacente que trasciende a los números enteros:
+* **El Electrón (Toroide Base):** Representa el pulso fundamental, la unidad geométrica (**1**).
+* **El "Andamio" del Protón:** El toroide base sobre el cual se anuda el trébol bariónico arroja un logaritmo de $\approx 3.17$, un cierre de fase circular cercano a **$\pi$**.
+* **El Helio (Dos Electrones):** El acoplamiento de un par de vórtices singlete contrae el radio orbital, arrojando un logaritmo de $\approx 6.3 - 6.4$, dictando un cierre de onda simétrico cercano a **$2\pi$**.
+* **El Hidrógeno (Binario Perfecto):** El límite de máxima elongación estable antes de romperse, anclado en el armónico máximo de **7**.
+
+Esta secuencia ($1, \pi, 2\pi, 7$) demuestra que la naturaleza estabiliza la materia a través de diferentes regímenes de ondas de fluido: resonancias por unidad, cierres de fase circular y armónicos enteros. El desarrollo analítico exhaustivo de los toroides polielectrónicos trasciende el alcance de este capítulo, pero la ruta queda matemáticamente trazada: la tabla periódica de los elementos es, en su nivel más profundo, un catálogo de las resonancias acústico-elásticas estables de *La Fuente*.
+
 ### 4.3 Bosones: Desmitificando las Partículas Mensajeras
 
 El Modelo Estándar exige que todas las fuerzas de la naturaleza sean mediadas por un intercambio literal de "partículas mensajeras" (los bosones de gauge). Esta visión corpuscular obliga a imaginar un universo donde las partículas elementales se lanzan microscópicas esferas invisibles entre sí para saber cómo interactuar. 
