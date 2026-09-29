@@ -926,29 +926,35 @@ Bajo la Mecánica Cuántica Hidrodinámica (MQH), la estabilidad perpetua del hi
 
 Cuando el satélite (el anillo toroidal del electrón) es arrastrado hacia el sumidero de alta presión del protón (el nudo trébol), choca contra un límite mecánico: la impenetrable densidad del fluido intermedio. El electrón y el protón no pueden ocupar el mismo volumen por la misma razón que impide comprimir un líquido en una jeringa sellada. 
 
-#### 3. La Deducción Mecánica del Radio de Bohr 
-Esta frontera elástica se revela en toda su pureza al reescribir la Ecuación del Equilibrio Hidrodinámico. En lugar de usar la amalgama de constantes de Bohr, podemos expresar el Radio de Bohr ($a_0$) integrando nuestra constante de impedancia del fluido ($\alpha$):
+#### 3. La Deducción Mecánica del Radio de Bohr (El Álgebra Irrefutable)
+Para no dejar margen de duda de que la MQH se apoya en matemáticas estrictamente rigurosas, veamos cómo la propia física ortodoxa esconde la respuesta en sus ecuaciones. La definición clásica e indiscutida del Radio de Bohr es:
 
-$$ a_0 = \frac{\hbar}{m_e c \alpha} $$
+$$ a_0 = \frac{4 \pi \varepsilon_0 \hbar^2}{m_e e^2} $$
 
-En el modelo de la MQH, el término $\frac{\hbar}{m_e c}$ corresponde a la Longitud de Onda Compton reducida del electrón ($\bar{\lambda}_c$), que representa físicamente la "huella" o el tamaño base del núcleo del vórtice del electrón. Simplificando la ecuación, el velo matemático se cae por completo:
+Por otro lado, la Constante de Estructura Fina ($\alpha$), introducida por Sommerfeld, tiene una definición universalmente aceptada:
+
+$$ \alpha = \frac{e^2}{4 \pi \varepsilon_0 \hbar c} $$
+
+Si en esta última ecuación agrupamos y despejamos los términos electromagnéticos ($\frac{4 \pi \varepsilon_0}{e^2}$), obtenemos una equivalencia directa:
+
+$$ \frac{4 \pi \varepsilon_0}{e^2} = \frac{1}{\alpha \hbar c} $$
+
+Al sustituir esta identidad algebraica dentro de la ecuación original de Bohr, la matemática se simplifica de forma reveladora, sin añadir ni quitar nada arbitrariamente:
+
+$$ a_0 = \left( \frac{1}{\alpha \hbar c} \right) \frac{\hbar^2}{m_e} = \frac{\hbar}{m_e c \alpha} $$
+
+En la física de partículas tradicional, esta relación se considera una simple "coincidencia de escala". Pero en el modelo de la MQH, recobra su pleno sentido físico. El término $\frac{\hbar}{m_e c}$ corresponde a la Longitud de Onda Compton reducida del electrón ($\bar{\lambda}_c$), que representa el **tamaño físico base del remolino del electrón**. El velo matemático se cae por completo mostrando la dinámica de fluidos subyacente:
 
 $$ a_0 = \frac{\bar{\lambda}_c}{\alpha} $$
 
-Sustituyendo los parámetros reales del universo:
-* Tamaño base del vórtice del electrón ($\bar{\lambda}_c$): $\approx 3.861 \times 10^{-13} \text{ m}$
-* Resistencia acústico-elástica de *La Fuente* ($1/\alpha$): $137.036$
-
-Al multiplicar el volumen basal del vórtice por la resistencia a la compresión del medio fluido, la matemática escupe con implacable precisión geométrica:
+#### 4. La Conclusión Histórica
+Sustituyendo los parámetros reales del universo, tenemos el tamaño base del vórtice del electrón ($\bar{\lambda}_c \approx 3.861 \times 10^{-13} \text{ m}$) multiplicado por la resistencia acústico-elástica de *La Fuente* ($1/\alpha \approx 137.036$). La matemática escupe con implacable precisión geométrica:
 
 $$ a_0 = (3.861 \times 10^{-13} \text{ m}) \times 137.036 \approx 5.291 \times 10^{-11} \text{ metros} $$
 
 Exactamente **$52.9 \text{ picómetros}$**. 
 
-#### 4. La Conclusión Histórica
-La matemática de *La Fuente* demuestra un hecho demoledor: la teoría ortodoxa no dedujo el tamaño del átomo, lo encajó a la fuerza. El Radio de Bohr no es una nube probabilística; es la distancia geométrica exacta donde el remolino del electrón encuentra su límite de amortiguamiento contra la impedancia del fluido cósmico ($\alpha$). 
-
-La escala a la que orbita el hidrógeno ($52.9 \text{ pm}$) está dictada de forma directa por la relación mecánica entre el tamaño físico de su propio vórtice y la rigidez elástica de *La Fuente*. El átomo de hidrógeno orbita a esa distancia porque allí se alcanza el equilibrio perfecto de presiones hidrodinámicas, devolviéndole por fin el sentido físico a la constante que Bohr tuvo que forzar hace más de cien años.
+El Radio de Bohr no es una nube probabilística; es la distancia geométrica exacta donde el remolino del electrón encuentra su límite de amortiguamiento contra la impedancia del fluido cósmico. La teoría ortodoxa no dedujo el tamaño del átomo, lo encajó a la fuerza; la MQH, en cambio, demuestra que el hidrógeno orbita a esa distancia precisa porque allí se alcanza el equilibrio perfecto de presiones hidrodinámicas. Le hemos devuelto, por fin, la causalidad física a la ecuación que Bohr se vio obligado a forzar hace más de cien años.
 
 ### 4.3 Bosones: Desmitificando las Partículas Mensajeras
 
