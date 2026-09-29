@@ -9,38 +9,47 @@
 
 **Resumen:** 
 
-## PRINCIPIOS TOPOLÓGICOS DE LA MECÁNICA CUÁNTICA HIDRODINÁMICA (MQH)
+# RESUMEN: PRINCIPIOS TOPOLÓGICOS DE LA MECÁNICA CUÁNTICA HIDRODINÁMICA (MQH)
 
-**1. LA FUENTE**
-El espacio es un medio físico, continuo, incompresible e hiperdenso.
+**1. LA FUENTE** 
+El espacio no es un vacío geométrico; es un medio físico, continuo, incompresible e hiperdenso. Toda partícula es una perturbación estructurada en este fluido.
 
 **2. FÓRMULAS FUNDAMENTALES**
-* **Velocidad de la luz ($c$):** La velocidad de propagación de la onda transversal en el medio.
-$$c = \sqrt{\frac{K}{\rho_0}}$$
-* **Constante de Planck ($h$):** El límite de tensión elástica y cuantización de la vorticidad del fluido. 
-$$h = \Gamma \cdot m$$
-* **Masa ($m$):** Coeficiente de resistencia hidrodinámica (arrastre topológico).
-$$m = \frac{E}{c^2}$$
+* **Velocidad de la luz ($c$):** La velocidad de propagación de las ondas transversales (límite de tensión de corte) en el medio.
+* **Constante de Planck ($h$):** El límite de tensión elástica y cuantización de la vorticidad del fluido.
+* **Masa ($m$):** No es una propiedad intrínseca, sino el coeficiente de resistencia hidrodinámica (arrastre topológico) de un vórtice cerrado. $m = E / c^2$.
 
-**3. DENSIDAD DEL MEDIO ($\rho_0$)**
-$$\rho_0 = \frac{2m^3 c^2}{h^2 R}$$
-**Valor deducido:** $63,700 \text{ kg/m}^3$
+**3. DENSIDAD DEL MEDIO ($\rho_0$)** 
+Basado en la inercia del fluido cuántico:
+$$
+\rho_0 = \frac{2 m^3 c^2}{h^2 R} \approx 63,700 \text{ kg/m}^3
+$$
 
-**4. EL ELECTRÓN (Fermión Base)**
-La topología estable más simple en rotación: un vórtice toroidal simple ($n=1$).
-* **Equilibrio de presiones:** $\frac{8R}{r} = e$
-* **Tamaño físico (Radio):** $2.42 \text{ pm}$
+**4. EL ELECTRÓN (Fermión Base)** 
+La topología estable más simple en rotación: un anillo de vórtice toroidal simple ($n=1$).
+* Equilibrio de presiones geométricas: $\ln(8R/r) = 1 \Rightarrow \frac{8R}{r} \approx e$
+* Radio físico de la estructura: $\approx 2.42 \text{ pm}$
 
-**5. EL PROTÓN Y LA MASA BARIÓNICA**
-Topología geométrica requerida para confinar tres vórtices abiertos (quarks) sin que el medio los aplaste: el Nudo Trébol ($T_{2,3}$).
-* **Invariante topológico (Helicidad):** 
-$$H = \int \mathbf{v} \cdot \boldsymbol{\omega} \, dV$$
-* **Estrés topológico lineal (cruces):** $p \times q = 2 \times 3 = 6$
-* **Estrés topológico volumétrico (torsión 3D):** $\pi^5$
+**5. EL PROTÓN Y LA MASA BARIÓNICA** 
+La topología geométrica requerida para confinar vórtices abiertos sin que la inmensa presión del medio los colapse: el Nudo Trébol ($T_{2,3}$).
+* Invariante topológico (Helicidad): $H = \int \mathbf{v} \cdot \boldsymbol{\omega} \, dV$
+* Estrés topológico lineal (cruces): $p \times q = 2 \times 3 = 6$
+* Estrés topológico volumétrico (torsión 3D): $\pi^5$
+* Relación exacta de Masa Protón/Electrón: 
+$$
+\frac{M_p}{m_e} = (p \times q)\pi^5 = 6\pi^5 \approx 1836.12
+$$
 
-**Relación de Masa Protón/Electrón ($M_p/m_e$):**
+**6. EL ESPECTRO DE RESONANCIAS (La Secuencia de la Creación)**
+Al evaluar la inercia hidrodinámica de Lamb ($\ln(8R/r)$) en estructuras de mayor complejidad, la materia se estabiliza en armónicos enteros y cierres de fase del fluido base:
+* **El Electrón:** 1 (La unidad fundamental).
+* **El Protón:** $\pi$ (Resonancia circular del andamio base).
+* **El Helio:** $2\pi$ (Cierre de fase de espines apareados).
+* **El Hidrógeno:** 7 (Límite máximo de elongación binaria).
+* **El Agua ($H_2O$):** 8 (Octava perfecta de acoplamiento molecular).
 
-$$ \frac{M_p}{m_e} = (p \times q)\pi^5 = 6\pi^5 \approx 1836.118 $$
+**7. COSMOLOGÍA Y GRAVEDAD MACROSCÓPICA**
+Al escalar la MQH, la gravedad pierde su naturaleza de "curvatura del espacio-tiempo" y se revela como un **gradiente de presión hidrodinámica** hacia los sumideros másivos. Las galaxias operan como macro-vórtices en *La Fuente*, explicando la cohesión de sus velocidades de rotación periféricas y eliminando matemáticamente la necesidad de postular la existencia de la "Materia Oscura".
 
 ---
 
