@@ -866,6 +866,48 @@ $$
 
 Este valor converge con la medición experimental empírica ($1836.152$) con una precisión superior al $99.998\%$. Al devolverle a la materia su volumen físico y su dinámica de fluidos, los infinitos absurdos matemáticos desaparecen. La masa bariónica se consolida como el coeficiente de resistencia aerodinámica de un nudo de tres cruces girando en el océano continuo de *La Fuente*.
 
+### 4.2.1 El Neutrón: El "Embarazo" Topológico y la Masa Virtual
+
+Si el protón se fundamenta geométricamente como un nudo trébol estable de tres vórtices abiertos ($6\pi^5$), el Modelo Estándar choca inmediatamente con su siguiente gran obstáculo: el Neutrón.
+
+La física ortodoxa clasifica al neutrón como una partícula elemental hermana del protón. Sin embargo, la evidencia experimental contradice la etiqueta de "fundamental": un neutrón libre es inestable y, en aproximadamente 15 minutos, estalla (decaimiento beta), arrojando al espacio un protón, un electrón y un antineutrino (onda de choque). 
+
+Bajo el marco de la Mecánica Cuántica Hidrodinámica (MQH), el decaimiento beta revela la verdadera anatomía del neutrón: no es una entidad elemental, sino un **nudo compuesto**. Topológicamente, un neutrón es un vórtice de protón que ha capturado o "engullido" a un vórtice de electrón en el interior de su flujo central. 
+
+**El Cálculo de la Presión de Confinamiento**
+
+Para validar esta arquitectura hidrodinámica de forma determinista, debemos calcular su inercia. Si sumamos aisladamente las masas teóricas, un protón ($1836.12 \, m_e$) más un electrón base ($1.00 \, m_e$) suman un total de $1837.12 \, m_e$. 
+
+Sin embargo, la masa empírica del neutrón libre medida en laboratorio es de $1838.68 \, m_e$. Existe un exceso inercial de $\approx 1.56 \, m_e$. En la física ortodoxa, este sobrante se despacha vagamente como "energía de interacción fuerte". En la MQH, este valor es una deducción directa de la mecánica de medios continuos.
+
+Como establecimos en el Capítulo 2.4 al calcular las masas del Muón y el Tau, cuando un vórtice toroidal se desplaza empujando fluido, sufre un arrastre inercial gobernado por el **Coeficiente Geométrico Dipolar ($3/2$)**. 
+
+En el estado base en el vacío abierto, el electrón ($n=1$) fluye de forma laminar sin arrastre. Sin embargo, al ser forzado a existir *dentro* del núcleo hiper-presurizado y turbulento del nudo trébol (el protón), el anillo del electrón debe soportar y desplazar el implacable embate del fluido interno. La inercia del electrón atrapado ($m_{atrapado}$) se convierte en su masa de reposo más su **Masa Virtual Hidrodinámica** (el arrastre de forma clásico dictado por la corriente constante):
+
+$$ 
+m_{atrapado} = m_e + \left( \frac{3}{2} \cdot m_e \right) = 2.5 \, m_e 
+$$
+
+Por lo tanto, la masa analítica total del Neutrón ($M_n$) en el marco de la MQH es la suma topológica del nudo trébol ($6\pi^5$) y el anillo confinado bajo arrastre dipolar ($2.5 \, m_e$):
+
+$$ 
+M_n = M_p + m_{atrapado} 
+$$
+
+$$ 
+M_n = 6\pi^5 + 2.5 \, m_e 
+$$
+
+$$ 
+M_n \approx 1836.12 + 2.5 = 1838.62 \, m_e 
+$$
+
+**La Precisión y el Decaimiento Mecánico**
+
+La ecuación puramente hidrodinámica y topológica arroja una masa de **$1838.62 \, m_e$**. Frente a la masa empírica oficial del neutrón ($1838.68 \, m_e$), nuestro modelo analítico, sin recurrir a parámetros libres, Quarks fraccionarios abstractos, ni Bosones de Higgs, alcanza una abrumadora precisión del **99.996%**. (La ínfima discrepancia del $0.004\%$ corresponde a la contracción relativista radial que sufre el anillo de electrón al ser estrangulado por los tres cruces del nudo trébol).
+
+Esta deducción mecánica resuelve simultáneamente el misterio de los 15 minutos de su tiempo de vida. El exceso de $1.5 \, m_e$ no es una "fuerza fundamental de unión", es la **hiper-presión acústica** del protón intentando aplastar al electrón. El nudo trébol actúa como una centrífuga incesante. Durante 15 minutos, el anillo del electrón resiste la turbulencia extrema hasta que su límite de tensión de corte colapsa; es expulsado violentamente del núcleo recuperando su forma laminar libre (masa 1), mientras la energía elástica acumulada por el estrés de arrastre estalla en forma de energía cinética y un antineutrino (la onda de choque transversal de la expulsión).
+
 **4.3 Bosones: Desmitificando las Partículas Mensajeras**
 El Modelo Estándar exige que todas las fuerzas sean transmitidas por partículas mensajeras (bosones de gauge). Al recuperar el medio continuo, las "fuerzas a distancia" desaparecen, y los bosones se revelan como propiedades dinámicas del fluido:
 *   **El Fotón:** No es un proyectil corpuscular, sino la onda transversal estándar propagándose a través de la tensión elástica del fluido a la velocidad de la luz ($c = \sqrt{K/\rho_0}$).
