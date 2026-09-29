@@ -499,18 +499,32 @@ $$
 
 **1. El Electrón (Armónico Base, $n=1$, $m_e = 0.511 \text{ MeV}$)**  
 Sustituyendo los valores para la primera generación:
-$$ \ln\left(\frac{8R_1}{r_1}\right) = \frac{1}{1^3} \left(\frac{0.511}{0.511}\right)^4 = 1 $$
+
+$$ 
+\ln\left(\frac{8R_1}{r_1}\right) = \frac{1}{1^3} \left(\frac{0.511}{0.511}\right)^4 = 1 
+$$
+
 El remolino base descansa en el "bloqueo topológico" óptimo ($8R/r = e \approx 2.718$). Las presiones internas y externas se anulan, logrando una estabilidad absoluta. El electrón es geométricamente inmortal.
 
 **2. El Muón (Segundo Armónico, $n=2$, $m_\mu = 105.6 \text{ MeV}$)**  
 Forzado a vibrar en la segunda octava, la inercia aumenta de forma dramática, haciendo al Muón $\approx 206.7$ veces más masivo. Evaluando su topología con la ecuación maestra:
-$$ \ln\left(\frac{8R_\mu}{r_\mu}\right) = \frac{1}{2^3} (206.7)^4 \approx 228,000,000 $$
-El requerimiento topológico salta violentamente de 1 a 228 millones. Mecánicamente, el "tubo" del vórtice se estira hasta volverse un filamento casi infinitamente estrecho, excediendo el límite elástico del medio. El remolino sufre cavitación y estalla en apenas $2.2$ microsegundos, expulsando la energía excedente en forma de onda hasta que el sistema colapsa de regreso a su estado base ($n=1$).
+
+$$ 
+\ln\left(\frac{8R_\mu}{r_\mu}\right) = \frac{1}{2^3} (206.7)^4 \approx 228,000,000 
+$$
+
+El requerimiento topológico salta violentamente de $1$ a $228$ millones. Mecánicamente, el "tubo" del vórtice se estira hasta volverse un filamento casi infinitamente estrecho, excediendo el límite elástico del medio. El remolino sufre cavitación y estalla en apenas $2.2$ microsegundos, expulsando la energía excedente en forma de onda hasta que el sistema colapsa de regreso a su estado base ($n=1$).
 
 **3. El Tau (Tercer Armónico, $n=3$, $m_\tau = 1776 \text{ MeV}$)**  
 Sometido al tercer armónico, el fluido arrastra una inercia monstruosa $\approx 3477$ veces superior a la del electrón. Evaluando su geometría límite:
-$$ \ln\left(\frac{8R_\tau}{r_\tau}\right) = \frac{1}{3^3} (3477)^4 \approx 5,400,000,000,000 $$
-El estiramiento topológico alcanza la insostenible cifra de 5.4 billones. El estrés estructural sobre el tejido de La Fuente es tan absoluto y violento que la cavitación lo aniquila por completo en apenas $2.9 \times 10^{-13}$ segundos.
+
+$$ 
+\ln\left(\frac{8R_\tau}{r_\tau}\right) = \frac{1}{3^3} (3477)^4 \approx 5,400,000,000,000 
+$$
+
+El estiramiento topológico alcanza la insostenible cifra de $5.4$ billones. El estrés estructural sobre el tejido de La Fuente es tan absoluto y violento que la cavitación lo aniquila por completo en apenas $2.9 \times 10^{-13}$ segundos.
+
+---
 
 Las generaciones de leptones no son parámetros libres impuestos por decreto divino. El decaimiento débil no es un suceso probabilístico cuántico; es la respuesta mecánica, pura y predecible de un fluido continuo sometido a un estrés topológico destructivo.
 
