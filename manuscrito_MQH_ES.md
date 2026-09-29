@@ -908,35 +908,47 @@ La ecuación puramente hidrodinámica y topológica arroja una masa de **$1838.6
 
 Esta deducción mecánica resuelve simultáneamente el misterio de los 15 minutos de su tiempo de vida. El exceso de $1.5 \, m_e$ no es una "fuerza fundamental de unión", es la **hiper-presión acústica** del protón intentando aplastar al electrón. El nudo trébol actúa como una centrífuga incesante. Durante 15 minutos, el anillo del electrón resiste la turbulencia extrema hasta que su límite de tensión de corte colapsa; es expulsado violentamente del núcleo recuperando su forma laminar libre (masa 1), mientras la energía elástica acumulada por el estrés de arrastre estalla en forma de energía cinética y un antineutrino (la onda de choque transversal de la expulsión).
 
-### 4.2.2 El Átomo de Hidrógeno: Equilibrio Hidrodinámico y el Radio de Bohr
+### 4.2.2 El Átomo de Hidrógeno: La Historia de un Parche Matemático y el Verdadero Equilibrio Hidrodinámico
 
-En la física ortodoxa, el átomo de hidrógeno representa una paradoja histórica. Según el electromagnetismo clásico, un electrón orbitando un núcleo debería irradiar su energía y colapsar en espiral instantáneamente. En 1913, Niels Bohr resolvió este desastre introduciendo un postulado arbitrario: decretó que el electrón solo podía existir en ciertas órbitas cuantizadas, sin ofrecer explicación física. Un siglo después, el Modelo Estándar moderno y la electrodinámica cuántica siguen ocultando este vacío explicativo; han reemplazado el colapso clásico por nubes de probabilidad estadística abstractas, donde el electrón no tiene un mecanismo real de sustentación, sino que simplemente "tiene mayor probabilidad matemática" de estar a cierta distancia.
+En la física ortodoxa, el átomo de hidrógeno representa una paradoja histórica que dio a luz a la mecánica cuántica moderna a través de un acto de desesperación matemática. Según el electromagnetismo clásico, un electrón orbitando un núcleo debería irradiar su energía y colapsar en espiral contra el protón en una fracción de billonésima de segundo. El universo, de ser clásico y vacío, no debería existir.
 
-Bajo la Mecánica Cuántica Hidrodinámica (MQH), la estabilidad perpetua del hidrógeno no requiere decretos mágicos ni estadística fantasmal; es una consecuencia ineludible de la dinámica de medios continuos.
+#### 1. El Malabarismo Histórico de Niels Bohr (1913)
+Para evitar este colapso catastrófico, en 1913 Niels Bohr propuso su famoso modelo atómico. Al darse cuenta de que si dejaba las ecuaciones de Newton y Maxwell libres el electrón se estrellaba, Bohr se sacó de la manga un postulado mágico sin ninguna justificación física: decretó, por axioma, que el momento angular del electrón solo podía existir en paquetes enteros de $\hbar$ ($mvr = n\hbar$). 
 
-#### 1. El Mecanismo Anti-Colapso: La Incompresibilidad de La Fuente
+Bohr no sabía *por qué* el electrón tenía que obedecer esa regla; simplemente la impuso a la fuerza para que la fórmula arrojara el número correcto de los espectros de luz del hidrógeno. Era un parche matemático brillante, pero un parche al fin y al cabo. 
 
-El átomo de hidrógeno es un sistema binario de acoplamiento acústico-hidrodinámico:
-* **El Núcleo (Protón):** El nudo trébol bariónico ($6\pi^5$) actúa como un violento sumidero de vorticidad, generando un gradiente empinado de baja presión radial.
-* **El Satélite (Electrón):** El anillo toroidal laminar ($n=1$) es arrastrado naturalmente hacia ese pozo de succión.
+Un dato histórico clave que la ortodoxia suele omitir es que, en 1913, Bohr ni siquiera conocía la constante de estructura fina ($\alpha$). Fue Arnold Sommerfeld quien la introdujo tres años después, en 1916, para intentar explicar las correcciones relativistas de las órbitas. Bohr simplemente juntó las constantes disponibles ($\varepsilon_0$, $h$, $m_e$ y $e$) porque, mediante un análisis dimensional ciego, las unidades daban la distancia correcta. Así nació el concepto de "órbita cuántica": no de una comprensión mecánica del espacio, sino de forzar una ecuación para que coincidiera con el laboratorio.
 
-El sistema no colapsa en un punto geométrico nulo porque *La Fuente* es un fluido hiperdenso ($\rho_0 \approx 63,700 \text{ kg/m}^3$) e **incompresible**. Cuando el anillo del electrón es arrastrado hacia el núcleo, choca contra un límite donde el fluido intermedio alcanza su máxima tensión de resistencia elástica. El electrón y el protón no pueden ocupar el mismo volumen por la misma razón hidrodinámica que impide comprimir el agua en un recinto cerrado: la impenetrabilidad del fluido desplazado.
+Un siglo después, el Modelo Estándar sigue ocultando este vacío explicativo; reemplazó las órbitas de Bohr por nubes de probabilidad estadística abstractas ($|\psi|^2$), donde el electrón no tiene un mecanismo real que lo sostenga frente a la succión del núcleo.
 
-#### 2. La Deducción Mecánica del Radio de Bohr frente a la Ortodoxia
+#### 2. El Mecanismo Anti-Colapso: La Incompresibilidad de La Fuente
+Bajo la Mecánica Cuántica Hidrodinámica (MQH), la estabilidad perpetua del hidrógeno no requiere decretos mágicos ni estadística fantasmal. El átomo no colapsa porque *La Fuente* es un fluido hiperdenso ($\rho_0 \approx 63,700 \text{ kg/m}^3$) e **incompresible**. 
 
-La demostración de esta barrera elástica se revela al analizar el Radio de Bohr ($a_0 \approx 52.9 \text{ pm}$). Algebraicamente, partiendo de las constantes universales, el Radio de Bohr se define como:
+Cuando el satélite (el anillo toroidal del electrón) es arrastrado hacia el sumidero de alta presión del protón (el nudo trébol), choca contra un límite mecánico: la impenetrable densidad del fluido intermedio. El electrón y el protón no pueden ocupar el mismo volumen por la misma razón que impide comprimir un líquido en una jeringa sellada. 
+
+#### 3. La Deducción Mecánica del Radio de Bohr 
+Esta frontera elástica se revela en toda su pureza al reescribir la Ecuación del Equilibrio Hidrodinámico. En lugar de usar la amalgama de constantes de Bohr, podemos expresar el Radio de Bohr ($a_0$) integrando nuestra constante de impedancia del fluido ($\alpha$):
 
 $$ a_0 = \frac{\hbar}{m_e c \alpha} $$
 
-Donde $\frac{\hbar}{m_e c}$ corresponde a la longitud de onda Compton reducida del electrón ($\bar{\lambda}_c$). Simplificando, la ecuación queda:
+En el modelo de la MQH, el término $\frac{\hbar}{m_e c}$ corresponde a la Longitud de Onda Compton reducida del electrón ($\bar{\lambda}_c$), que representa físicamente la "huella" o el tamaño base del núcleo del vórtice del electrón. Simplificando la ecuación, el velo matemático se cae por completo:
 
 $$ a_0 = \frac{\bar{\lambda}_c}{\alpha} $$
 
-**La Diferencia Interpretativa Fundamental:**
-* **Para el Modelo Estándar:** Esta ecuación es tratada como una simple identidad algebraica o un factor de conversión de unidades. Dado que asumen un vacío geométrico inerte, $\alpha$ ($1/137$) es considerado un número adimensional misterioso sin causa física, y $a_0$ es solo el pico de una curva de densidad de probabilidad ($|\psi|^2$). No hay un *por qué* físico; es solo estadística y álgebra.
-* **Para la MQH:** Esta ecuación es la ley de frontera mecánica del fluido. La ecuación pierde todo su misticismo probabilístico: $\bar{\lambda}_c$ es el **tamaño físico y volumétrico real del vórtice del electrón**, y $\alpha$ es el **coeficiente de impedancia y resistencia elástica del medio continuo**. 
+Sustituyendo los parámetros reales del universo:
+* Tamaño base del vórtice del electrón ($\bar{\lambda}_c$): $\approx 3.861 \times 10^{-13} \text{ m}$
+* Resistencia acústico-elástica de *La Fuente* ($1/\alpha$): $137.036$
 
-El Radio de Bohr no es donde el electrón "podría" estar; es el tamaño físico real de su remolino escalado exactamente por la fricción de rebote de *La Fuente*. El átomo de hidrógeno orbita a $52.9$ picómetros porque esa es la distancia geométrica exacta de equilibrio estático donde la fuerza de succión hidrodinámica del protón se anula mecánicamente con la resistencia elástica del universo.
+Al multiplicar el volumen basal del vórtice por la resistencia a la compresión del medio fluido, la matemática escupe con implacable precisión geométrica:
+
+$$ a_0 = (3.861 \times 10^{-13} \text{ m}) \times 137.036 \approx 5.291 \times 10^{-11} \text{ metros} $$
+
+Exactamente **$52.9 \text{ picómetros}$**. 
+
+#### 4. La Conclusión Histórica
+La matemática de *La Fuente* demuestra un hecho demoledor: la teoría ortodoxa no dedujo el tamaño del átomo, lo encajó a la fuerza. El Radio de Bohr no es una nube probabilística; es la distancia geométrica exacta donde el remolino del electrón encuentra su límite de amortiguamiento contra la impedancia del fluido cósmico ($\alpha$). 
+
+La escala a la que orbita el hidrógeno ($52.9 \text{ pm}$) está dictada de forma directa por la relación mecánica entre el tamaño físico de su propio vórtice y la rigidez elástica de *La Fuente*. El átomo de hidrógeno orbita a esa distancia porque allí se alcanza el equilibrio perfecto de presiones hidrodinámicas, devolviéndole por fin el sentido físico a la constante que Bohr tuvo que forzar hace más de cien años.
 
 ### 4.3 Bosones: Desmitificando las Partículas Mensajeras
 
