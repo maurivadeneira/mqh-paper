@@ -782,7 +782,29 @@ $$
 * La **Corriente Eléctrica** ($\mathbf{J}$) no es más que el flujo macroscópico de estos remolinos (vórtices) desplazándose a través del océano de La Fuente.
 * La **Corriente de Desplazamiento** ($\frac{\partial \mathbf{E}}{\partial t}$), que siempre ha sido un concepto abstracto difícil de visualizar, es físicamente el rebote elástico del espacio. Cuando un campo eléctrico (presión) cambia de golpe, el fluido "tiembla", generando ondas de choque transversales que nosotros medimos como un campo magnético inducido.
 
-**3.5 El Triunfo de la Mecánica (Conclusión del Capítulo)**
+**3.5 La Revelación de $\alpha$: La Impedancia Acústico-Elástica de La Fuente**
+
+En la física de partículas contemporánea, la Constante de Estructura Fina ($\alpha \approx 1/137.036$) es considerada uno de los mayores misterios sin resolver; un número puro, sin dimensiones, que rige la interacción electromagnética en un supuesto vacío. Sin embargo, al despojar al electromagnetismo de su velo abstracto y devolverle su sustrato hidrodinámico, $\alpha$ revela su verdadera identidad mecánica.
+
+La física ortodoxa calcula empíricamente esta constante mediante la siguiente relación:
+
+$$ \alpha = \frac{e^2}{2 \varepsilon_0 h c} $$
+
+Bajo la óptica del Modelo Estándar, esta ecuación carece de un significado estructural subyacente. Pero al examinar sus cuatro componentes bajo los postulados de la Mecánica Cuántica Hidrodinámica (MQH), descubrimos que la ortodoxia ha estado calculando, sin saberlo, una constante de mecánica de medios continuos:
+
+1. **$c$ (Velocidad de la luz):** Como establece nuestro Postulado 5, es la velocidad límite de propagación transversal del fluido ($c = \sqrt{K/\rho_0}$).
+2. **$h$ (Constante de Planck):** Como dicta el Postulado 4, es el límite de tensión elástica y el cuanto de vorticidad del fluido.
+3. **$\varepsilon_0$ (Permitividad):** Es el coeficiente de compresibilidad elástica del medio continuo.
+4. **$e$ (Carga eléctrica):** Como demostramos en la Sección 3.3 mediante la Ley de Gauss, la carga no es una sustancia, sino un sumidero de presión hidrodinámica ($-\nabla^2 P$).
+
+Si la ecuación de $\alpha$ está construida exclusivamente a partir del límite de corte cinemático ($c$), la vorticidad máxima ($h$), la compresibilidad elástica ($\varepsilon_0$) y el gradiente de presión ($e$) de un medio, la conclusión matemática es ineludible: **$\alpha$ es intrínsecamente una propiedad del fluido.**
+
+En la ingeniería de fluidos y acústica, cuando se relacionan estas variables, el resultado adimensional es el **Coeficiente de Acoplamiento o Impedancia**. Físicamente, el valor de $1/137$ significa que el medio continuo (*La Fuente*) opone una inmensa resistencia elástica al arrastre. Cuando un vórtice como el electrón gira internamente a velocidad $c$, resbala casi perfectamente contra el espacio; de la energía de su tensión topológica, solo logra acoplarse y transmitir fricción al medio en una proporción de 1 a 137. 
+
+Esta es la justificación geométrica y causal de por qué, en el Capítulo 2.4, la inercia arrastrada por los armónicos superiores (el Muón y el Tau) se multiplica tan brutalmente al ser dividida por $\alpha$. La MQH no impone el número 137 por conveniencia matemática; lo reclama como la medida empírica exacta de la rigidez estructural de nuestro océano cósmico.
+
+**3.6 El Triunfo de la Mecánica (Conclusión del Capítulo)**
+
 Las ecuaciones de Maxwell nunca pertenecieron al vacío. Son, línea por línea, la descripción geométrica y cinemática de un fluido hiperdenso ($\rho_0 \approx 63,700 \text{ kg/m}^3$) siendo empujado, rotado y comprimido por estructuras toroidales. Al devolverle el sustrato material (La Fuente) a las matemáticas, la Mecánica Cuántica Hidrodinámica (MQH) no solo reconcilia el electromagnetismo con la gravedad (la inercia), sino que destierra para siempre el misticismo de las "acciones a distancia".
 
 # CAPÍTULO 4: La Tabla Periódica de los Vórtices (Reinterpretando el Modelo Estándar)
