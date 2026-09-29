@@ -944,10 +944,13 @@ $$ M_H = M_p + m_e - \text{Estrés de Interfaz} $$
 
 El "defecto de masa" no es una conversión mística de masa en energía libre, sino la **reducción de la fricción de corte (*shear stress*)**. Cuando los campos de velocidad del protón y el electrón se acoplan en un solo flujo armónico coordinado a $52.9 \text{ pm}$, el arrastre total sobre *La Fuente* disminuye. 
 
-Al compartir la misma línea de corriente, el fluido se tensiona un poco menos que cuando ambas partículas están separadas. Esa minúscula diferencia energética (los $13.6 \text{ eV}$, o $\approx 2.66 \times 10^{-8} \, m_e$) es exactamente el ahorro de resistencia hidrodinámica del acoplamiento. 
+Al compartir la misma línea de corriente, el fluido se tensiona un poco menos que cuando ambas partículas están separadas. Esa minúscula diferencia energética (los $13.6 \text{ eV}$, equivalente a un defecto de masa de $\approx 2.66 \times 10^{-8} m_e$) es exactamente el ahorro de resistencia hidrodinámica del acoplamiento. 
 
 Por lo tanto, la masa analítica del hidrógeno queda establecida mecánicamente:
-$$ M_H = 1836.12 \, m_e (\text{Protón}) + 1.00 \, m_e (\text{Electrón}) - \Delta M_{\text{hidrodinámico}} \approx 1837.12 \, m_e $$
+
+$$ M_H = 1836.12 m_e \text{ (Protón)} + 1.00 m_e \text{ (Electrón)} - \Delta M_{\text{hidrodinámico}} $$
+
+$$ M_H \approx 1837.12 m_e $$
 
 El átomo de hidrógeno es el estado fundamental de la materia porque representa la mínima entropía de deformación de *La Fuente*: un sistema binario perfecto sostenido por la incompresibilidad del medio.
 
