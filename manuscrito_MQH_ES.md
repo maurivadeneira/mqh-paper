@@ -954,6 +954,16 @@ $$ M_H \approx 1837.12 m_e $$
 
 El átomo de hidrógeno es el estado fundamental de la materia porque representa la mínima entropía de deformación de *La Fuente*: un sistema binario perfecto sostenido por la incompresibilidad del medio.
 
+#### 5. La Arquitectura Global: El Macro-Toroide del Hidrógeno
+Al romper con la visión clásica de "partículas puntuales orbitando", la mecánica de fluidos revela la verdadera topología del átomo. Cuando el anillo del electrón entra en equilibrio hidrodinámico y orbita al nudo bariónico, no forma una trayectoria vacía; arrastra las líneas de corriente de *La Fuente* creando un vórtice envolvente de orden superior.
+
+El átomo de hidrógeno en su conjunto se estructura topológicamente como un **macro-toroide dinámico**:
+* Su **Radio Mayor ($R$)** está dictado por el radio de circulación de Bohr ($a_0 = 52.9 \text{ pm}$).
+* Su **Radio Menor ($r$)** corresponde a la sección de flujo transversal arrastrada por la inercia del electrón.
+* Su centro de rotación alberga el pozo de presión del nudo trébol del protón.
+
+Lo que el Modelo Estándar percibe estadísticamente como una "nube esférica de probabilidad" (el orbital 1s), es en realidad la envoltura hidrodinámica promediada en el tiempo de este macro-toroide. Esta estructura toroidal perfecta explica de forma natural por qué el átomo de hidrógeno posee un eje magnético dipolar, consolidando la naturaleza fractal del universo: vórtices dentro de vórtices, sostenidos por las inquebrantables leyes de la hidrodinámica.
+
 ### 4.3 Bosones: Desmitificando las Partículas Mensajeras
 
 El Modelo Estándar exige que todas las fuerzas de la naturaleza sean mediadas por un intercambio literal de "partículas mensajeras" (los bosones de gauge). Esta visión corpuscular obliga a imaginar un universo donde las partículas elementales se lanzan microscópicas esferas invisibles entre sí para saber cómo interactuar. 
