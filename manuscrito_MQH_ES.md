@@ -1005,15 +1005,36 @@ $$ m = \frac{7 \rho_0 \Gamma^2 R}{2 c^2} $$
 Esta deducción demuestra de manera concluyente que la "masa" no requiere de campos de Higgs ni de postulados mágicos; está matemáticamente *cuantizada* porque la topología del toroide cuántico se estabiliza mecánicamente en una relación de aspecto estricta, obligando a la inercia del fluido confinado a resonar en un armónico exacto.
 
 #### 2. Más Allá del Hidrógeno: El Espectro de Resonancias Topológicas (Hacia la Tabla Periódica)
-El colapso en el entero 7 plantea una interrogante ineludible: ¿qué ocurre al subir en la tabla periódica hacia átomos polielectrónicos como el Helio ($Z=2$)? Al evaluar la dinámica de múltiples electrones apareados, la MQH revela que la estabilidad química no es un mero apilamiento estadístico de capas cuánticas, sino un **espectro de modos de resonancia topológica del fluido**.
+El colapso del átomo de hidrógeno en el entero 7 plantea una interrogante ineludible: ¿qué ocurre en otras estructuras fundamentales y al subir en la tabla periódica hacia átomos polielectrónicos como el Helio ($Z=2$)? Al evaluar el término $\ln(8R/r)$ con los radios reales de estas estructuras, emerge un patrón geométrico subyacente que trasciende a los números enteros y revela un espectro de cierres de fase:
 
-Al evaluar el término $\ln(8R/r)$ para diferentes escalas estructurales, emerge un patrón geométrico subyacente que trasciende a los números enteros:
-* **El Electrón (Toroide Base):** Representa el pulso fundamental, la unidad geométrica (**1**).
-* **El "Andamio" del Protón:** El toroide base sobre el cual se anuda el trébol bariónico arroja un logaritmo de $\approx 3.17$, un cierre de fase circular cercano a **$\pi$**.
-* **El Helio (Dos Electrones):** El acoplamiento de un par de vórtices singlete contrae el radio orbital, arrojando un logaritmo de $\approx 6.3 - 6.4$, dictando un cierre de onda simétrico cercano a **$2\pi$**.
-* **El Hidrógeno (Binario Perfecto):** El límite de máxima elongación estable antes de romperse, anclado en el armónico máximo de **7**.
+**A. El "Andamio" del Protón (Resonancia $\pi$)**
+El protón es un nudo trébol ($6\pi^5$) hipercomprimido, cuya masa es 1836.12 veces mayor que la del electrón. Si comprimimos el radio base del electrón ($\approx 0.386 \text{ pm}$) por este factor inercial, obtenemos el radio transversal puro del cordón de fluido: $r_p \approx 0.21 \text{ fm}$. 
+Sabiendo que el límite exterior de impacto (el radio de carga medido en laboratorios) es de $0.84 \text{ fm}$, el radio mayor del toroide base sobre el cual se anuda el trébol se deduce por simple resta ($R_p = 0.84 - 0.21$):
+* $R_p = 0.63 \text{ fm}$
+* $r_p = 0.21 \text{ fm}$
+* Proporción geométrica: $R_p / r_p = 3$
 
-Esta secuencia ($1, \pi, 2\pi, 7$) demuestra que la naturaleza estabiliza la materia a través de diferentes regímenes de ondas de fluido: resonancias por unidad, cierres de fase circular y armónicos enteros. El desarrollo analítico exhaustivo de los toroides polielectrónicos trasciende el alcance de este capítulo, pero la ruta queda matemáticamente trazada: la tabla periódica de los elementos es, en su nivel más profundo, un catálogo de las resonancias acústico-elásticas estables de *La Fuente*.
+Aplicando el logaritmo de Lamb a este "andamio" topológico base:
+$$ \ln\left(8 \frac{R_p}{r_p}\right) = \ln(8 \times 3) = \ln(24) \approx 3.178 $$
+Este valor revela un cierre de fase circular asombrosamente cercano a **$\pi$ ($3.1415...$)**. El toroide base del protón es una dona geométrica extremadamente densa y apretada, estabilizada en medio ciclo de fase fluida, preparada para soportar la brutal tensión topológica del nudo trébol.
+
+**B. El Átomo de Helio (Resonancia $2\pi$)**
+En el Helio ($Z=2$), la duplicación de la presión en el sumidero bariónico (dos protones) contrae geométricamente el macro-toroide orbital a la mitad de su tamaño original, albergando a dos electrones apareados.
+* Radio mayor contraído ($R_{\text{He}}$): $a_0 / 2 \approx 26.46 \text{ pm}$
+* Radio menor (huella base Compton del electrón, $r$): $\approx 0.386 \text{ pm}$
+* Proporción geométrica: $R_{\text{He}} / r \approx 68.51$
+
+Aplicando el logaritmo de Lamb a la macro-estructura del Helio neutro:
+$$ \ln\left(8 \frac{R_{\text{He}}}{r}\right) = \ln(8 \times 68.51) = \ln(548.14) \approx 6.306 $$
+Aquí el logaritmo no busca un número entero; colapsa en un valor geométrico que dicta un cierre de onda simétrico cercano a **$2\pi$ ($6.283...$)**. La estabilidad del Helio no responde a la misma holgura que el hidrógeno, sino al cierre de fase completo de dos corrientes de espín opuesto.
+
+**La Secuencia de la Creación**
+Esta progresión geométrica estricta ($1, \pi, 2\pi, 7$) demuestra que la naturaleza estabiliza la materia a través de diferentes regímenes de ondas de fluido:
+1. **La unidad (1):** El pulso fundamental (electrón).
+2. **Cierres de fase ($\pi$, $2\pi$):** Estructuras hiperdensas o apareadas (andamio bariónico y Helio).
+3. **Armónicos enteros (7):** Límite máximo de elongación del acoplamiento binario fluido (Hidrógeno).
+
+El desarrollo analítico exhaustivo de los toroides polielectrónicos trasciende el alcance de este capítulo, pero la ruta queda matemáticamente trazada: la tabla periódica de los elementos es, en su nivel más profundo, un catálogo de las resonancias acústico-elásticas estables de *La Fuente*.
 
 ### 4.3 Bosones: Desmitificando las Partículas Mensajeras
 
