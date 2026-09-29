@@ -549,19 +549,40 @@ $$
 **La Evaluación Analítica de las Tres Generaciones**  
 Con la ecuación ensamblada, evaluamos el arrastre para cada armónico observado utilizando la impedancia teórica del vacío ($\alpha^{-1} = 137.036$):
 
-*   **El Electrón (Estado Base, $n=1$):** El límite de la sumatoria es $n-1 = 0$. La serie es nula.
-    $$ m_1 \approx m_e \left( 1 + \frac{3}{2\alpha} (0) \right) = m_e $$
-    El modelo predice exactamente la masa del electrón sin arrastre adicional, confirmando su flujo laminar perfecto y su estabilidad absoluta.
+**El Electrón (Estado Base, $n=1$):**  
+El límite de la sumatoria es $n-1 = 0$. La serie es nula.
 
-*   **El Muón (Segundo Armónico, $n=2$):** El vórtice incorpora un nodo de resonancia ($n-1 = 1$). El esfuerzo nodal es $1^4 = 1$.
-    $$ m_\mu \approx m_e \left( 1 + \frac{3}{2} (137.036) \cdot (1) \right) $$
-    $$ m_\mu \approx m_e ( 1 + 205.55 ) = 206.55 \, m_e $$
-    La teoría predice analíticamente **$206.55 \, m_e$**. Frente a la masa empírica observada en laboratorio ($206.76 \, m_e$), la ecuación pura de fluidos alcanza una precisión del **99.89%**.
+$$ 
+m_1 \approx m_e \left( 1 + \frac{3}{2\alpha} (0) \right) = m_e 
+$$
 
-*   **El Tau (Tercer Armónico, $n=3$):** El vórtice sostiene un régimen turbulento con dos fronteras nodales ($n-1 = 2$). Sumamos la cuarta potencia de los nodos: $1^4 + 2^4 = 1 + 16 = 17$.
-    $$ m_\tau \approx m_e \left( 1 + \frac{3}{2} (137.036) \cdot (17) \right) $$
-    $$ m_\tau \approx m_e ( 1 + 3494.4 ) = 3495.4 \, m_e $$
-    La teoría predice una masa límite de **$3495.4 \, m_e$**. Frente a la inmensa masa empírica oficial ($3477.2 \, m_e$), el cálculo sostiene una precisión del **99.48%**.
+El modelo predice exactamente la masa del electrón sin arrastre adicional, confirmando su flujo laminar perfecto y su estabilidad absoluta.
+
+**El Muón (Segundo Armónico, $n=2$):**  
+El vórtice incorpora un nodo de resonancia ($n-1 = 1$). El esfuerzo nodal es $1^4 = 1$.
+
+$$ 
+m_\mu \approx m_e \left( 1 + \frac{3}{2} (137.036) \cdot (1) \right) 
+$$
+
+$$ 
+m_\mu \approx m_e ( 1 + 205.55 ) = 206.55 \, m_e 
+$$
+
+La teoría predice analíticamente **$206.55 \, m_e$**. Frente a la masa empírica observada en laboratorio ($206.76 \, m_e$), la ecuación pura de fluidos alcanza una precisión del **99.89%**.
+
+**El Tau (Tercer Armónico, $n=3$):**  
+El vórtice sostiene un régimen turbulento con dos fronteras nodales ($n-1 = 2$). Sumamos la cuarta potencia de los nodos: $1^4 + 2^4 = 1 + 16 = 17$.
+
+$$ 
+m_\tau \approx m_e \left( 1 + \frac{3}{2} (137.036) \cdot (17) \right) 
+$$
+
+$$ 
+m_\tau \approx m_e ( 1 + 3494.4 ) = 3495.4 \, m_e 
+$$
+
+La teoría predice una masa límite de **$3495.4 \, m_e$**. Frente a la inmensa masa empírica oficial ($3477.2 \, m_e$), el cálculo sostiene una precisión del **99.48%**.
 
 **El Significado Físico de las Variaciones**  
 Los ínfimos desfases ($0.11\%$ para el Muón y $0.52\%$ para el Tau) no son fallas del modelo, sino la manifestación de la hidrodinámica real. La ecuación predictiva asume un anillo matemáticamente rígido, pero bajo presiones extremas, el vórtice físico sufre compresión del núcleo y contracción relativista. En el caso del Tau, la turbulencia es tan violenta que el remolino "derrama" una pequeña fracción de masa (ese $0.5\%$) antes de poder cerrarse. 
