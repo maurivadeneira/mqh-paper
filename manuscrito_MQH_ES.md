@@ -1,13 +1,14 @@
 # Mecánica Cuántica Hidrodinámica (MQH)
-
 ## Unificación de Masas, Campos y Gravedad en un Medio Continuo Hiperdenso
 
-**Autores:** Mauricio Rivadeneira¹*, AI Research Collaborator²
-**Afiliaciones:** ¹Independent Researcher, ²Advanced Computational Physics Simulation Unit
-**Contacto:** * maurivadeneira@gmail.com
-**Fecha:** 16 de septiembre de 2026
+**Autores:** Mauricio Rivadeneira¹*, AI Research Collaborator²  
+**Afiliaciones:** ¹Independent Researcher, ²Advanced Computational Physics Simulation Unit  
+**Contacto:** * maurivadeneira@gmail.com  
+**Fecha:** 16 de septiembre de 2026  
 
-# RESUMEN: PRINCIPIOS TOPOLÓGICOS DE LA MECÁNICA CUÁNTICA HIDRODINÁMICA (MQH)
+---
+
+### RESUMEN: PRINCIPIOS TOPOLÓGICOS DE LA MECÁNICA CUÁNTICA HIDRODINÁMICA (MQH)
 
 **1. LA FUENTE** 
 El espacio no es un vacío geométrico; es un medio físico, continuo, incompresible e hiperdenso. Toda partícula es una perturbación estructurada en este fluido.
