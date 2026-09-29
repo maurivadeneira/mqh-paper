@@ -72,14 +72,18 @@ Al escalar la MQH, la gravedad pierde su naturaleza de "curvatura del espacio-ti
   * 1.3.2 La Relatividad General y la ironía del Tensor $T_{\mu\nu}$.
   * 1.3.3 El éxito orbital frente a la singularidad cosmológica.
 * 1.4 La crisis cuántica: Funciones, probabilidad y la pérdida de la Partícula.
-  * 1.4.1 El continuo de Planck frente a la invención de la discontinuidad.
-* 1.5 El colapso cosmológico y el sesgo epistemológico.
+  * 1.4.1 Planck y la invención de $h$: El origen industrial y la fractura del continuo.
+  * 1.4.2 Schrödinger y la probabilidad: Ondas sin medio.
+  * 1.4.3 Dirac, la antimateria y la abstracción del Espín.
+  * 1.4.4 El Modelo Estándar: El zoológico de partículas y la crisis actual.
+* 1.5 El colapso cosmológico, las bajas aceleraciones y el sesgo epistemológico.
 
 **2. La Solución: Mecánica Cuántica Hidrodinámica (MQH)**
-* 2.1 El Diccionario de Equivalencias y la transición ontológica.
-* 2.2 Geometría subatómica: El electrón como vórtice toroidal.
-* 2.3 La Ecuación del Vórtice y la derivación analítica de la Densidad Base ($\rho_0$).
-* 2.4 El Reto Empírico: Las 3 Generaciones y la Autopsia Topológica del Decaimiento.
+* Los Postulados Fundamentales de La Fuente (1 al 7).
+* 2.1 La Transición Ontológica y la Mecánica de Medios Continuos.
+* 2.2 Geometría Subatómica y el Origen Inercial de la Masa.
+* 2.3 La Ecuación del Vórtice y la Derivación Analítica de la Densidad Base ($\rho_0$).
+* 2.4 Las 3 Generaciones (Electrón, Muón, Tau) y la Autopsia Topológica del Decaimiento.
 * 2.5 El Aporte Original de la MQH: Más allá de la Hidrodinámica Cuántica.
 * 2.6 Síntesis Axiomática: Las Ecuaciones Fundamentales de La Fuente.
 
@@ -88,23 +92,28 @@ Al escalar la MQH, la gravedad pierde su naturaleza de "curvatura del espacio-ti
 * 3.2 Derivación de las Leyes "Sin Fuentes" (Gauss Magnético y Faraday).
 * 3.3 La Ley de Gauss para la Electricidad (El Origen Hidrodinámico de la Carga).
 * 3.4 La Ley de Ampère-Maxwell (La Elasticidad de La Fuente).
-* 3.5 El Triunfo de la Mecánica.
+* 3.5 La Revelación de $\alpha$: La Impedancia Acústico-Elástica de La Fuente.
+* 3.6 El Triunfo de la Mecánica (Conclusión del Capítulo).
 
 **4. La Tabla Periódica de los Vórtices (Reinterpretando el Modelo Estándar)**
-* 4.1 Leptones y Neutrinos: Armónicos y ondas de choque (cavitación).
-* 4.2 El Confinamiento de los Quarks como topología de nudos fluidos.
-* 4.3 Bosones: Desmitificando las partículas mensajeras (Fotones, W/Z y Gluones).
-* 4.4 La obsolescencia del Bosón de Higgs ante la inercia macroscópica.
+* 4.1 Leptones y Neutrinos: Armónicos y Ondas de Choque.
+* 4.2 El Confinamiento de los Quarks y el Origen Analítico de la Masa Bariónica.
+  * 4.2.1 El Neutrón: El "Embarazo" Topológico y la Masa Virtual.
+  * 4.2.2 El Átomo de Hidrógeno: Equilibrio Hidrodinámico, el Radio de Bohr y la Verdadera Masa.
+  * 4.2.3 El Régimen Confinado: La Ecuación de Masa Toroidal y el Espectro de Resonancias.
+* 4.3 Bosones: Desmitificando las Partículas Mensajeras.
+* 4.4 La Obsolescencia del Bosón de Higgs ante la Inercia Hidrodinámica.
 
 **5. Perspectivas Futuras y Conclusiones Cosmológicas**
-* 5.1 La inercia y la gravedad como gradientes de presión fluida.
-* 5.2 La eliminación matemática de la materia oscura (cohesión galáctica).
+* 5.1 La Inercia y la Gravedad como Gradientes de Presión Fluida.
+* 5.2 La Eliminación Matemática de la Materia Oscura (Cohesión Galáctica).
 
 **6. Horizonte Tecnológico y Matemático (El Siglo de la MQH)**
 * 6.1 La Matemática del Fluido: La Transición a la Base 12.
 * 6.2 El Fin de la Fuerza Bruta: La Miniaturización de los Colisionadores.
 * 6.3 Ingeniería Fractal y la Impresión Topológica (Sintetizadores de Materia).
 * 6.4 Navegación de Gradientes: El Futuro de la Propulsión Espacial.
+* 6.5 Extracción Energética Directa: La Verdadera "Energía de Punto Cero".
 ---
 
 ## DESARROLLO
