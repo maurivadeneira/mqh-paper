@@ -431,6 +431,72 @@ $$
 
 El espacio no está vacío. Estamos inmersos en un océano continuo cuya densidad supera por decenas de miles de veces a la del agua. Es esta inmensa inercia primigenia la que confina y estabiliza la tremenda energía cinética de los micro-huracanes que componen toda la materia del universo.
 
+### 2.4 Las 3 Generaciones (Electrón, Muón, Tau) y la Deducción del Decaimiento
+
+Uno de los mayores callejones sin salida del Modelo Estándar es la existencia empírica de las tres "generaciones" de leptones. La familia del electrón posee dos hermanos mayores: el Muón y el Tau. Estas tres partículas comparten exactamente las mismas propiedades fundamentales (carga y espín), con la única diferencia de que las generaciones superiores son exorbitantemente más masivas y profundamente inestables. Al carecer de una mecánica espacial subyacente, la física ortodoxa se limitó a catalogar este comportamiento como un hecho estadístico dado, sin explicar jamás su causa estructural.
+
+Bajo la Mecánica Cuántica Hidrodinámica (MQH), este enigma se resuelve recordando una propiedad universal de la dinámica de fluidos y la acústica: **la resonancia en sistemas cerrados**.
+
+Dado que nuestra partícula fundamental es un vórtice toroidal (un anillo cerrado de fluido), la onda interna no puede girar a cualquier velocidad arbitraria. Para que la corriente fluida complete la vuelta y se acople consigo misma de forma constructiva, su circulación debe ser un múltiplo entero exacto. A estos modos permitidos de vibración se les conoce como armónicos ($n = 1, 2, 3...$).
+
+El Muón y el Tau, por lo tanto, no son partículas elementales distintas. Son exactamente el mismo vórtice fundamental (el electrón), forzado por colisiones de extrema energía a resonar en "sobremarcha" hidrodinámica. El electrón es el estado base relajado ($n=1$), mientras que el Muón es el segundo armónico ($n=2$) y el Tau el tercero ($n=3$).
+
+**El Arrastre Hidrodinámico y la Predicción del Muón ($\alpha$)**  
+En la dinámica de fluidos clásica, cuando un vórtice vibra en un armónico superior, su geometría en expansión arrastra consigo una capa del fluido circundante, fenómeno conocido como "masa virtual" o "masa añadida". El límite absoluto de masa extra que el remolino puede confinar depende directamente de la impedancia o resistencia elástica del medio continuo.
+
+Esta resistencia estructural del espacio está gobernada por la Constante de Estructura Fina ($\alpha \approx 1/137.036$). *(Nota: Aunque la física ortodoxa trata a $\alpha$ como un parámetro electromagnético abstracto, en el Capítulo 3 de este texto demostraremos analíticamente cómo el electromagnetismo se deriva de las ecuaciones de Navier-Stokes, revelando que $\alpha$ actúa como la impedancia acústico-elástica de La Fuente).*
+
+Para el segundo armónico ($n=2$), la interacción geométrica entre el vórtice excitado y la resistencia del espacio ($\alpha^{-1}$) genera un coeficiente de arrastre exacto. La masa inercial límite que el remolino puede confinar obedece a la relación teórica:
+
+$$
+m_\mu \approx m_e \left( 1 + \frac{3}{2\alpha} \right)
+$$
+
+Al evaluar esta predicción geométrica ideal con la resistencia del vacío ($\alpha^{-1} = 137.036$), obtenemos:
+
+$$
+m_\mu \approx m_e \left( 1 + \frac{3}{2} (137.036) \right) = 206.55 \, m_e
+$$
+
+Este resultado analítico ($206.55 \, m_e$) converge con una asombrosa precisión del **99.89%** respecto al valor empírico oficial medido en laboratorio ($206.76 \, m_e$). El ínfimo desfase del $0.11\%$ no es un error de la teoría, sino la huella mecánica predecible de la contracción relativista y la compresión del núcleo bajo presión extrema, que deforma levemente la geometría ideal del remolino real.
+
+**La Autopsia Topológica del Decaimiento**  
+Si el Muón puede confinar esta masa inmensa, ¿por qué se desintegra? Para demostrar analíticamente la causa de su inestabilidad y la del Tau ($n=3$, masa empírica $\approx 3477 \, m_e$), generalizamos el Postulado 4 ($\Gamma_n = n \cdot h / m_n$) y el Postulado 5 ($\Gamma_n = c \cdot L_n$). Sustituyéndolos en la integral de volumen de Lamb, deducimos la **Ley de Escalamiento Universal**:
+
+$$
+m_n^4 = m_e^4 \cdot n^3 \cdot \ln\left(\frac{8R_n}{r_n}\right)
+$$
+
+Despejando el término del estrés topológico $\ln(8R/r)$, realizamos una autopsia exacta de la tensión estructural para cada generación:
+
+**1. El Electrón (Armónico Base, $n=1$, $m_e = 0.511 \text{ MeV}$)**  
+
+$$ 
+\ln\left(\frac{8R_1}{r_1}\right) = \frac{1}{1^3} \left(\frac{0.511}{0.511}\right)^4 = 1 
+$$
+
+El remolino base descansa en el "bloqueo topológico" óptimo ($8R/r = e \approx 2.718$). Las presiones se anulan. El electrón es geométricamente inmortal.
+
+**2. El Muón (Segundo Armónico, $n=2$, $m_\mu = 105.6 \text{ MeV}$)**  
+
+$$ 
+\ln\left(\frac{8R_\mu}{r_\mu}\right) = \frac{1}{2^3} (206.7)^4 \approx 228,000,000 
+$$
+
+El requerimiento topológico salta de $1$ a $228$ millones. Matemáticamente, esto exige una proporción $8R/r = e^{228,000,000}$ (un número equivalente a un $1$ seguido de $99$ millones de ceros). Para mantenerse estable, el "tubo" del vórtice tendría que ser infinitamente más delgado que la Longitud de Planck ($10^{-35} \text{ m}$). Esta deformación excede brutalmente el límite elástico (*shear stress*) de La Fuente. El remolino sufre cavitación y estalla en apenas $2.2$ microsegundos.
+
+**3. El Tau (Tercer Armónico, $n=3$, $m_\tau = 1776 \text{ MeV}$)**  
+
+$$ 
+\ln\left(\frac{8R_\tau}{r_\tau}\right) = \frac{1}{3^3} (3477)^4 \approx 5,400,000,000,000 
+$$
+
+El estiramiento topológico exigido alcanza la cifra absurda de $5.4$ billones. El estrés estructural sobre el tejido continuo es absoluto; el desgarro por cavitación aniquila el vórtice por completo en apenas $2.9 \times 10^{-13}$ segundos.
+
+---
+
+Las generaciones de leptones no son un misterio probabilístico. El decaimiento es la simple respuesta mecánica de un fluido sometido a un límite de masa que supera su impedancia elástica, rasgando su topología.
+
 ### 2.4 Las 3 Generaciones (Electrón, Muón, Tau) y la Autopsia Topológica del Decaimiento
 
 Uno de los mayores callejones sin salida del Modelo Estándar es la existencia empírica de las tres "generaciones" de leptones. La familia del electrón posee dos hermanos mayores: el Muón y el Tau. Estas tres partículas comparten exactamente las mismas propiedades fundamentales (carga y espín), con la única diferencia de que las generaciones superiores son exorbitantemente más masivas y profundamente inestables. Al carecer de una mecánica espacial subyacente, la física ortodoxa se limitó a catalogar este comportamiento como un hecho estadístico dado, sin explicar jamás su causa estructural.
