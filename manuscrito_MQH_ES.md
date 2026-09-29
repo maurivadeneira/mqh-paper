@@ -19,7 +19,10 @@ El espacio no es un vacío geométrico; es un medio físico, continuo, incompres
 
 **3. DENSIDAD DEL MEDIO ($\rho_0$)** 
 Basada en la inercia del fluido cuántico:
-$$ \rho_0 = \frac{2 m^3 c^2}{h^2 R} \approx 63,700 \text{ kg/m}^3 $$
+
+$$
+\rho_0 = \frac{2 m^3 c^2}{h^2 R} \approx 63,700 \text{ kg/m}^3
+$$
 
 **4. EL ELECTRÓN (Fermión Base)** 
 La topología estable más simple en rotación: un anillo de vórtice toroidal simple ($n=1$).
@@ -32,11 +35,17 @@ La topología geométrica requerida para confinar vórtices abiertos sin que la 
 * Estrés topológico lineal (cruces): $p \times q = 2 \times 3 = 6$
 * Estrés topológico volumétrico (torsión 3D): $\pi^5$
 * Relación exacta de Masa Protón/Electrón: 
-$$ \frac{M_p}{m_e} = (p \times q)\pi^5 = 6\pi^5 \approx 1836.12 $$
+
+$$
+\frac{M_p}{m_e} = (p \times q)\pi^5 = 6\pi^5 \approx 1836.12
+$$
 
 **6. LA CONSTANTE DE ESTRUCTURA FINA ($\alpha$) Y EL NÚMERO 137** 
 Desmitificación de la constante de acoplamiento fundamental de la física cuántica. El valor $137$ no es un enigma adimensional, sino la proporción geométrica pura del átomo de Hidrógeno. Al dividir el límite de la envoltura del macro-vórtice (Radio de Bohr, $R = 52.91 \text{ pm}$) entre la sección transversal del cordón de fluido (Radio Compton, $r = 0.386 \text{ pm}$), emerge la constante: 
-$$ \frac{R}{r} = \frac{52.91 \text{ pm}}{0.386 \text{ pm}} \approx 137.07 $$
+
+$$
+\frac{R}{r} = \frac{52.91 \text{ pm}}{0.386 \text{ pm}} \approx 137.07
+$$
 
 **7. EL ESPECTRO DE RESONANCIAS Y EL PUENTE CÓSMICO (La Secuencia de la Creación)** 
 Al evaluar la inercia hidrodinámica de Lamb ($\ln(8R/r)$) en macroestructuras, la materia se estabiliza en armónicos enteros y cierres de fase del fluido base:
