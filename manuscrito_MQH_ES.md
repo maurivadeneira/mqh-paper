@@ -1216,3 +1216,9 @@ El salto tecnológico definitivo de la MQH será el desarrollo de generadores de
 **[25] Batchelor, G. K. (1967).** *An Introduction to Fluid Dynamics*. Cambridge University Press. (Marco moderno para el análisis de los gradientes de presión y esfuerzos elásticos en fluidos continuos).
 
 **[26] Milgrom, M. (1983).** *A Modification of the Newtonian Dynamics as a Possible Alternative to the Hidden Mass Hypothesis*. Astrophysical Journal. (Modificación fenomenológica de las leyes de escala a bajas aceleraciones).
+
+**[27] Tait, P. G. (1877).** *On Knots*. Transactions of the Royal Society of Edinburgh. (Primera clasificación matemática de nudos topológicos, inspirada en los átomos-vórtice de Kelvin; fundamento geométrico para la estructura bariónica $T_{2,3}$).
+
+**[28] Sommerfeld, A. (1916).** *Zur Quantentheorie der Spektrallinien*. Annalen der Physik. (Introducción histórica de la constante de estructura fina $\alpha$, cuyo valor adimensional es desmitificado geométricamente en la MQH).
+
+**[29] Unruh, W. G. (1981).** *Experimental Black-Hole Evaporation?* Physical Review Letters. (Formulación de la "gravedad análoga", demostrando matemáticamente que la propagación del sonido en un fluido en movimiento reproduce exactamente la métrica del espacio-tiempo de Einstein).
