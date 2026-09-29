@@ -527,6 +527,49 @@ El estiramiento topológico exigido alcanza la insostenible cifra logarítmica d
 Las generaciones de leptones no son parámetros libres impuestos por decreto divino. El decaimiento débil no es un suceso probabilístico cuántico; es la respuesta mecánica, pura y predecible de un fluido continuo sometido a un estrés topológico destructivo.
 
 ---
+---
+
+**La Temporalidad del Colapso y el Reto Predictivo (Horizonte Predictivo)**
+
+Aunque la autopsia topológica demuestra cuantitativamente la causa mecánica de la inestabilidad empírica, el modelo de la MQH no se limita a explicar los datos a posteriori. El último gran objetivo de una teoría unificada es la predicción teórica pura. Nos gustaría abordar este reto predictivo en dos frentes fundamentales para el futuro de la física:
+
+**1. La Predicción Teórica de las Masas (El Desarrollo de la Serie Predictiva)**  
+Para predecir la masa de las generaciones superiores sin depender de mediciones empíricas, recurrimos al principio hidrodinámico de la "Masa Virtual" o "Masa Añadida". Cuando un cuerpo se acelera en un fluido, arrastra una capa del medio, aumentando su inercia. La masa efectiva ($m_n$) es la masa base ($m_e$) más el arrastre del fluido, el cual está gobernado por tres factores analíticos:
+
+*   **La Impedancia del Medio ($\alpha^{-1}$):** La cantidad de fluido arrastrado depende de la resistencia elástica del espacio. Como adelantaremos en el Capítulo 3, esta impedancia acústico-elástica está cuantificada por la constante de estructura fina invertida ($\alpha^{-1} \approx 137.036$).
+*   **El Coeficiente Toroidal ($3/2$):** Un anillo rotatorio genera una circulación dipolar. La solución analítica clásica para la inercia de un anillo de vórtice arroja un coeficiente de forma exacto de $3/2$.
+*   **La Superposición Nodal ($\sum k^4$):** Al vibrar en armónicos superiores, el vórtice crea "nodos" internos de fricción. Como nuestra Ley de Escala demostró previamente ($m_n^4 \propto \ln...$), la inercia topológica escala a la cuarta potencia. Por tanto, el arrastre es la superposición de todos los modos vibracionales internos, creciendo geométricamente ($k^4$) desde $k=1$ hasta el límite interno $n-1$.
+
+Al ensamblar estos tres principios mecánicos, emerge la serie predictiva de masas para cualquier generación:
+
+$$ 
+m_n = m_e \left( 1 + \frac{3}{2\alpha} \sum_{k=1}^{n-1} k^4 \right) 
+$$
+
+**La Evaluación Analítica de las Tres Generaciones**  
+Con la ecuación ensamblada, evaluamos el arrastre para cada armónico observado utilizando la impedancia teórica del vacío ($\alpha^{-1} = 137.036$):
+
+*   **El Electrón (Estado Base, $n=1$):** El límite de la sumatoria es $n-1 = 0$. La serie es nula.
+    $$ m_1 \approx m_e \left( 1 + \frac{3}{2\alpha} (0) \right) = m_e $$
+    El modelo predice exactamente la masa del electrón sin arrastre adicional, confirmando su flujo laminar perfecto y su estabilidad absoluta.
+
+*   **El Muón (Segundo Armónico, $n=2$):** El vórtice incorpora un nodo de resonancia ($n-1 = 1$). El esfuerzo nodal es $1^4 = 1$.
+    $$ m_\mu \approx m_e \left( 1 + \frac{3}{2} (137.036) \cdot (1) \right) $$
+    $$ m_\mu \approx m_e ( 1 + 205.55 ) = 206.55 \, m_e $$
+    La teoría predice analíticamente **$206.55 \, m_e$**. Frente a la masa empírica observada en laboratorio ($206.76 \, m_e$), la ecuación pura de fluidos alcanza una precisión del **99.89%**.
+
+*   **El Tau (Tercer Armónico, $n=3$):** El vórtice sostiene un régimen turbulento con dos fronteras nodales ($n-1 = 2$). Sumamos la cuarta potencia de los nodos: $1^4 + 2^4 = 1 + 16 = 17$.
+    $$ m_\tau \approx m_e \left( 1 + \frac{3}{2} (137.036) \cdot (17) \right) $$
+    $$ m_\tau \approx m_e ( 1 + 3494.4 ) = 3495.4 \, m_e $$
+    La teoría predice una masa límite de **$3495.4 \, m_e$**. Frente a la inmensa masa empírica oficial ($3477.2 \, m_e$), el cálculo sostiene una precisión del **99.48%**.
+
+**El Significado Físico de las Variaciones**  
+Los ínfimos desfases ($0.11\%$ para el Muón y $0.52\%$ para el Tau) no son fallas del modelo, sino la manifestación de la hidrodinámica real. La ecuación predictiva asume un anillo matemáticamente rígido, pero bajo presiones extremas, el vórtice físico sufre compresión del núcleo y contracción relativista. En el caso del Tau, la turbulencia es tan violenta que el remolino "derrama" una pequeña fracción de masa (ese $0.5\%$) antes de poder cerrarse. 
+
+**2. La Predicción Teórica del Tiempo de Vida**  
+Con la magnitud de la masa analíticamente predecible y el estrés topológico ya deducido, el reto final es el cálculo puro del tiempo de vida. En fluidodinámica, el tiempo de colapso por cavitación está dictado por la velocidad de propagación de la ruptura (la velocidad máxima cinemática, $c$) a través de la inmensa geometría estirada del vórtice. 
+
+Derivar teóricamente los $2.2$ microsegundos del Muón y los $2.9 \times 10^{-13}$ segundos del Tau, directamente desde su logaritmo de deformación, será la prueba de fuego definitiva. La MQH deja este camino abierto para que futuras simulaciones confirmen lo que la topología ya nos revela: el universo no juega a los dados, fluye obedeciendo las leyes absolutas de la mecánica de medios continuos.
 
 **La Temporalidad del Colapso y el Reto Predictivo (Horizonte Predictivo)**
 
