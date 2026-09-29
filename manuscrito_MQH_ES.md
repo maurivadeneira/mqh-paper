@@ -1002,6 +1002,19 @@ Esta proporción es exactamente el inverso de la Constante de Estructura Fina ($
 
 Finalmente, lo que el Modelo Estándar percibe a través de la estadística matemática como una misteriosa "nube esférica de probabilidad" (el orbital 1s), es en realidad la envoltura hidrodinámica —promediada en el tiempo— de este macro-toroide perfecto. Esta estructura de corrientes explica de forma natural y mecánica por qué el átomo de hidrógeno posee un eje magnético dipolar, consolidando la máxima absoluta de la MQH: el universo es de naturaleza fractal (vórtices dentro de vórtices), regido íntegramente por las leyes inquebrantables de la mecánica de fluidos.
 
+**6. La Ley de Escala Atómica: El Diapasón Cósmico y el Multiplicador $Z$** 
+Si la constante $\alpha^{-1} \approx 137$ representa la resistencia elástica o impedancia universal de *La Fuente*, resulta imperativo responder por qué esta proporción geométrica no se repite de manera idéntica en el resto de los átomos. La respuesta es pura mecánica de fluidos: el Hidrógeno, donde $Z = 1$, es el sistema binario base, una "prueba de esfuerzo" directa uno a uno. Representa un sumidero central de succión unitaria enfrentando la rigidez unitaria del vacío. El punto de relajación natural entre esa succión y esa resistencia es exactamente la proporción de $137.07$.
+
+En los elementos más pesados, la impedancia de *La Fuente* jamás cambia, pero el gradiente de presión nuclear se multiplica. En el átomo de Helio, donde $Z = 2$, el sumidero central cuenta con dos protones, duplicando la fuerza de succión hidrodinámica. Al tirar de la misma "banda elástica" del medio con el doble de fuerza, el macro-toroide orbital del electrón es aplastado hacia el centro reduciendo su proporción geométrica exactamente a la mitad:
+
+$$
+\frac{137.036}{2} \approx 68.51
+$$
+
+Este es exactamente el origen mecánico de la proporción geométrica de $68.51$ que emerge en el Helio (analizado en la siguiente sección). En el Litio, donde $Z = 3$, el remolino orbital se contrae a un tercio de la impedancia base ($\approx 45.6$). 
+
+La tabla periódica no es un conjunto de dimensiones aleatorias regidas por la estadística cuántica. Los radios atómicos son fracciones armónicas exactas de la impedancia primordial de *La Fuente* dividida por la fuerza de succión del núcleo atómico, $\alpha^{-1} / Z$. El número $137$ es el diapasón cósmico inmutable; los distintos elementos químicos son simplemente sus acordes de tensión geométrica.
+
 ### 4.2.3 El Régimen Confinado: La Ecuación de Masa Toroidal y el Espectro de Resonancias
 
 **El Régimen Confinado (Inercia y Física de Partículas):** Si la interacción de flujos obliga a la energía a anudarse en un bucle topológico estable, el fluido queda atrapado girando en el mismo sitio. Es aquí donde nace la materia.
