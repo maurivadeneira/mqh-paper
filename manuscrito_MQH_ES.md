@@ -7,8 +7,6 @@
 **Contacto:** * maurivadeneira@gmail.com
 **Fecha:** 16 de septiembre de 2026
 
-**Resumen:** 
-
 # RESUMEN: PRINCIPIOS TOPOLÓGICOS DE LA MECÁNICA CUÁNTICA HIDRODINÁMICA (MQH)
 
 **1. LA FUENTE** 
@@ -20,10 +18,8 @@ El espacio no es un vacío geométrico; es un medio físico, continuo, incompres
 * **Masa ($m$):** No es una propiedad intrínseca, sino el coeficiente de resistencia hidrodinámica (arrastre topológico) de un vórtice cerrado. $m = E / c^2$.
 
 **3. DENSIDAD DEL MEDIO ($\rho_0$)** 
-Basado en la inercia del fluido cuántico:
-$$
-\rho_0 = \frac{2 m^3 c^2}{h^2 R} \approx 63,700 \text{ kg/m}^3
-$$
+Basada en la inercia del fluido cuántico:
+$$ \rho_0 = \frac{2 m^3 c^2}{h^2 R} \approx 63,700 \text{ kg/m}^3 $$
 
 **4. EL ELECTRÓN (Fermión Base)** 
 La topología estable más simple en rotación: un anillo de vórtice toroidal simple ($n=1$).
@@ -36,19 +32,22 @@ La topología geométrica requerida para confinar vórtices abiertos sin que la 
 * Estrés topológico lineal (cruces): $p \times q = 2 \times 3 = 6$
 * Estrés topológico volumétrico (torsión 3D): $\pi^5$
 * Relación exacta de Masa Protón/Electrón: 
-$$
-\frac{M_p}{m_e} = (p \times q)\pi^5 = 6\pi^5 \approx 1836.12
-$$
+$$ \frac{M_p}{m_e} = (p \times q)\pi^5 = 6\pi^5 \approx 1836.12 $$
 
-**6. EL ESPECTRO DE RESONANCIAS (La Secuencia de la Creación)**
-Al evaluar la inercia hidrodinámica de Lamb ($\ln(8R/r)$) en estructuras de mayor complejidad, la materia se estabiliza en armónicos enteros y cierres de fase del fluido base:
+**6. LA CONSTANTE DE ESTRUCTURA FINA ($\alpha$) Y EL NÚMERO 137**
+Desmitificación de la constante de acoplamiento fundamental de la física cuántica. El valor $137$ no es un enigma adimensional, sino la **proporción geométrica pura** del átomo de Hidrógeno. Al dividir el límite de la envoltura del macro-vórtice (Radio de Bohr, $R = 52.91 \text{ pm}$) entre la sección transversal del cordón de fluido (Radio Compton, $r = 0.386 \text{ pm}$), emerge la constante:
+$$ \frac{R}{r} = \frac{52.91 \text{ pm}}{0.386 \text{ pm}} \approx 137.07 $$
+
+**7. EL ESPECTRO DE RESONANCIAS Y EL PUENTE CÓSMICO (La Secuencia de la Creación)**
+Al evaluar la inercia hidrodinámica de Lamb ($\ln(8R/r)$) en macroestructuras, la materia se estabiliza en armónicos enteros y cierres de fase del fluido base:
 * **El Electrón:** 1 (La unidad fundamental).
 * **El Protón:** $\pi$ (Resonancia circular del andamio base).
 * **El Helio:** $2\pi$ (Cierre de fase de espines apareados).
-* **El Hidrógeno:** 7 (Límite máximo de elongación binaria).
+* **El Hidrógeno:** 7 (Límite máximo de elongación binaria geométrica).
 * **El Agua ($H_2O$):** 8 (Octava perfecta de acoplamiento molecular).
+* **El Puente Cósmico:** La proporción geométrica macroscópica de los radios en el agua es $R/r \approx 367.8$. Este valor se correlaciona de manera directa con el ciclo orbital de la Tierra ($\sim 365.25$ días), sugiriendo que la microescala molecular y la macroescala planetaria obedecen a las mismas frecuencias de resonancia en el fluido.
 
-**7. COSMOLOGÍA Y GRAVEDAD MACROSCÓPICA**
+**8. COSMOLOGÍA Y GRAVEDAD MACROSCÓPICA**
 Al escalar la MQH, la gravedad pierde su naturaleza de "curvatura del espacio-tiempo" y se revela como un **gradiente de presión hidrodinámica** hacia los sumideros másivos. Las galaxias operan como macro-vórtices en *La Fuente*, explicando la cohesión de sus velocidades de rotación periféricas y eliminando matemáticamente la necesidad de postular la existencia de la "Materia Oscura".
 
 ---
