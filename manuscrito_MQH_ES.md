@@ -507,22 +507,24 @@ $$
 El remolino base descansa en el "bloqueo topológico" óptimo ($8R/r = e \approx 2.718$). Las presiones internas y externas se anulan, logrando una estabilidad absoluta. El electrón es geométricamente inmortal.
 
 **2. El Muón (Segundo Armónico, $n=2$, $m_\mu = 105.6 \text{ MeV}$)**  
-Forzado a vibrar en la segunda octava, la inercia aumenta de forma dramática, haciendo al Muón $\approx 206.7$ veces más masivo. Evaluando su topología con la ecuación maestra:
+Forzado a vibrar en la segunda octava, la inercia rotacional aumenta de forma dramática. Si introducimos su masa empírica observada en laboratorio ($\approx 206.7 \, m_e$), podemos evaluar su topología con nuestra ecuación maestra:
 
 $$ 
 \ln\left(\frac{8R_\mu}{r_\mu}\right) = \frac{1}{2^3} (206.7)^4 \approx 228,000,000 
 $$
 
-El requerimiento topológico salta violentamente de $1$ a $228$ millones. Mecánicamente, el "tubo" del vórtice se estira hasta volverse un filamento casi infinitamente estrecho, excediendo el límite elástico del medio. El remolino sufre cavitación y estalla en apenas $2.2$ microsegundos, expulsando la energía excedente en forma de onda hasta que el sistema colapsa de regreso a su estado base ($n=1$).
+El requerimiento topológico salta violentamente de $1$ a $228$ millones. Matemáticamente, esto significa que para mantenerse estable, el anillo requiere una proporción $8R/r = e^{228,000,000}$ (un número equivalente a un $1$ seguido de $99$ millones de ceros). Físicamente, esto obligaría al "tubo" del vórtice a ser infinitamente más delgado que la Longitud de Planck ($10^{-35} \text{ m}$). 
+
+Esta deformación es mecánicamente imposible. El requerimiento de estiramiento excede brutalmente el límite elástico por cizalladura (*shear stress*) del medio continuo. Al no poder sostener esta geometría, el remolino sufre cavitación y estalla en apenas $2.2$ microsegundos, expulsando la energía excedente hasta colapsar a su estado base ($n=1$).
 
 **3. El Tau (Tercer Armónico, $n=3$, $m_\tau = 1776 \text{ MeV}$)**  
-Sometido al tercer armónico, el fluido arrastra una inercia monstruosa $\approx 3477$ veces superior a la del electrón. Evaluando su geometría límite:
+Sometido al tercer armónico, el fluido arrastra una inercia empírica monstruosa equivalente a $\approx 3477 \, m_e$. Evaluando su geometría límite:
 
 $$ 
 \ln\left(\frac{8R_\tau}{r_\tau}\right) = \frac{1}{3^3} (3477)^4 \approx 5,400,000,000,000 
 $$
 
-El estiramiento topológico alcanza la insostenible cifra de $5.4$ billones. El estrés estructural sobre el tejido de La Fuente es tan absoluto y violento que la cavitación lo aniquila por completo en apenas $2.9 \times 10^{-13}$ segundos.
+El estiramiento topológico alcanza la insostenible cifra logarítmica de $5.4$ billones, requiriendo un filamento cuya delgadez escapa a cualquier sentido físico. El estrés estructural sobre el tejido de La Fuente es tan absoluto y violento que el desgarro por cavitación aniquila el vórtice por completo en apenas $2.9 \times 10^{-13}$ segundos.
 
 ---
 
