@@ -908,16 +908,29 @@ La ecuación puramente hidrodinámica y topológica arroja una masa de **$1838.6
 
 Esta deducción mecánica resuelve simultáneamente el misterio de los 15 minutos de su tiempo de vida. El exceso de $1.5 \, m_e$ no es una "fuerza fundamental de unión", es la **hiper-presión acústica** del protón intentando aplastar al electrón. El nudo trébol actúa como una centrífuga incesante. Durante 15 minutos, el anillo del electrón resiste la turbulencia extrema hasta que su límite de tensión de corte colapsa; es expulsado violentamente del núcleo recuperando su forma laminar libre (masa 1), mientras la energía elástica acumulada por el estrés de arrastre estalla en forma de energía cinética y un antineutrino (la onda de choque transversal de la expulsión).
 
-**4.3 Bosones: Desmitificando las Partículas Mensajeras**
-El Modelo Estándar exige que todas las fuerzas sean transmitidas por partículas mensajeras (bosones de gauge). Al recuperar el medio continuo, las "fuerzas a distancia" desaparecen, y los bosones se revelan como propiedades dinámicas del fluido:
-*   **El Fotón:** No es un proyectil corpuscular, sino la onda transversal estándar propagándose a través de la tensión elástica del fluido a la velocidad de la luz ($c = \sqrt{K/\rho_0}$).
-*   **Bosones W y Z (Fuerza Débil):** Se les atribuye una masa inmensa y son responsables del decaimiento radiactivo. En la MQH, no son partículas reales que "median" interacciones. Representan matemáticamente el **límite de fractura elástica (yield stress)** de *La Fuente*. Son la barrera de tensión cortante que el fluido debe superar para que un vórtice cavite o se transmute.
-*   **Gluones (Fuerza Fuerte):** Descritos como el "pegamento" de los quarks, en el modelo hidrodinámico representan las extremas presiones internas (convección local) que mantienen estable el nudo topológico del protón contra la repulsión de sus propios flujos de corriente.
+### 4.3 Bosones: Desmitificando las Partículas Mensajeras
 
-**4.4 La Obsolescencia del Bosón de Higgs ante la Inercia Macroscópica**
-El mecanismo de Higgs fue introducido para explicar cómo las partículas fundamentales adquieren masa a través de la fricción con un campo escalar que impregna el universo. Con la formalización de la MQH, este mecanismo se vuelve redundante y obsoleto. 
+El Modelo Estándar exige que todas las fuerzas de la naturaleza sean mediadas por un intercambio literal de "partículas mensajeras" (los bosones de gauge). Esta visión corpuscular obliga a imaginar un universo donde las partículas elementales se lanzan microscópicas esferas invisibles entre sí para saber cómo interactuar. 
 
-Como se estableció analíticamente, el universo ya está permeado por un campo sustancial: *La Fuente*, con una densidad de $\rho_0 \approx 63,700 \text{ kg/m}^3$. La inercia (masa) no requiere de un bosón mediador; nace estrictamente de la mecánica clásica de fluidos, siendo el resultado directo del arrastre topológico de un vórtice cerrado moviéndose a través de este medio hiperdenso. El vacío no requiere "melaza cuántica" cuando ya es, axiomáticamente, un océano mecánico perfecto.
+Al recuperar el medio continuo hiperdenso (*La Fuente*), las "fuerzas a distancia" desaparecen por completo. En la MQH, los bosones pierden su estatus ontológico como partículas individuales y se revelan como propiedades dinámicas, ondas de choque y umbrales de tensión del propio fluido:
+
+* **El Fotón (El Régimen Abierto):** No es un proyectil corpuscular ni un paquete de energía aislado flotando en el vacío. Físicamente, el fotón es una onda de corte (transversal) propagándose a través de la tensión elástica del fluido continuo. Posee energía cinética y momento, pero su masa en reposo es nula ($m=0$) por una razón estrictamente topológica: no es un vórtice cerrado. Al no poseer un bucle que retenga el flujo, no genera arrastre hidrodinámico sostenido contra el medio. Su velocidad límite ($c = \sqrt{K/\rho_0}$) no es un decreto relativista, sino la rigidez elástica de *La Fuente*.
+
+* **Bosones W y Z (El Límite de Fractura Elástica):** En el Modelo Estándar, a estos bosones se les atribuye una masa inmensa ($\approx 80-90 \text{ GeV}$) y se les culpa del decaimiento radiactivo (Fuerza Débil). En la dinámica de fluidos, la Fuerza Débil no existe como una interacción fundamental. Los "bosones" W y Z representan matemáticamente el **límite de fractura elástica (*yield stress*)** de *La Fuente*. Esa gigantesca "masa" empírica de 80 GeV no es el peso de una partícula real, es la barrera de energía de activación (el umbral de tensión cortante) que el fluido debe superar para que un vórtice se desgarre, cavite o expulse un anillo interno (como en el decaimiento del neutrón).
+
+* **Gluones (La Presión de Confinamiento):** Descritos clásicamente como el "pegamento" místico que confina a los quarks (Fuerza Fuerte), en el modelo de la MQH los gluones son simplemente los gradientes de hiper-presión ($\nabla P$) y la tensión de corte que ocurre en los "cuellos" o intersecciones del nudo trébol bariónico. No hay partículas mediadoras volando dentro del protón; solo existe la fuerza de empuje implacable del fluido externo comprimiendo la topología anudada para evitar que sus flujos se repelan.
+
+### 4.4 La Obsolescencia del Bosón de Higgs ante la Inercia Hidrodinámica
+
+El colofón del Modelo Estándar fue la postulación del Bosón de Higgs y su campo escalar asociado (el mecanismo de ruptura espontánea de simetría), introducido con el único propósito de explicar cómo partículas teóricamente puntuales adquieren masa. La premisa ortodoxa es que el vacío está lleno de una "melaza cuántica" que frena a las partículas, otorgándoles inercia.
+
+Con la formalización de la MQH, el mecanismo de Higgs se revela como un pleonasmo matemático, un artificio redundante y obsoleto. 
+
+Como se dedujo analíticamente en el Capítulo 2.3 a partir de la Ecuación del Vórtice, el universo ya está permeado por un campo físico, real y medible: *La Fuente*, poseedora de una densidad absoluta de $\rho_0 \approx 63,700 \text{ kg/m}^3$. La inercia (masa) no requiere de un bosón mediador ni de un campo escalar abstracto; nace estrictamente de la mecánica clásica de fluidos. La masa es el resultado directo y geométrico del **arrastre topológico** de un remolino cerrado oponiendo resistencia al intentar moverse a través de este océano hiperdenso.
+
+Bajo este marco mecanicista estricto, la masa no es una "sustancia" que un bosón pueda otorgar, sino un **comportamiento aerodinámico**. Tratar de encontrar la partícula que "da la masa" es tan absurdo en física de fluidos como tratar de encontrar la partícula que "da la turbulencia". 
+
+¿Qué fue entonces lo que descubrió el CERN en 2012 al anunciar una resonancia de $125 \text{ GeV}$ bautizada como el Bosón de Higgs? En un medio hiperdenso sometido a colisiones de fuerza bruta y energías catastróficas (como las del Gran Colisionador de Hadrones), el fluido de *La Fuente* es capaz de formar ondas estacionarias masivas y burbujas de cavitación efímeras en armónicos altísimos. La resonancia de $125 \text{ GeV}$ es una onda de choque acústica real y medible del fluido cuántico; pero no es el origen de la masa del universo. El vacío no requiere una "melaza mágica" añadida a mano en las ecuaciones cuando ya es, axiomáticamente, un medio continuo perfecto.
 
 # CAPÍTULO 5: Perspectivas Futuras y Conclusiones Cosmológicas
 
