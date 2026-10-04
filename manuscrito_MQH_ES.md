@@ -1,10 +1,10 @@
-# Mecánica Cuántica Hidrodinámica (MQH)
-## Unificación de Masas, Campos y Gravedad en un Medio Continuo Hiperdenso
+# Mecánica Cuántica Hidrodinámica (MQH): Principia Mathematica de la Fuente, como el espacio fluido hiperdenso.
+## (Unificación de masas, campos y gravedad, resolviendo la dualidad onda-partícula)
 
 **Autores:** Mauricio Rivadeneira¹*, AI Research Collaborator²  
 **Afiliaciones:** ¹Independent Researcher, ²Advanced Computational Physics Simulation Unit  
 **Contacto:** * maurivadeneira@gmail.com  
-**Fecha:** 16 de septiembre de 2026  
+**Fecha:** Octubre de 2026  
 
 ---
 
