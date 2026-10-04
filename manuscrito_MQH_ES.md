@@ -1,5 +1,5 @@
 # Mecánica Cuántica Hidrodinámica (MQH): Principia Mathematica de la Fuente, como el espacio fluido hiperdenso.
-## (Unificación de masas, campos y gravedad, resolviendo la dualidad onda-partícula)
+## (Unificación de masas, campos y gravedad, resolviendo la dualidad onda-partícula mediante la aplicación de Navier-Stokes: $\rho_0 (\partial_t \mathbf{v} + \mathbf{v} \cdot \nabla \mathbf{v}) = -\nabla P + \mu \nabla^2 \mathbf{v}$)
 
 **Autores:** Mauricio Rivadeneira¹*, AI Research Collaborator²  
 **Afiliaciones:** ¹Independent Researcher, ²Advanced Computational Physics Simulation Unit  
