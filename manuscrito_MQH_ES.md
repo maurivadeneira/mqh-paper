@@ -252,6 +252,8 @@ Esta formulación deja plenamente transparente que la modificación altera de fo
 Con este recuento histórico, hemos realizado un diagnóstico objetivo de la disciplina. Hemos observado cómo las urgencias del cálculo empujaron el discurso teórico hacia una matematización extrema y desprovista de sustancia, provocando la fractura actual entre la masa, los campos cuánticos y la gravedad. Llegados a este punto de ruptura, el diagnóstico está completo y el terreno ha sido despejado. Ya no es necesario forzar la estadística ni inventar partículas invisibles; es momento de presentar la solución geométrica y fluida.
 
 ## 2. La Solución: Mecánica Cuántica Hidrodinámica (MQH)
+### La deducción cuántica y relativista aplicando las ecuaciones de Navier-Stokes: 
+$$ \rho_0 \left( \frac{\partial \mathbf{v}}{\partial t} + \mathbf{v} \cdot \nabla \mathbf{v} \right) = -\nabla P + \mu \nabla^2 \mathbf{v} $$
 
 ### Los Postulados Fundamentales de La Fuente
 
