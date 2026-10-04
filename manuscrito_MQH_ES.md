@@ -292,14 +292,15 @@ $$
 
 Donde $h$ (la constante de Planck) deja de ser un parámetro probabilístico abstracto y se revela como el **cuanto fundamental de acción hidrodinámica**; es decir, la medida mínima e indivisible de momento angular que el fluido de La Fuente permite para sostener un vórtice estable.
 
-**Postulado 5. Límite Cinemático (El Origen Físico de $c$)**  
-La velocidad de la luz ($c$) no es una barrera abstracta del espacio-tiempo, sino la velocidad máxima de tensión, cizalla y propagación mecánica que soporta el fluido incompresible de La Fuente. En su estructuración, el flujo interno del vórtice gira exactamente a esta velocidad límite, estableciendo la condición de frontera:
+**Postulado 5. Límites Cinemáticos y Dualidad de Transmisión (El Origen de $c$ y del Tiempo Cero)**  
 
-$$
-\Gamma = c \cdot L
-$$
-
+**5.1 Régimen Transversal (El Origen de $c$)**  
+La velocidad de la luz ($c$) no es una barrera abstracta del espacio-tiempo, sino la velocidad máxima de tensión, cizalla y propagación mecánica que soporta el fluido de *La Fuente*. En su estructuración, el flujo interno del vórtice gira exactamente a esta velocidad límite, estableciendo la condición de frontera:
+$$ \Gamma = c \cdot L $$
 Donde $L$ representa la longitud característica de la línea de corriente interna (el perímetro del núcleo del vórtice). Esta condición cinemática explica físicamente por qué ninguna partícula con masa puede superar $c$: dado que el fluido que la conforma ya está girando a la máxima velocidad que el medio permite, cualquier empuje adicional provocaría la ruptura topológica del remolino.
+
+**5.2 Régimen Longitudinal (El Origen de $t=0$)**  
+Por otro lado, debido a la incompresibilidad ideal del medio ($\nabla \cdot \mathbf{v} = 0$), la transmisión de **gradientes de presión puramente longitudinales** no está sujeta a la cizalladura transversal. Al regirse por la Ecuación de Poisson, las variaciones de presión actualizan el estado de tensión del volumen cósmico de forma simultánea e instantánea, fundamentando mecánicamente el "tiempo cero" ($t=0$) y el entrelazamiento cuántico.
 
 **Postulado 6. Gradiente de Presión (El Origen Hidrodinámico de las Fuerzas)**  
 En el medio continuo de La Fuente, se descarta el concepto de "acción a distancia" o campos inmateriales de atracción. Toda interacción entre partículas (gravedad o electromagnetismo) es el resultado estricto de variaciones locales de presión en el fluido. Conforme al teorema de Bernoulli y las ecuaciones de Euler para fluidos incompresibles:
