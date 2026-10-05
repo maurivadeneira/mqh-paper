@@ -421,6 +421,8 @@ E = \frac{1}{2} \rho_0 \Gamma^2 R \ln\left(\frac{8R}{r}\right)
 $$
 
 Bajo el principio de equivalencia masa-energía, esta ecuación fluidodinámica constituye la fórmula analítica de la masa en reposo. Además, demuestra matemáticamente que las partículas elementales no pueden ser "puntos adimensionales" (dado que un núcleo con radio $r=0$ generaría un logaritmo infinito), obligando al estrato cuántico a poseer volumen y geometría estructural real.
+
+Bajo el principio de equivalencia masa-energía, esta ecuación fluidodinámica constituye la fórmula analítica de la masa en reposo. Además, demuestra matemáticamente que las partículas elementales no pueden ser "puntos adimensionales" (dado que un núcleo con radio $r=0$ generaría un logaritmo infinito), obligando al estrato cuántico a poseer volumen y geometría estructural real.
 Una vez obtenida la energía cinética del medio continuo confinado, aplicamos el Principio de Equivalencia Inercial del Postulado 2, el cual establece que la masa inercial ($m$) es estrictamente la energía encerrada dividida por el cuadrado de la velocidad límite del medio ($c^2$):
 
 $$
