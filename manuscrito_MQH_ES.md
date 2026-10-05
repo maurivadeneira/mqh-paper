@@ -410,19 +410,54 @@ Llegados a esta integral universal, la MQH establece una bifurcación ontológic
 1. **El Régimen Abierto (Campos, Gradientes e Ingeniería):** Si el flujo de *La Fuente* no se encierra sobre sí mismo, la integral describe energía libre: ondas transversales, campos electromagnéticos y vectores de macro-presión. Este es el dominio que permite trascender la mecánica teórica hacia la Ingeniería de La Fuente (desarrollada en los Capítulos 3 y 6), sentando las bases para la manipulación de densidades de energía, la alteración de gradientes de vacío y los futuros motores de propulsión sin inercia.
 2. **El Régimen Confinado (Inercia y Física de Partículas):** Si la interacción de flujos obliga a la energía a anudarse en un bucle topológico estable (Postulado 7), el fluido queda atrapado girando en el mismo sitio. Es aquí donde nace la materia.
 
-Para el propósito estricto de derivar la masa de la partícula fundamental, tomamos este segundo camino geométrico: el nudo cerrado más básico, un toroide delgado o anillo de vórtice. 
+**Derivación Paso a Paso de la Masa (El Vórtice Toroidal)**
 
-En esta topología, el vórtice se define por un radio mayor ($R$) y un radio menor o grosor del núcleo ($r$). La cantidad de fluido girando se denomina Circulación ($\Gamma$). Por conservación del momento angular, la velocidad del fluido exterior decae inversamente a la distancia ($v \propto 1/d$). Al sustituir este perfil de velocidad en nuestra integral de volumen, la variable espacial nos exige integrar analíticamente la función de $1/d$, lo cual genera inevitablemente un logaritmo natural ($\ln$).
+Para el propósito estricto de derivar la masa de la partícula fundamental, tomamos el segundo camino geométrico: el nudo cerrado más básico, un toroide (anillo de vórtice).
 
-Al evaluar esta integral entre los límites físicos del núcleo ($r$) y el límite de disipación efectiva del campo ($8R$, según la resolución analítica original de Sir Horace Lamb), el caos tridimensional colapsa en la siguiente expresión geométrica exacta para la energía del anillo:
+Un anillo de vórtice se define topológicamente por dos radios y una carga:
+*   $R$: El radio mayor del anillo.
+*   $r$: El radio menor (el grosor o núcleo del tubo).
+*   $\Gamma$: La Circulación, que cuantifica la rotación del fluido alrededor del núcleo.
+
+Para calcular la energía atrapada en esta geometría, desarrollamos la integral de volumen. Por conservación del momento angular, la velocidad local del fluido ($v$) decae de forma inversamente proporcional a la distancia perpendicular ($d$) desde el centro del tubo:
+
+$$
+v = \frac{\Gamma}{2\pi d}
+$$
+
+El diferencial de volumen ($dV$) de un anillo extendido a una distancia $d$ se define como el perímetro del toroide ($2\pi R$) multiplicado por el área del anillo transversal ($2\pi d \cdot dd$):
+
+$$
+dV = 4\pi^2 R \cdot d \, dd
+$$
+
+Sustituyendo el campo de velocidades y el volumen diferencial en nuestra integral de energía inicial:
+
+$$
+E = \frac{1}{2} \rho_0 \int \left( \frac{\Gamma}{2\pi d} \right)^2 \left( 4\pi^2 R \cdot d \right) dd
+$$
+
+Las constantes espaciales ($4\pi^2$) se cancelan algebraicamente en el numerador y el denominador, y simplificando la variable espacial $d$, la integral se purifica:
+
+$$
+E = \frac{1}{2} \rho_0 \Gamma^2 R \int \frac{1}{d} \, dd
+$$
+
+La variable espacial nos exige integrar analíticamente la función $1/d$, lo cual genera matemáticamente un logaritmo natural ($\ln$). 
+
+Para establecer los límites de integración, evaluamos el fluido exterior desde la superficie del núcleo rígido (límite inferior $= r$) hasta el límite paramétrico diametral donde el campo de influencia del vórtice se cancela a sí mismo por la curvatura del anillo (límite superior $= 8R$, conforme a la resolución analítica original de Sir Horace Lamb):
+
+$$
+\int_{r}^{8R} \frac{1}{d} \, dd = \ln(8R) - \ln(r) = \ln\left(\frac{8R}{r}\right)
+$$
+
+Al acoplar el resultado de esta integral con nuestras constantes hidrodinámicas, el caos tridimensional colapsa en la siguiente expresión geométrica exacta para la energía total del anillo:
 
 $$
 E = \frac{1}{2} \rho_0 \Gamma^2 R \ln\left(\frac{8R}{r}\right)
 $$
 
-Bajo el principio de equivalencia masa-energía, esta ecuación fluidodinámica constituye la fórmula analítica de la masa en reposo. Además, demuestra matemáticamente que las partículas elementales no pueden ser "puntos adimensionales" (dado que un núcleo con radio $r=0$ generaría un logaritmo infinito), obligando al estrato cuántico a poseer volumen y geometría estructural real.
-
-Bajo el principio de equivalencia masa-energía, esta ecuación fluidodinámica constituye la fórmula analítica de la masa en reposo. Además, demuestra matemáticamente que las partículas elementales no pueden ser "puntos adimensionales" (dado que un núcleo con radio $r=0$ generaría un logaritmo infinito), obligando al estrato cuántico a poseer volumen y geometría estructural real.
+Bajo el principio de equivalencia masa-energía, esta ecuación fluidodinámica constituye la fórmula analítica de la masa en reposo. Además, demuestra de manera irrefutable que las partículas elementales no pueden ser "puntos adimensionales" como postula erróneamente el Modelo Estándar: si un núcleo poseyera un radio $r = 0$, el logaritmo tendería al infinito, generando una masa infinita. Esta derivación obliga al estrato cuántico a poseer volumen, tensión geométrica y estructura topológica real.
 Una vez obtenida la energía cinética del medio continuo confinado, aplicamos el Principio de Equivalencia Inercial del Postulado 2, el cual establece que la masa inercial ($m$) es estrictamente la energía encerrada dividida por el cuadrado de la velocidad límite del medio ($c^2$):
 
 $$
