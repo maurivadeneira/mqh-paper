@@ -1145,33 +1145,45 @@ Bajo este marco mecanicista estricto, la masa no es una "sustancia" que un bosó
 
 ¿Qué fue entonces lo que descubrió el CERN en 2012 al anunciar una resonancia de $125 \text{ GeV}$ bautizada como el Bosón de Higgs? En un medio hiperdenso sometido a colisiones de fuerza bruta y energías catastróficas (como las del Gran Colisionador de Hadrones), el fluido de *La Fuente* es capaz de formar ondas estacionarias masivas y burbujas de cavitación efímeras en armónicos altísimos. La resonancia de $125 \text{ GeV}$ es una onda de choque acústica real y medible del fluido cuántico; pero no es el origen de la masa del universo. El vacío no requiere una "melaza mágica" añadida a mano en las ecuaciones cuando ya es, axiomáticamente, un medio continuo perfecto.
 
-# CAPÍTULO 5: Perspectivas Futuras y Conclusiones Cosmológicas
+## CAPÍTULO 5: MACRO-DINÁMICA, GRAVEDAD Y LA ILUSIÓN DE LA MATERIA OSCURA
 
-Si la Mecánica Cuántica Hidrodinámica (MQH) ha demostrado que las partículas elementales son vórtices y el electromagnetismo es la cinemática de un fluido hiperdenso (*La Fuente*), el corolario lógico es que las fuerzas a escala cósmica —la inercia y la gravedad— deben emerger de la misma dinámica de fluidos macroscópica. Al escalar el modelo desde el femtómetro hasta el megapársec, la MQH elimina las dos aberraciones más grandes de la astrofísica contemporánea: la geometrización abstracta de la gravedad y la hipótesis de la materia oscura.
+En el marco de la Mecánica Cuántica Hidrodinámica (MQH), la gravedad deja de ser una fuerza fundamental de atracción "mágica" a distancia para revelarse como la manifestación macroscópica del Teorema de Bernoulli (Postulado 6). Las masas no se atraen; son empujadas unas contra otras por el gradiente de presión que generan sus vórtices (sumideros) en el océano hiperdenso e incompresible de *La Fuente* ($\rho_0 \approx 801,419 \text{ kg/m}^3$).
 
-**5.1 La Inercia y la Gravedad como Gradientes de Presión Fluida**
-La Relatividad General de Einstein fue un triunfo matemático, pero un retroceso ontológico. Al modelar la gravedad como la "curvatura del espacio-tiempo" ($G_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu}$), Einstein geometrizó el vacío, creando un modelo donde las masas se atraen siguiendo líneas geodésicas en una topología sin sustancia. Sin embargo, la propia ecuación de campo de Einstein revela su naturaleza incompleta: el tensor de energía-impulso ($T_{\mu\nu}$) es, en su forma fundamental, **el tensor de tensiones de un fluido perfecto**. 
+Esta redefinición fluidodinámica resuelve desde su raíz topológica las dos mayores anomalías de la astrofísica contemporánea: la verdadera naturaleza de la constante gravitacional y la supuesta existencia de la Materia Oscura.
 
-Bajo la MQH, la gravedad deja de ser una deformación del espacio vacío y se revela como un **gradiente de presión hidrodinámica**. 
-Como se estableció en los capítulos previos, la masa no es intrínseca, sino el arrastre topológico de un vórtice cerrado. Cada protón y neutrón (nudos de vórtices) en un planeta actúa como un sumidero de presión microscópico, consumiendo energía cinética local de *La Fuente*. Cuando miles de billones de estos vórtices se agrupan (formando una masa estelar o planetaria), crean una zona masiva de baja presión macroscópica.
+### 5.1 La Constante de Newton ($G$) como Coeficiente de Acople Bariónico
+La física clásica y la Relatividad General asumen que la constante de Newton ($G \approx 6.674 \times 10^{-11} \text{ m}^3\text{kg}^{-1}\text{s}^{-2}$) es la fuerza gravitacional absoluta del espacio vacío. La MQH demuestra que esta asunción es errónea.
 
-La gravedad, por tanto, es una fuerza de empuje, no de tracción. Los objetos no se "atraen" mágicamente a distancia; son empujados el uno hacia el otro por la inmensa presión externa del fluido hiperdenso ($\rho_0 \approx 801,419 \text{ kg/m}^3$) intentando llenar el déficit de presión generado por la materia. La clásica ley de la inversa del cuadrado ($1/r^2$) de Newton no es más que la consecuencia geométrica de cómo este gradiente de presión esférico se difunde tridimensionalmente en el medio a medida que nos alejamos del sumidero.
+En la mecánica de medios continuos, la aceleración de arrastre inercial fundamental entre dos sumideros está gobernada por la inversa de la densidad del medio. La constante hidrodinámica pura del vacío cuántico es:
+$$ G_{hidro} = \frac{1}{4\pi \rho_0} \approx 9.93 \times 10^{-8} $$
 
-**5.2 La Eliminación Matemática de la Materia Oscura (Cohesión Galáctica)**
-El mayor síntoma del colapso del paradigma actual es el problema de las curvas de rotación galáctica. Al observar las galaxias espirales, la astrofísica notó que las estrellas en los bordes giran demasiado rápido. Según las leyes de Newton y Einstein, deberían salir disparadas al espacio. Para salvar sus ecuaciones, la física ortodoxa inventó la "Materia Oscura": un halo masivo de partículas invisibles e indetectables que supuestamente aporta la gravedad extra para mantener la galaxia unida.
+La divergencia de tres órdenes de magnitud entre el empuje bruto del fluido ($G_{hidro}$) y la gravedad medida para los cuerpos celestes ($G_{Newton}$) responde a un principio estricto de fricción topológica. La materia ordinaria (estrellas, planetas) está constituida por nucleones (protones y neutrones), los cuales son vórtices armónicos hiper-anudados. Esta intrincada arquitectura topológica opone una resistencia aerodinámica muy superior al desplazarse por *La Fuente*. 
 
-La MQH descarta la materia oscura como un artefacto matemático (epiciclos modernos) nacido de aplicar leyes de cuerpos rígidos a un sistema fluido. Las anomalías en la velocidad de rotación galáctica no requieren materia invisible, sino la comprensión de la **dinámica dependiente de la escala** en un medio continuo.
+Por consiguiente, la $G$ de Newton no es la gravedad del vacío; es la **Constante de Acople Bariónico**. Mide únicamente la fuerza gravitacional residual, amortiguada por el enredo topológico de la materia sólida al interactuar con el medio continuo.
 
-A escalas galácticas, estamos observando el comportamiento de vórtices macroscópicos. La cohesión de una galaxia no está dictada por una suma newtoniana de masas puntuales, sino por la macro-vorticidad del fluido base. Cuando modelamos la galaxia como un remolino gigante en *La Fuente*, las modificaciones a la dinámica de fuerzas (como las variaciones en la clásica fuerza dependiente de $1/r$) surgen naturalmente de las ecuaciones de Navier-Stokes aplicadas a discos de acreción en fluidos hiperdensos. 
+### 5.2 El Sumidero Galáctico y la Cancelación Geométrica de la Distancia
+Al aplicar la constante esférica de Newton a la cinemática de las galaxias, la astrofísica ortodoxa encontró que las estrellas periféricas orbitan a velocidades desproporcionadamente altas ($v \approx \text{constante}$). Para justificar este fallo en el decaimiento de la velocidad ($1/\sqrt{r}$), se introdujo el artefacto matemático de la "Materia Oscura". La MQH erradica esta entidad fantasma corrigiendo un error básico de topología dimensional.
 
-Las velocidades orbitales "anómalamente altas" en las periferias galácticas son exactamente el perfil de velocidades esperado en un vórtice fluido sostenido por la inercia constante del medio ($\rho_0$). La galaxia no se desintegra porque está cohesivamente unida por la misma mecánica de fluidos que mantiene estable al electrón, operando bajo leyes de escalamiento fractal. 
+El error del modelo estándar radica en tratar a una galaxia como si fuera un Sistema Solar sobredimensionado:
+*   **En el Sistema Solar (Modelo Esférico 3D):** El Sol actúa como un sumidero puntual, concentrando el 99.8% de la masa en el centro. El gradiente de presión se disipa radialmente de manera uniforme en una esfera (Área $\propto r^2$), dictando la caída gravitacional clásica $dP/dr \propto 1/r^2$.
+*   **En la Galaxia (Modelo Cilíndrico 2D):** Una galaxia es un disco plano, un macro-vórtice cilíndrico extendido donde la masa (los sumideros) no está confinada en el núcleo, sino distribuida a lo largo del plano estelar: $M(r) = \lambda r$. 
 
-**Conclusión General**
-La física del siglo XX sacrificó el sentido común y la causalidad mecánica en el altar del pragmatismo estadístico. Inventó un universo esquizofrénico donde lo microscópico es un juego de dados probabilístico, lo macroscópico es una sábana geométrica curvada, y el 95% del cosmos está hecho de materia y energía oscuras que nadie ha visto.
+En la dinámica de un vórtice cilíndrico, la caída de presión no se disipa en una esfera, sino a lo largo del perímetro bidimensional del disco, provocando un decaimiento lineal ($dP/dr \propto 1/r$). Al plantear la ecuación de equilibrio radial de Navier-Stokes/Euler para una estrella en órbita (donde la aceleración centrífuga se iguala al empuje del gradiente de presión colectivo):
 
-La Mecánica Cuántica Hidrodinámica (MQH) devuelve la física a sus raíces deterministas. Con un solo postulado físico innegable —la existencia de *La Fuente* como un medio fluido continuo, incompresible y dotado de inercia—, este modelo ha deducido analíticamente la densidad del vacío, ha explicado la naturaleza inercial de la masa, ha resuelto el misterio de las 3 generaciones por cavitación, ha unificado las leyes del electromagnetismo de Maxwell y ha eliminado la necesidad de la materia oscura.
+$$ \frac{v^2}{r} = G_{hidro} \left( \frac{M(r)}{r^2} \right) $$
 
-El universo no es un vacío estadístico; es el océano de fluidos perfecto. Y la materia, desde el electrón hasta las galaxias, no es más que la majestuosa geometría de su turbulencia.
+Sustituyendo la naturaleza distribuida del sumidero galáctico ($M(r) = \lambda r$):
+
+$$ \frac{v^2}{r} = G_{hidro} \left( \frac{\lambda \cdot r}{r^2} \right) \implies \frac{v^2}{r} = G_{hidro} \left( \frac{\lambda}{r} \right) $$
+
+La topología plana del fluido provoca una **cancelación algebraica absoluta** de la variable espacial ($r$) en ambos lados de la ecuación:
+
+$$ v^2 = G_{hidro} \cdot \lambda \implies v = \text{Constante} $$
+
+### 5.3 Conclusión: La Interfaz de Transición ($a_0$)
+Las curvas de rotación plana en los límites de la Vía Láctea no requieren halos masivos de partículas invisibles. Son la consecuencia geométrica ineludible y determinista de un fluido hiperdenso sometido a una rotación macroscópica de disco.
+
+El umbral de baja aceleración ($a_0 \approx 1.2 \times 10^{-10} \text{ m/s}^2$) detectado recurrentemente en las observaciones empíricas no es una anomalía fenomenológica, sino la **Interfaz de Transición Topológica**. Representa el límite inercial exacto donde la gravedad bariónica esférica local ($G_{Newton}$) se rinde, cediendo el control total del momento cinemático al arrastre hidrodinámico primigenio del macro-vórtice de *La Fuente*.
 
 # CAPÍTULO 6: Horizonte Tecnológico y Matemático (El Siglo de la MQH)
 
