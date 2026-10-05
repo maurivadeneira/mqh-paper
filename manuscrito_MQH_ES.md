@@ -1147,43 +1147,55 @@ Bajo este marco mecanicista estricto, la masa no es una "sustancia" que un bosó
 
 ## CAPÍTULO 5: MACRO-DINÁMICA, GRAVEDAD Y LA ILUSIÓN DE LA MATERIA OSCURA
 
-En el marco de la Mecánica Cuántica Hidrodinámica (MQH), la gravedad deja de ser una fuerza fundamental de atracción "mágica" a distancia para revelarse como la manifestación macroscópica del Teorema de Bernoulli (Postulado 6). Las masas no se atraen; son empujadas unas contra otras por el gradiente de presión que generan sus vórtices (sumideros) en el océano hiperdenso e incompresible de *La Fuente* ($\rho_0 \approx 801,419 \text{ kg/m}^3$).
+En el marco de la Mecánica Cuántica Hidrodinámica (MQH), la gravedad deja de ser una fuerza de atracción misteriosa y se revela como la manifestación macroscópica del gradiente de presión de *La Fuente* (Postulado 6). Sin embargo, para aplicar este principio fluidodinámico a las galaxias y resolver la anomalía de la Materia Oscura, primero debemos someter a escrutinio la constante de gravitación universal ($G$).
 
-Esta redefinición fluidodinámica resuelve desde su raíz topológica las dos mayores anomalías de la astrofísica contemporánea: la verdadera naturaleza de la constante gravitacional y la supuesta existencia de la Materia Oscura.
+### 5.1 La Dualidad de la Constante Gravitacional: $G_{Newton}$ vs $G_{Hidro}$
 
-### 5.1 La Constante de Newton ($G$) como Coeficiente de Acople Bariónico
-La física clásica y la Relatividad General asumen que la constante de Newton ($G \approx 6.674 \times 10^{-11} \text{ m}^3\text{kg}^{-1}\text{s}^{-2}$) es la fuerza gravitacional absoluta del espacio vacío. La MQH demuestra que esta asunción es errónea.
+La astrofísica clásica asume que la constante de Newton ($G \approx 6.674 \times 10^{-11} \text{ m}^3\text{kg}^{-1}\text{s}^{-2}$) es la fuerza inmutable del espacio vacío. La MQH demuestra matemáticamente que esto es una ilusión provocada por la escala.
 
-En la mecánica de medios continuos, la aceleración de arrastre inercial fundamental entre dos sumideros está gobernada por la inversa de la densidad del medio. La constante hidrodinámica pura del vacío cuántico es:
-$$ G_{hidro} = \frac{1}{4\pi \rho_0} \approx 9.93 \times 10^{-8} $$
+En la dinámica de fluidos incompresibles, el empuje inercial base entre dos sumideros (vórtices) está dictado por la densidad del medio. La constante hidrodinámica gravitacional pura ($G_{hidro}$) se calcula directamente a partir de la densidad de *La Fuente* ($\rho_0 \approx 801,419 \text{ kg/m}^3$):
 
-La divergencia de tres órdenes de magnitud entre el empuje bruto del fluido ($G_{hidro}$) y la gravedad medida para los cuerpos celestes ($G_{Newton}$) responde a un principio estricto de fricción topológica. La materia ordinaria (estrellas, planetas) está constituida por nucleones (protones y neutrones), los cuales son vórtices armónicos hiper-anudados. Esta intrincada arquitectura topológica opone una resistencia aerodinámica muy superior al desplazarse por *La Fuente*. 
+$$ G_{hidro} = \frac{1}{4\pi \rho_0} $$
 
-Por consiguiente, la $G$ de Newton no es la gravedad del vacío; es la **Constante de Acople Bariónico**. Mide únicamente la fuerza gravitacional residual, amortiguada por el enredo topológico de la materia sólida al interactuar con el medio continuo.
+Al evaluar la ecuación empíricamente, el contraste de magnitudes es revelador:
+*   **Constante Base de *La Fuente* ($G_{hidro}$):** $\approx 9.93 \times 10^{-8}$
+*   **Constante Clásica Medida ($G_{Newton}$):** $\approx 6.674 \times 10^{-11}$
 
-### 5.2 El Sumidero Galáctico y la Cancelación Geométrica de la Distancia
-Al aplicar la constante esférica de Newton a la cinemática de las galaxias, la astrofísica ortodoxa encontró que las estrellas periféricas orbitan a velocidades desproporcionadamente altas ($v \approx \text{constante}$). Para justificar este fallo en el decaimiento de la velocidad ($1/\sqrt{r}$), se introdujo el artefacto matemático de la "Materia Oscura". La MQH erradica esta entidad fantasma corrigiendo un error básico de topología dimensional.
+**La Relación de Amortiguación Topológica:**
+Si dividimos la constante clásica entre la constante fluida, obtenemos el factor exacto de discrepancia:
+$$ \frac{G_{Newton}}{G_{hidro}} \approx 0.00067 $$
 
-El error del modelo estándar radica en tratar a una galaxia como si fuera un Sistema Solar sobredimensionado:
-*   **En el Sistema Solar (Modelo Esférico 3D):** El Sol actúa como un sumidero puntual, concentrando el 99.8% de la masa en el centro. El gradiente de presión se disipa radialmente de manera uniforme en una esfera (Área $\propto r^2$), dictando la caída gravitacional clásica $dP/dr \propto 1/r^2$.
-*   **En la Galaxia (Modelo Cilíndrico 2D):** Una galaxia es un disco plano, un macro-vórtice cilíndrico extendido donde la masa (los sumideros) no está confinada en el núcleo, sino distribuida a lo largo del plano estelar: $M(r) = \lambda r$. 
+Este factor no es un margen de error; es la "fricción aerodinámica" de la materia. La $G_{Newton}$ que miden nuestros instrumentos empíricos es la fuerza que ejerce el fluido sobre la materia bariónica (protones y neutrones), la cual está conformada por nudos topológicos altamente enredados (nudos trébol). Esta compleja arquitectura opone una inmensa resistencia al flujo. 
 
-En la dinámica de un vórtice cilíndrico, la caída de presión no se disipa en una esfera, sino a lo largo del perímetro bidimensional del disco, provocando un decaimiento lineal ($dP/dr \propto 1/r$). Al plantear la ecuación de equilibrio radial de Navier-Stokes/Euler para una estrella en órbita (donde la aceleración centrífuga se iguala al empuje del gradiente de presión colectivo):
+Por lo tanto, la $G$ de Newton no es la gravedad del vacío; es la **Constante de Acople Bariónico**. Representa la fuerza purificada de *La Fuente* ($G_{hidro}$) filtrada y amortiguada ($\sim 0.067\%$) por el enredo topológico del protón.
+
+### 5.2 El Sumidero Galáctico y la Cancelación de la Distancia
+Al intentar aplicar la débil $G$ de Newton a las inmensas distancias galácticas, la física clásica calcula que las estrellas en los bordes deberían girar lentamente ($v \propto 1/\sqrt{r}$). Al observar que, por el contrario, orbitan a velocidades altas y constantes, la ortodoxia inventó la "Materia Oscura".
+
+La MQH erradica esta anomalía no con partículas fantasmas, sino corrigiendo la geometría fluidodinámica. El error ortodoxo fue tratar a la galaxia como una esfera.
+ 
+*   **Geometría 3D (El Sistema Solar):** El Sol es un sumidero puntual. El gradiente de presión decae esféricamente en todas las direcciones ($dP/dr \propto 1/r^2$). Aquí, la gravedad decae rápido y la materia bariónica domina localmente.
+*   **Geometría 2D (La Galaxia):** Una galaxia es un macro-vórtice cilíndrico (un disco estelar rotatorio). La inmensa acumulación de masa está distribuida a lo largo del radio estelar: $M(r) = \lambda r$.
+
+En un disco cilíndrico, la presión no se disipa en el volumen de una esfera, sino a lo largo del perímetro bidimensional, por lo que el decaimiento de la fuerza se suaviza drásticamente: $dP/dr \propto 1/r$. 
+
+A esta escala masiva, las enormes corrientes de vacío cuántico dominan el sistema de arrastre. Si planteamos la ecuación de equilibrio radial hidrodinámico (aceleración centrífuga = empuje gravitacional del disco distribuido):
 
 $$ \frac{v^2}{r} = G_{hidro} \left( \frac{M(r)}{r^2} \right) $$
 
-Sustituyendo la naturaleza distribuida del sumidero galáctico ($M(r) = \lambda r$):
+Sustituimos el sumidero distribuido de la galaxia ($M(r) = \lambda r$):
 
 $$ \frac{v^2}{r} = G_{hidro} \left( \frac{\lambda \cdot r}{r^2} \right) \implies \frac{v^2}{r} = G_{hidro} \left( \frac{\lambda}{r} \right) $$
 
-La topología plana del fluido provoca una **cancelación algebraica absoluta** de la variable espacial ($r$) en ambos lados de la ecuación:
+**La Cancelación Matemática:**
+Al igualar ambos lados, la variable espacial geométrica ($r$) se cancela algebraicamente de forma determinista:
 
 $$ v^2 = G_{hidro} \cdot \lambda \implies v = \text{Constante} $$
 
-### 5.3 Conclusión: La Interfaz de Transición ($a_0$)
-Las curvas de rotación plana en los límites de la Vía Láctea no requieren halos masivos de partículas invisibles. Son la consecuencia geométrica ineludible y determinista de un fluido hiperdenso sometido a una rotación macroscópica de disco.
+### 5.3 Conclusión y la Constante $a_0$
+Las curvas de rotación galáctica planas son la consecuencia ineludible y natural de un fluido incompresible sometido a una rotación bidimensional (disco estelar). No existe "masa faltante" ni Materia Oscura. 
 
-El umbral de baja aceleración ($a_0 \approx 1.2 \times 10^{-10} \text{ m/s}^2$) detectado recurrentemente en las observaciones empíricas no es una anomalía fenomenológica, sino la **Interfaz de Transición Topológica**. Representa el límite inercial exacto donde la gravedad bariónica esférica local ($G_{Newton}$) se rinde, cediendo el control total del momento cinemático al arrastre hidrodinámico primigenio del macro-vórtice de *La Fuente*.
+A escalas galácticas, el umbral donde el gradiente se aplana ha sido identificado empíricamente como la constante inercial $a_0 \approx 1.2 \times 10^{-10} \text{ m/s}^2$. En el marco de la MQH, $a_0$ representa la **Frontera de Transición Topológica**: el punto límite donde la gravedad esférica bariónica local ($G_{Newton}$) claudica frente a la inmensa fuerza hidrodinámica base del macro-vórtice puro ($G_{hidro}$), arrastrando a las estrellas periféricas en una corriente unificada.
 
 # CAPÍTULO 6: Horizonte Tecnológico y Matemático (El Siglo de la MQH)
 
