@@ -395,26 +395,32 @@ En conclusión, la materia ordinaria no está formada por esferas sólidas eleme
 
 ### 2.3 La Ecuación del Vórtice y la Derivación Analítica de la Densidad Base ($\rho_0$)
 
-Habiendo conceptualizado la masa como un remolino confinado, procedemos a su deducción analítica estricta aplicando las herramientas de la hidrodinámica clásica sobre nuestro marco axiomático. 
+Habiendo conceptualizado la masa como un remolino confinado, procedemos a su deducción analítica estricta aplicando las herramientas de la hidrodinámica clásica sobre nuestro marco axiomático.
 
-En la mecánica de fluidos, la energía total ($E$) de un sistema no es una propiedad abstracta, sino la energía cinética absoluta del fluido en movimiento. Conforme al Postulado 3, esta energía global se rige por la integral de volumen de Euler/Navier-Stokes:
+En la mecánica de fluidos incompresibles, la energía total ($E$) de un sistema no es una propiedad abstracta o mística, sino la energía cinética absoluta del fluido en movimiento. Conforme al Postulado 3, esta energía global se rige por la integral de volumen de Euler/Navier-Stokes:
 
 $$
 E = \iiint \frac{1}{2} \rho_0 v^2 \, dV
 $$
 
-**La Bifurcación de La Fuente: Masa vs. Campos**  
+**La Bifurcación de La Fuente: Masa vs. Campos**
+
 Llegados a esta integral universal, la MQH establece una bifurcación ontológica y matemática que divide el comportamiento físico en dos grandes regímenes operativos:
 
-1. **El Régimen Abierto (Campos, Gradientes e Ingeniería):** Si el flujo no se encierra sobre sí mismo, la integral describe energía libre: ondas transversales, campos electromagnéticos y vectores de macro-presión. Este es el dominio que permite trascender la mecánica clásica hacia la Ingeniería de La Fuente (desarrollada en los Capítulos 3 y 6), sentando las bases teóricas para la manipulación de densidades de energía, la alteración de gradientes de vacío y los futuros motores de propulsión sin inercia.
-2. **El Régimen Confinado (Inercia y Física de Partículas):** Si la interacción de flujos obliga a la energía a anudarse en un bucle topológico estable, el fluido queda atrapado girando en el mismo sitio. Es aquí donde nace la materia. 
+1. **El Régimen Abierto (Campos, Gradientes e Ingeniería):** Si el flujo de *La Fuente* no se encierra sobre sí mismo, la integral describe energía libre: ondas transversales, campos electromagnéticos y vectores de macro-presión. Este es el dominio que permite trascender la mecánica teórica hacia la Ingeniería de La Fuente (desarrollada en los Capítulos 3 y 6), sentando las bases para la manipulación de densidades de energía, la alteración de gradientes de vacío y los futuros motores de propulsión sin inercia.
+2. **El Régimen Confinado (Inercia y Física de Partículas):** Si la interacción de flujos obliga a la energía a anudarse en un bucle topológico estable (Postulado 7), el fluido queda atrapado girando en el mismo sitio. Es aquí donde nace la materia.
 
-Para el propósito estricto de derivar la masa de la partícula fundamental, tomamos este segundo camino geométrico: el remolino cerrado (un toroide delgado o anillo de vórtice). Al integrar el campo de velocidades $\mathbf{v}$ en todo el volumen de este tubo, donde $R$ es el radio mayor del anillo y $r$ el radio menor de su núcleo, la resolución analítica exacta lograda por Sir Horace Lamb colapsa el caos tridimensional en la siguiente expresión geométrica de energía:
+Para el propósito estricto de derivar la masa de la partícula fundamental, tomamos este segundo camino geométrico: el nudo cerrado más básico, un toroide delgado o anillo de vórtice. 
+
+En esta topología, el vórtice se define por un radio mayor ($R$) y un radio menor o grosor del núcleo ($r$). La cantidad de fluido girando se denomina Circulación ($\Gamma$). Por conservación del momento angular, la velocidad del fluido exterior decae inversamente a la distancia ($v \propto 1/d$). Al sustituir este perfil de velocidad en nuestra integral de volumen, la variable espacial nos exige integrar analíticamente la función de $1/d$, lo cual genera inevitablemente un logaritmo natural ($\ln$).
+
+Al evaluar esta integral entre los límites físicos del núcleo ($r$) y el límite de disipación efectiva del campo ($8R$, según la resolución analítica original de Sir Horace Lamb), el caos tridimensional colapsa en la siguiente expresión geométrica exacta para la energía del anillo:
 
 $$
-E = \frac{1}{2} \rho_0 \Gamma^2 R \ln \left( \frac{8R}{r} \right)
+E = \frac{1}{2} \rho_0 \Gamma^2 R \ln\left(\frac{8R}{r}\right)
 $$
 
+Bajo el principio de equivalencia masa-energía, esta ecuación fluidodinámica constituye la fórmula analítica de la masa en reposo. Además, demuestra matemáticamente que las partículas elementales no pueden ser "puntos adimensionales" (dado que un núcleo con radio $r=0$ generaría un logaritmo infinito), obligando al estrato cuántico a poseer volumen y geometría estructural real.
 Una vez obtenida la energía cinética del medio continuo confinado, aplicamos el Principio de Equivalencia Inercial del Postulado 2, el cual establece que la masa inercial ($m$) es estrictamente la energía encerrada dividida por el cuadrado de la velocidad límite del medio ($c^2$):
 
 $$
