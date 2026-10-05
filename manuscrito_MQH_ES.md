@@ -342,6 +342,27 @@ $$
 
 Dado que La Fuente es un fluido perfecto (Postulado 1), la topología matemática dicta que la helicidad se conserva de forma absoluta. Un electrón no se desvanece ni se disuelve espontáneamente porque su estructura de vórtice es un nudo topológico que no puede desatarse a sí mismo, fundamentando mecánicamente la Ley de Conservación de la Materia.
 
+### Corolario al Postulado 7: Quiralidad, Aniquilación y el Espectro de Masas
+
+La conservación topológica de la helicidad en un fluido perfecto no solo garantiza la estabilidad de la materia, sino que dictamina mecánicamente las interacciones fundamentales de las partículas elementales sin recurrir a campos exóticos. De la ecuación de helicidad ($H = \iiint v \cdot \omega \, dV \neq 0$) se desprenden tres consecuencias hidrodinámicas ineludibles:
+
+**7.1 La Quiralidad Topológica (La Naturaleza de la Antimateria)**
+Si una partícula ordinaria (ej. un electrón) es un nudo hidrodinámico trenzado en una dirección específica, poseerá una helicidad positiva ($+H$). La antimateria no es "masa negativa" ni una sustancia distinta; es la misma configuración de vórtice anudada en la dirección especular inversa, poseyendo una helicidad negativa ($-H$). Un positrón es pura y simplemente la imagen topológica en el espejo de un electrón.
+
+**7.2 La Aniquilación y la Equivalencia Masa-Energía ($+H - H = 0$)**
+La aparente "destrucción" de la materia al colisionar con la antimateria es una estricta cancelación de cargas topológicas. Al fusionarse un nudo ($+H$) con su antinudo idéntico ($-H$), la helicidad neta del sistema local se anula matemáticamente:
+
+$$
++H + (-H) = 0
+$$
+
+Al volverse la helicidad neta igual a cero, la restricción topológica de confinamiento desaparece por completo. El nudo se desata instantáneamente, y toda la energía cinética rotacional que constituía la masa de ambas partículas se "desembotella", propagándose por *La Fuente* como ondas de disipación abiertas (fotones o radiación gamma), las cuales carecen de masa en reposo al poseer $H=0$. Esto constituye el mecanismo fluidodinámico exacto detrás de la equivalencia relativista $E=mc^2$.
+
+**7.3 La Complejidad del Nudo (Masa Leptónica vs. Bariónica)**
+La masa inercial de una partícula está directamente dictaminada por la cantidad de flujo incompresible de *La Fuente* que su topología logra atrapar y arrastrar:
+*   **Leptones (Electrón):** Constituyen la configuración de confinamiento más elemental (un toroide simple). Al entrelazarse mínimamente, atrapan una fracción reducida de flujo, exhibiendo baja masa.
+*   **Bariones (Protón):** Constituyen arquitecturas topológicas hiper-anudadas (Nudo Trébol). Al requerir que las líneas de flujo de *La Fuente* se crucen y trencen sobre sí mismas múltiples veces para cerrarse, arrastran una cantidad inmensamente superior del medio continuo. Esto explica desde la mecánica clásica por qué un protón es $\sim 1836$ veces más masivo que un electrón, sin requerir el postulado de partículas divinas o mecanismos exóticos de adquisición de masa.
+
 ### 2.1 La Transición Ontológica y la Mecánica de Medios Continuos
 
 Habiendo establecido el marco axiomático previo, la transición ontológica que exige la Mecánica Cuántica Hidrodinámica (MQH) es ineludible: el escenario que la física contemporánea denomina "vacío" o "espacio-tiempo" debe ser tratado matemáticamente como una sustancia real, física y tangible. 
