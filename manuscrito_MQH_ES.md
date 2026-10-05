@@ -1150,57 +1150,69 @@ Bajo este marco mecanicista estricto, la masa no es una "sustancia" que un bosó
 En el marco de la Mecánica Cuántica Hidrodinámica (MQH), la gravedad deja de ser una fuerza inmaterial de atracción a distancia, revelándose como la manifestación macroscópica de los gradientes de presión en *La Fuente* (Postulado 6). Para aplicar este principio a las galaxias y resolver la anomalía de la Materia Oscura, primero debemos someter a escrutinio el origen geométrico de la constante gravitacional universal ($G$).
 
 ### 5.1 Derivación Analítica de la Gravedad Hidrodinámica ($G_{hidro}$)
+
 Conforme al Postulado 6, toda masa estelar o planetaria opera como un sumidero. En la mecánica de fluidos incompresibles, la masa inercial ($M$) equivale al flujo volumétrico o caudal ($Q$) que el sumidero arrastra, modulado por la densidad absoluta del medio ($\rho_0 \approx 801,419 \text{ kg/m}^3$), estableciendo la relación:
-$$ Q = \frac{M}{\rho_0} $$
+
+$$Q = \frac{M}{\rho_0}$$
 
 Para determinar la fuerza de interacción entre dos masas en este océano incompresible, recurrimos al Teorema de Bjerknes, el cual dicta que la fuerza de atracción hidrodinámica ($F_{hidro}$) entre dos sumideros separados por una distancia radial ($r$) en un espacio esférico tridimensional ($4\pi r^2$) es:
-$$ F_{hidro} = \frac{\rho_0 \cdot Q_1 \cdot Q_2}{4\pi r^2} $$
+
+$$F_{hidro} = \frac{\rho_0 \cdot Q_1 \cdot Q_2}{4\pi r^2}$$
 
 Al sustituir los caudales de ambos sumideros ($Q_1 = M_1/\rho_0$ y $Q_2 = M_2/\rho_0$) en la ecuación de Bjerknes, obtenemos:
-$$ F_{hidro} = \frac{\rho_0 \left(\frac{M_1}{\rho_0}\right) \left(\frac{M_2}{\rho_0}\right)}{4\pi r^2} $$
+
+$$F_{hidro} = \frac{\rho_0 \left(\frac{M_1}{\rho_0}\right) \left(\frac{M_2}{\rho_0}\right)}{4\pi r^2}$$
 
 Simplificando algebraicamente la densidad en el numerador y reordenando las constantes, la ecuación del empuje de *La Fuente* se revela en toda su pureza:
-$$ F_{hidro} = \left( \frac{1}{4\pi \rho_0} \right) \frac{M_1 \cdot M_2}{r^2} $$
+
+$$F_{hidro} = \left( \frac{1}{4\pi \rho_0} \right) \frac{M_1 \cdot M_2}{r^2}$$
 
 Al contrastar geométricamente esta ley de fluidos con la formulación clásica de la gravedad de Newton:
-$$ F_{Newton} = G \frac{M_1 \cdot M_2}{r^2} $$
+
+$$F_{Newton} = G \frac{M_1 \cdot M_2}{r^2}$$
 
 La constante gravitacional pura del vacío emerge por equivalencia directa. No es un valor arbitrario, sino la inversa de la densidad del medio esférico:
-$$ G_{hidro} = \frac{1}{4\pi \rho_0} $$
+
+$$G_{hidro} = \frac{1}{4\pi \rho_0}$$
 
 Evaluando el término con la densidad exacta de la MQH, la inercia pura del medio continuo es:
-$$ G_{hidro} \approx 9.93 \times 10^{-8} \text{ m}^3\text{kg}^{-1}\text{s}^{-2} $$
+
+$$G_{hidro} \approx 9.93 \times 10^{-8} \text{ m}^3\text{kg}^{-1}\text{s}^{-2}$$
 
 ### 5.2 La Dualidad de la Constante: $G_{Newton}$ vs $G_{hidro}$
+
 La astrofísica asume que la constante medida empíricamente por Cavendish ($G_{Newton} \approx 6.674 \times 10^{-11}$) es la fuerza inmutable del espacio vacío. La dinámica de fluidos demuestra que esto es una ilusión.
 
 Si establecemos la relación de amortiguación topológica dividiendo la constante clásica medida entre la constante fluida pura, obtenemos el factor exacto de discrepancia:
-$$ \frac{G_{Newton}}{G_{hidro}} \approx 0.00067 $$
 
-Este factor ($\sim 0.067\%$) representa la fricción aerodinámica de la materia. La gravedad de Newton no mide el empuje del vacío libre; mide el empuje del fluido actuando exclusivamente sobre la materia bariónica (protones y neutrones). Dado que un nucleón es un nudo topológico altamente enredado (nudo trébol), esta compleja arquitectura opone una resistencia colosal al desplazamiento por el medio continuo. 
+$$\frac{G_{Newton}}{G_{hidro}} \approx 0.00067$$
+
+Este factor ($\sim 0.067\%$) representa la fricción aerodinámica de la materia. La gravedad de Newton no mide el empuje del vacío libre; mide el empuje del fluido actuando exclusivamente sobre la materia bariónica (protones y neutrones). Dado que un nucleón es un nudo topológico altamente enredado (nudo trébol), esta compleja arquitectura opone una resistencia colosal al desplazamiento por el medio continuo.
 
 Por lo tanto, la constante $G$ tradicional es la **Constante de Acople Bariónico**. Representa la fuerza absoluta de *La Fuente* ($G_{hidro}$) amortiguada por el enredo topológico del protón.
 
 ### 5.3 El Sumidero Galáctico y la Cancelación de la Distancia
+
 Al intentar aplicar la débil $G$ de Newton a las inmensas distancias de una galaxia, la física clásica predice un freno orbital estelar ($v \propto 1/\sqrt{r}$). Al observar velocidades constantes, la ortodoxia postuló la "Materia Oscura". La MQH erradica esta anomalía corrigiendo la topología de la ecuación.
 
 El error de la materia oscura nace de tratar a una galaxia espiral con la geometría de un Sistema Solar:
+
 *   **Geometría 3D (Sistema Solar):** El Sol es un sumidero puntual. El gradiente se disipa en el volumen de una esfera, decayendo agresivamente al cuadrado de la distancia ($1/r^2$).
 *   **Geometría 2D (Galaxia Espiral):** Una galaxia es un disco estelar rotatorio, un macro-vórtice cilíndrico extendido. La acumulación de masa no es un punto central (el agujero negro apenas representa el $<1\%$ de la masa total), sino un continuo distribuido a lo largo del radio estelar: $M(r) = \lambda r$.
 
 En la dinámica de un cilindro fluido extendido, la disipación geométrica ocurre en el perímetro del disco (2D), suavizando drásticamente la caída del gradiente ($1/r$). Si planteamos la ecuación hidrodinámica del disco, impulsada a esta macro-escala por la fuerza pura de *La Fuente* ($G_{hidro}$):
-$$ \frac{v^2}{r} = G_{hidro} \left( \frac{M(r)}{r^2} \right) $$
+
+$$\frac{v^2}{r} = G_{hidro} \left( \frac{M(r)}{r^2} \right)$$
 
 Sustituyendo el sumidero distribuido ($\lambda r$):
-$$ \frac{v^2}{r} = G_{hidro} \left( \frac{\lambda \cdot r}{r^2} \right) \implies \frac{v^2}{r} = G_{hidro} \left( \frac{\lambda}{r} \right) $$
+
+$$\frac{v^2}{r} = G_{hidro} \left( \frac{\lambda \cdot r}{r^2} \right) \implies \frac{v^2}{r} = G_{hidro} \left( \frac{\lambda}{r} \right)$$
 
 **La Cancelación Geométrica:** Al multiplicar ambos lados por $r$, la variable espacial desaparece algebraicamente del sistema:
-$$ v^2 = G_{hidro} \cdot \lambda \implies v = \text{Constante} $$
+
+$$v^2 = G_{hidro} \cdot \lambda \implies v = \text{Constante}$$
 
 ### 5.4 Conclusión: La Interfaz de Transición ($a_0$)
-Las curvas de rotación plana en la periferia galáctica son la consecuencia matemática ineludible de un fluido incompresible rotando bidimensionalmente. 
-
-El límite de baja aceleración detectado en la observación astronómica ($a_0 \approx 1.2 \times 10^{-10} \text{ m/s}^2$) no es una anomalía, sino la **Frontera de Transición Topológica**. Constituye el límite orbital exacto donde la gravedad bariónica esférica local ($G_{Newton}$) claudica frente a la corriente masiva del macro-vórtice cilíndrico ($G_{hidro}$), arrastrando las estrellas exteriores en un flujo unificado y haciendo innecesaria la existencia de la Materia Oscura.
 
 # CAPÍTULO 6: Horizonte Tecnológico y Matemático (El Siglo de la MQH)
 
