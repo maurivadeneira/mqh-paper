@@ -22,7 +22,7 @@ El espacio no es un vacío geométrico; es un medio físico, continuo, incompres
 Basada en la inercia del fluido cuántico:
 
 $$
-\rho_0 = \frac{2 m^3 c^2}{h^2 R} \approx 63,700 \text{ kg/m}^3
+\rho_0 = \frac{2 m^3 c^2}{h^2 R} \approx 801,419 \text{ kg/m}^3
 $$
 
 **4. EL ELECTRÓN (Fermión Base)** 
@@ -267,7 +267,7 @@ $$ \rho_0 \left( \frac{\partial \mathbf{v}}{\partial t} + \mathbf{v} \cdot \nabl
 La Mecánica Cuántica Hidrodinámica (MQH) se erige sobre siete axiomas o postulados ineludibles. Estos principios no introducen entidades metafísicas ni matemáticas abstractas, sino que aplican el rigor estricto de la mecánica de fluidos clásica a la escala cuántica y relativista.
 
 **Postulado 1. La Fuente (Naturaleza del Medio)**  
-El espacio físico no es un vacío, sino un medio fluido continuo, incompresible y perfecto. Este medio primordial es isotrópico y está caracterizado por poseer una densidad absoluta, constante y uniforme $\rho_0$ (cuyo valor exacto, que ronda los $63,700 \text{ kg/m}^3$, será deducido analíticamente a partir de las constantes fundamentales de la cuántica y la relatividad). Aunque la medición empírica directa de esta colosal densidad resulta experimentalmente esquiva —dado que nuestros propios instrumentos están constituidos por vórtices de la misma sustancia que intentan medir—, su validación científica quedará demostrada de forma irrefutable a través de su poder predictivo: si este valor es correcto, nos permitirá deducir analíticamente las demás constantes, masas y fenómenos observables de la mecánica cuántica sin recurrir a parámetros libres.
+El espacio físico no es un vacío, sino un medio fluido continuo, incompresible y perfecto. Este medio primordial es isotrópico y está caracterizado por poseer una densidad absoluta, constante y uniforme $\rho_0$ (cuyo valor exacto, que ronda los $801,419 \text{ kg/m}^3$, será deducido analíticamente a partir de las constantes fundamentales de la cuántica y la relatividad). Aunque la medición empírica directa de esta colosal densidad resulta experimentalmente esquiva —dado que nuestros propios instrumentos están constituidos por vórtices de la misma sustancia que intentan medir—, su validación científica quedará demostrada de forma irrefutable a través de su poder predictivo: si este valor es correcto, nos permitirá deducir analíticamente las demás constantes, masas y fenómenos observables de la mecánica cuántica sin recurrir a parámetros libres.
 
 **Postulado 2. Principio de Equivalencia Inercial (La Naturaleza de la Materia y el Origen del Vórtice)**  
 La masa inercial es energía confinada ($m = E/c^2$). En este marco, la masa ($m$) de cualquier cuerpo no representa una partícula material sólida flotando en el vacío, sino una región de energía dinámica localizada; es decir, un remolino estructurado (vórtice) formado por el mismo fluido primordial de La Fuente. 
@@ -465,7 +465,7 @@ $$
 Al resolver la operación con el radio macroscópico exacto del vórtice, el resultado colapsa de manera determinista en una constante absoluta del cosmos:
 
 $$
-\rho_0 \approx 63,700 \text{ kg/m}^3
+\rho_0 \approx 801,419 \text{ kg/m}^3
 $$
 
 El espacio no está vacío. Estamos inmersos en un océano continuo cuya densidad supera por decenas de miles de veces a la del agua. Es esta inmensa inercia primigenia la que confina y estabiliza la tremenda energía cinética de los micro-huracanes que componen toda la materia del universo.
@@ -638,7 +638,7 @@ La idea de conectar la mecánica cuántica con la dinámica de fluidos no es nue
 
 El aporte original y la ruptura histórica de la MQH no radica en inventar la dinámica de fluidos desde cero, sino en despojarla de su velo estadístico y aplicarla con rigor de ingeniería a la estructura misma de la partícula. Las contribuciones inéditas de este modelo son tres:
 
-1.  **El cálculo analítico de la Densidad del Vacío ($\rho_0$):** Por primera vez, se utiliza la longitud de onda de Compton no como una "sección eficaz de interacción", sino como el perímetro físico real del Toroide de Lamb. Esto permitió despejar analíticamente la inercia del medio continuo, revelando que *La Fuente* posee una densidad exacta de $\approx 63,700 \text{ kg/m}^3$.
+1.  **El cálculo analítico de la Densidad del Vacío ($\rho_0$):** Por primera vez, se utiliza la longitud de onda de Compton no como una "sección eficaz de interacción", sino como el perímetro físico real del Toroide de Lamb. Esto permitió despejar analíticamente la inercia del medio continuo, revelando que *La Fuente* posee una densidad exacta de $\approx 801,419 \text{ kg/m}^3$.
 2.  **La eliminación de la Masa como propiedad fundamental:** Mientras que los modelos anteriores (incluyendo la hidrodinámica cuántica del siglo XX) seguían tratando la masa como una propiedad intrínseca, la MQH demuestra que la masa es un espejismo macroscópico. Es puramente el arrastre topológico (roce mecánico) de un vórtice cerrado oponiendo resistencia al fluido base.
 3.  **La solución mecánica a las 3 Generaciones (Cavitación):** Ningún modelo previo logró explicar la existencia y el decaimiento del Muón y el Tau sin recurrir a parámetros libres. La MQH es el primer marco teórico que demuestra matemáticamente que la inestabilidad del decaimiento débil es, en realidad, la cavitación del fluido causada por el estrés topológico extremo al forzar el vórtice hacia armónicos superiores ($n=2$ y $n=3$).
 
@@ -652,7 +652,7 @@ Habiendo despojado a la física de partículas de sus parámetros libres y nubes
 El espacio no es un ente geométrico vacío, sino un fluido hiperdenso. Su inercia base ($\rho_0$) dicta la constante de resistencia a la que se somete cualquier deformación topológica:
 
 $$
-\rho_0 = \frac{2 m_e^3 c^2}{h^2 R_e} \approx 63,700 \text{ kg/m}^3
+\rho_0 = \frac{2 m_e^3 c^2}{h^2 R_e} \approx 801,419 \text{ kg/m}^3
 $$
 
 **II. La Cinemática del Fluido (Límite Elástico)**
@@ -844,7 +844,7 @@ Esta es la justificación geométrica y causal de por qué, en el Capítulo 2.4,
 
 **3.6 El Triunfo de la Mecánica (Conclusión del Capítulo)**
 
-Las ecuaciones de Maxwell nunca pertenecieron al vacío. Son, línea por línea, la descripción geométrica y cinemática de un fluido hiperdenso ($\rho_0 \approx 63,700 \text{ kg/m}^3$) siendo empujado, rotado y comprimido por estructuras toroidales. Al devolverle el sustrato material (La Fuente) a las matemáticas, la Mecánica Cuántica Hidrodinámica (MQH) no solo reconcilia el electromagnetismo con la gravedad (la inercia), sino que destierra para siempre el misticismo de las "acciones a distancia".
+Las ecuaciones de Maxwell nunca pertenecieron al vacío. Son, línea por línea, la descripción geométrica y cinemática de un fluido hiperdenso ($\rho_0 \approx 801,419 \text{ kg/m}^3$) siendo empujado, rotado y comprimido por estructuras toroidales. Al devolverle el sustrato material (La Fuente) a las matemáticas, la Mecánica Cuántica Hidrodinámica (MQH) no solo reconcilia el electromagnetismo con la gravedad (la inercia), sino que destierra para siempre el misticismo de las "acciones a distancia".
 
 # CAPÍTULO 4: La Tabla Periódica de los Vórtices (Reinterpretando el Modelo Estándar)
 
@@ -859,7 +859,7 @@ El Modelo Estándar postula la existencia de los *neutrinos* como partículas fa
 
 El pilar de la física nuclear ortodoxa postula que los nucleones están compuestos por entidades llamadas "quarks", a las cuales se les asignan "cargas fraccionarias" (como $+2/3$ y $-1/3$). Además, enfrenta un problema empírico irresoluble: jamás se ha podido aislar un quark. A este fenómeno se le etiquetó misteriosamente como "confinamiento del color". 
 
-Desde la perspectiva de la Mecánica Cuántica Hidrodinámica (MQH), los números fraccionarios no son propiedades mágicas intrínsecas, sino pura topología de fluidos. Un quark es, geométricamente, un vórtice roto o seccionado. Mientras que el electrón (armónico base, $n=1$) es un circuito cerrado perfecto que retiene su flujo sin fugas (carga entera de $1$), un vórtice abierto perdería su energía instantáneamente al derramarse y sería aplastado por los $\rho_0 \approx 63,700 \text{ kg/m}^3$ de presión de *La Fuente*. 
+Desde la perspectiva de la Mecánica Cuántica Hidrodinámica (MQH), los números fraccionarios no son propiedades mágicas intrínsecas, sino pura topología de fluidos. Un quark es, geométricamente, un vórtice roto o seccionado. Mientras que el electrón (armónico base, $n=1$) es un circuito cerrado perfecto que retiene su flujo sin fugas (carga entera de $1$), un vórtice abierto perdería su energía instantáneamente al derramarse y sería aplastado por los $\rho_0 \approx 801,419 \text{ kg/m}^3$ de presión de *La Fuente*. 
 
 Para sobrevivir a esta presión, un quark solitario no puede existir. La única solución geométrica de supervivencia es que tres vórtices incompletos se enganchen entre sí, compartiendo y canalizando sus corrientes para cerrar un circuito estable. Matemáticamente, dos vórtices que succionan ($+2/3$) y uno que expulsa ($-1/3$) se acoplan para formar un único flujo perfecto: $2/3 + 2/3 - 1/3 = 1$. 
 
@@ -1128,7 +1128,7 @@ El colofón del Modelo Estándar fue la postulación del Bosón de Higgs y su ca
 
 Con la formalización de la MQH, el mecanismo de Higgs se revela como un pleonasmo matemático, un artificio redundante y obsoleto. 
 
-Como se dedujo analíticamente en el Capítulo 2.3 a partir de la Ecuación del Vórtice, el universo ya está permeado por un campo físico, real y medible: *La Fuente*, poseedora de una densidad absoluta de $\rho_0 \approx 63,700 \text{ kg/m}^3$. La inercia (masa) no requiere de un bosón mediador ni de un campo escalar abstracto; nace estrictamente de la mecánica clásica de fluidos. La masa es el resultado directo y geométrico del **arrastre topológico** de un remolino cerrado oponiendo resistencia al intentar moverse a través de este océano hiperdenso.
+Como se dedujo analíticamente en el Capítulo 2.3 a partir de la Ecuación del Vórtice, el universo ya está permeado por un campo físico, real y medible: *La Fuente*, poseedora de una densidad absoluta de $\rho_0 \approx 801,419 \text{ kg/m}^3$. La inercia (masa) no requiere de un bosón mediador ni de un campo escalar abstracto; nace estrictamente de la mecánica clásica de fluidos. La masa es el resultado directo y geométrico del **arrastre topológico** de un remolino cerrado oponiendo resistencia al intentar moverse a través de este océano hiperdenso.
 
 Bajo este marco mecanicista estricto, la masa no es una "sustancia" que un bosón pueda otorgar, sino un **comportamiento aerodinámico**. Tratar de encontrar la partícula que "da la masa" es tan absurdo en física de fluidos como tratar de encontrar la partícula que "da la turbulencia". 
 
@@ -1144,7 +1144,7 @@ La Relatividad General de Einstein fue un triunfo matemático, pero un retroceso
 Bajo la MQH, la gravedad deja de ser una deformación del espacio vacío y se revela como un **gradiente de presión hidrodinámica**. 
 Como se estableció en los capítulos previos, la masa no es intrínseca, sino el arrastre topológico de un vórtice cerrado. Cada protón y neutrón (nudos de vórtices) en un planeta actúa como un sumidero de presión microscópico, consumiendo energía cinética local de *La Fuente*. Cuando miles de billones de estos vórtices se agrupan (formando una masa estelar o planetaria), crean una zona masiva de baja presión macroscópica.
 
-La gravedad, por tanto, es una fuerza de empuje, no de tracción. Los objetos no se "atraen" mágicamente a distancia; son empujados el uno hacia el otro por la inmensa presión externa del fluido hiperdenso ($\rho_0 \approx 63,700 \text{ kg/m}^3$) intentando llenar el déficit de presión generado por la materia. La clásica ley de la inversa del cuadrado ($1/r^2$) de Newton no es más que la consecuencia geométrica de cómo este gradiente de presión esférico se difunde tridimensionalmente en el medio a medida que nos alejamos del sumidero.
+La gravedad, por tanto, es una fuerza de empuje, no de tracción. Los objetos no se "atraen" mágicamente a distancia; son empujados el uno hacia el otro por la inmensa presión externa del fluido hiperdenso ($\rho_0 \approx 801,419 \text{ kg/m}^3$) intentando llenar el déficit de presión generado por la materia. La clásica ley de la inversa del cuadrado ($1/r^2$) de Newton no es más que la consecuencia geométrica de cómo este gradiente de presión esférico se difunde tridimensionalmente en el medio a medida que nos alejamos del sumidero.
 
 **5.2 La Eliminación Matemática de la Materia Oscura (Cohesión Galáctica)**
 El mayor síntoma del colapso del paradigma actual es el problema de las curvas de rotación galáctica. Al observar las galaxias espirales, la astrofísica notó que las estrellas en los bordes giran demasiado rápido. Según las leyes de Newton y Einstein, deberían salir disparadas al espacio. Para salvar sus ecuaciones, la física ortodoxa inventó la "Materia Oscura": un halo masivo de partículas invisibles e indetectables que supuestamente aporta la gravedad extra para mantener la galaxia unida.
@@ -1177,12 +1177,12 @@ Si la materia (los quarks y leptones) consiste únicamente en geometrías de nud
 
 **6.4 Navegación de Gradientes: El Futuro de la Propulsión Espacial**
 Al abolir la Relatividad General vacía y comprender la gravedad como un gradiente de presión hidrodinámica macroscópica (Capítulo 5), la exploración espacial se liberará de la dictadura de la propulsión química newtoniana. La expulsión de masa para lograr aceleración (acción-reacción) será reemplazada por la "Navegación de Gradientes". 
-Las naves del futuro operarán mediante metamateriales o emisores electromagnéticos que induzcan un vacío de presión topológica de forma asimétrica (un sumidero hidrodinámico localizado en la proa de la nave). Al crear artificialmente una zona de baja presión por delante, la inmensa inercia constante de La Fuente ($\rho_0 \approx 63,700 \text{ kg/m}^3$) empujará la nave desde atrás, logrando velocidades extremas sin los devastadores efectos de fuerza G convencionales, ya que la nave y su tripulación no estarían acelerando en el sentido clásico, sino "cayendo" perpetuamente en una ola de presión inducida.
+Las naves del futuro operarán mediante metamateriales o emisores electromagnéticos que induzcan un vacío de presión topológica de forma asimétrica (un sumidero hidrodinámico localizado en la proa de la nave). Al crear artificialmente una zona de baja presión por delante, la inmensa inercia constante de La Fuente ($\rho_0 \approx 801,419 \text{ kg/m}^3$) empujará la nave desde atrás, logrando velocidades extremas sin los devastadores efectos de fuerza G convencionales, ya que la nave y su tripulación no estarían acelerando en el sentido clásico, sino "cayendo" perpetuamente en una ola de presión inducida.
 
 ### 6.5 Extracción Energética Directa: La Verdadera "Energía de Punto Cero"
 La civilización actual fundamenta su matriz energética en procesos termodinámicos primitivos: quemar restos fósiles o fisionar núcleos pesados para evaporar agua y mover turbinas mecánicas. Por su parte, la física cuántica ortodoxa reconoce la existencia de una energía remanente incalculable en el vacío absoluto (la Energía de Punto Cero), pero al carecer de un modelo de medio continuo, la considera una curiosidad matemática inaccesible.
 
-En el paradigma de la MQH, el vacío no está vacío. Es *La Fuente*, un océano hiperdenso ($\rho_0 \approx 63,700 \text{ kg/m}^3$) dotado de una inmensa inercia y energía cinética latente. La "energía de punto cero" deja de ser un misterio esotérico para convertirse en la simple presión hidrodinámica y acústica del espacio mismo. 
+En el paradigma de la MQH, el vacío no está vacío. Es *La Fuente*, un océano hiperdenso ($\rho_0 \approx 801,419 \text{ kg/m}^3$) dotado de una inmensa inercia y energía cinética latente. La "energía de punto cero" deja de ser un misterio esotérico para convertirse en la simple presión hidrodinámica y acústica del espacio mismo. 
 
 El salto tecnológico definitivo de la MQH será el desarrollo de generadores de estado sólido o "turbinas topológicas". Estos dispositivos no requerirán combustible químico ni material radiactivo; operarán induciendo gradientes de presión asimétricos a nivel microscópico (resonancia armónica dirigida) para extraer trabajo eléctrico directamente de las tensiones locales del fluido base. Dominar esta tecnología no solo descarbonizará el planeta en cuestión de años, sino que marcará el fin de la escasez energética global, proporcionando una fuente de energía descentralizada, inagotable y en perfecta armonía con la dinámica natural del universo.
 
