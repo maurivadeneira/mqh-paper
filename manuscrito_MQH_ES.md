@@ -306,17 +306,11 @@ $$
 
 Donde $h$ (la constante de Planck) deja de ser un parámetro probabilístico abstracto y se revela como el **cuanto fundamental de acción hidrodinámica**; es decir, la medida mínima e indivisible de momento angular que el fluido de La Fuente permite para sostener un vórtice estable.
 
-**Postulado 5. Límites Cinemáticos, Resolución de Navier-Stokes y Dualidad de Transmisión ($c$ y $t=0$)**  
+**Postulado 5. Condiciones de Frontera Cinemática (Resolución de Navier-Stokes y Dualidad de Transmisión)**  
+Para que las ecuaciones de Navier-Stokes describan un universo estable y eviten su colapso matemático hacia el infinito (la singularidad *blow-up*), *La Fuente* no permite velocidades ni presiones arbitrarias, sino que impone dos límites de frontera física estrictos que dictan cómo se transmite la energía:
 
-**5.1 Régimen Transversal (El Freno Cinemático de Navier-Stokes)**  
-La velocidad de la luz ($c$) no es una barrera abstracta del espacio-tiempo, sino la velocidad máxima de tensión, cizalla y propagación mecánica que soporta el fluido de *La Fuente*. En su estructuración, el flujo interno del vórtice gira exactamente a esta velocidad límite, evitando el colapso al infinito (singularidad *blow-up*) de las ecuaciones clásicas y estableciendo la condición de frontera:
-
-$$ \Gamma = c \cdot L $$
-
-Donde $L$ representa la longitud característica de la línea de corriente interna (el perímetro del núcleo del vórtice). Esta condición cinemática explica físicamente por qué ninguna partícula con masa puede superar $c$: dado que el fluido que la conforma ya está girando a la máxima velocidad que el medio permite, cualquier empuje adicional provocaría la ruptura topológica del remolino, obligando a la energía a ocupar un volumen espacial extenso (origen del volumen de la materia).
-
-**5.2 Régimen Longitudinal (El Origen de $t=0$)**  
-Por otro lado, debido a la incompresibilidad ideal del medio ($\nabla \cdot \mathbf{v} = 0$), la transmisión de **gradientes de presión puramente longitudinales** no está sujeta a la cizalladura transversal. Al regirse por la Ecuación de Poisson, las variaciones de presión actualizan el estado de tensión del volumen cósmico de forma simultánea e instantánea, fundamentando mecánicamente el "tiempo cero" ($t=0$) y el entrelazamiento cuántico.
+* **5.1 El Límite Transversal (El Freno Cinemático $c$):** La velocidad de la luz ($c$) no es una barrera geométrica abstracta, sino la velocidad máxima de tensión de corte (cizalladura) que soporta el medio. Como condición de frontera, el flujo interno del vórtice estabiliza su giro exactamente en este límite elástico ($\Gamma = c \cdot L$). Esta restricción cinemática explica físicamente por qué ninguna partícula puede superar $c$: dado que el fluido que la conforma ya está girando a la velocidad máxima permitida, intentar acelerarla más allá de este umbral no aumenta su velocidad, sino que provoca la ruptura topológica del remolino.
+* **5.2 El Límite Longitudinal (La Ecuación de Poisson y el $t=0$):** Por otro lado, debido a la incompresibilidad ideal del medio ($\nabla \cdot \mathbf{v} = 0$), la transmisión de gradientes de presión puramente longitudinales no está sujeta a la fricción de corte. Como condición de frontera matemática, el campo de presiones incompresible se rige estrictamente por la Ecuación de Poisson ($\nabla^2 P$). Al carecer de derivada temporal, esta ecuación determina que los empujes de presión puros actualizan el estado de tensión del volumen cósmico de forma simultánea, fundamentando mecánicamente el "tiempo cero" ($t=0$) y la viabilidad del entrelazamiento cuántico.
 
 **Postulado 6. Gradiente de Presión (El Origen Hidrodinámico de las Fuerzas)**  
 En el medio continuo de La Fuente, se descarta el concepto de "acción a distancia" o campos inmateriales de atracción. Toda interacción entre partículas (gravedad o electromagnetismo) es el resultado estricto de variaciones locales de presión en el fluido. Conforme al teorema de Bernoulli y las ecuaciones de Euler para fluidos incompresibles:
