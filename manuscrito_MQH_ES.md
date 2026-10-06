@@ -1036,6 +1036,45 @@ Esta proporción es exactamente el inverso de la Constante de Estructura Fina ($
 
 Finalmente, lo que el Modelo Estándar percibe a través de la estadística matemática como una misteriosa "nube esférica de probabilidad" (el orbital 1s), es en realidad la envoltura hidrodinámica —promediada en el tiempo— de este macro-toroide perfecto. Esta estructura de corrientes explica de forma natural y mecánica por qué el átomo de hidrógeno posee un eje magnético dipolar, consolidando la máxima absoluta de la MQH: el universo es de naturaleza fractal (vórtices dentro de vórtices), regido íntegramente por las leyes inquebrantables de la mecánica de fluidos.
 
+### 4.2.2.1 El Límite de Saturación Longitudinal: Deducción Analítica del Umbral del Neutrino
+
+En el marco de la Mecánica Cuántica Hidrodinámica (MQH), el neutrino pierde su estatus de "partícula fundamental con masa de reposo" y se redefine estrictamente como un **solitón acústico puramente longitudinal**. Es una onda de choque que viaja a través de *La Fuente* sin formar un bucle cerrado (vorticidad nula, $h=0$).
+
+Para deducir su límite energético superior (lo que el Modelo Estándar denomina erróneamente "masa"), no recurrimos a mecanismos estadísticos ni a partículas hipotéticas (como el mecanismo del balancín), sino a la mecánica de fluidos estricta en el instante de la cavitación topológica.
+
+#### 1. El Colapso de Navier-Stokes y el Maxwell Longitudinal
+Cuando un nudo topológico (como el neutrón) sufre un desgarro en $t=0$, la vorticidad del fluido colapsa. En términos electromagnéticos derivados de Navier-Stokes, el campo magnético desaparece ($\mathbf{B} = 0$). 
+
+La física clásica asume que sin $\mathbf{B}$ no hay onda electromagnética. Sin embargo, al mantener el término convectivo no lineal de Navier-Stokes $(\mathbf{v} \cdot \nabla \mathbf{v})$, la energía rotacional colapsada se transfiere a un empuje direccional puro. Nace una onda de campo eléctrico ($\mathbf{E}$) longitudinal autosostenida por la incompresibilidad del medio.
+
+#### 2. La Geometría de la Fractura ($\alpha^3$)
+La energía máxima que puede desacoplarse en este latigazo longitudinal depende de la proporción geométrica del vórtice destruido. Si la relación de aspecto transversal del macro-toroide base (el electrón) frente a *La Fuente* es la constante de estructura fina ($\alpha$), el colapso del tubo de flujo es un evento tridimensional.
+
+Por lo tanto, la escala volumétrica de energía que el fluido puede "escupir" antes de verse obligado a enrollarse de nuevo es el cubo de dicha impedancia:
+$$ \text{Escala Volumétrica} \propto \alpha^3 $$
+
+#### 3. El Umbral de Saturación Esférica
+El pulso longitudinal escapa inicialmente como una burbuja de sobrepresión radial. En mecánica de medios continuos, el coeficiente de auto-energía interna para una distribución esférica uniforme de presión es exactamente $\frac{3}{5}$.
+
+La energía máxima absoluta ($E_{max}$) que el fluido permite transportar en forma longitudinal pura, antes de que el exceso de momento fuerce al fluido a curvarse y generar nueva vorticidad (materia), viene dada por la ecuación analítica del límite de saturación:
+
+$$ E_{max} = \frac{3}{5} \alpha^3 m_e $$
+
+Donde:
+*   $m_e = 510,998.95 \text{ eV}$ (La inercia del vórtice base cerrado).
+*   $\alpha \approx \frac{1}{137.035999}$ (La impedancia topológica del fluido).
+
+#### 4. Cálculo Exacto y Contraste Cosmológico
+Sustituyendo los valores fundamentales del fluido en la ecuación de saturación:
+
+$$ E_{max} = 0.6 \times (3.8859 \times 10^{-7}) \times 510,998.95 \text{ eV} $$
+$$ E_{max} \approx 0.1191 \text{ eV} $$
+
+**Conclusión:**
+La MQH deduce analíticamente un límite de saturación longitudinal de **$0.1191 \text{ eV}$**. Este resultado geométrico puro coincide de forma implacable con la cota máxima observacional cosmológica establecida por el satélite Planck (2018), que dicta $\Sigma m_\nu < 0.12 \text{ eV}$. 
+
+El observatorio no mide una "masa", mide el techo de saturación de *La Fuente*: es físicamente imposible que un solitón longitudinal (neutrino) porte una energía superior a $0.1191 \text{ eV}$ sin que la no-linealidad de Navier-Stokes lo obligue a enrollarse en un nuevo vórtice transversal con carga inercial.
+
 ### 4.2.3 El Régimen Confinado: La Ecuación de Masa Toroidal y el Espectro de Resonancias
 
 **El Régimen Confinado (Inercia y Física de Partículas):** Si la interacción de flujos obliga a la energía a anudarse en un bucle topológico estable, el fluido queda atrapado girando en el mismo sitio. Es aquí donde nace la materia.
