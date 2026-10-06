@@ -1079,7 +1079,8 @@ Extrayendo las constantes y resolviendo la integral polinómica de $r^4$:
 
 $$ U = \kappa \frac{3Q^2}{R^6} \int_0^R r^4 dr = \kappa \frac{3Q^2}{R^6} \left[ \frac{R^5}{5} \right] = \mathbf{\frac{3}{5}} \left( \kappa \frac{Q^2}{R} \right) $$
 
-**Conclusión del término:** Esta integral demuestra que cualquier pulso esférico de presión en el medio porta intrínsecamente un factor de auto-energía de $\frac{3}{5}$. Por lo tanto, al aplicar esta corrección de campo sobre la energía volumétrica liberada en la fractura ($\alpha^3 m_e$), se consolida finalmente la ecuación maestra:
+**Conclusión del término:** Esta integral demuestra que cualquier pulso esférico de presión en el medio porta intrínsecamente un factor de auto-energía geométrica de $\frac{3}{5}$. Por lo tanto, al aplicar esta corrección de campo sobre la energía volumétrica liberada en la fractura ($\alpha^3 m_e$), se consolida finalmente la ecuación maestra:
+
 $$ E_{max} = \frac{3}{5} \alpha^3 m_e $$
 
 #### 4. Comparativa: El Umbral Teórico vs. El Valor Medido en Laboratorio
