@@ -737,6 +737,8 @@ $$
 
 Con estas tres definiciones puramente mecánicas, las leyes "fundamentales" del electromagnetismo dejan de ser axiomas misteriosos y se convierten en simples consecuencias del cálculo vectorial sobre un fluido.
 
+> **Nota de rigor mecánico:** La definición de $\mathbf{E}$ mostrada arriba es la aproximación lineal clásica que usó Maxwell. Al hacerlo, se omitió el término convectivo no-lineal de Navier-Stokes $(\mathbf{v} \cdot \nabla \mathbf{v})$. Como veremos en el siguiente capítulo, recuperar esta no-linealidad hidrodinámica extrema será la clave exacta para descifrar misterios como el origen y el límite energético del neutrino.
+
 **3.2 Derivación de las Leyes "Sin Fuentes"**
 En la física clásica, hay dos leyes de Maxwell que no dependen de las cargas, sino de la geometría misma del espacio. Al aplicar nuestro diccionario de fluidos, su derivación es matemáticamente trivial.
 
