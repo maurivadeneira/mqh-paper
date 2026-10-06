@@ -1069,30 +1069,36 @@ En el instante crítico de la cicatriz, el fluido pierde localmente su capacidad
 
 La energía contenida en esa micro-burbuja se libera como una sobrepresión radial uniforme (un campo eléctrico longitudinal $\mathbf{E}$). Para hallar la auto-energía ($U$) contenida en este pulso de radio $R$ y carga hidro-acústica total $Q$, integramos el trabajo necesario para ensamblar dicha burbuja aplicando el Teorema de la Divergencia. 
 
-Sabiendo que la carga interna en un radio $r$ es proporcional al volumen cúbico $q(r) = Q(r/R)^3$, y el diferencial de la capa de presión es $dq = 3Q(r^2/R^3)dr$, la integral exacta es:
+Sabiendo que la carga interna en un radio $r$ es proporcional al volumen cúbico $q(r) = Q(r/R)^3$, y el diferencial de la capa de presión es $dq = 3Q(r^2/R^3)dr$, la integral exacta del trabajo de ensamblaje es:
 
 $$ U = \int_0^R \kappa \frac{q(r)}{r} dq $$
 
 $$ U = \int_0^R \kappa \left( Q \frac{r^2}{R^3} \right) \left( 3Q \frac{r^2}{R^3} \right) dr $$
 
-Extrayendo las constantes y resolviendo la integral de $r^4$:
+Extrayendo las constantes y resolviendo la integral polinómica de $r^4$:
 
 $$ U = \kappa \frac{3Q^2}{R^6} \int_0^R r^4 dr = \kappa \frac{3Q^2}{R^6} \left[ \frac{R^5}{5} \right] = \mathbf{\frac{3}{5}} \left( \kappa \frac{Q^2}{R} \right) $$
 
-Ese coeficiente de $\frac{3}{5}$ no es un ajuste cuántico; es la solución geométrica y analítica exacta de la auto-energía para cualquier distribución esférica de presión uniforme en un medio continuo.
+**Conclusión del término:** Por lo tanto, al consolidar la integración geométrica del campo de presión esférico, se deduce de manera analítica e inquebrantable el factor de auto-energía $\frac{3}{5}$ que conforma el primer pilar de nuestra ecuación maestra.
 
 #### 4. Comparativa: El Umbral Teórico vs. El Valor Medido en Laboratorio
-Para verificar la consistencia interna del modelo, podemos evaluar la ecuación maestra utilizando tanto la predicción puramente geométrica de la MQH como la constante empírica medida en laboratorio (CODATA):
+Para verificar la consistencia interna del modelo, evaluamos la ecuación maestra utilizando tanto la predicción puramente geométrica de la MQH como la constante empírica medida en laboratorio (CODATA).
 
-*   **A. Cálculo con el $\alpha$ Teórico de la MQH ($r/R \approx 1/137.07$):**
-    $$ E_{max} = \frac{3}{5} \left( \frac{0.386}{52.91} \right)^3 \times 510,998.95 \text{ eV} $$
-    $$ E_{max} = 0.6 \times (3.8828 \times 10^{-7}) \times 510,998.95 \text{ eV} $$
-    $$ \mathbf{E_{max}^{(teo)} = 0.1190 \text{ eV}} $$
+**A. Cálculo con el $\alpha$ Teórico de la MQH ($r/R \approx 1/137.07$):**
 
-*   **B. Cálculo con el $\alpha$ Empírico de Laboratorio ($\alpha \approx 1/137.036$):**
-    $$ E_{max} = \frac{3}{5} \left( \frac{1}{137.035999} \right)^3 \times 510,998.95 \text{ eV} $$
-    $$ E_{max} = 0.6 \times (3.8859 \times 10^{-7}) \times 510,998.95 \text{ eV} $$
-    $$ \mathbf{E_{max}^{(emp)} = 0.1191 \text{ eV}} $$
+$$ E_{max} = \frac{3}{5} \left( \frac{0.386}{52.91} \right)^3 \times 510,998.95 \text{ eV} $$
+
+$$ E_{max} = 0.6 \times (3.8828 \times 10^{-7}) \times 510,998.95 \text{ eV} $$
+
+$$ \mathbf{E_{max}^{(teo)} = 0.1190 \text{ eV}} $$
+
+**B. Cálculo con el $\alpha$ Empírico de Laboratorio ($\alpha \approx 1/137.036$):**
+
+$$ E_{max} = \frac{3}{5} \left( \frac{1}{137.035999} \right)^3 \times 510,998.95 \text{ eV} $$
+
+$$ E_{max} = 0.6 \times (3.8859 \times 10^{-7}) \times 510,998.95 \text{ eV} $$
+
+$$ \mathbf{E_{max}^{(emp)} = 0.1191 \text{ eV}} $$
 
 #### 5. Conclusión Cosmológica
 Ambos caminos —tanto la deducción teórica a partir de los radios base como la validación con la constante física medida— convergen de manera contundente. La MQH establece un límite de saturación longitudinal de **$\approx 0.119 \text{ eV}$**. 
