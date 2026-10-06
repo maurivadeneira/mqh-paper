@@ -1081,7 +1081,7 @@ $$ U = \kappa \frac{3Q^2}{R^6} \int_0^R r^4 dr = \kappa \frac{3Q^2}{R^6} \left[ 
 
 $$ E_{max} = \frac{3}{5} \alpha^3 m_e $$
 
-#### 4. El Hallazgo Teórico: La Deducción Pura de la Masa del Neutrino
+#### 4. El Hallazgo Teórico: La Deducción Pura de la Energía del Neutrino
 Sustituyendo los parámetros geométricos puros del modelo teórico dentro de la ecuación maestra, obtenemos el valor analítico deducido por la hidrodinámica de *La Fuente*:
 
 $$ E_{max} = \frac{3}{5} \left( \frac{0.386}{52.91} \right)^3 \times 510,998.95 \text{ eV} $$
@@ -1090,7 +1090,7 @@ $$ E_{max} = 0.6 \times (3.8828 \times 10^{-7}) \times 510,998.95 \text{ eV} $$
 
 $$ \mathbf{E_{max}^{(teo)} = 0.1190 \text{ eV}} $$
 
-Este resultado representa un hito fundamental: la MQH predice de forma totalmente autónoma, sin recurrir a datos ajustados de laboratorio, un límite de saturación longitudinal de **$0.1190 \text{ eV}$**. Al tratarse del pulso máximo que el medio puede propagar sin desestabilizarse en materia, **esta energía define precisamente el límite superior de masa-energía para el neutrino** en su tránsito libre por *La Fuente*.
+Este resultado representa un hito fundamental: la MQH predice de forma totalmente autónoma, sin recurrir a datos ajustados de laboratorio, un límite de saturación longitudinal de **$0.1190 \text{ eV}$**. Al tratarse del pulso máximo de compresión que el medio puede propagar sin desestabilizarse en materia, **esta energía define precisamente el umbral superior de energía para el solitón longitudinal (el neutrino)** en su tránsito por *La Fuente*.
 
 #### 5. Contraste Empírico y Cota Cosmológica
 Para evaluar la robustez del modelo frente a los datos observacionales, podemos repetir el cálculo empleando la constante de estructura fina empírica obtenida en los laboratorios de alta precisión (CODATA, $\alpha \approx 1/137.036$):
