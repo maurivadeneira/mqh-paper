@@ -1051,9 +1051,18 @@ Esta no es una fórmula empírica, es una identidad mecanicista estricta. A cont
 #### 1. El Ancla Inercial ($m_e$)
 Todo neutrino nace de la ruptura de un nudo topológico preexistente (como el decaimiento de un neutrón). La masa del electrón ($m_e = 510,998.95 \text{ eV}$) representa la inercia fundamental de un vórtice cerrado (el armónico $h$). Es la "batería" de energía base de la cual se va a desprender la onda longitudinal.
 
-#### 2. La Fractura Volumétrica ($\alpha^3$)
-Cuando el nudo se desgarra por exceso de tensión, la ruptura no aniquila toda la partícula, pero sí fractura un "tubo" de flujo específico. La relación de aspecto transversal de ese tubo frente a *La Fuente* es la constante de estructura fina ($\alpha$). 
-Como la cavitación es un evento tridimensional que colapsa el tubo hacia un punto central, la escala volumétrica de la energía que logra escapar de la estructura rotacional es exactamente el cubo de esa impedancia geométrica ($\alpha^3$).
+#### 2. La Demostración Volumétrica de la Fractura ($\alpha^3$)
+El pulso longitudinal no nace de la aniquilación de toda la partícula, sino de una fractura localizada. Para hallar la fracción de energía inercial que escapa en el colapso, aplicamos el Principio de Volúmenes de Confinamiento de la MQH.
+
+El vórtice base (electrón) está delimitado por un radio mayor de giro ($R$) y un radio menor de tubo transversal ($r$). La impedancia geométrica del medio se define como $\alpha = r/R$.
+
+La inercia total del vórtice ($m_e$) ejerce influencia sobre su volumen macroscópico de frontera ($V_{macro} = \frac{4}{3}\pi R^3$). Sin embargo, la falla estructural (el desgarro topológico) es un evento microscópico confinado estrictamente a la sección transversal del tubo. El volumen de la burbuja de cavitación en el instante de la fractura es esférico y está limitado por el grosor de dicho tubo ($V_{micro} = \frac{4}{3}\pi r^3$).
+
+Por lo tanto, la fracción exacta de energía inercial atrapada en el punto de falla, que se desacopla violentamente como una onda direccional (neutrino), es la razón geométrica entre ambos volúmenes:
+
+$$ F_{vol} = \frac{V_{micro}}{V_{macro}} = \frac{\frac{4}{3}\pi r^3}{\frac{4}{3}\pi R^3} = \left(\frac{r}{R}\right)^3 = \alpha^3 $$
+
+Cualquier pulso que intente portar una fracción de energía mayor requerirá involucrar un volumen superior al del tubo base ($r$), lo que inducirá asimetría de fricción en *La Fuente*, curvará el gradiente y transformará obligatoriamente la energía en materia (vorticidad).
 
 #### 3. El Coeficiente de Auto-Energía Esférica ($\frac{3}{5}$)
 En el instante crítico de la cicatriz, el fluido pierde localmente su capacidad de cerrar el giro y la vorticidad colapsa. En términos electromagnéticos (Navier-Stokes), **en la sección transversal exacta del desgarro, el campo magnético desaparece localmente ($\mathbf{B} = 0$)**.
