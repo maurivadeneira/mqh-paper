@@ -1065,9 +1065,9 @@ $$ \Delta E_{vol} = \frac{V_{micro}}{V_{macro}} = \frac{\frac{4}{3}\pi r^3}{\fra
 Cualquier pulso que intente portar una variación de energía mayor requerirá involucrar un volumen superior al del tubo base, lo que inducirá fricción asimétrica, curvará el gradiente y transformará obligatoriamente la energía excedente en masa rotacional.
 
 #### 3. El Coeficiente de Auto-Energía Esférica ($\frac{3}{5}$)
-En el instante crítico de la cicatriz, el fluido pierde localmente su capacidad de cerrar el giro y la vorticidad colapsa. En términos electromagnéticos (Navier-Stokes), el campo magnético desaparece localmente ($\mathbf{B} = 0$). 
+En el instante crítico de la cicatriz, el fluido pierde localmente su capacidad de cerrar el giro y la vorticidad colapsa. El volumen de energía que logra desacoplarse es la variación volumétrica que definimos antes ($\Delta E_{vol} = \alpha^3 m_e$). 
 
-La energía contenida en esa micro-burbuja se libera como una sobrepresión radial uniforme (un campo eléctrico longitudinal $\mathbf{E}$). Para hallar la auto-energía ($U$) contenida en este pulso de radio $R$ y carga hidro-acústica total $Q$, integramos el trabajo necesario para ensamblar dicha burbuja aplicando el Teorema de la Divergencia. 
+Sin embargo, cuando esta energía se expande como una sobrepresión radial en forma de burbuja esférica, el medio continuo reacciona imponiendo una resistencia interna a su ensamblaje. Para calcular la energía real de esta onda de presión debida a su propia geometría de campo, integramos el trabajo de la esfera aplicando el Teorema de la Divergencia. 
 
 Sabiendo que la carga interna en un radio $r$ es proporcional al volumen cúbico $q(r) = Q(r/R)^3$, y el diferencial de la capa de presión es $dq = 3Q(r^2/R^3)dr$, la integral exacta del trabajo de ensamblaje es:
 
@@ -1079,7 +1079,8 @@ Extrayendo las constantes y resolviendo la integral polinómica de $r^4$:
 
 $$ U = \kappa \frac{3Q^2}{R^6} \int_0^R r^4 dr = \kappa \frac{3Q^2}{R^6} \left[ \frac{R^5}{5} \right] = \mathbf{\frac{3}{5}} \left( \kappa \frac{Q^2}{R} \right) $$
 
-**Conclusión del término:** Por lo tanto, al consolidar la integración geométrica del campo de presión esférico, se deduce de manera analítica e inquebrantable el factor de auto-energía $\frac{3}{5}$ que conforma el primer pilar de nuestra ecuación maestra.
+**Conclusión del término:** Esta integral demuestra que cualquier pulso esférico de presión en el medio porta intrínsecamente un factor de auto-energía de $\frac{3}{5}$. Por lo tanto, al aplicar esta corrección de campo sobre la energía volumétrica liberada en la fractura ($\alpha^3 m_e$), se consolida finalmente la ecuación maestra:
+$$ E_{max} = \frac{3}{5} \alpha^3 m_e $$
 
 #### 4. Comparativa: El Umbral Teórico vs. El Valor Medido en Laboratorio
 Para verificar la consistencia interna del modelo, evaluamos la ecuación maestra utilizando tanto la predicción puramente geométrica de la MQH como la constante empírica medida en laboratorio (CODATA).
