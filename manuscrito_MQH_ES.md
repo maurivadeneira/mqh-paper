@@ -474,41 +474,68 @@ $$
 
 A diferencia de los remolinos efímeros macroscópicos, el fermión más estable del universo —el electrón— es un armónico de estabilidad perpetua. En la dinámica de superfluidos, esto exige que la circulación ($\Gamma$) obedezca a la cuantización estricta del Postulado 4 ($\Gamma = h/m_e$). Simultáneamente, la condición cinemática del Postulado 5 establece que el flujo interno gira a la velocidad límite del medio ($c$), relacionando la circulación con el perímetro ($L$) de la partícula ($\Gamma = c \cdot L$).
 
-Igualando ambas expresiones para aislar la escala de longitud del vórtice, obtenemos:
-$$ c \cdot L = \frac{h}{m_e} \implies L = \frac{h}{m_e \cdot c} $$
+Igualando ambas expresiones para aislar la escala de longitud del vórtice, obtenemos: 
+
+$$
+c \cdot L = \frac{h}{m_e} \implies L = \frac{h}{m_e \cdot c}
+$$
 
 Introduciendo las constantes universales:
 *   $h = 6.62607 \times 10^{-34} \text{ kg}\cdot\text{m}^2/\text{s}$ (Límite de tensión elástica)
 *   $m_e = 9.10938 \times 10^{-31} \text{ kg}$ (Masa inercial del electrón)
 *   $c = 2.99792 \times 10^8 \text{ m/s}$ (Velocidad límite)
 
-El cálculo explícito arroja la dimensión macroscópica de la partícula:
-$$ L = \frac{6.62607 \times 10^{-34}}{(9.10938 \times 10^{-31}) \cdot (2.99792 \times 10^8)} = 2.42631 \times 10^{-12} \text{ m} $$
+El cálculo explícito arroja la dimensión macroscópica de la partícula: 
 
-La ecuación arroja un perímetro físico exacto de 2.42 picómetros. La física ortodoxa midió este valor empíricamente en 1923 (denominándolo *Longitud de onda de Compton*), pero su dogma de la "partícula puntual" le impidió reconocerlo como la circunferencia física real del vórtice. 
+$$
+L = \frac{6.62607 \times 10^{-34}}{(9.10938 \times 10^{-31}) \cdot (2.99792 \times 10^8)} = 2.42631 \times 10^{-12} \text{ m}
+$$
+
+La ecuación arroja un perímetro físico exacto de 2.42 picómetros. La física ortodoxa midió este valor empíricamente en 1923 (denominándolo *Longitud de onda de Compton*), pero su dogma de la "partícula puntual" le impidió reconocerlo como la circunferencia física real del vórtice.
 
 ### El Límite de Colapso Esférico y el Cálculo de la Densidad ($\rho_0$)
 
-Sustituyendo la condición de circulación ($\Gamma = h/m_e$) en nuestra ecuación general de masa deducida de la integral de Lamb, obtenemos:
-$$ m_e = \rho_0 \left(\frac{h}{m_e}\right)^2 \frac{R_e}{2c^2} \ln\left(\frac{8R_e}{r_e}\right) $$
+Sustituyendo la condición de circulación ($\Gamma = h/m_e$) en nuestra ecuación general de masa deducida de la integral de Lamb, obtenemos: 
+
+$$
+m_e = \rho_0 \left(\frac{h}{m_e}\right)^2 \frac{R_e}{2c^2} \ln\left(\frac{8R_e}{r_e}\right)
+$$
 
 Para resolver el término logarítmico $\ln(8R_e/r_e)$, debemos analizar la topología extrema del electrón. Un anillo de vórtice posee un "hueco" central siempre que su radio mayor ($R$) sea más grande que su grosor transversal ($r$). Sin embargo, el electrón representa el estado de compresión máximo permitido por el espacio. En este límite, el grosor del tubo engulle al anillo interior ($r \approx 2.94 R$). El "hueco" de la dona desaparece y la geometría colapsa en un *vórtice esférico perfecto*.
 
-En esta frontera matemática de colapso absoluto, la relación de radios converge a la base natural del logaritmo ($8R/r = e$), purificando la tensión geométrica a su unidad fundamental:
-$$ \ln(e) = 1 $$
+En esta frontera matemática de colapso absoluto, la relación de radios converge a la base natural del logaritmo ($8R/r = e$), purificando la tensión geométrica a su unidad fundamental: 
 
-Bajo este encaje topológico perfecto —que explica mecánicamente la "inmortalidad" del electrón, incapaz de colapsar más porque carece de espacio interior—, el término logarítmico desaparece. Desarrollando el cuadrado de la circulación, la ecuación se reduce a:
-$$ m_e = \rho_0 \frac{h^2 \cdot R_e}{2 c^2 \cdot m_e^2} $$
+$$
+\ln(e) = 1
+$$
 
-Pasando el término $m_e^2$ a multiplicar al lado izquierdo, emerge la ineludible estructura cúbica de la masa:
-$$ m_e^3 = \rho_0 \frac{h^2 \cdot R_e}{2 c^2} $$
+Bajo este encaje topológico perfecto —que explica mecánicamente la "inmortalidad" del electrón—, el término logarítmico desaparece. Desarrollando el cuadrado de la circulación, la ecuación se reduce a: 
 
-Despejando finalmente la densidad de *La Fuente* ($\rho_0$), obtenemos la ecuación analítica del medio continuo:
-$$ \rho_0 = \frac{2 \cdot m_e^3 \cdot c^2}{h^2 \cdot R_e} $$
+$$
+m_e = \rho_0 \frac{h^2 \cdot R_e}{2 c^2 \cdot m_e^2}
+$$
 
-Evaluando paso a paso con los valores empíricos conocidos, y utilizando el radio geométrico ($R_e = L/2\pi = 3.861 \times 10^{-13} \text{ m}$):
-$$ \rho_0 = \frac{2 \cdot (7.558 \times 10^{-91}) \cdot (8.987 \times 10^{16})}{(4.390 \times 10^{-67}) \cdot (3.861 \times 10^{-13})} $$
-$$ \rho_0 \approx 801,419 \text{ kg/m}^3 $$
+Pasando el término $m_e^2$ a multiplicar al lado izquierdo, emerge la ineludible estructura cúbica de la masa: 
+
+$$
+m_e^3 = \rho_0 \frac{h^2 \cdot R_e}{2 c^2}
+$$
+
+Despejando finalmente la densidad de *La Fuente* ($\rho_0$), obtenemos la ecuación analítica del medio continuo: 
+
+$$
+\rho_0 = \frac{2 \cdot m_e^3 \cdot c^2}{h^2 \cdot R_e}
+$$
+
+Evaluando paso a paso con los valores empíricos conocidos, y utilizando el radio geométrico ($R_e = L/2\pi = 3.861 \times 10^{-13} \text{ m}$): 
+
+$$
+\rho_0 = \frac{2 \cdot (7.558 \times 10^{-91}) \cdot (8.987 \times 10^{16})}{(4.390 \times 10^{-67}) \cdot (3.861 \times 10^{-13})}
+$$
+
+$$
+\rho_0 \approx 801,419 \text{ kg/m}^3
+$$
 
 El espacio no es un vacío cuántico estadístico. Estamos inmersos en un océano continuo cuya densidad supera 800 mil veces a la del agua. Es esta inmensa inercia primigenia la que confina y estabiliza la monstruosa energía cinética de los micro-huracanes que componen toda la materia del universo.
 
@@ -521,23 +548,42 @@ Uno de los mayores callejones sin salida del Modelo Estándar es la existencia e
 Bajo la MQH, este enigma es una consecuencia directa de la resonancia hidrodinámica. La onda interna de un vórtice debe acoplarse sobre sí misma en múltiplos enteros o armónicos ($n = 1, 2, 3...$). El Muón y el Tau no son "otras" partículas; son el mismo remolino fundamental del electrón, forzado por colisiones de extrema energía a resonar en sobremarcha (Muón $n=2$, Tau $n=3$).
 
 ### La Ley de Escala y la Inestabilidad Estructural
-Partiendo de nuestra ecuación general para cualquier armónico $n$, y aplicando el límite de colapso esférico deducido previamente, emerge la Ley de Escalamiento Universal de las Generaciones:
-$$ m_n^4 = m_e^4 \cdot n^3 \cdot \ln\left(\frac{8R_n}{r_n}\right) $$
 
-Esta ecuación maestra revela por qué las partículas pesadas estallan. Despejando el término de tensión estructural (el logaritmo), realizamos una "autopsia topológica" con los datos de laboratorio:
-$$ \ln\left(\frac{8R_n}{r_n}\right) = \frac{1}{n^3} \left(\frac{m_n}{m_e}\right)^4 $$
+Partiendo de nuestra ecuación general para cualquier armónico $n$, y aplicando el límite de colapso esférico deducido previamente, emerge la Ley de Escalamiento Universal de las Generaciones: 
 
-**1. El Electrón (Estado Base, $n=1$, $m_e = 0.511 \text{ MeV}$)**
-$$ \ln\left(\frac{8R_1}{r_1}\right) = \frac{1}{1^3} \left(\frac{0.511}{0.511}\right)^4 = 1 $$
-El remolino base es un vórtice esférico cerrado. Sus presiones se anulan; es topológicamente inmortal.
+$$
+m_n^4 = m_e^4 \cdot n^3 \cdot \ln\left(\frac{8R_n}{r_n}\right)
+$$
 
-**2. El Muón ($n=2$, $m_\mu \approx 206.7 m_e$)**
-$$ \ln\left(\frac{8R_\mu}{r_\mu}\right) = \frac{1}{2^3} (206.7)^4 \approx 228,000,000 $$
-El requerimiento salta violentamente. Para no romperse, el anillo necesita una proporción de delgadez de $8R/r = e^{228,000,000}$. Físicamente, el "tubo" tendría que ser trillones de veces más delgado que la Longitud de Planck. Esta deformación excede el límite elástico por cizalladura (shear stress) del fluido. El remolino sufre cavitación y se desgarra (decaimiento).
+Esta ecuación maestra revela por qué las partículas pesadas estallan. Despejando el término de tensión estructural (el logaritmo), realizamos una "autopsia topológica" con los datos de laboratorio: 
 
-**3. El Tau ($n=3$, $m_\tau \approx 3477 m_e$)**
-$$ \ln\left(\frac{8R_\tau}{r_\tau}\right) = \frac{1}{3^3} (3477)^4 \approx 5.4 \times 10^{12} $$
-El estiramiento topológico alcanza la insostenible cifra de 5.4 billones. El estrés estructural sobre el tejido continuo es tan absoluto que el desgarro es casi instantáneo.
+$$
+\ln\left(\frac{8R_n}{r_n}\right) = \frac{1}{n^3} \left(\frac{m_n}{m_e}\right)^4
+$$
+
+1.  **El Electrón (Estado Base, $n=1$, $m_e = 0.511 \text{ MeV}$):**
+    
+    $$
+    \ln\left(\frac{8R_1}{r_1}\right) = \frac{1}{1^3} \left(\frac{0.511}{0.511}\right)^4 = 1
+    $$
+    
+    El remolino base es un vórtice esférico cerrado. Sus presiones se anulan; es topológicamente inmortal.
+
+2.  **El Muón ($n=2$, $m_\mu \approx 206.7 m_e$):**
+    
+    $$
+    \ln\left(\frac{8R_\mu}{r_\mu}\right) = \frac{1}{2^3} (206.7)^4 \approx 228,000,000
+    $$
+    
+    El requerimiento salta violentamente. Para no romperse, el anillo necesita una proporción de delgadez de $8R/r = e^{228,000,000}$. Físicamente, el "tubo" tendría que ser trillones de veces más delgado que la Longitud de Planck. Esta deformación excede el límite elástico por cizalladura (shear stress) del fluido. El remolino sufre cavitación y se desgarra (decaimiento).
+
+3.  **El Tau ($n=3$, $m_\tau \approx 3477 m_e$):**
+    
+    $$
+    \ln\left(\frac{8R_\tau}{r_\tau}\right) = \frac{1}{3^3} (3477)^4 \approx 5.4 \times 10^{12}
+    $$
+    
+    El estiramiento topológico alcanza la insostenible cifra de 5.4 billones. El estrés estructural sobre el tejido continuo es tan absoluto que el desgarro es casi instantáneo.
 
 Las generaciones de leptones no son parámetros libres divinos. El decaimiento no es probabilidad estadística; es la respuesta mecánica pura de un fluido incompresible ante un estrés topológico destructivo.
 
