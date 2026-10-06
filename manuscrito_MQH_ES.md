@@ -1040,53 +1040,49 @@ Finalmente, lo que el Modelo Estándar percibe a través de la estadística mate
 
 ### 4.2.2.1 El Límite de Saturación Longitudinal (El Neutrino)
 
-En el marco de la Mecánica Cuántica Hidrodinámica (MQH), el neutrino pierde su estatus de "partícula fundamental con masa de reposo" y se redefine estrictamente como un **solitón acústico puramente longitudinal**. Es el pulso de presión máximo que *La Fuente* puede soportar viajando en línea recta antes de verse obligada a curvar el fluido y generar nueva vorticidad (materia).
+En el marco de la Mecánica Cuántica Hidrodinámica (MQH), el neutrino abandona su estatus de partícula fantasma con masa arbitraria para redefinirse de manera estricta como un **solitón acústico puramente longitudinal**. Se trata del umbral de presión máximo que *La Fuente* puede soportar viajando en trayectoria rectilínea antes de que el esfuerzo de corte obligue al fluido a curvarse, colapsar y generar nueva vorticidad en forma de materia.
 
-A diferencia de la física ortodoxa —que postula el límite de energía del neutrino mediante mecanismos estadísticos como el balancín—, la MQH deduce este límite de forma analítica y geométrica a partir de la mecánica de fluidos. La ecuación maestra de la saturación longitudinal es:
+A diferencia de los modelos estadísticos tradicionales de la física de partículas, la MQH deduce este límite de forma totalmente analítica y geométrica a partir de las ecuaciones de medios continuos. La ecuación maestra que rige esta saturación es:
 
 $$ E_{max} = \frac{3}{5} \alpha^3 m_e $$
 
-Esta no es una fórmula empírica, es una identidad mecanicista estricta. A continuación, demostramos término por término cómo la geometría euclidiana y la hidrodinámica esculpen esta ecuación durante el instante de una fractura subatómica:
+Esta expresión no constituye un ajuste empírico ni una aproximación estadística, sino una identidad mecanicista rigurosa. A continuación, se desglosa la deducción formal de cada uno de sus componentes:
 
 #### 1. El Ancla Inercial ($m_e$)
-Todo neutrino nace de la ruptura de un nudo topológico preexistente. La masa del electrón ($m_e = 510,998.95 \text{ eV}$) representa la inercia fundamental de un vórtice cerrado. Es la "batería" de energía base de la cual se va a desprender la onda longitudinal.
+Todo solitón longitudinal nace de la ruptura catastrófica de un nudo topológico preexistente (como el decaimiento de un estado fundamental). La masa inercial del electrón ($m_e = 510,998.95 \text{ eV}$) representa el fondo energético del vórtice cerrado original; actúa como la base de inercia de la cual se desprende el pulso de presión.
 
 #### 2. La Variación de Energía Volumétrica ($\alpha^3$)
-El pulso longitudinal no nace de la aniquilación de toda la partícula, sino de una fractura localizada. Para hallar la cantidad de energía inercial que escapa en el colapso, aplicamos el Principio de Volúmenes de Confinamiento, donde la variación de energía transferida es proporcional al volumen afectado.
+La expulsión del pulso no ocurre por la aniquilación de la partícula entera, sino por un desgarro localizado en su estructura. Para determinar la fracción de inercia liberada, aplicamos el Principio de Volúmenes de Confinamiento de la MQH.
 
-El vórtice base está delimitado por un radio mayor de giro macroscópico ($R \approx 52.91 \text{ pm}$, radio de Bohr) y un radio menor de tubo transversal ($r \approx 0.386 \text{ pm}$, radio de Compton reducido). La constante de estructura fina en la MQH se define como la proporción geométrica entre estos radios: $\alpha = r/R \approx 1/137.07$.
+El vórtice base se encuentra acotado por un radio mayor de giro macroscópico ($R \approx 52.91 \text{ pm}$, correspondiente al radio de Bohr) y un radio menor que define el grosor del tubo transversal ($r \cdot \approx 0.386 \text{ pm}$, equivalente al radio de Compton reducido). La constante de estructura fina en la MQH surge de manera puramente geométrica como la relación de aspecto de estos radios:
 
-La inercia total del vórtice ($m_e$) ejerce influencia sobre su volumen macroscópico esférico de frontera ($V_{macro} = \frac{4}{3}\pi R^3$). Sin embargo, el desgarro topológico es un evento microscópico confinado estrictamente a la sección transversal del tubo. El volumen de la burbuja de cavitación en el instante de la fractura está limitado por el grosor de dicho tubo ($V_{micro} = \frac{4}{3}\pi r^3$).
+$$ \alpha = \frac{r}{R} \approx \frac{1}{137.07} $$
 
-Por lo tanto, la variación de energía volumétrica ($\Delta E_{vol}$) —es decir, la proporción de energía inercial atrapada en el punto de falla que logra desacoplarse como una onda direccional— es la razón geométrica entre ambos volúmenes:
+La inercia total del sistema ($m_e$) opera dentro de un volumen macroscópico de frontera esférica ($V_{macro} = \frac{4}{3}\pi R^3$). No obstante, la fractura topológica es un evento microscópico confinado estrictamente al dominio transversal del tubo ($V_{micro} = \frac{4}{3}\pi r^3$). Por consiguiente, la variación de energía volumétrica ($\Delta E_{vol}$) —que define la proporción de inercia atrapada en la falla que logra escapar como un pulso direccional— se establece por la razón geométrica de ambos volúmenes:
 
 $$ \Delta E_{vol} = \frac{V_{micro}}{V_{macro}} = \frac{\frac{4}{3}\pi r^3}{\frac{4}{3}\pi R^3} = \left(\frac{r}{R}\right)^3 = \alpha^3 $$
 
-Cualquier pulso que intente portar una variación de energía mayor requerirá involucrar un volumen superior al del tubo base, lo que inducirá fricción asimétrica, curvará el gradiente y transformará obligatoriamente la energía excedente en masa rotacional.
+Cualquier intento de un pulso por portar una fracción superior requeriría involucrar un volumen mayor al del tubo fundamental, lo que desencadenaría una fricción asimétrica en el medio, curvaría el gradiente y transformaría obligatoriamente el excedente de energía en masa rotacional.
 
 #### 3. El Coeficiente de Auto-Energía Esférica ($\frac{3}{5}$)
-En el instante crítico de la cicatriz, el fluido pierde localmente su capacidad de cerrar el giro y la vorticidad colapsa. El volumen de energía que logra desacoplarse es la variación volumétrica que definimos antes ($\Delta E_{vol} = \alpha^3 m_e$). 
+En el instante crítico de la discontinuidad, la vorticidad colapsa localmente ($\mathbf{B} = 0$) y la energía confinada se libera como una sobrepresión radial isotrópica (un campo eléctrico longitudinal $\mathbf{E}$). Para calcular la energía de auto-interacción ($U$) de esta burbuja de radio $R$ y carga hidro-acústica $Q$, integramos el trabajo de ensamblaje mediante el Teorema de la Divergencia.
 
-Sin embargo, cuando esta energía se expande como una sobrepresión radial en forma de burbuja esférica, el medio continuo reacciona imponiendo una resistencia interna a su ensamblaje. Para calcular la energía real de esta onda de presión debida a su propia geometría de campo, integramos el trabajo de la esfera aplicando el Teorema de la Divergencia. 
-
-Sabiendo que la carga interna en un radio $r$ es proporcional al volumen cúbico $q(r) = Q(r/R)^3$, y el diferencial de la capa de presión es $dq = 3Q(r^2/R^3)dr$, la integral exacta del trabajo de ensamblaje es:
+Estableciendo que la carga acumulada en un radio interno $r$ escala con el volumen cúbico $q(r) = Q(r/R)^3$, y que el diferencial de la capa de presión es $dq = 3Q(r^2/R^3)dr$, la integral del trabajo de deformación se plantea como:
 
 $$ U = \int_0^R \kappa \frac{q(r)}{r} dq $$
 
 $$ U = \int_0^R \kappa \left( Q \frac{r^2}{R^3} \right) \left( 3Q \frac{r^2}{R^3} \right) dr $$
 
-Extrayendo las constantes y resolviendo la integral polinómica de $r^4$:
+Agrupando términos constantes y resolviendo la integral polinómica de orden cuatro:
 
 $$ U = \kappa \frac{3Q^2}{R^6} \int_0^R r^4 dr = \kappa \frac{3Q^2}{R^6} \left[ \frac{R^5}{5} \right] = \mathbf{\frac{3}{5}} \left( \kappa \frac{Q^2}{R} \right) $$
 
-**Conclusión del término:** Esta integral demuestra que cualquier pulso esférico de presión en el medio porta intrínsecamente un factor de auto-energía geométrica de $\frac{3}{5}$. Por lo tanto, al aplicar esta corrección de campo sobre la energía volumétrica liberada en la fractura ($\alpha^3 m_e$), se consolida finalmente la ecuación maestra:
+**Conclusión del término:** Esta demostración analítica confirma que todo pulso esférico de presión en el medio porta intrínsecamente un factor de auto-energía geométrica de $\frac{3}{5}$. Al aplicar esta corrección de campo sobre la energía volumétrica de fractura ($\alpha^3 m_e$), se consolida formalmente la ecuación maestra:
 
 $$ E_{max} = \frac{3}{5} \alpha^3 m_e $$
 
-#### 4. Comparativa: El Umbral Teórico vs. El Valor Medido en Laboratorio
-Para verificar la consistencia interna del modelo, evaluamos la ecuación maestra utilizando tanto la predicción puramente geométrica de la MQH como la constante empírica medida en laboratorio (CODATA).
-
-**A. Cálculo con el $\alpha$ Teórico de la MQH ($r/R \approx 1/137.07$):**
+#### 4. El Hallazgo Teórico: La Deducción Pura de la MQH
+Sustituyendo los parámetros geométricos puros del modelo teórico dentro de la ecuación maestra, obtenemos el valor analítico deducido por la hidrodinámica de *La Fuente*:
 
 $$ E_{max} = \frac{3}{5} \left( \frac{0.386}{52.91} \right)^3 \times 510,998.95 \text{ eV} $$
 
@@ -1094,7 +1090,10 @@ $$ E_{max} = 0.6 \times (3.8828 \times 10^{-7}) \times 510,998.95 \text{ eV} $$
 
 $$ \mathbf{E_{max}^{(teo)} = 0.1190 \text{ eV}} $$
 
-**B. Cálculo con el $\alpha$ Empírico de Laboratorio ($\alpha \approx 1/137.036$):**
+Este resultado representa un hito fundamental: la MQH predice de forma totalmente autónoma, sin recurrir a datos ajustados de laboratorio, un límite de saturación longitudinal de **$0.1190 \text{ eV}$**.
+
+#### 5. Contraste Empírico y Cota Cosmológica
+Para evaluar la robustez del modelo frente a los datos observacionales, podemos repetir el cálculo empleando la constante de estructura fina empírica obtenida en los laboratorios de alta precisión (CODATA, $\alpha \approx 1/137.036$):
 
 $$ E_{max} = \frac{3}{5} \left( \frac{1}{137.035999} \right)^3 \times 510,998.95 \text{ eV} $$
 
@@ -1102,10 +1101,9 @@ $$ E_{max} = 0.6 \times (3.8859 \times 10^{-7}) \times 510,998.95 \text{ eV} $$
 
 $$ \mathbf{E_{max}^{(emp)} = 0.1191 \text{ eV}} $$
 
-#### 5. Conclusión Cosmológica
-Ambos caminos —tanto la deducción teórica a partir de los radios base como la validación con la constante física medida— convergen de manera contundente. La MQH establece un límite de saturación longitudinal de **$\approx 0.119 \text{ eV}$**. 
+Ambos caminos analíticos —tanto la predicción puramente teórica de la MQH ($0.1190 \text{ eV}$) como la validación con la constante medida ($0.1191 \text{ eV}$)— convergen con una precisión quirúrgica. Este valor empata de manera impecable con la cota superior observacional establecida por la misión cosmológica Planck (2018), que fija el límite en $\Sigma m_\nu < 0.12 \text{ eV}$. 
 
-Este resultado coincide de forma impecable con la cota máxima observacional de la cosmología (Planck 2018), que dicta $\Sigma m_\nu < 0.12 \text{ eV}$. Los telescopios no miden la "masa" de una partícula fantasma; están midiendo el umbral de tensión elástica absoluta de *La Fuente*. Si un estallido subatómico supera esta energía, el medio se niega a transmitirlo como una onda longitudinal pura y se ve obligado a curvar el fluido, engendrando nueva materia.
+La conclusión física es ineludible: los instrumentos cosmológicos no están midiendo la masa estática de una partícula elemental fantasma, sino el **límite de tensión elástica absoluta** de *La Fuente*.
 
 ### 4.2.3 El Régimen Confinado: La Ecuación de Masa Toroidal y el Espectro de Resonancias
 
