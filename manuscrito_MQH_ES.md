@@ -1038,44 +1038,37 @@ Esta proporción es exactamente el inverso de la Constante de Estructura Fina ($
 
 Finalmente, lo que el Modelo Estándar percibe a través de la estadística matemática como una misteriosa "nube esférica de probabilidad" (el orbital 1s), es en realidad la envoltura hidrodinámica —promediada en el tiempo— de este macro-toroide perfecto. Esta estructura de corrientes explica de forma natural y mecánica por qué el átomo de hidrógeno posee un eje magnético dipolar, consolidando la máxima absoluta de la MQH: el universo es de naturaleza fractal (vórtices dentro de vórtices), regido íntegramente por las leyes inquebrantables de la mecánica de fluidos.
 
-### 4.2.2.1 El Límite de Saturación Longitudinal: Deducción Analítica del Umbral del Neutrino
+### 4.2.2.1 El Límite de Saturación Longitudinal (El Neutrino)
 
-En el marco de la Mecánica Cuántica Hidrodinámica (MQH), el neutrino pierde su estatus de "partícula fundamental con masa de reposo" y se redefine estrictamente como un **solitón acústico puramente longitudinal**. Es una onda de choque que viaja a través de *La Fuente* sin formar un bucle cerrado (vorticidad nula, $h=0$).
+En el marco de la Mecánica Cuántica Hidrodinámica (MQH), el neutrino pierde su estatus de "partícula fundamental con masa de reposo" y se redefine estrictamente como un **solitón acústico puramente longitudinal**. Es el pulso de presión máximo que *La Fuente* puede soportar antes de verse obligada a enrollarse sobre sí misma.
 
-Para deducir su límite energético superior (lo que el Modelo Estándar denomina erróneamente "masa"), no recurrimos a mecanismos estadísticos ni a partículas hipotéticas (como el mecanismo del balancín), sino a la mecánica de fluidos estricta en el instante de la cavitación topológica.
-
-#### 1. El Colapso de Navier-Stokes y el Maxwell Longitudinal
-Cuando un nudo topológico (como el neutrón) sufre un desgarro en $t=0$, la vorticidad del fluido colapsa. En términos electromagnéticos derivados de Navier-Stokes, el campo magnético desaparece ($\mathbf{B} = 0$). 
-
-La física clásica asume que sin $\mathbf{B}$ no hay onda electromagnética. Sin embargo, al mantener el término convectivo no lineal de Navier-Stokes $(\mathbf{v} \cdot \nabla \mathbf{v})$, la energía rotacional colapsada se transfiere a un empuje direccional puro. Nace una onda de campo eléctrico ($\mathbf{E}$) longitudinal autosostenida por la incompresibilidad del medio.
-
-#### 2. La Geometría de la Fractura ($\alpha^3$)
-La energía máxima que puede desacoplarse en este latigazo longitudinal depende de la proporción geométrica del vórtice destruido. Si la relación de aspecto transversal del macro-toroide base (el electrón) frente a *La Fuente* es la constante de estructura fina ($\alpha$), el colapso del tubo de flujo es un evento tridimensional.
-
-Por lo tanto, la escala volumétrica de energía que el fluido puede "escupir" antes de verse obligado a enrollarse de nuevo es el cubo de dicha impedancia:
-$$ \text{Escala Volumétrica} \propto \alpha^3 $$
-
-#### 3. El Umbral de Saturación Esférica
-El pulso longitudinal escapa inicialmente como una burbuja de sobrepresión radial. En mecánica de medios continuos, el coeficiente de auto-energía interna para una distribución esférica uniforme de presión es exactamente $\frac{3}{5}$.
-
-La energía máxima absoluta ($E_{max}$) que el fluido permite transportar en forma longitudinal pura, antes de que el exceso de momento fuerce al fluido a curvarse y generar nueva vorticidad (materia), viene dada por la ecuación analítica del límite de saturación:
+A diferencia de la física ortodoxa —que postula el límite de energía del neutrino mediante mecanismos estadísticos (como el balancín)—, la MQH deduce este límite de forma analítica y exacta a partir de la geometría del fluido. La ecuación maestra de la saturación longitudinal es:
 
 $$ E_{max} = \frac{3}{5} \alpha^3 m_e $$
 
-Donde:
-*   $m_e = 510,998.95 \text{ eV}$ (La inercia del vórtice base cerrado).
-*   $\alpha \approx \frac{1}{137.035999}$ (La impedancia topológica del fluido).
+Esta no es una fórmula empírica, es una identidad mecanicista estricta. A continuación, desglosamos término por término cómo la hidrodinámica esculpe esta ecuación durante el instante de una fractura subatómica:
 
-#### 4. Cálculo Exacto y Contraste Cosmológico
-Sustituyendo los valores fundamentales del fluido en la ecuación de saturación:
+#### 1. El Ancla Inercial ($m_e$)
+Todo neutrino nace de la ruptura de un nudo topológico preexistente (como el decaimiento de un neutrón). La masa del electrón ($m_e = 510,998.95 \text{ eV}$) representa la inercia fundamental de un vórtice cerrado (el armónico $h$). Es la "batería" de energía base de la cual se va a desprender la onda longitudinal.
 
+#### 2. La Fractura Volumétrica ($\alpha^3$)
+Cuando el nudo se desgarra por exceso de tensión, la ruptura no aniquila toda la partícula, pero sí fractura un "tubo" de flujo específico. La relación de aspecto transversal de ese tubo frente a *La Fuente* es la constante de estructura fina ($\alpha$). 
+Como la cavitación es un evento tridimensional que colapsa el tubo hacia un punto central, la escala volumétrica de la energía que logra escapar de la estructura rotacional es exactamente el cubo de esa impedancia geométrica ($\alpha^3$).
+
+#### 3. El Coeficiente de Auto-Energía Esférica ($\frac{3}{5}$)
+En el instante crítico de la cicatriz, el fluido pierde localmente su capacidad de cerrar el giro y la vorticidad colapsa. En términos electromagnéticos (Navier-Stokes), **en la sección transversal exacta del desgarro, el campo magnético desaparece localmente ($\mathbf{B} = 0$)**.
+La energía contenida se libera como una burbuja radial de sobrepresión (un campo eléctrico longitudinal $\mathbf{E}$). En la mecánica de medios continuos, la integral de la auto-energía interna para una distribución esférica uniforme de presión siempre arroja el coeficiente geométrico de $\frac{3}{5}$.
+
+#### 4. La No-Linealidad y el Resultado Cosmológico
+La física clásica asume que sin campo magnético ($\mathbf{B}$) no puede existir una onda electromagnética viajera. Sin embargo, al mantener el **término convectivo no lineal** de Navier-Stokes $(\mathbf{v} \cdot \nabla \mathbf{v})$, el fluido se auto-empuja. Este término convierte la energía rotacional perdida en un chorro direccional puro: el neutrino.
+
+Sustituyendo los valores en nuestra ecuación maestra:
 $$ E_{max} = 0.6 \times (3.8859 \times 10^{-7}) \times 510,998.95 \text{ eV} $$
-$$ E_{max} \approx 0.1191 \text{ eV} $$
+$$ \mathbf{E_{max} \approx 0.1191 \text{ eV}} $$
 
 **Conclusión:**
-La MQH deduce analíticamente un límite de saturación longitudinal de **$0.1191 \text{ eV}$**. Este resultado geométrico puro coincide de forma implacable con la cota máxima observacional cosmológica establecida por el satélite Planck (2018), que dicta $\Sigma m_\nu < 0.12 \text{ eV}$. 
-
-El observatorio no mide una "masa", mide el techo de saturación de *La Fuente*: es físicamente imposible que un solitón longitudinal (neutrino) porte una energía superior a $0.1191 \text{ eV}$ sin que la no-linealidad de Navier-Stokes lo obligue a enrollarse en un nuevo vórtice transversal con carga inercial.
+La MQH demuestra que **$0.1191 \text{ eV}$** es el punto de quiebre absoluto del medio. Esta deducción coincide impecablemente con la cota máxima observacional del satélite Planck (2018), que dicta $\Sigma m_\nu < 0.12 \text{ eV}$. 
+Los telescopios no miden el "peso" de una partícula fantasma; están midiendo el límite elástico de *La Fuente*. Si un estallido nuclear intenta empujar un pulso longitudinal con más energía que $0.1191 \text{ eV}$, la presión inmanejable obliga a la no-linealidad de Navier-Stokes a frenar la onda, curvar el fluido y generar nueva vorticidad (materia).
 
 ### 4.2.3 El Régimen Confinado: La Ecuación de Masa Toroidal y el Espectro de Resonancias
 
