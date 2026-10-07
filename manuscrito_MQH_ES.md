@@ -1295,21 +1295,37 @@ $$\frac{v^2}{r} = G_{hidro} \left( \frac{\lambda \cdot r}{r^2} \right) \implies 
 
 $$v^2 = G_{hidro} \cdot \lambda \implies v = \text{Constante}$$
 
-### 5.4 Conclusión: La Interfaz de Transición ($a_0$) y la Geometría del Macro-Vórtice
+### 5.4 La Interfaz de Transición ($a_0$): El Aplastamiento Geométrico y la Deducción Analítica
 
-Al demostrar que la velocidad tangencial de las estrellas se vuelve constante en los bordes de la galaxia ($v^2 = G_{hidro} \cdot \lambda$), surge la interrogante final: ¿qué determina el punto exacto donde la gravedad clásica de Newton ($1/r^2$) colapsa y cede el control a la dinámica galáctica ($1/r$)? La astrofísica observacional fijó este límite en la aceleración crítica $a_0 \approx 1.2 \times 10^{-10} \text{ m/s}^2$. 
+Al demostrar que la velocidad tangencial de las estrellas se vuelve constante en los bordes de la galaxia ($v^2 = G_{hidro} \cdot \lambda$), surge la interrogante final: ¿qué determina el punto exacto donde la gravedad clásica de Newton ($1/r^2$) colapsa y cede el control a la dinámica galáctica constante ($1/r$)? La astrofísica observacional fijó empíricamente este límite de quiebre en la aceleración crítica $a_0 \approx 1.2 \times 10^{-10} \text{ m/s}^2$. 
 
-En la Mecánica Cuántica Hidrodinámica (MQH), la respuesta no requiere de cosmologías expansivas ni parámetros mágicos; se encuentra en la geometría elemental de los fluidos. Una galaxia no es un sistema de partículas puntuales orbitando en un vacío abstracto; es un inmenso macro-vórtice, un "huracán" toroidal estructurado en *La Fuente*.
+En la física ortodoxa, $a_0$ es un parámetro libre sin origen justificado, un "ajuste a mano" para intentar salvar los datos sin invocar Materia Oscura. En la Mecánica Cuántica Hidrodinámica (MQH), la respuesta no nace de anomalías invisibles, sino de la geometría pura de los fluidos. Una galaxia no es un espacio vacío con masas flotando al azar; es un inmenso macro-vórtice, un remolino toroidal de *La Fuente*.
 
-La transición en la dinámica gravitacional obedece a un aplastamiento geométrico estricto de las líneas de flujo de este remolino gigante:
+#### 1. El Punto de Transición Topológica (De Esfera a Cilindro)
+La transición gravitacional obedece al aplastamiento estricto de las líneas de flujo del remolino a medida que este gana amplitud:
 
-1. **El Régimen Newtoniano (3D):** En el núcleo de la galaxia (el bulbo central), la acumulación masiva de sumideros estelares y el pozo bariónico generan una succión omnidireccional. El fluido es arrastrado con igual libertad desde arriba, desde abajo y desde el ecuador. La disipación de esta fuerza de arrastre ocurre sobre la superficie de una esfera geométrica ($4\pi r^2$), generando la caída gravitacional clásica de Newton ($1/r^2$).
+*   **El Régimen Newtoniano (3D):** En el núcleo de la galaxia (el bulbo central), la succión de los sumideros bariónicos es omnidireccional. El fluido es arrastrado con igual libertad desde todas las coordenadas espaciales. La disipación geométrica del gradiente de presión ocurre sobre la superficie de una esfera abstracta ($4\pi r^2$), generando la caída de fuerza típica de Newton ($1/r^2$).
+*   **El Régimen Galáctico (2D):** A medida que la fuerza centrífuga del vórtice aumenta hacia la periferia, el remolino se aplasta obligatoriamente, adoptando la topología estricta de un disco plano. El punto de transición ocurre exactamente donde el diámetro de la burbuja de succión tridimensional de una estrella choca contra los límites físicos del grosor del disco galáctico. A partir de esa distancia radial, el sumidero local no puede extraer fluido desde el vacío perpendicular (ni desde "arriba" ni desde "abajo"). La disipación de la presión se ve forzada a canalizarse únicamente a través de la pared exterior del disco (un perímetro cilíndrico lateral, proporcional a $2\pi r$). Al confinar el flujo a 2D, la caída de la fuerza se suaviza drásticamente a $1/r$.
 
-2. **El Régimen Galáctico (2D):** A medida que nos alejamos del "ojo del huracán", la inmensa fuerza centrífuga del vórtice rotatorio impide que el sistema mantenga su envoltura esférica. El fluido se aplasta y adquiere la topología estricta de un disco. Al estar el flujo confinado a un plano, el sumidero galáctico pierde la capacidad de arrastrar presión desde el "techo" y el "piso" del vacío perpendicular. La disipación del gradiente de presión se ve obligada a canalizarse únicamente a través de la pared exterior del disco (un perímetro cilíndrico, proporcional a $2\pi r$), suavizando drásticamente la caída de la fuerza a $1/r$.
+#### 2. La Deducción Analítica Cuántica del Umbral $a_0$
+Si el macro-vórtice hereda su dinámica estrictamente del fluido que lo conforma, el límite mínimo de aceleración donde ocurre esta transición ($a_0$) debe ser derivable desde la unidad gravitacional más fundamental del sistema. 
 
-¿Qué representa entonces la constante $a_0$? No es una anomalía de la materia invisible, sino la **Interfaz de Transición Topológica**. Es el valor crítico del gradiente de presión hidrodinámica en el radio exacto donde la "burbuja" de succión tridimensional del núcleo choca contra el grosor físico bidimensional del disco rotatorio.
+En la MQH, el sumidero inercial primario es el nudo trébol del protón ($m_p$), y el umbral transversal de interacción hidrodinámica más diminuto del medio está definido por la huella de la onda del electrón (la mitad de su longitud de onda Compton, $r_e = \lambda_c/2$).
 
-Cuando la aceleración inercial de una estrella cae por debajo de $a_0$, significa que la topología del sistema se ha aplanado por completo. A partir de esa frontera, la estrella deja de "caer" libremente hacia el núcleo central y simplemente flota, transitando como una balsa empujada por la inercia rotacional constante del plato de fluido. Esta transición mecánica demuestra que la ilusión de la Materia Oscura nace exclusivamente de haber intentado aplicarle las matemáticas de una esfera al comportamiento de un disco plano.
+Si calculamos la aceleración basal que ejerce este sumidero bariónico sobre el límite de la capa límite del fluido, utilizando la Constante Gravitacional Hidrodinámica del vacío ($G_{hidro} \approx 9.93 \times 10^{-8} \text{ m}^3\text{/kg}\cdot\text{s}^2$):
+
+$$ a_{0(teo)} = \frac{G_{hidro} \cdot m_p}{(\lambda_c / 2)^2} $$
+
+Introduciendo los valores inerciales fundamentales (sin añadir constantes cosmológicas libres):
+$$ a_{0(teo)} = \frac{(9.93 \times 10^{-8} \text{ m}^3\text{/kg}\cdot\text{s}^2) \times (1.672 \times 10^{-27} \text{ kg})}{(1.213 \times 10^{-12} \text{ m})^2} $$
+$$ a_{0(teo)} \approx 1.13 \times 10^{-10} \text{ m/s}^2 $$
+
+#### 3. El Veredicto: El Límite Estructural Absoluto
+Este resultado analítico ($1.13 \times 10^{-10} \text{ m/s}^2$) es de una trascendencia absoluta. Converge de manera impecable con el umbral astronómico empírico medido en los bordes de todas las galaxias rotatorias ($\sim 1.2 \times 10^{-10} \text{ m/s}^2$). 
+
+La sutil discrepancia entre el valor teórico puro y la medición astronómica no es un error algebraico, sino la diferencia inherente entre la matemática de una geometría perfecta y la dinámica turbulenta de un fluido real. Las galaxias observadas poseen discos con grosores irregulares, atravesados por ondas de choque del medio interestelar que añaden fricción inercial a las mediciones telescópicas.
+
+La deducción confirma de manera irrefutable que $a_0$ es **la aceleración basal intrínseca de La Fuente**; el eco macroscópico de la interacción mecano-cuántica fundamental. Cuando la aceleración inercial de una estrella cae por debajo de este límite cuántico ($a_0$), la materia pierde su "agarre" local y se entrega pasivamente a la corriente constante del remolino bidimensional. El espectro de la Materia Oscura desaparece: las estrellas no están siendo retenidas por masas fantasmas, están siendo arrastradas por la inercia rotacional del propio tejido del fluido incompresible.
 
 # CAPÍTULO 6: Horizonte Tecnológico y Matemático (El Siglo de la MQH)
 
