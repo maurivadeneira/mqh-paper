@@ -1314,11 +1314,19 @@ En la MQH, el sumidero inercial primario es el nudo trébol del protón ($m_p$),
 
 Si calculamos la aceleración basal que ejerce este sumidero bariónico sobre el límite de la capa límite del fluido, utilizando la Constante Gravitacional Hidrodinámica del vacío ($G_{hidro} \approx 9.93 \times 10^{-8} \text{ m}^3\text{/kg}\cdot\text{s}^2$):
 
-$$ a_{0(teo)} = \frac{G_{hidro} \cdot m_p}{(\lambda_c / 2)^2} $$
+$$
+a_{0(teo)} = \frac{G_{hidro} \cdot m_p}{(\lambda_c / 2)^2}
+$$
 
 Introduciendo los valores inerciales fundamentales (sin añadir constantes cosmológicas libres):
-$$ a_{0(teo)} = \frac{(9.93 \times 10^{-8} \text{ m}^3\text{/kg}\cdot\text{s}^2) \times (1.672 \times 10^{-27} \text{ kg})}{(1.213 \times 10^{-12} \text{ m})^2} $$
-$$ a_{0(teo)} \approx 1.13 \times 10^{-10} \text{ m/s}^2 $$
+
+$$
+a_{0(teo)} = \frac{(9.93 \times 10^{-8} \text{ m}^3\text{/kg}\cdot\text{s}^2) \times (1.672 \times 10^{-27} \text{ kg})}{(1.213 \times 10^{-12} \text{ m})^2}
+$$
+
+$$
+a_{0(teo)} \approx 1.13 \times 10^{-10} \text{ m/s}^2
+$$
 
 #### 3. El Veredicto: El Límite Estructural Absoluto
 Este resultado analítico ($1.13 \times 10^{-10} \text{ m/s}^2$) es de una trascendencia absoluta. Converge de manera impecable con el umbral astronómico empírico medido en los bordes de todas las galaxias rotatorias ($\sim 1.2 \times 10^{-10} \text{ m/s}^2$). 
