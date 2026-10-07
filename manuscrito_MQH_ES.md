@@ -1259,17 +1259,16 @@ Este valor de $7.20 \times 10^{22} \text{ Pascales}$ revela una propiedad fundam
 
 * **Gluones (La Presión de Confinamiento):** Descritos clásicamente como el "pegamento" místico que confina a los quarks (Fuerza Fuerte), en el modelo de la MQH los gluones son simplemente los gradientes de hiper-presión ($\nabla P$) y la tensión de corte que ocurre en los "cuellos" o intersecciones del nudo trébol bariónico. No hay partículas mediadoras volando dentro del protón; solo existe la fuerza de empuje implacable del fluido externo comprimiendo la topología anudada para evitar que sus flujos se repelan.
 
-### 4.4 La Obsolescencia del Bosón de Higgs ante la Inercia Hidrodinámica
+### 4.4 La Reevaluación del Mecanismo de Higgs ante la Inercia Hidrodinámica
 
-El colofón del Modelo Estándar fue la postulación del Bosón de Higgs y su campo escalar asociado (el mecanismo de ruptura espontánea de simetría), introducido con el único propósito de explicar cómo partículas teóricamente puntuales adquieren masa. La premisa ortodoxa es que el vacío está lleno de una "melaza cuántica" que frena a las partículas, otorgándoles inercia.
+El colofón del Modelo Estándar fue la postulación del Bosón de Higgs y su campo escalar asociado (el mecanismo de ruptura espontánea de simetría), introducido con el propósito de explicar cómo las partículas adquieren masa. La premisa ortodoxa es que el vacío está permeado por un campo que interactúa con las partículas, otorgándoles inercia.
 
-Con la formalización de la MQH, el mecanismo de Higgs se revela como un pleonasmo matemático, un artificio redundante y obsoleto. 
+Bajo el marco de la MQH, la necesidad teórica de un campo escalar subyacente independiente para dotar de inercia a las partículas puede ser reevaluada. Dado que *La Fuente* se define axiomáticamente como un medio continuo hiperdenso ($\rho_0 \approx 801,419 \text{ kg/m}^3$), la inercia (masa) emerge de manera predecible a través de la mecánica clásica de fluidos como el arrastre topológico de un vórtice cerrado oponiendo resistencia al intentar moverse a través de este océano.
 
-Como se dedujo analíticamente en el Capítulo 2.3 a partir de la Ecuación del Vórtice, el universo ya está permeado por un campo físico, real y medible: *La Fuente*, poseedora de una densidad absoluta de $\rho_0 \approx 801,419 \text{ kg/m}^3$. La inercia (masa) no requiere de un bosón mediador ni de un campo escalar abstracto; nace estrictamente de la mecánica clásica de fluidos. La masa es el resultado directo y geométrico del **arrastre topológico** de un remolino cerrado oponiendo resistencia al intentar moverse a través de este océano hiperdenso.
+En este contexto hidrodinámico estricto, postular un bosón mediador independiente para explicar la adquisición de masa resulta geométricamente redundante, de manera análoga a postular una partícula independiente para explicar la resistencia aerodinámica en un fluido macroscópico. La masa no es una "sustancia" transferida por un bosón, sino un comportamiento aerodinámico intrínseco de la topología confinada.
 
-Bajo este marco mecanicista estricto, la masa no es una "sustancia" que un bosón pueda otorgar, sino un **comportamiento aerodinámico**. Tratar de encontrar la partícula que "da la masa" es tan absurdo en física de fluidos como tratar de encontrar la partícula que "da la turbulencia". 
+Bajo esta óptica, la resonancia de $125 \text{ GeV}$ descubierta por el CERN en 2012 puede interpretarse no como el origen de la masa del universo, sino como una onda de choque acústica o burbuja de cavitación efímera del propio fluido cuántico, excitada en armónicos altísimos debido a las colisiones de extrema energía en el colisionador.
 
-¿Qué fue entonces lo que descubrió el CERN en 2012 al anunciar una resonancia de $125 \text{ GeV}$ bautizada como el Bosón de Higgs? En un medio hiperdenso sometido a colisiones de fuerza bruta y energías catastróficas (como las del Gran Colisionador de Hadrones), el fluido de *La Fuente* es capaz de formar ondas estacionarias masivas y burbujas de cavitación efímeras en armónicos altísimos. La resonancia de $125 \text{ GeV}$ es una onda de choque acústica real y medible del fluido cuántico; pero no es el origen de la masa del universo. El vacío no requiere una "melaza mágica" añadida a mano en las ecuaciones cuando ya es, axiomáticamente, un medio continuo perfecto.
 
 ## CAPÍTULO 5: MACRO-DINÁMICA, GRAVEDAD Y LA ILUSIÓN DE LA MATERIA OSCURA
 
