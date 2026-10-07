@@ -1118,6 +1118,24 @@ Bajo el paradigma ortodoxo, surge una aparente divergencia de escalas: el défic
 
 La dinámica de fluidos de la MQH restaura el rigor del balance termodinámico, indicando que el exceso energético inercial ($\approx 1.5 \, m_e$) originado por el hiper-arrastre acústico previo del electrón confinado dentro del protón no se invierte en estructurar el neutrino. Esta energía acumulada se transforma predominantemente en la Energía Cinética direccional con la que el electrón es expulsado del núcleo para recuperar su flujo laminar libre. El pulso longitudinal (neutrino) de $0.119 \text{ eV}$ representa única y exclusivamente la disipación acústica topológica del desgarro mismo; el remanente inercial de la reconfiguración del fluido base.
 
+#### 6. Frecuencia Acústica y la Sección Eficaz de Interacción (La Dinámica de Transmisión Longitudinal)
+Para comprender la aparente "invisibilidad" del neutrino y su extremadamente baja sección eficaz de interacción frente a la materia ordinaria, es imperativo traducir su inercia a su frecuencia de resonancia acústica en el fluido ($E = h\nu$). Al sustituir la masa del estado base por la frecuencia Compton del electrón ($\nu_e \approx 1.23 \times 10^{20} \text{ Hz}$), la frecuencia del pulso longitudinal se deduce como:
+
+$$
+\nu_{\nu} = \frac{3}{5} \alpha^3 \nu_e \approx 28.7 \text{ THz}
+$$
+
+La MQH predice que el solitón neutrino opera a una frecuencia aproximada de $28.7 \text{ Terahercios}$, lo cual, en el régimen de la hidrodinámica hiperdensa de *La Fuente*, representa una onda acústica de ultra-baja frecuencia.
+
+Este resultado explica mecánicamente la falta de interacción estadística. Dado que la materia bariónica y leptónica está estructurada por vórtices de momento angular transversal, y el pulso del neutrino es una onda de compresión puramente longitudinal, los campos de velocidad de ambos fenómenos son ortogonales. El solitón transita a través de los orbitales atómicos sin inducir fricción ni perturbar el momento angular local. En mecánica de fluidos, este fenómeno es análogo a una onda oceánica profunda de gran longitud (tsunami) que atraviesa sistemas de flotación superficiales sin alterar su estado inercial.
+
+#### 7. El Mecanismo de Detección: Detonación por Choque Inelástico
+Si el solitón atraviesa el flujo transversal sin perturbación geométrica, surge la necesidad de explicar las colosales liberaciones energéticas registradas en detectores de Cherenkov (como Super-Kamiokande).
+
+Bajo la MQH, este fenómeno no es una transferencia directa de la energía cinética del neutrino. Debido a la estricta incompresibilidad local del fluido espacial, cuando esta onda longitudinal extrema impacta frontalmente contra un núcleo topológico de máxima rigidez (el nudo bariónico de un átomo masivo), se produce un choque acústico inelástico.
+
+En este evento, el neutrino no aporta la potencia masiva del destello; opera mecánicamente como un detonador acústico. La onda de compresión fractura el umbral de tensión cortante (*yield stress*) del estrés topológico interno del átomo blanco. Es el propio átomo colisionado el que, al perder temporalmente su equilibrio hidrodinámico, libera su energía de enlace confinada en forma de cascada de radiación y partículas secundarias. Esta reinterpretación resuelve la asimetría entre la minúscula energía teórica del neutrino y la magnitud de los eventos de dispersión inelástica profunda medidos en laboratorio.
+
 ### 4.2.3 El Régimen Confinado: La Ecuación de Masa Toroidal y el Espectro de Resonancias
 
 **El Régimen Confinado (Inercia y Física de Partículas):** Si la interacción de flujos obliga a la energía a anudarse en un bucle topológico estable, el fluido queda atrapado girando en el mismo sitio. Es aquí donde nace la materia.
