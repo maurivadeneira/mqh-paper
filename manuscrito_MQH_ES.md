@@ -1038,72 +1038,422 @@ Esta proporción es exactamente el inverso de la Constante de Estructura Fina ($
 
 Finalmente, lo que el Modelo Estándar percibe a través de la estadística matemática como una misteriosa "nube esférica de probabilidad" (el orbital 1s), es en realidad la envoltura hidrodinámica —promediada en el tiempo— de este macro-toroide perfecto. Esta estructura de corrientes explica de forma natural y mecánica por qué el átomo de hidrógeno posee un eje magnético dipolar, consolidando la máxima absoluta de la MQH: el universo es de naturaleza fractal (vórtices dentro de vórtices), regido íntegramente por las leyes inquebrantables de la mecánica de fluidos.
 
-### 4.2.2.1 El Límite de Saturación Longitudinal (El Neutrino)
-
-En el marco de la Mecánica Cuántica Hidrodinámica (MQH), el neutrino abandona su estatus de partícula fantasma con masa arbitraria para redefinirse de manera estricta como un **solitón acústico puramente longitudinal**. Se trata del umbral de presión máximo que *La Fuente* puede soportar viajando en trayectoria rectilínea antes de que el esfuerzo de corte obligue al fluido a curvarse, colapsar y generar nueva vorticidad en forma de materia.
+4.2.2.1 El Límite de Saturación Longitudinal (El Neutrino)
+En el marco de la Mecánica Cuántica Hidrodinámica (MQH), el neutrino abandona su estatus de partícula fantasma con masa arbitraria para redefinirse de manera estricta como un solitón acústico puramente longitudinal. Se trata del umbral de presión máximo que La Fuente puede soportar viajando en trayectoria rectilínea antes de que el esfuerzo de corte obligue al fluido a curvarse, colapsar y generar nueva vorticidad en forma de materia.
 
 A diferencia de los modelos estadísticos tradicionales de la física de partículas, la MQH deduce este límite de forma totalmente analítica y geométrica a partir de las ecuaciones de medios continuos. La ecuación maestra que rige esta saturación es:
 
-$$ E_{max} = \frac{3}{5} \alpha^3 m_e $$
+E
+m
+a
+x
+=
+3
+5
+α
+3
+m
+e
 
 Esta expresión no constituye un ajuste empírico ni una aproximación estadística, sino una identidad mecanicista rigurosa. A continuación, se desglosa la deducción formal de cada uno de sus componentes:
 
-#### 1. El Ancla Inercial ($m_e$)
-Todo solitón longitudinal nace de la ruptura catastrófica de un nudo topológico preexistente (como el decaimiento de un estado fundamental). La masa inercial del electrón ($m_e = 510,998.95 \text{ eV}$) representa el fondo energético del vórtice cerrado original; actúa como la base de inercia de la cual se desprende el pulso de presión.
+1. El Ancla Inercial (
+m
+e
+)
+Todo solitón longitudinal nace de la ruptura catastrófica de un nudo topológico preexistente (como el decaimiento de un estado fundamental). La masa inercial del electrón (
+m
+e
+=
+510
+,
+998.95
+ eV
+) representa el fondo energético del vórtice cerrado original; actúa como la base de inercia de la cual se desprende el pulso de presión.
 
-#### 2. La Variación de Energía Volumétrica ($\alpha^3$)
+2. La Variación de Energía Volumétrica (
+α
+3
+)
 La expulsión del pulso no ocurre por la aniquilación de la partícula entera, sino por un desgarro localizado en su estructura. Para determinar la fracción de inercia liberada, aplicamos el Principio de Volúmenes de Confinamiento de la MQH.
 
-El vórtice base se encuentra acotado por un radio mayor de giro macroscópico ($R \approx 52.91 \text{ pm}$, correspondiente al radio de Bohr) y un radio menor que define el grosor del tubo transversal ($r \cdot \approx 0.386 \text{ pm}$, equivalente al radio de Compton reducido). La constante de estructura fina en la MQH surge de manera puramente geométrica como la relación de aspecto de estos radios:
+El vórtice base se encuentra acotado por un radio mayor de giro macroscópico (
+R
+≈
+52.91
+ pm
+, correspondiente al radio de Bohr) y un radio menor que define el grosor del tubo transversal (
+r
+⋅
+≈
+0.386
+ pm
+, equivalente al radio de Compton reducido). La constante de estructura fina en la MQH surge de manera puramente geométrica como la relación de aspecto de estos radios:
 
-$$ \alpha = \frac{r}{R} \approx \frac{1}{137.07} $$
+α
+=
+r
+R
+≈
+1
+137.07
 
-La inercia total del sistema ($m_e$) opera dentro de un volumen macroscópico de frontera esférica ($V_{macro} = \frac{4}{3}\pi R^3$). No obstante, la fractura topológica es un evento microscópico confinado estrictamente al dominio transversal del tubo ($V_{micro} = \frac{4}{3}\pi r^3$). Por consiguiente, la variación de energía volumétrica ($\Delta E_{vol}$) —que define la proporción de inercia atrapada en la falla que logra escapar como un pulso direccional— se establece por la razón geométrica de ambos volúmenes:
+La inercia total del sistema (
+m
+e
+) opera dentro de un volumen macroscópico de frontera esférica (
+V
+m
+a
+c
+r
+o
+=
+4
+3
+π
+R
+3
+). No obstante, la fractura topológica es un evento microscópico confinado estrictamente al dominio transversal del tubo (
+V
+m
+i
+c
+r
+o
+=
+4
+3
+π
+r
+3
+). Por consiguiente, la variación de energía volumétrica (
+Δ
+E
+v
+o
+l
+) —que define la proporción de inercia atrapada en la falla que logra escapar como un pulso direccional— se establece por la razón geométrica de ambos volúmenes:
 
-$$ \Delta E_{vol} = \frac{V_{micro}}{V_{macro}} = \frac{\frac{4}{3}\pi r^3}{\frac{4}{3}\pi R^3} = \left(\frac{r}{R}\right)^3 = \alpha^3 $$
+Δ
+E
+v
+o
+l
+=
+V
+m
+i
+c
+r
+o
+V
+m
+a
+c
+r
+o
+=
+4
+3
+π
+r
+3
+4
+3
+π
+R
+3
+=
+(
+r
+R
+)
+3
+=
+α
+3
 
 Cualquier intento de un pulso por portar una fracción superior requeriría involucrar un volumen mayor al del tubo fundamental, lo que desencadenaría una fricción asimétrica en el medio, curvaría el gradiente y transformaría obligatoriamente el excedente de energía en masa rotacional.
 
-#### 3. El Coeficiente de Auto-Energía Esférica ($\frac{3}{5}$)
-En el instante crítico de la discontinuidad, la vorticidad colapsa localmente ($\mathbf{B} = 0$) y la energía confinada se libera como una sobrepresión radial isotrópica (un campo eléctrico longitudinal $\mathbf{E}$). Para calcular la energía de auto-interacción ($U$) de esta burbuja de radio $R$ y carga hidro-acústica $Q$, integramos el trabajo de ensamblaje mediante el Teorema de la Divergencia.
+3. El Coeficiente de Auto-Energía Esférica (
+3
+5
+)
+En el instante crítico de la discontinuidad, la vorticidad colapsa localmente (
+B
+=
+0
+) y la energía confinada se libera como una sobrepresión radial isotrópica (un campo eléctrico longitudinal 
+E
+). Para calcular la energía de auto-interacción (
+U
+) de esta burbuja de radio 
+R
+ y carga hidro-acústica 
+Q
+, integramos el trabajo de ensamblaje mediante el Teorema de la Divergencia.
 
-Estableciendo que la carga acumulada en un radio interno $r$ escala con el volumen cúbico $q(r) = Q(r/R)^3$, y que el diferencial de la capa de presión es $dq = 3Q(r^2/R^3)dr$, la integral del trabajo de deformación se plantea como:
+Estableciendo que la carga acumulada en un radio interno 
+r
+ escala con el volumen cúbico 
+q
+(
+r
+)
+=
+Q
+(
+r
+/
+R
+)
+3
+, y que el diferencial de la capa de presión es 
+d
+q
+=
+3
+Q
+(
+r
+2
+/
+R
+3
+)
+d
+r
+, la integral del trabajo de deformación se plantea como:
 
-$$ U = \int_0^R \kappa \frac{q(r)}{r} dq $$
+U
+=
+∫
+0
+R
+κ
+q
+(
+r
+)
+r
+d
+q
 
-$$ U = \int_0^R \kappa \left( Q \frac{r^2}{R^3} \right) \left( 3Q \frac{r^2}{R^3} \right) dr $$
+U
+=
+∫
+0
+R
+κ
+(
+Q
+r
+2
+R
+3
+)
+(
+3
+Q
+r
+2
+R
+3
+)
+d
+r
 
 Agrupando términos constantes y resolviendo la integral polinómica de orden cuatro:
 
-$$ U = \kappa \frac{3Q^2}{R^6} \int_0^R r^4 dr = \kappa \frac{3Q^2}{R^6} \left[ \frac{R^5}{5} \right] = \mathbf{\frac{3}{5}} \left( \kappa \frac{Q^2}{R} \right) $$
+U
+=
+κ
+3
+Q
+2
+R
+6
+∫
+0
+R
+r
+4
+d
+r
+=
+κ
+3
+Q
+2
+R
+6
+[
+R
+5
+5
+]
+=
+3
+5
+(
+κ
+Q
+2
+R
+)
 
-**Conclusión del término:** Esta demostración analítica confirma que todo pulso esférico de presión en el medio porta intrínsecamente un factor de auto-energía geométrica de $\frac{3}{5}$. Al aplicar esta corrección de campo sobre la energía volumétrica de fractura ($\alpha^3 m_e$), se consolida formalmente la ecuación maestra:
+Conclusión del término: Esta demostración analítica confirma que todo pulso esférico de presión en el medio porta intrínsecamente un factor de auto-energía geométrica de 
+3
+5
+. Al aplicar esta corrección de campo sobre la energía volumétrica de fractura (
+α
+3
+m
+e
+), se consolida formalmente la ecuación maestra:
 
-$$ E_{max} = \frac{3}{5} \alpha^3 m_e $$
+E
+m
+a
+x
+=
+3
+5
+α
+3
+m
+e
 
-#### 4. El Hallazgo Teórico: La Deducción Pura de la Energía del Neutrino
-Sustituyendo los parámetros geométricos puros del modelo teórico dentro de la ecuación maestra, obtenemos el valor analítico deducido por la hidrodinámica de *La Fuente*:
+4. El Hallazgo Teórico: La Deducción Pura de la Energía del Neutrino
+Sustituyendo los parámetros geométricos puros del modelo teórico dentro de la ecuación maestra, obtenemos el valor analítico deducido por la hidrodinámica de La Fuente:
 
-$$ E_{max} = \frac{3}{5} \left( \frac{0.386}{52.91} \right)^3 \times 510,998.95 \text{ eV} $$
+E
+m
+a
+x
+=
+3
+5
+(
+0.386
+52.91
+)
+3
+×
+510
+,
+998.95
+ eV
 
-$$ E_{max} = 0.6 \times (3.8828 \times 10^{-7}) \times 510,998.95 \text{ eV} $$
+E
+m
+a
+x
+=
+0.6
+×
+(
+3.8828
+×
+10
+−
+7
+)
+×
+510
+,
+998.95
+ eV
 
-$$ \mathbf{E_{max}^{(teo)} = 0.1190 \text{ eV}} $$
+E
+max
+(
+teo
+)
+=
+0.1190
+ eV
 
-Este resultado representa un hito fundamental: la MQH predice de forma totalmente autónoma, sin recurrir a datos ajustados de laboratorio, un límite de saturación longitudinal de **$0.1190 \text{ eV}$**. Al tratarse del pulso máximo de compresión que el medio puede propagar sin desestabilizarse en materia, **esta energía define precisamente el umbral superior de energía para el solitón longitudinal (el neutrino)** en su tránsito por *La Fuente*.
+Este resultado representa un hito fundamental: la MQH predice de forma totalmente autónoma, sin recurrir a datos ajustados de laboratorio, un límite de saturación longitudinal de 
+0.1190
+ eV
+. Al tratarse del pulso máximo de compresión que el medio puede propagar sin desestabilizarse en materia, esta energía define precisamente el umbral superior de energía para el solitón longitudinal (el neutrino) en su tránsito por La Fuente.
 
-#### 5. Contraste Empírico y Cota Cosmológica
-Para evaluar la robustez del modelo frente a los datos observacionales, podemos repetir el cálculo empleando la constante de estructura fina empírica obtenida en los laboratorios de alta precisión (CODATA, $\alpha \approx 1/137.036$):
+5. Contraste Empírico y Cota Cosmológica
+Para evaluar la robustez del modelo frente a los datos observacionales, podemos repetir el cálculo empleando la constante de estructura fina empírica obtenida en los laboratorios de alta precisión (CODATA, 
+α
+≈
+1
+/
+137.036
+):
 
-$$ E_{max} = \frac{3}{5} \left( \frac{1}{137.035999} \right)^3 \times 510,998.95 \text{ eV} $$
+E
+m
+a
+x
+=
+3
+5
+(
+1
+137.035999
+)
+3
+×
+510
+,
+998.95
+ eV
 
-$$ E_{max} = 0.6 \times (3.8859 \times 10^{-7}) \times 510,998.95 \text{ eV} $$
+E
+m
+a
+x
+=
+0.6
+×
+(
+3.8859
+×
+10
+−
+7
+)
+×
+510
+,
+998.95
+ eV
 
-$$ \mathbf{E_{max}^{(emp)} = 0.1191 \text{ eV}} $$
+E
+max
+(
+emp
+)
+=
+0.1191
+ eV
 
-Ambos caminos analíticos —tanto la predicción puramente teórica de la MQH ($0.1190 \text{ eV}$) como la validación con la constante medida ($0.1191 \text{ eV}$)— convergen con una precisión quirúrgica. Este valor empata de manera impecable con la cota superior observacional establecida por la misión cosmológica Planck (2018), que fija el límite en $\Sigma m_\nu < 0.12 \text{ eV}$. 
+Ambos caminos analíticos —tanto la predicción puramente teórica de la MQH (
+0.1190
+ eV
+) como la validación con la constante medida (
+0.1191
+ eV
+)— convergen con una precisión quirúrgica. Este valor empata de manera impecable con la cota superior observacional establecida por la misión cosmológica Planck (2018), que fija el límite en 
+Σ
+m
+ν
+<
+0.12
+ eV
+.
 
-La conclusión física es ineludible: los instrumentos cosmológicos no están midiendo la masa estática de una partícula elemental fantasma, sino el **límite de tensión elástica absoluta** de *La Fuente*.
+La conclusión física es ineludible: los instrumentos cosmológicos no están midiendo la masa estática de una partícula elemental fantasma, sino el límite de tensión elástica absoluta de La Fuente.
+
+4.2.3 El Régimen Confinado: La Ecuación de Masa Toroidal y el Espectro de Resonancias
 
 ### 4.2.3 El Régimen Confinado: La Ecuación de Masa Toroidal y el Espectro de Resonancias
 
