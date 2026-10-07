@@ -131,10 +131,33 @@ Este valor coincide con el umbral astrofísico medido en las periferias galácti
 ## DESARROLLO
 
 **1. Diagnóstico del Estado del Arte: Desde Newton a La Crisis del Modelo Estándar**
-**Introducción: El Retorno al Medio Continuo**
-A lo largo de la historia de la física, el espacio fue contemplado de manera natural como un fluido continuo; sin embargo, por limitaciones empíricas y abstracciones matemáticas, esta idea fue progresivamente abandonada. Paralelo a este exilio cosmológico, la ciencia consolidó las majestuosas ecuaciones de Navier-Stokes para gobernar la hidrodinámica macroscópica. Hoy presenciamos un punto de inflexión: existen ingentes esfuerzos en la frontera de la física intentando reinterpretar la mecánica cuántica utilizando precisamente las soluciones de Navier-Stokes.
 
-En el presente tratado, desarrollaremos este tema denominando al espacio fundamental como **LA FUENTE**, definiéndola y tratándola estrictamente como un fluido hiperdenso. A partir de un conjunto de principios o postulados físicos ineludibles, y utilizando el rigor de la matemática de Navier-Stokes, reinterpretaremos toda la teoría cuántica. Esperamos con ello resolver la mayoría de los problemas insolubles y singularidades del Modelo Estándar. Al punto donde hemos llegado, consideramos que este experimento teórico ha sido extraordinariamente exitoso, y lo presentamos con la convicción de que la comunidad científica lo pueda acoger y seguir desarrollando.
+**A. INTRODUCCIÓN Y CONTEXTO HISTÓRICO: EL RETORNO AL MEDIO CONTINUO**
+
+**A.1 El Éxito Predictivo y el Impasse Fenomenológico**
+Durante el último siglo, la física teórica ha consolidado dos marcos predictivos de extraordinaria precisión: la Relatividad General para la dinámica macroscópica de la gravitación y el Modelo Estándar de la física de partículas para las interacciones electromagnéticas, fuertes y débiles. Sin embargo, a pesar de sus confirmaciones experimentales, la física contemporánea enfrenta un impasse estructural profundo: la incompatibilidad matemática entre la gravitación y la mecánica cuántica, y la creciente dependencia de parámetros empíricos libres.
+
+En el régimen cuántico, la parametrización de la masa y el decaimiento de las tres generaciones de fermiones (leptones y quarks) exige la inserción manual de valores medidos en laboratorio, careciendo de un mecanismo analítico fundamental que deduzca estas inercias geométricamente. En la escala cosmológica, la dinámica orbital de las galaxias exhibe perfiles de velocidad plana ($v \approx \text{constante}$) que divergen de la predicción clásica ($1/\sqrt{r}$), lo que ha obligado a la postulación de la "materia oscura" y la "energía oscura" —entidades no detectadas directamente— para preservar la validez de las ecuaciones métricas a gran escala. Este panorama sugiere que, si bien el andamiaje matemático actual es altamente operativo, adolece de una base ontológica unificada.
+
+**A.2 La Divergencia Metodológica: Geometría y Probabilidad**
+Para comprender las raíces de esta fragmentación teórica, es necesario examinar la evolución heurística de la disciplina. En el siglo XIX, las ecuaciones del electromagnetismo de James Clerk Maxwell fueron derivadas asumiendo explícitamente un sustrato material subyacente gobernado por tensiones y vórtices mecánicos. No obstante, a principios del siglo XX, las limitaciones experimentales para detectar un "viento de éter" estacionario condujeron a una bifurcación metodológica pragmática.
+
+Por un lado, la mecánica macroscópica y la ingeniería consolidaron el rigor determinista de la dinámica de medios continuos (las ecuaciones de Navier-Stokes y Euler). Por otro lado, la física fundamental optó por abstraer el vacío. La Relatividad General geometrizó el espacio, empleando, paradójicamente, un tensor de energía-impulso ($T_{\mu\nu}$) —herramienta nacida de la teoría de la elasticidad de los fluidos— para deformar un vacío inmaterial. Posteriormente, la mecánica cuántica adoptó un tratamiento estadístico, donde las soluciones ondulatorias de Schrödinger y Dirac fueron despojadas de un medio de propagación físico y reinterpretadas como amplitudes de densidad de probabilidad continua (la interpretación de Copenhague).
+
+El resultado fue un exilio del concepto del medio continuo. La materia pasó a modelarse como partículas puntuales adimensionales interactuando en un vacío probabilístico, aislando a la física teórica de las soluciones no lineales de la dinámica de fluidos.
+
+**A.3 El Renacimiento Hidrodinámico y la Propuesta de la MQH**
+Históricamente, existieron intentos de preservar el determinismo mecánico en el estrato cuántico, notablemente la hidrodinámica cuántica de Erwin Madelung (1927) y la teoría de la onda piloto de de Broglie-Bohm. En décadas recientes, disciplinas emergentes como la "gravedad análoga" (Unruh, 1981) han demostrado que la propagación de ondas acústicas en fluidos irrotacionales reproduce matemáticamente, de manera exacta, la métrica geométrica del espacio-tiempo curvo.
+
+Inspirado por estas convergencias, este trabajo introduce formalmente la Mecánica Cuántica Hidrodinámica (MQH). La tesis central postula que el espacio físico no es un vacío geométrico pasivo, sino un medio fluido continuo, isótropo e incompresible (denominado aquí *La Fuente*), dotado de una densidad inercial absoluta ($\rho_0$) y un módulo de elasticidad finito.
+
+Bajo este marco, la MQH propone que las entidades descritas por el Modelo Estándar no son elementales ni puntuales, sino estados topológicos de resonancia estabilizada (vórtices y solitones) dentro de este continuo fluido. Al aplicar rigurosamente las ecuaciones clásicas de Navier-Stokes a estas geometrías confinadas, el presente manuscrito se estructura con el objetivo de demostrar que:
+
+*   La masa inercial es una propiedad macroscópica emergente; específicamente, representa el coeficiente de resistencia hidrodinámica (arrastre) de una topología de flujo cerrado.
+*   Las constantes fundamentales (como la constante de estructura fina $\alpha$, la masa del protón y la inercia del neutrino) pueden derivarse de manera estrictamente analítica a través de proporciones geométricas puras, eliminando la dependencia de parámetros libres.
+*   La dinámica gravitacional de las galaxias es atribuible a los gradientes de presión distribuidos del macro-vórtice espacial, permitiendo explicar la planitud de las curvas de rotación galácticas y deducir el umbral de transición $a_0$ sin recurrir a la hipótesis de la materia oscura.
+
+El desarrollo de este documento plantea una transición desde la estadística cuántica hacia una mecánica de fluidos determinista, ofreciendo una ruta matemática para la tan buscada unificación ontológica entre el sustrato cuántico y la gravitación cósmica.
 
 **1.1 La Fuerza, la Masa y el triunfo de la mecánica clásica**
 
