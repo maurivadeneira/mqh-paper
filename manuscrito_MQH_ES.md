@@ -1000,10 +1000,9 @@ Esta deducción mecánica resuelve simultáneamente el misterio de los 15 minuto
 
 En la física ortodoxa, el átomo de hidrógeno representa una paradoja histórica que dio a luz a la mecánica cuántica moderna a través de un acto de desesperación matemática. Según el electromagnetismo clásico, un electrón orbitando un núcleo debería irradiar su energía y colapsar en espiral contra el protón en una fracción de billonésima de segundo. 
 
-#### 1. El Malabarismo Histórico de Niels Bohr (1913)
-Para evitar este colapso catastrófico, en 1913 Niels Bohr propuso su famoso modelo atómico. Al darse cuenta de que si dejaba las ecuaciones de Newton y Maxwell libres el electrón se estrellaba, Bohr decretó, por axioma, que el momento angular del electrón solo podía existir en paquetes enteros de $\hbar$ ($mvr = n\hbar$). 
+#### 1. El Postulado de Cuantización de Bohr (1913) y la Estabilidad Orbital
 
-Bohr no sabía *por qué* el electrón tenía que obedecer esa regla; simplemente la impuso a la fuerza. Un dato histórico clave es que, en 1913, Bohr ni siquiera conocía la constante de estructura fina ($\alpha$), introducida años después por Arnold Sommerfeld. Bohr simplemente juntó las constantes disponibles porque el análisis dimensional daba la distancia correcta. Un siglo después, el Modelo Estándar sigue ocultando este vacío explicativo detrás de nubes de probabilidad estadística abstractas.
+Para resolver la inestabilidad radiativa inherente a la electrodinámica clásica, el modelo de Bohr introdujo la cuantización del momento angular ($mvr = n\hbar$) como un postulado axiomático. Si bien esta imposición resultó ser predictivamente exitosa, constituyó una solución ad hoc cuya justificación mecánica subyacente permaneció indeterminada. Posteriormente, el formalismo de la mecánica ondulatoria abordó esta dinámica mediante funciones de densidad de probabilidad estadística. Sin embargo, la MQH plantea la posibilidad de sustituir este tratamiento estadístico por una interpretación determinista, fundamentando la estabilidad orbital en la incompresibilidad del fluido intermedio continuo.
 
 #### 2. El Mecanismo Anti-Colapso: La Incompresibilidad de La Fuente
 Bajo la Mecánica Cuántica Hidrodinámica (MQH), la estabilidad del hidrógeno no requiere decretos mágicos. El átomo no colapsa porque *La Fuente* es un fluido hiperdenso e **incompresible**. 
