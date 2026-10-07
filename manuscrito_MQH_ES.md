@@ -75,7 +75,8 @@ Este valor coincide con el umbral astrofísico medido en las periferias galácti
 ## ÍNDICE
 
 **1. Diagnóstico del Estado del Arte: Desde Newton a La Crisis del Modelo Estándar**
-**Introducción: El Retorno al Medio Continuo**
+
+****Introducción: El Retorno al Medio Continuo**
 * 1.1 La Fuerza, la Masa y el triunfo de la mecánica clásica.
 * 1.2 Los Campos y la síntesis de Maxwell: El fluido que se volvió vacío.
 * 1.3 Einstein y la Relatividad: La geometrización del vacío y el misterio de la masa.
