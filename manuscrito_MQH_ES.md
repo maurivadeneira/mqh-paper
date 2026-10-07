@@ -86,6 +86,7 @@ Este resultado empata con precisión quirúrgica con la cota cosmológica observ
 * 1.5 El colapso cosmológico, las bajas aceleraciones y el sesgo epistemológico.
 
 **2. La Solución: Mecánica Cuántica Hidrodinámica (MQH)**
+* Introducción: El Retorno al Medio Continuo
 * Los Postulados Fundamentales de La Fuente (1 al 7).
 * 2.1 La Transición Ontológica y la Mecánica de Medios Continuos.
 * 2.2 Geometría Subatómica y el Origen Inercial de la Masa.
