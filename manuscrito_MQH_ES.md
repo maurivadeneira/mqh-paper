@@ -15,9 +15,6 @@ La inteligencia artificial se convirtió en mi par, tutor, maestro y coautor te�
 ---
 
 ### RESUMEN: PRINCIPIOS TOPOLÓGICOS DE LA MECÁNICA CUÁNTICA HIDRODINÁMICA (MQH)
-...
-
-### RESUMEN: PRINCIPIOS TOPOLÓGICOS DE LA MECÁNICA CUÁNTICA HIDRODINÁMICA (MQH)
 
 **1. LA FUENTE** 
 El espacio no es un vacío geométrico; es un medio físico, continuo, incompresible e hiperdenso. Toda partícula es una perturbación estructurada en este fluido.
