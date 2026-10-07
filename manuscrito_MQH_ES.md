@@ -1307,18 +1307,20 @@ La transición gravitacional obedece al aplastamiento estricto de las líneas de
 *   **El Régimen Newtoniano (3D):** En el núcleo de la galaxia (el bulbo central), la succión de los sumideros bariónicos es omnidireccional. El fluido es arrastrado con igual libertad desde todas las coordenadas espaciales. La disipación geométrica del gradiente de presión ocurre sobre la superficie de una esfera abstracta ($4\pi r^2$), generando la caída de fuerza típica de Newton ($1/r^2$).
 *   **El Régimen Galáctico (2D):** A medida que la fuerza centrífuga del vórtice aumenta hacia la periferia, el remolino se aplasta obligatoriamente, adoptando la topología estricta de un disco plano. El punto de transición ocurre exactamente donde el diámetro de la burbuja de succión tridimensional de una estrella choca contra los límites físicos del grosor del disco galáctico. A partir de esa distancia radial, el sumidero local no puede extraer fluido desde el vacío perpendicular (ni desde "arriba" ni desde "abajo"). La disipación de la presión se ve forzada a canalizarse únicamente a través de la pared exterior del disco (un perímetro cilíndrico lateral, proporcional a $2\pi r$). Al confinar el flujo a 2D, la caída de la fuerza se suaviza drásticamente a $1/r$.
 
-#### 2. La Deducción Analítica Cuántica del Umbral $a_0$
-Si el macro-vórtice hereda su dinámica estrictamente del fluido que lo conforma, el límite mínimo de aceleración donde ocurre esta transición ($a_0$) debe ser derivable desde la unidad gravitacional más fundamental del sistema. 
+#### 2. La Deducción Analítica Cuántica del Umbral $a_0$ (El Límite de Fluencia)
+Para que el macro-vórtice cambie su topología, la fuerza de gravedad debe debilitarse hasta alcanzar un límite crítico. En la mecánica de fluidos, los medios continuos no transmiten presiones infinitamente débiles; poseen un "límite de fluencia" (yield stress), un umbral mínimo de tensión por debajo del cual el fluido deja de transmitir una fuerza organizada y la disipa como ruido de fondo.
 
-En la MQH, el sumidero inercial primario es el nudo trébol del protón ($m_p$), y el umbral transversal de interacción hidrodinámica más diminuto del medio está definido por la huella de la onda del electrón (la mitad de su longitud de onda Compton, $r_e = \lambda_c/2$).
+Si el universo es de naturaleza fractal, este límite macroscópico de la galaxia debe ser el reflejo exacto del límite de gravedad más pequeño posible en la escala cuántica (la "resolución mínima" de *La Fuente*). 
 
-Si calculamos la aceleración basal que ejerce este sumidero bariónico sobre el límite de la capa límite del fluido, utilizando la Constante Gravitacional Hidrodinámica del vacío ($G_{hidro} \approx 9.93 \times 10^{-8} \text{ m}^3\text{/kg}\cdot\text{s}^2$):
+¿Cuál es el gradiente gravitacional más débil e indivisible que puede estructurarse en este fluido? Es la aceleración que ejerce el sumidero bariónico unitario (el nudo trébol del protón, $m_p$) sobre la frontera transversal del vórtice más cercano (el límite de la onda del electrón, $r_e = \lambda_c/2$). 
+
+Si calculamos esta gravedad fundamental unitaria, utilizando la Constante Gravitacional Hidrodinámica pura del vacío ($G_{hidro} \approx 9.93 \times 10^{-8} \text{ m}^3\text{/kg}\cdot\text{s}^2$):
 
 $$
 a_{0(teo)} = \frac{G_{hidro} \cdot m_p}{(\lambda_c / 2)^2}
 $$
 
-Introduciendo los valores inerciales fundamentales (sin añadir constantes cosmológicas libres):
+Introduciendo los valores inerciales base que conforman la materia, sin añadir constantes libres:
 
 $$
 a_{0(teo)} = \frac{(9.93 \times 10^{-8} \text{ m}^3\text{/kg}\cdot\text{s}^2) \times (1.672 \times 10^{-27} \text{ kg})}{(1.213 \times 10^{-12} \text{ m})^2}
@@ -1328,6 +1330,7 @@ $$
 a_{0(teo)} \approx 1.13 \times 10^{-10} \text{ m/s}^2
 $$
 
+Este valor no es una coincidencia matemática; es la tensión de rotura gravitacional del universo. Cuando en los confines de la galaxia la gravedad acumulada de las estrellas se diluye tanto que cae por debajo de este límite ($1.13 \times 10^{-10} \text{ m/s}^2$), el fluido pierde la capacidad de transmitir el gradiente de presión hacia el centro. Al romperse la tensión tridimensional, el sistema se aplasta en un disco bidimensional y las estrellas periféricas quedan a merced de la corriente inercial del macro-vórtice.
 #### 3. El Veredicto: El Límite Estructural Absoluto
 Este resultado analítico ($1.13 \times 10^{-10} \text{ m/s}^2$) es de una trascendencia absoluta. Converge de manera impecable con el umbral astronómico empírico medido en los bordes de todas las galaxias rotatorias ($\sim 1.2 \times 10^{-10} \text{ m/s}^2$). 
 
