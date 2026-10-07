@@ -1210,7 +1210,25 @@ El Modelo Estándar exige que todas las fuerzas de la naturaleza sean mediadas p
 
 Al recuperar el medio continuo hiperdenso (*La Fuente*), las "fuerzas a distancia" desaparecen por completo. En la MQH, los bosones pierden su estatus ontológico como partículas individuales y se revelan como propiedades dinámicas, ondas de choque y umbrales de tensión del propio fluido:
 
-* **El Fotón (El Régimen Abierto):** No es un proyectil corpuscular ni un paquete de energía aislado flotando en el vacío. Físicamente, el fotón es una onda de corte (transversal) propagándose a través de la tensión elástica del fluido continuo. Posee energía cinética y momento, pero su masa en reposo es nula ($m=0$) por una razón estrictamente topológica: no es un vórtice cerrado. Al no poseer un bucle que retenga el flujo, no genera arrastre hidrodinámico sostenido contra el medio. Su velocidad límite ($c = \sqrt{K/\rho_0}$) no es un decreto relativista, sino la rigidez elástica de *La Fuente*.
+#### El Fotón (El Régimen Abierto) y la Rigidez de *La Fuente*
+
+El fotón no es un proyectil corpuscular ni un paquete de energía aislado flotando en un vacío abstracto. Físicamente, el fotón es una **onda de corte (transversal)** que se propaga a través de la tensión elástica del fluido continuo de *La Fuente*. Posee energía cinética y momento, pero su masa en reposo es nula ($m=0$) por una razón estrictamente topológica: no es un vórtice cerrado. Al carecer de un bucle que retenga y confine el flujo, no genera un arrastre hidrodinámico sostenido contra el medio.
+
+La velocidad límite a la que viaja ($c$) no es un decreto relativista de un espacio-tiempo abstracto, sino la consecuencia directa de la relación entre la elasticidad volumétrica y la densidad absoluta del medio fluido:
+
+$$
+c = \sqrt{\frac{K}{\rho_0}}
+$$
+
+Donde $\rho_0$ es la densidad incompresible basal del fluido cósmico ($\approx 801,419 \text{ kg/m}^3$). 
+
+Si despejamos analíticamente el **Módulo de Elasticidad (o Bulk Modulus, $K$)** de *La Fuente* a partir de la velocidad de la luz y la densidad del medio ($K = c^2 \cdot \rho_0$), obtenemos un resultado de proporciones colosales:
+
+$$
+K = (2.998 \times 10^8 \text{ m/s})^2 \times 801,419 \text{ kg/m}^3 \approx 7.20 \times 10^{22} \text{ Pa}
+$$
+
+Este valor de $7.20 \times 10^{22} \text{ Pascales}$ revela una propiedad fundamental de la realidad: *La Fuente* no es un espacio pasivo ni un "vacío" débil. Posee una rigidez elástica billones de veces superior a la del acero más denso conocido en la Tierra. Es esta hiper-rigidez incompresible la que permite que las perturbaciones transversales (los fotones) viajen a una velocidad constante y colosal sin que la energía se disipe en el caos del medio. La luz es, en su sentido más puro, la onda acústica de corte de un super-fluido cósmico hiper-rígido.
 
 * **Bosones W y Z (El Límite de Fractura Elástica):** En el Modelo Estándar, a estos bosones se les atribuye una masa inmensa ($\approx 80-90 \text{ GeV}$) y se les culpa del decaimiento radiactivo (Fuerza Débil). En la dinámica de fluidos, la Fuerza Débil no existe como una interacción fundamental. Los "bosones" W y Z representan matemáticamente el **límite de fractura elástica (*yield stress*)** de *La Fuente*. Esa gigantesca "masa" empírica de 80 GeV no es el peso de una partícula real, es la barrera de energía de activación (el umbral de tensión cortante) que el fluido debe superar para que un vórtice se desgarre, cavite o expulse un anillo interno (como en el decaimiento del neutrón).
 
