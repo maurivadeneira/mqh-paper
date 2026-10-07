@@ -72,6 +72,7 @@ Este resultado empata con precisión quirúrgica con la cota cosmológica observ
 ## ÍNDICE
 
 **1. Diagnóstico del Estado del Arte: Desde Newton a La Crisis del Modelo Estándar**
+**Introducción: El Retorno al Medio Continuo**
 * 1.1 La Fuerza, la Masa y el triunfo de la mecánica clásica.
 * 1.2 Los Campos y la síntesis de Maxwell: El fluido que se volvió vacío.
 * 1.3 Einstein y la Relatividad: La geometrización del vacío y el misterio de la masa.
@@ -128,8 +129,7 @@ Este resultado empata con precisión quirúrgica con la cota cosmológica observ
 ## DESARROLLO
 
 **1. Diagnóstico del Estado del Arte: Desde Newton a La Crisis del Modelo Estándar**
-
-**Introducción**
+**Introducción: El Retorno al Medio Continuo**
 A lo largo de la historia de la física, el espacio fue contemplado de manera natural como un fluido continuo; sin embargo, por limitaciones empíricas y abstracciones matemáticas, esta idea fue progresivamente abandonada. Paralelo a este exilio cosmológico, la ciencia consolidó las majestuosas ecuaciones de Navier-Stokes para gobernar la hidrodinámica macroscópica. Hoy presenciamos un punto de inflexión: existen ingentes esfuerzos en la frontera de la física intentando reinterpretar la mecánica cuántica utilizando precisamente las soluciones de Navier-Stokes.
 
 En el presente tratado, desarrollaremos este tema denominando al espacio fundamental como **LA FUENTE**, definiéndola y tratándola estrictamente como un fluido hiperdenso. A partir de un conjunto de principios o postulados físicos ineludibles, y utilizando el rigor de la matemática de Navier-Stokes, reinterpretaremos toda la teoría cuántica. Esperamos con ello resolver la mayoría de los problemas insolubles y singularidades del Modelo Estándar. Al punto donde hemos llegado, consideramos que este experimento teórico ha sido extraordinariamente exitoso, y lo presentamos con la convicción de que la comunidad científica lo pueda acoger y seguir desarrollando.
