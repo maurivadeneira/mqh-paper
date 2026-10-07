@@ -1295,23 +1295,21 @@ $$\frac{v^2}{r} = G_{hidro} \left( \frac{\lambda \cdot r}{r^2} \right) \implies 
 
 $$v^2 = G_{hidro} \cdot \lambda \implies v = \text{Constante}$$
 
-### 5.4 Conclusión: La Interfaz de Transición ($a_0$) y la Respiración Cósmica
+### 5.4 Conclusión: La Interfaz de Transición ($a_0$) y la Geometría del Macro-Vórtice
 
-Al demostrar que la velocidad tangencial de las galaxias se vuelve constante ($v^2 = G_{hidro} \cdot \lambda$), surge la interrogante final: ¿qué determina el punto exacto donde la gravedad clásica de Newton cede el control a la dinámica galáctica 2D? La astrofísica observacional fijó este límite estructural en la aceleración crítica $a_0 \approx 1.2 \times 10^{-10} \text{ m/s}^2$. 
+Al demostrar que la velocidad tangencial de las estrellas se vuelve constante en los bordes de la galaxia ($v^2 = G_{hidro} \cdot \lambda$), surge la interrogante final: ¿qué determina el punto exacto donde la gravedad clásica de Newton ($1/r^2$) colapsa y cede el control a la dinámica galáctica ($1/r$)? La astrofísica observacional fijó este límite en la aceleración crítica $a_0 \approx 1.2 \times 10^{-10} \text{ m/s}^2$. 
 
-En la Mecánica Cuántica Hidrodinámica (MQH), esta constante no es un parámetro arbitrario ni mágico. Si $G_{hidro}$ representa la propiedad estática del océano cósmico (su densidad incompresible), $a_0$ representa su límite de tensión estructural a gran escala.
+En la Mecánica Cuántica Hidrodinámica (MQH), la respuesta no requiere de cosmologías expansivas ni parámetros mágicos; se encuentra en la geometría elemental de los fluidos. Una galaxia no es un sistema de partículas puntuales orbitando en un vacío abstracto; es un inmenso macro-vórtice, un "huracán" toroidal estructurado en *La Fuente*.
 
-Para comprender su origen, debemos abandonar el dogma del Big Bang[cite: 8]. El Gran Universo no es producto de una explosión lineal infinita; es un sistema en rotación coplanar estabilizado por un pozo de potencial efectivo, el cual experimenta un ciclo continuo de expansión y contracción (una respiración elástica)[cite: 8, 9]. Esta oscilación armónica funciona como un gigantesco resorte cósmico, completando un ciclo aproximado de 2.000 millones de años[cite: 9].
+La transición en la dinámica gravitacional obedece a un aplastamiento geométrico estricto de las líneas de flujo de este remolino gigante:
 
-Bajo esta mecánica cíclica, la mal llamada "Constante de Hubble" no es constante. Es una variable cinemática dependiente del tiempo, $H(t)$, que representa simplemente la velocidad de estiramiento del tejido espacial en este instante particular del ciclo eónico[cite: 12]. El límite estructural de la galaxia se acopla a esta respiración cósmica mediante la ecuación de estado:
+1. **El Régimen Newtoniano (3D):** En el núcleo de la galaxia (el bulbo central), la acumulación masiva de sumideros estelares y el pozo bariónico generan una succión omnidireccional. El fluido es arrastrado con igual libertad desde arriba, desde abajo y desde el ecuador. La disipación de esta fuerza de arrastre ocurre sobre la superficie de una esfera geométrica ($4\pi r^2$), generando la caída gravitacional clásica de Newton ($1/r^2$).
 
-$$ a_0 = \chi(t) \frac{c \cdot H(t)}{2\pi} $$
+2. **El Régimen Galáctico (2D):** A medida que nos alejamos del "ojo del huracán", la inmensa fuerza centrífuga del vórtice rotatorio impide que el sistema mantenga su envoltura esférica. El fluido se aplasta y adquiere la topología estricta de un disco. Al estar el flujo confinado a un plano, el sumidero galáctico pierde la capacidad de arrastrar presión desde el "techo" y el "piso" del vacío perpendicular. La disipación del gradiente de presión se ve obligada a canalizarse únicamente a través de la pared exterior del disco (un perímetro cilíndrico, proporcional a $2\pi r$), suavizando drásticamente la caída de la fuerza a $1/r$.
 
-Dado que la respiración $H(t)$ varía continuamente a lo largo de los eones, el sistema introduce el factor de acople topológico dinámico $\chi(t)$[cite: 12]. Este factor absorbe la variación termodinámica para garantizar que el umbral de tensión local sobre la materia bariónica ($a_0$) permanezca como una barrera inquebrantable[cite: 12].
+¿Qué representa entonces la constante $a_0$? No es una anomalía de la materia invisible, sino la **Interfaz de Transición Topológica**. Es el valor crítico del gradiente de presión hidrodinámica en el radio exacto donde la "burbuja" de succión tridimensional del núcleo choca contra el grosor físico bidimensional del disco rotatorio.
 
-Por lo tanto, la constante $a_0$ actúa como la Interfaz de Transición Hidrodinámica. Cuando nos encontramos cerca de un núcleo estelar masivo, el sumidero tridimensional local domina el medio con extrema violencia ($1/r^2$). Sin embargo, a medida que nos alejamos hacia la periferia del disco galáctico, la aceleración estelar decae. 
-
-Llega un instante geométrico exacto donde la fuerza de succión de la estrella local colapsa por debajo de la tensión estructural de fondo del propio universo ($a_0$). Por debajo de esta aceleración, la materia pierde el agarre topológico del núcleo local y queda a merced de la corriente de arrastre pura del macro-vórtice (2D). Las estrellas periféricas ya no "caen" hacia el centro; simplemente orbitan arrastradas por la inercia constante de la cuenca galáctica, disolviendo de raíz el espejismo de la Materia Oscura y demostrando que la rotación de las galaxias es el reflejo directo de la mecánica respiratoria del cosmos entero[cite: 9].
+Cuando la aceleración inercial de una estrella cae por debajo de $a_0$, significa que la topología del sistema se ha aplanado por completo. A partir de esa frontera, la estrella deja de "caer" libremente hacia el núcleo central y simplemente flota, transitando como una balsa empujada por la inercia rotacional constante del plato de fluido. Esta transición mecánica demuestra que la ilusión de la Materia Oscura nace exclusivamente de haber intentado aplicarle las matemáticas de una esfera al comportamiento de un disco plano.
 
 # CAPÍTULO 6: Horizonte Tecnológico y Matemático (El Siglo de la MQH)
 
