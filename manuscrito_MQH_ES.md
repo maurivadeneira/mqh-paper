@@ -1295,7 +1295,21 @@ $$\frac{v^2}{r} = G_{hidro} \left( \frac{\lambda \cdot r}{r^2} \right) \implies 
 
 $$v^2 = G_{hidro} \cdot \lambda \implies v = \text{Constante}$$
 
-### 5.4 Conclusión: La Interfaz de Transición ($a_0$)
+5.4 Conclusión: La Interfaz de Transición ($a_0$) y el "Ruido de Fondo" de La Fuente
+
+Al demostrar que la velocidad tangencial de las galaxias se vuelve constante ($v^2 = G_{hidro} \cdot \lambda$), surge la interrogante final: ¿qué determina el punto exacto donde la gravedad clásica de Newton colapsa y cede el control a esta dinámica galáctica 2D? La astrofísica observacional fijó este límite en la constante empírica $a_0 \approx 1.2 \times 10^{-10} \text{ m/s}^2$. 
+
+Para la MQH, ninguna constante es arbitraria. Si $G_{hidro}$ representa la propiedad **estática** del fluido cósmico (su densidad incompresible absoluta, $\rho_0$), la constante $a_0$ representa su propiedad **dinámica** a gran escala: el "ruido de fondo" o la corriente basal de *La Fuente*.
+
+Como se explorará a profundidad en la macroarquitectura cósmica, *La Fuente* no es un estanque muerto; el tejido espacial experimenta ciclos elásticos de estiramiento y compresión (medidos localmente como el pulso de Hubble, $H_0$). Esta respiración macroscópica genera una tensión constante que se transmite a la velocidad límite del medio ($c$). Geométricamente, esta tensión expansiva se acopla a las fronteras rotacionales de las galaxias ($2\pi$), manifestándose como una aceleración basal ineludible:
+
+$$ a_0 = \chi \frac{c \cdot H_0}{2\pi} $$
+
+La constante $a_0$ es, por lo tanto, la Interfaz de Transición Hidrodinámica. 
+
+Cuando nos encontramos cerca de un núcleo estelar masivo, el sumidero tridimensional local domina el medio con extrema violencia ($1/r^2$). Sin embargo, a medida que nos alejamos hacia la periferia del disco galáctico, la aceleración del sumidero decae. Llega un límite crítico físico donde la fuerza de succión de la estrella local iguala a la tensión de estiramiento macroscópico del propio cosmos ($a_0$). 
+
+Por debajo de esta aceleración, la materia pierde el "agarre" topológico del sumidero local y queda a merced de la corriente de arrastre pura de la galaxia (2D). Las estrellas periféricas ya no "caen" hacia el centro; simplemente flotan arrastradas por la inercia constante del macro-vórtice, disolviendo definitivamente el espejismo de la Materia Oscura y demostrando que la gravedad local y la expansión cósmica son dos caras del mismo océano incompresible.
 
 # CAPÍTULO 6: Horizonte Tecnológico y Matemático (El Siglo de la MQH)
 
