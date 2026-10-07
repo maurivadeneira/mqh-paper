@@ -66,11 +66,13 @@ Al evaluar la inercia hidrodinámica de Lamb, $\ln(8R/r)$, en macroestructuras, 
 **8. COSMOLOGÍA Y GRAVEDAD MACROSCÓPICA** 
 Al escalar la MQH, la gravedad pierde su naturaleza de "curvatura del espacio-tiempo" y se revela como un **gradiente de presión hidrodinámica** hacia los sumideros másivos. Las galaxias operan como macro-vórtices en *La Fuente*, explicando la cohesión de sus velocidades de rotación periféricas y eliminando matemáticamente la necesidad de postular la existencia de la "Materia Oscura".
 
-**9. EL NEUTRINO Y EL LÍMITE DE SATURACIÓN LONGITUDINAL**
-El neutrino no es una partícula fantasma con masa arbitraria, sino un **solitón acústico puramente longitudinal** (una onda de choque de presión) liberado durante el estrés y la cavitación topológica de los armónicos superiores. Su inercia límite se deduce de forma puramente analítica mediante la geometría de volúmenes de confinamiento ($\alpha^3$) y el coeficiente de auto-energía esférica:
-$$
-E_{max} = \frac{3}{5}\alpha^3 m_e \approx 0.119 \text{ eV}
-$$
+**9. EL NEUTRINO Y EL LÍMITE DE SATURACIÓN LONGITUDINAL** 
+El neutrino no es una partícula fantasma con masa arbitraria, sino un solitón acústico puramente longitudinal (una onda de choque de presión) liberado durante el estrés y la cavitación topológica de los armónicos superiores. Su inercia límite se deduce de forma puramente analítica mediante la geometría de volúmenes de confinamiento ($\alpha^3$) y el coeficiente de auto-energía esférica: 
+
+$$ 
+E_{max} = \frac{3}{5}\alpha^3 m_e \approx 0.119 \text{ eV} 
+$$ 
+
 Este resultado empata con precisión quirúrgica con la cota cosmológica observacional ($\sum m_{\nu} < 0.12 \text{ eV}$), demostrando que el neutrino es la onda de baja frecuencia que atraviesa la materia sin perturbar su momento angular transversal.
 
 ---
