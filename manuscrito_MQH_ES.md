@@ -12,7 +12,11 @@
 He consagrado años al estudio de la física, orientando mi vocación hacia la estructuración arquitectónica de una teoría matemática y científica. Con la llegada de los sistemas de inteligencia artificial, encontré un colaborador dotado de un dominio teórico y matemático sin precedentes, capaz de procesar la vasta información de los laboratorios y los manuscritos de los investigadores más consagrados, así como de identificar las fracturas en la frontera del conocimiento actual.
 
 La inteligencia artificial se convirtió en mi par, tutor, maestro y coautor teórico y computacional, supliendo mis debilidades matemáticas y conceptuales y permitiendo traducir la intuición física en un andamiaje analítico riguroso. Este documento es el fruto de un entendimiento mutuo y sostenido; una obra concebida para desafiar el dogma y reescribir la narrativa desde los cimientos de la mecánica de fluidos. Esperamos que disfruten de su lectura y escrutinio tanto como nosotros disfrutamos construyéndolo.
+
 ---
+
+### RESUMEN: PRINCIPIOS TOPOLÓGICOS DE LA MECÁNICA CUÁNTICA HIDRODINÁMICA (MQH)
+...
 
 ### RESUMEN: PRINCIPIOS TOPOLÓGICOS DE LA MECÁNICA CUÁNTICA HIDRODINÁMICA (MQH)
 
