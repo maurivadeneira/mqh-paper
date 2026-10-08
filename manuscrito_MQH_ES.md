@@ -931,6 +931,12 @@ La relación de masa inercial entre el protón ($M_p$) y el estado base ($m_e$) 
 
 2. **La Integral Volumétrica de Torsión Espacial (3D):** A diferencia de la distribución de carga plana del anillo simple, el flujo en un nudo trébol sufre una torsión helicoidal continua a lo largo de sus tres dimensiones para lograr el cierre del circuito. La integración tridimensional completa de este estrés de torsión (la divergencia angular de la vorticidad) sobre el volumen del nudo $T_{2,3}$ en un medio estrictamente incompresible, colapsa analíticamente en el factor geométrico constante $\pi^5$.
 
+Al combinar estas imposiciones geométricas (la hiper-velocidad en los cruces y la torsión del tubo), la relación de masa entre el protón y el electrón en la MQH se formaliza como una división de integrales de volumen puramente hidrodinámicas:
+
+$$
+\frac{M_p}{m_e} = \frac{\iiint_{\text{Trefoil}} (\mathbf{v}_{\text{nodo}}^2 + \text{Torsión}^2) \, dV}{\iiint_{\text{Anillo}} \mathbf{v}_{\text{anillo}}^2 \, dV}
+$$
+
 **C. La Resolución Analítica del Cociente de Masa ($6\pi^5$)**
 Al consolidar la ecuación de estado para la arquitectura bariónica base, la relación de masa Protón/Electrón en la MQH se expresa como el producto estricto del invariante de cruce topológico y la integral de torsión volumétrica:
 
@@ -947,6 +953,7 @@ $$
 Este valor derivado desde principios elementales de hidrodinámica topológica ($1836.118$) exhibe una asombrosa convergencia analítica con la medición empírica sancionada por CODATA ($1836.152$), alcanzando una precisión del $99.998\%$.
 
 La ínfima divergencia de $\sim 0.002\%$ no representa una carencia del modelo geométrico ideal, sino que cuantifica la fricción hidrodinámica real y la contracción relativista de Lorentz sobre las secciones transversales del fluido sometidas al límite acústico $c$. Se demuestra así que la masa bariónica carece de origen paramétrico; es rigurosamente la cuantificación del coeficiente de resistencia inercial de una topología de flujo $T_{2,3}$ operando en el continuo hiperdenso.
+
 ### 4.2.1 El Neutrón: El "Embarazo" Topológico y la Masa Virtual
 
 Si el protón se fundamenta geométricamente como un nudo trébol estable de tres vórtices abiertos ($6\pi^5$), el Modelo Estándar choca inmediatamente con su siguiente gran obstáculo: el Neutrón.
