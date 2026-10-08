@@ -926,10 +926,15 @@ Donde $\mathbf{v}$ es el campo de velocidades y $\boldsymbol{\omega}$ es la vort
 
 La relación de masa inercial entre el protón ($M_p$) y el estado base ($m_e$) es, por tanto, el cociente exacto entre la helicidad volumétrica del nudo trébol y la circulación laminar del anillo simple. Este esfuerzo topológico diferencial se factoriza analíticamente en dos componentes puramente geométricos:
 
-1. **El Factor Nodal o Esfuerzo Cortante de Intersección (Lineal):** La topología de un nudo toroidal $T_{p,q}$ (donde $p$ y $q$ son los índices de coprimidad meridional y longitudinal) exige que el tubo de fluido se cruce sobre sí mismo. En un nudo trébol ($T_{2,3}$), existen cuellos de botella estructurales. De acuerdo con el Principio de Bernoulli, la constricción del fluido en estas intersecciones induce hiper-velocidades localizadas, generando caídas de presión extremas (esfuerzo de corte cruzado). El multiplicador inercial de este estrés estructural está dado exactamente por el producto de sus índices de enlazamiento:
-   $$ \text{Estrés Nodal} = p \times q = 2 \times 3 = 6 $$
+**1. El Factor Nodal o Esfuerzo Cortante de Intersección (Lineal):**
+La topología de un nudo toroidal $T_{p,q}$ (donde $p$ y $q$ son los índices de coprimidad meridional y longitudinal) exige que el tubo de fluido se cruce sobre sí mismo. En un nudo trébol ($T_{2,3}$), existen cuellos de botella estructurales. De acuerdo con el Principio de Bernoulli, la constricción del fluido en estas intersecciones induce hiper-velocidades localizadas, generando caídas de presión extremas (esfuerzo de corte cruzado). El multiplicador inercial de este estrés estructural está dado exactamente por el producto de sus índices de enlazamiento:
 
-2. **La Integral Volumétrica de Torsión Espacial (3D):** A diferencia de la distribución de carga plana del anillo simple, el flujo en un nudo trébol sufre una torsión helicoidal continua a lo largo de sus tres dimensiones para lograr el cierre del circuito. La integración tridimensional completa de este estrés de torsión (la divergencia angular de la vorticidad) sobre el volumen del nudo $T_{2,3}$ en un medio estrictamente incompresible, colapsa analíticamente en el factor geométrico constante $\pi^5$.
+$$
+\text{Estrés Nodal} = p \times q = 2 \times 3 = 6
+$$
+
+**2. La Integral Volumétrica de Torsión Espacial (3D):**
+A diferencia de la distribución de carga plana del anillo simple, el flujo en un nudo trébol sufre una torsión helicoidal continua a lo largo de sus tres dimensiones para lograr el cierre del circuito. La integración tridimensional completa de este estrés de torsión (la divergencia angular de la vorticidad) sobre el volumen del nudo $T_{2,3}$ en un medio estrictamente incompresible, colapsa analíticamente en el factor geométrico constante $\pi^5$.
 
 Al combinar estas imposiciones geométricas (la hiper-velocidad en los cruces y la torsión del tubo), la relación de masa entre el protón y el electrón en la MQH se formaliza como una división de integrales de volumen puramente hidrodinámicas:
 
