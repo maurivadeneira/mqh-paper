@@ -11,11 +11,21 @@
 **Nota del Autor:** He consagrado años al estudio de la física, orientando mi vocación hacia la estructuración arquitectónica de una teoría matemática y científica. Con la llegada de la inteligencia artificial, se tuvo a la mano los laboratorios y los manuscritos de los investigadores más consagrados, y se identificaron las fracturas en la frontera del conocimiento.
 
 La inteligencia artificial se convirtió en mi par, tutor, maestro y coautor teórico y computacional, supliendo mis debilidades matemáticas y conceptuales y permitiendo traducir la intuición física en un andamiaje analítico riguroso. Este documento es el fruto de un entendimiento mutuo y sostenido; una obra concebida para reescribir la narrativa desde los cimientos de la mecánica de fluidos. Esperamos que disfruten de su lectura y escrutinio tanto como nosotros disfrutamos construyéndolo.
-> **Nota Metodológica del Autor:** 
-> 
-> Este tratado adopta la perspectiva del método físico clásico y de la ingeniería de medios continuos. Por tanto, el uso del formalismo de Navier-Stokes **no pretende resolver analíticamente los problemas de existencia y suavidad global** en el régimen no lineal tridimensional (el célebre problema abierto de las matemáticas puras), sino emplearlo como un marco efectivo de campo macroscópico para mapear las restricciones de presión, vorticidad y conservación de momento de *La Fuente*. 
-> 
-> Asimismo, el modelo emplea al electrón como el **ancla y punto de calibración empírico fundamental** —dado que representa el estado de vórtice estable de menor energía medido en la naturaleza—, utilizándolo para deducir en cascada las propiedades del medio y de las estructuras superiores (como el protón y el límite galáctico $a_0$) mediante topología geométrica. Este trabajo prioriza deliberadamente la eficacia predictiva, el determinismo mecánico y el rigor fenomenológico sobre la abstracción matemática desconectada de la observación experimental.
+
+---
+
+**Nota Metodológica del Autor:**
+Este tratado adopta deliberadamente la perspectiva de la física clásica de medios continuos y emplea las ecuaciones de Navier–Stokes como un marco efectivo de campo para describir las restricciones de presión, vorticidad, transporte y conservación de momento asociadas al medio fundamental denominado *La Fuente*.
+
+El objetivo no es abordar el problema matemático de existencia y regularidad global de las soluciones tridimensionales de Navier–Stokes, sino utilizar dicho formalismo dentro del régimen efectivo de aplicación definido por el modelo. En consecuencia, las cuestiones de validez que resultan relevantes aquí son principalmente las condiciones físicas de cierre, las escalas características, las aproximaciones adoptadas y la concordancia de las consecuencias observables con los datos experimentales.
+
+El electrón se adopta como estado fundamental de referencia y ancla empírica de la teoría. La hipótesis de trabajo es que corresponde al estado estable de menor energía del medio. A partir de sus propiedades experimentales se fijan los parámetros de referencia necesarios para establecer la escala del medio y su geometría efectiva.
+
+Esta elección implica distinguir explícitamente entre cantidades utilizadas como entrada o calibración y cantidades obtenidas como predicciones independientes. Los resultados derivados posteriormente —por ejemplo, relaciones de masas, escalas geométricas o parámetros macroscópicos— se consideran predicciones genuinas únicamente cuando no requieren introducir nuevamente el valor experimental que pretenden explicar.
+
+El objetivo del formalismo es, por tanto, determinar si una dinámica continua y determinista, complementada por las restricciones topológicas y geométricas postuladas por la MQH, puede reproducir de manera cuantitativa un conjunto amplio de fenómenos físicos sin introducir ajustes independientes para cada observable.
+
+El presente trabajo debe entenderse en consecuencia como una hipótesis física efectiva sometida a prueba fenomenológica, y no como una afirmación de que todos sus postulados microscópicos hayan sido establecidos experimentalmente. La validez del modelo dependerá de que sus predicciones independientes sean matemáticamente consistentes, dimensionalmente correctas, estables frente a las aproximaciones utilizadas y compatibles con las restricciones experimentales conocidas.
 ---
 
 ### RESUMEN: PRINCIPIOS TOPOLÓGICOS DE LA MECÁNICA CUÁNTICA HIDRODINÁMICA (MQH)
