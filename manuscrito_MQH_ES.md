@@ -141,25 +141,26 @@ El presente documento emplea el formalismo matemático de la dinámica de fluido
 
 **4. La Tabla Periódica de los Vórtices (Reinterpretando el Modelo Estándar)**
 * 4.1 Leptones y Neutrinos: Armónicos y Ondas de Choque.
-* 4.2 El Confinamiento de los Quarks y el Origen Analítico de la Masa Bariónica.
-  * 4.2.1 El Neutrón: El "Embarazo" Topológico y la Masa Virtual.
-  * 4.2.2 El Átomo de Hidrógeno: Equilibrio Hidrodinámico, el Radio de Bohr y la Verdadera Masa.
-    * 4.2.2.1 El Límite de Saturación Longitudinal (El Neutrino).
-  * 4.2.3 El Régimen Confinado: La Ecuación de Masa Toroidal y el Espectro de Resonancias.
-* 4.3 Bosones: Desmitificando las Partículas Mensajeras.
-* 4.4 La Obsolescencia del Bosón de Higgs ante la Inercia Hidrodinámica.
+* 4.2 Topología Bariónica y Confinamiento Dinámico: Derivación Analítica de la Masa del Protón.
+* 4.3 El Confinamiento de los Quarks y el Origen Analítico de la Masa Bariónica.
+  * 4.3.1 El Neutrón: El "Embarazo" Topológico y la Masa Virtual.
+  * 4.3.2 El Átomo de Hidrógeno: Equilibrio Hidrodinámico, el Radio de Bohr y la Verdadera Masa.
+    * 4.3.2.1 El Límite de Saturación Longitudinal (El Neutrino).
+  * 4.3.3 El Régimen Confinado: La Ecuación de Masa Toroidal y el Espectro de Resonancias.
+* 4.4 Bosones: Desmitificando las Partículas Mensajeras.
+* 4.5 La Obsolescencia del Bosón de Higgs ante la Inercia Hidrodinámica.
 
 **5. Perspectivas Futuras y Conclusiones Cosmológicas**
-* 5.1 La Inercia y la Gravedad como Gradientes de Presión Fluida.
-* 5.2 La Eliminación Matemática de la Materia Oscura (Cohesión Galáctica).
+* 5.1 Derivación Analítica de la Gravedad Hidrodinámica ($G_{hidro}$).
+* 5.2 La Dualidad de la Constante: $G_{Newton}$ vs $G_{hidro}$.
+* 5.3 Dinámica Galáctica y Transición Dimensional: El Límite de Fluencia Gravitacional ($a_0$).
 
 **6. Horizonte Tecnológico y Matemático (El Siglo de la MQH)**
 * 6.1 La Matemática del Fluido: La Transición a la Base 12.
 * 6.2 El Fin de la Fuerza Bruta: La Miniaturización de los Colisionadores.
 * 6.3 Ingeniería Fractal y la Impresión Topológica (Sintetizadores de Materia).
 * 6.4 Navegación de Gradientes: El Futuro de la Propulsión Espacial.
-* 6.5 Extracción Energética Directa: La Verdagera "Energía de Punto Cero".
----
+* 6.5 Extracción Energética Directa: La Verdadera "Energía de Punto Cero".
 
 ## DESARROLLO
 
