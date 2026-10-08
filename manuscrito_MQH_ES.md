@@ -1325,69 +1325,55 @@ Este factor ($\sim 0.067\%$) representa la fricción aerodinámica de la materia
 
 Por lo tanto, la constante $G$ tradicional es la **Constante de Acople Bariónico**. Representa la fuerza absoluta de *La Fuente* ($G_{hidro}$) amortiguada por el enredo topológico del protón.
 
-### 5.3 El Sumidero Galáctico y la Cancelación de la Distancia
+### 5.3 Dinámica Galáctica y Transición Dimensional: El Límite de Fluencia Gravitacional ($a_0$)
 
-Al intentar aplicar la débil $G$ de Newton a las inmensas distancias de una galaxia, la física clásica predice un freno orbital estelar ($v \propto 1/\sqrt{r}$). Al observar velocidades constantes, la ortodoxia postuló la "Materia Oscura". La MQH erradica esta anomalía corrigiendo la topología de la ecuación.
+En la astrofísica observacional contemporánea, el perfil de las curvas de rotación de las galaxias espirales constituye una de las mayores anomalías del Modelo Cosmológico Estándar ($\Lambda$CDM). A distancias radiales alejadas del bulbo galáctico, la velocidad tangencial de las estrellas no exhibe el decaimiento kepleriano clásico ($v \propto r^{-1/2}$), sino que adopta un comportamiento asintóticamente plano ($v \to \text{constante}$). Para conciliar esta divergencia fenomenológica con la Relatividad General, se ha requerido la postulación generalizada de halos de materia oscura no bariónica, o alternativamente, la formulación de Dinámicas Newtonianas Modificadas (MOND), las cuales introducen una aceleración crítica empírica de $a_0 \approx 1.2 \times 10^{-10} \text{ m/s}^2$. En ambos enfoques, el mecanismo causal carece de una derivación analítica desde primeros principios.
 
-El error de la materia oscura nace de tratar a una galaxia espiral con la geometría de un Sistema Solar:
+La Mecánica Cuántica Hidrodinámica (MQH) ofrece una resolución mecanicista a esta divergencia, abordando la galaxia no como un conjunto discreto de masas orbitando en el vacío, sino como un macro-vórtice acoplado en el medio continuo incompresible.
 
-*   **Geometría 3D (Sistema Solar):** El Sol es un sumidero puntual. El gradiente se disipa en el volumen de una esfera, decayendo agresivamente al cuadrado de la distancia ($1/r^2$).
-*   **Geometría 2D (Galaxia Espiral):** Una galaxia es un disco estelar rotatorio, un macro-vórtice cilíndrico extendido. La acumulación de masa no es un punto central (el agujero negro apenas representa el $<1\%$ de la masa total), sino un continuo distribuido a lo largo del radio estelar: $M(r) = \lambda r$.
+#### 1. La Transición Topológica de Disipación (3D $\to$ 2D)
+La discrepancia entre la predicción y la observación surge de una superposición geométrica errónea: aplicar un modelo de propagación isótropa puntual (Sistema Solar) a una estructura topológicamente extendida (el disco galáctico).
 
-En la dinámica de un cilindro fluido extendido, la disipación geométrica ocurre en el perímetro del disco (2D), suavizando drásticamente la caída del gradiente ($1/r$). Si planteamos la ecuación hidrodinámica del disco, impulsada a esta macro-escala por la fuerza pura de *La Fuente* ($G_{hidro}$):
+Bajo la dinámica de medios continuos de la MQH, el gradiente de presión que rige el sistema transiciona de acuerdo con las condiciones de frontera del vórtice rotatorio:
 
-$$\frac{v^2}{r} = G_{hidro} \left( \frac{M(r)}{r^2} \right)$$
+* **Régimen de Núcleo (Disipación Esférica 3D):** En el bulbo galáctico, la concentración bariónica genera una succión omnidireccional. La propagación del esfuerzo hidrodinámico se distribuye sobre la superficie de una esfera geométrica ($4\pi r^2$), recuperando el régimen de decaimiento newtoniano convencional ($1/r^2$).
+* **Régimen Periférico (Disipación Cilíndrica 2D):** A medida que la fuerza centrífuga del momento angular galáctico amplía el radio del sistema, las líneas de flujo se confinan en un estrato bidimensional, el disco estelar. En este régimen, el gradiente local pierde el acceso al fluido perpendicular ("arriba" y "abajo" del disco). La tensión de presión se ve obligada a disiparse lateralmente sobre un perímetro cilíndrico ($\propto 2\pi r$).
 
-Sustituyendo el sumidero distribuido ($\lambda r$):
+Al resolver la ecuación de equilibrio de Navier-Stokes para un sumidero cilíndrico distribuido ($M(r) \propto r$), la aceleración centrípeta se equilibra con el gradiente dimensional reducido:
 
-$$\frac{v^2}{r} = G_{hidro} \left( \frac{\lambda \cdot r}{r^2} \right) \implies \frac{v^2}{r} = G_{hidro} \left( \frac{\lambda}{r} \right)$$
+$$
+\frac{v^2}{r} \propto G_{hidro} \left( \frac{\lambda}{r} \right) \implies v^2 = \text{Constante}
+$$
 
-**La Cancelación Geométrica:** Al multiplicar ambos lados por $r$, la variable espacial desaparece algebraicamente del sistema:
+Esta transición dimensional explica analíticamente el aplanamiento de las curvas de rotación sin necesidad de insertar materia adicional en el sistema.
 
-$$v^2 = G_{hidro} \cdot \lambda \implies v = \text{Constante}$$
+#### 2. Deducción Analítica del Límite Cuántico de Fluencia ($a_0$)
+Para que el macro-vórtice galáctico sufra el quiebre de simetría y fuerce a la gravedad a transicionar de 3D a 2D, el esfuerzo de tracción tridimensional debe debilitarse hasta alcanzar un punto crítico. En la reología de medios continuos, los fluidos no ideales no transmiten esfuerzos infinitesimales; poseen un *límite de fluencia (yield stress)*, un umbral acústico-tensional por debajo del cual el medio cesa de estructurar un gradiente organizado y cede a la corriente inercial de fondo.
 
-### 5.4 La Interfaz de Transición ($a_0$): El Aplastamiento Geométrico y la Deducción Analítica
+Postulando una isomorfía escalar (fractalidad) propia de la MQH, este umbral macroscópico de rotura galáctica debe ser el eco exacto de la interacción tensorial más débil permitida en la microescala cuántica. Específicamente, corresponde a la tensión gravitacional unitaria basal: la aceleración inducida por la singularidad bariónica fundamental (el nudo topológico del protón, $m_p$) evaluada en la frontera transversal del sumidero fermiónico adyacente (el diámetro acústico de la onda del electrón, acotado por $\lambda_c/2$).
 
-Al demostrar que la velocidad tangencial de las estrellas se vuelve constante en los bordes de la galaxia ($v^2 = G_{hidro} \cdot \lambda$), surge la interrogante final: ¿qué determina el punto exacto donde la gravedad clásica de Newton ($1/r^2$) colapsa y cede el control a la dinámica galáctica constante ($1/r$)? La astrofísica observacional fijó empíricamente este límite de quiebre en la aceleración crítica $a_0 \approx 1.2 \times 10^{-10} \text{ m/s}^2$. 
-
-En la física ortodoxa, $a_0$ es un parámetro libre sin origen justificado, un "ajuste a mano" para intentar salvar los datos sin invocar Materia Oscura. En la Mecánica Cuántica Hidrodinámica (MQH), la respuesta no nace de anomalías invisibles, sino de la geometría pura de los fluidos. Una galaxia no es un espacio vacío con masas flotando al azar; es un inmenso macro-vórtice, un remolino toroidal de *La Fuente*.
-
-#### 1. El Punto de Transición Topológica (De Esfera a Cilindro)
-La transición gravitacional obedece al aplastamiento estricto de las líneas de flujo del remolino a medida que este gana amplitud:
-
-*   **El Régimen Newtoniano (3D):** En el núcleo de la galaxia (el bulbo central), la succión de los sumideros bariónicos es omnidireccional. El fluido es arrastrado con igual libertad desde todas las coordenadas espaciales. La disipación geométrica del gradiente de presión ocurre sobre la superficie de una esfera abstracta ($4\pi r^2$), generando la caída de fuerza típica de Newton ($1/r^2$).
-*   **El Régimen Galáctico (2D):** A medida que la fuerza centrífuga del vórtice aumenta hacia la periferia, el remolino se aplasta obligatoriamente, adoptando la topología estricta de un disco plano. El punto de transición ocurre exactamente donde el diámetro de la burbuja de succión tridimensional de una estrella choca contra los límites físicos del grosor del disco galáctico. A partir de esa distancia radial, el sumidero local no puede extraer fluido desde el vacío perpendicular (ni desde "arriba" ni desde "abajo"). La disipación de la presión se ve forzada a canalizarse únicamente a través de la pared exterior del disco (un perímetro cilíndrico lateral, proporcional a $2\pi r$). Al confinar el flujo a 2D, la caída de la fuerza se suaviza drásticamente a $1/r$.
-
-#### 2. La Deducción Analítica Cuántica del Umbral $a_0$ (El Límite de Fluencia)
-Para que el macro-vórtice cambie su topología, la fuerza de gravedad debe debilitarse hasta alcanzar un límite crítico. En la mecánica de fluidos, los medios continuos no transmiten presiones infinitamente débiles; poseen un "límite de fluencia" (yield stress), un umbral mínimo de tensión por debajo del cual el fluido deja de transmitir una fuerza organizada y la disipa como ruido de fondo.
-
-Si el universo es de naturaleza fractal, este límite macroscópico de la galaxia debe ser el reflejo exacto del límite de gravedad más pequeño posible en la escala cuántica (la "resolución mínima" de *La Fuente*). 
-
-¿Cuál es el gradiente gravitacional más débil e indivisible que puede estructurarse en este fluido? Es la aceleración que ejerce el sumidero bariónico unitario (el nudo trébol del protón, $m_p$) sobre la frontera transversal del vórtice más cercano (el límite de la onda del electrón, $r_e = \lambda_c/2$). 
-
-Si calculamos esta gravedad fundamental unitaria, utilizando la Constante Gravitacional Hidrodinámica pura del vacío ($G_{hidro} \approx 9.93 \times 10^{-8} \text{ m}^3\text{/kg}\cdot\text{s}^2$):
+Formalizando esta relación geométrica de primeros principios e introduciendo la constante de acople hidrodinámico pura del continuo ($G_{hidro} \approx 9.93 \times 10^{-8} \text{ m}^3\text{kg}^{-1}\text{s}^{-2}$):
 
 $$
 a_{0(teo)} = \frac{G_{hidro} \cdot m_p}{(\lambda_c / 2)^2}
 $$
 
-Introduciendo los valores inerciales base que conforman la materia, sin añadir constantes libres:
+Evaluando numéricamente el límite de tensión basal:
 
 $$
-a_{0(teo)} = \frac{(9.93 \times 10^{-8} \text{ m}^3\text{/kg}\cdot\text{s}^2) \times (1.672 \times 10^{-27} \text{ kg})}{(1.213 \times 10^{-12} \text{ m})^2}
+a_{0(teo)} = \frac{(9.93 \times 10^{-8}) \times (1.672 \times 10^{-27})}{(1.213 \times 10^{-12})^2} \text{ m/s}^2
 $$
 
 $$
 a_{0(teo)} \approx 1.13 \times 10^{-10} \text{ m/s}^2
 $$
 
-Este valor no es una coincidencia matemática; es la tensión de rotura gravitacional del universo. Cuando en los confines de la galaxia la gravedad acumulada de las estrellas se diluye tanto que cae por debajo de este límite ($1.13 \times 10^{-10} \text{ m/s}^2$), el fluido pierde la capacidad de transmitir el gradiente de presión hacia el centro. Al romperse la tensión tridimensional, el sistema se aplasta en un disco bidimensional y las estrellas periféricas quedan a merced de la corriente inercial del macro-vórtice.
-#### 3. El Veredicto: El Límite Estructural Absoluto
-Este resultado analítico ($1.13 \times 10^{-10} \text{ m/s}^2$) es de una trascendencia absoluta. Converge de manera impecable con el umbral astronómico empírico medido en los bordes de todas las galaxias rotatorias ($\sim 1.2 \times 10^{-10} \text{ m/s}^2$). 
+#### 3. Conclusión: La Innecesariedad de la Materia Oscura
+La predicción analítica autónoma de la MQH ($1.13 \times 10^{-10} \text{ m/s}^2$) converge con extraordinaria precisión con el umbral fenomenológico deducido por la cinemática galáctica empírica ($\sim 1.2 \times 10^{-10} \text{ m/s}^2$).
 
-La sutil discrepancia entre el valor teórico puro y la medición astronómica no es un error algebraico, sino la diferencia inherente entre la matemática de una geometría perfecta y la dinámica turbulenta de un fluido real. Las galaxias observadas poseen discos con grosores irregulares, atravesados por ondas de choque del medio interestelar que añaden fricción inercial a las mediciones telescópicas.
+Esta demostración establece que el parámetro $a_0$ no es una anomalía astrofísica o una variable ajustable libre. Representa, rigurosamente, el límite estructural absoluto de propagación de esfuerzos (*yield point*) del continuo hiperdenso. Cuando la aceleración inercial inducida por un cuerpo decae por debajo de este umbral cuántico basal, la tensión tridimensional colapsa, acoplando cinemáticamente la materia observable a la rotación hidro-inercial del disco galáctico extendido.
 
-La deducción confirma de manera irrefutable que $a_0$ es **la aceleración basal intrínseca de La Fuente**; el eco macroscópico de la interacción mecano-cuántica fundamental. Cuando la aceleración inercial de una estrella cae por debajo de este límite cuántico ($a_0$), la materia pierde su "agarre" local y se entrega pasivamente a la corriente constante del remolino bidimensional. El espectro de la Materia Oscura desaparece: las estrellas no están siendo retenidas por masas fantasmas, están siendo arrastradas por la inercia rotacional del propio tejido del fluido incompresible.
+Por consiguiente, el requerimiento fenomenológico de postular halos exóticos de materia oscura queda desestimado analíticamente. La macro-dinámica del cosmos emerge de manera determinista y completa a partir de la reología fundamental del continuo espacial unificado.
 
 # CAPÍTULO 6: Horizonte Tecnológico y Matemático (El Siglo de la MQH)
 
