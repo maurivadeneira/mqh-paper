@@ -1352,17 +1352,19 @@ Evaluando el término con la densidad exacta de la MQH, la inercia pura del medi
 
 $$G_{hidro} \approx 9.93 \times 10^{-8} \text{ m}^3\text{kg}^{-1}\text{s}^{-2}$$
 
-### 5.2 La Dualidad de la Constante: $G_{Newton}$ vs $G_{hidro}$
+### 5.2 La Dualidad de la Constante: $G_{Newton}$ vs $G_{hidro}$ y la Fricción Topológica
 
-La astrofísica asume que la constante medida empíricamente por Cavendish ($G_{Newton} \approx 6.674 \times 10^{-11}$) es la fuerza inmutable del espacio vacío. La dinámica de fluidos demuestra que esto es una ilusión.
+La astrofísica asume que la constante medida empíricamente por Cavendish ($G_{Newton} \approx 6.674 \times 10^{-11} \text{ m}^3\text{kg}^{-1}\text{s}^{-2}$) es la fuerza inmutable del espacio vacío. La dinámica de fluidos demuestra que esto es una ilusión macroscópica.
 
-Si establecemos la relación de amortiguación topológica dividiendo la constante clásica medida entre la constante fluida pura, obtenemos el factor exacto de discrepancia:
+Si establecemos la relación de amortiguación topológica dividiendo la constante clásica medida empíricamente entre la constante fluida pura del medio continuo, obtenemos el factor exacto de discrepancia:
 
-$$\frac{G_{Newton}}{G_{hidro}} \approx 0.00067$$
+$$\frac{G_{Newton}}{G_{hidro}} = \frac{6.674 \times 10^{-11}}{9.93 \times 10^{-8}} \approx 0.00067$$
 
-Este factor ($\sim 0.067\%$) representa la fricción aerodinámica de la materia. La gravedad de Newton no mide el empuje del vacío libre; mide el empuje del fluido actuando exclusivamente sobre la materia bariónica (protones y neutrones). Dado que un nucleón es un nudo topológico altamente enredado (nudo trébol), esta compleja arquitectura opone una resistencia colosal al desplazamiento por el medio continuo.
+Este factor ($\sim 0.067\%$) no es un parámetro libre; representa mecánicamente la fricción aerodinámica (coeficiente de arrastre) de la materia ordinaria. La gravedad empírica de Newton no mide el empuje del vacío libre; mide el empuje del fluido actuando exclusivamente sobre la materia bariónica (protones y neutrones). 
 
-Por lo tanto, la constante $G$ tradicional es la **Constante de Acople Bariónico**. Representa la fuerza absoluta de *La Fuente* ($G_{hidro}$) amortiguada por el enredo topológico del protón.
+Para que la gravedad empírica se igualara a la fuerza pura de *La Fuente*, la frecuencia de resonancia del sistema tendría que caer a $\nu \approx 0.0259 \text{ Hz}$ (un ciclo cada 38.6 segundos), equivalente geométrico exacto a dicho factor de amortiguación. Dado que un nucleón no es un punto, sino un nudo topológico altamente enredado (Nudo Trébol, $T_{2,3}$), esta compleja arquitectura opone una resistencia estructural colosal a ser arrastrada por el gradiente de presión.
+
+Por lo tanto, la constante $G$ tradicional es, en rigor, la **Constante de Acople Bariónico**. Representa la fuerza absoluta de *La Fuente* ($G_{hidro}$) amortiguada en un 99.933% por el intrincado enredo topológico del protón.
 
 ### 5.3 Dinámica Galáctica y Transición Dimensional: El Límite de Fluencia Gravitacional ($a_0$)
 
