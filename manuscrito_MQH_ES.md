@@ -1324,31 +1324,27 @@ En el marco de la Mecánica Cuántica Hidrodinámica (MQH), la gravedad deja de 
 
 ### 5.1 Derivación Analítica de la Gravedad Hidrodinámica ($G_{hidro}$)
 
-Conforme al Postulado 6, toda masa estelar o planetaria opera como un sumidero. En la mecánica de fluidos incompresibles, la masa inercial ($M$) equivale al flujo volumétrico o caudal ($Q$) que el sumidero arrastra, modulado por la densidad absoluta del medio ($\rho_0 \approx 801,419 \text{ kg/m}^3$), estableciendo la relación:
+Conforme al Postulado 6, toda masa estelar o planetaria opera como un macro-sumidero en *La Fuente*. En la mecánica de fluidos incompresibles, la masa inercial ($M$) equivale al volumen de fluido desplazado modulado por su densidad absoluta ($\rho_0 \approx 801,419 \text{ kg/m}^3$). Sin embargo, para que exista un gradiente de atracción dinámico, este volumen debe estar acoplado a una frecuencia de recambio o pulsación temporal fundamental del vacío ($\nu_0$), dictando el caudal o flujo volumétrico ($Q$) real del sumidero:
 
-$$Q = \frac{M}{\rho_0}$$
+$$Q = \nu_0 \left( \frac{M}{\rho_0} \right)$$
 
-Para determinar la fuerza de interacción entre dos masas en este océano incompresible, recurrimos al Teorema de Bjerknes, el cual dicta que la fuerza de atracción hidrodinámica ($F_{hidro}$) entre dos sumideros separados por una distancia radial ($r$) en un espacio esférico tridimensional ($4\pi r^2$) es:
+Para determinar la fuerza de interacción entre dos sumideros separados por una distancia radial ($r$) en un espacio esférico tridimensional ($4\pi r^2$), recurrimos al Teorema de Bjerknes de la hidrodinámica acústica:
 
 $$F_{hidro} = \frac{\rho_0 \cdot Q_1 \cdot Q_2}{4\pi r^2}$$
 
-Al sustituir los caudales de ambos sumideros ($Q_1 = M_1/\rho_0$ y $Q_2 = M_2/\rho_0$) en la ecuación de Bjerknes, obtenemos:
+Al sustituir los caudales reales de ambos sumideros ($Q_1$ y $Q_2$) en la ecuación, obtenemos:
 
-$$F_{hidro} = \frac{\rho_0 \left(\frac{M_1}{\rho_0}\right) \left(\frac{M_2}{\rho_0}\right)}{4\pi r^2}$$
+$$F_{hidro} = \frac{\rho_0 \left( \nu_0 \frac{M_1}{\rho_0} \right) \left( \nu_0 \frac{M_2}{\rho_0} \right)}{4\pi r^2}$$
 
-Simplificando algebraicamente la densidad en el numerador y reordenando las constantes, la ecuación del empuje de *La Fuente* se revela en toda su pureza:
+Simplificando algebraicamente la densidad en el numerador y reordenando las constantes, la ecuación del empuje de *La Fuente* emerge con absoluta pureza dimensional:
 
-$$F_{hidro} = \left( \frac{1}{4\pi \rho_0} \right) \frac{M_1 \cdot M_2}{r^2}$$
+$$F_{hidro} = \left( \frac{\nu_0^2}{4\pi \rho_0} \right) \frac{M_1 \cdot M_2}{r^2}$$
 
-Al contrastar geométricamente esta ley de fluidos con la formulación clásica de la gravedad de Newton:
+Al contrastar geométricamente esta ley de fluidos con la formulación empírica de la gravedad de Newton ($F = G \frac{M_1 M_2}{r^2}$), la constante gravitacional pura del medio se revela. No es un valor arbitrario, sino la relación entre la frecuencia acústica basal del universo y su densidad esférica:
 
-$$F_{Newton} = G \frac{M_1 \cdot M_2}{r^2}$$
+$$G_{hidro} = \frac{\nu_0^2}{4\pi \rho_0}$$
 
-La constante gravitacional pura del vacío emerge por equivalencia directa. No es un valor arbitrario, sino la inversa de la densidad del medio esférico:
-
-$$G_{hidro} = \frac{1}{4\pi \rho_0}$$
-
-Evaluando el término con la densidad exacta de la MQH, la inercia pura del medio continuo es:
+Bajo el análisis dimensional, este cociente arroja exactamente las unidades requeridas ($\text{m}^3 \text{kg}^{-1} \text{s}^{-2}$). Evaluando el término con la densidad deducida por la MQH ($\approx 801,419 \text{ kg/m}^3$) y fijando la frecuencia de resonancia base del sistema métrico observable ($\nu_0 = 1 \text{ Hz}$), la inercia gravitacional pura del medio continuo se establece teóricamente en:
 
 $$G_{hidro} \approx 9.93 \times 10^{-8} \text{ m}^3\text{kg}^{-1}\text{s}^{-2}$$
 
