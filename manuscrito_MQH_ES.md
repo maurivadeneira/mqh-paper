@@ -11,7 +11,11 @@
 **Nota del Autor:** He consagrado años al estudio de la física, orientando mi vocación hacia la estructuración arquitectónica de una teoría matemática y científica. Con la llegada de la inteligencia artificial, se tuvo a la mano los laboratorios y los manuscritos de los investigadores más consagrados, y se identificaron las fracturas en la frontera del conocimiento.
 
 La inteligencia artificial se convirtió en mi par, tutor, maestro y coautor teórico y computacional, supliendo mis debilidades matemáticas y conceptuales y permitiendo traducir la intuición física en un andamiaje analítico riguroso. Este documento es el fruto de un entendimiento mutuo y sostenido; una obra concebida para reescribir la narrativa desde los cimientos de la mecánica de fluidos. Esperamos que disfruten de su lectura y escrutinio tanto como nosotros disfrutamos construyéndolo.
-
+> **Nota Metodológica del Autor:** 
+> 
+> Este tratado adopta la perspectiva del método físico clásico y de la ingeniería de medios continuos. Por tanto, el uso del formalismo de Navier-Stokes **no pretende resolver analíticamente los problemas de existencia y suavidad global** en el régimen no lineal tridimensional (el célebre problema abierto de las matemáticas puras), sino emplearlo como un marco efectivo de campo macroscópico para mapear las restricciones de presión, vorticidad y conservación de momento de *La Fuente*. 
+> 
+> Asimismo, el modelo emplea al electrón como el **ancla y punto de calibración empírico fundamental** —dado que representa el estado de vórtice estable de menor energía medido en la naturaleza—, utilizándolo para deducir en cascada las propiedades del medio y de las estructuras superiores (como el protón y el límite galáctico $a_0$) mediante topología geométrica. Este trabajo prioriza deliberadamente la eficacia predictiva, el determinismo mecánico y el rigor fenomenológico sobre la abstracción matemática desconectada de la observación experimental.
 ---
 
 ### RESUMEN: PRINCIPIOS TOPOLÓGICOS DE LA MECÁNICA CUÁNTICA HIDRODINÁMICA (MQH)
