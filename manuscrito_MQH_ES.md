@@ -807,9 +807,9 @@ En la ingeniería de fluidos y acústica, cuando se relacionan estas variables, 
 
 Esta es la justificación geométrica y causal de por qué, en el Capítulo 2.4, la inercia arrastrada por los armónicos superiores (el Muón y el Tau) se multiplica tan brutalmente al ser dividida por $\alpha$. La MQH no impone el número 137 por conveniencia matemática; lo reclama como la medida empírica exacta de la rigidez estructural de nuestro océano cósmico.
 
-**3.6 El Triunfo de la Mecánica (Conclusión del Capítulo)**
+## 3.6 El Isomorfismo Fundamental (Conclusión de Maxwell)
 
-Las ecuaciones de Maxwell nunca pertenecieron al vacío. Son, línea por línea, la descripción geométrica y cinemática de un fluido hiperdenso ($\rho_0 \approx 801,419 \text{ kg/m}^3$) siendo empujado, rotado y comprimido por estructuras toroidales. Al devolverle el sustrato material (La Fuente) a las matemáticas, la Mecánica Cuántica Hidrodinámica (MQH) no solo reconcilia el electromagnetismo con la gravedad (la inercia), sino que destierra para siempre el misticismo de las "acciones a distancia".
+Las ecuaciones de Maxwell nunca pertenecieron al vacío abstracto. Constituyen, línea por línea, la descripción geométrica y cinemática de un continuo dinámico siendo empujado, rotado y comprimido por tensores topológicos. Al devolverle el sustrato material (*La Fuente*) a las matemáticas, la Mecánica Cuántica Hidrodinámica (MQH) no solo ofrece un mecanismo determinista causal para los campos, sino que establece el **isomorfismo fundamental** sobre el cual se edifica la métrica acústico-relativista del siguiente apartado.
 
 ## 3.7 La Emergencia de la Relatividad: Einstein como Cinemática de Fluidos
 
