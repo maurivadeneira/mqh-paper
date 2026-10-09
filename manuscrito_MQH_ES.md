@@ -561,7 +561,13 @@ $$
 
 Para resolver el término logarítmico $\ln(8R_e/r_e)$, debemos analizar la topología extrema del electrón. Un anillo de vórtice posee un "hueco" central siempre que su radio mayor ($R$) sea más grande que su grosor transversal ($r$). Sin embargo, el electrón representa el estado de compresión máximo permitido por el espacio. En este límite, el grosor del tubo engulle al anillo interior ($r \approx 2.94 R$). El "hueco" de la dona desaparece y la geometría colapsa en un *vórtice esférico perfecto*.
 
-En esta frontera matemática de colapso absoluto, la relación de radios converge a la base natural del logaritmo ($8R/r = e$), purificando la tensión geométrica a su unidad fundamental: 
+La imposición de la condición $\ln(8R/r) = 1$ no es un ajuste algebraico arbitrario, sino la formulación de la condición de frontera de **colapso topológico**. 
+
+En la dinámica de fluidos clásica, la aproximación analítica de la ecuación de Lamb está diseñada para el régimen de vórtices delgados (donde $r \ll R$). Sin embargo, al transpolar esta estructura vorticial hasta el límite de la estabilidad cuántica fundamental, el vórtice sufre una compresión geométrica extrema. En este régimen asintótico, la relación entre el radio exterior ($R$) y el grosor del núcleo ($r$) alcanza el límite crítico conocido topológicamente como **Toroide de Husillo (Spindle Torus)**, donde el núcleo del vórtice oblitera por completo el radio interno (el "agujero" de la topología toroidal simple).
+
+Esta transición se postula en la MQH como una proposición matemática formal de estabilidad. El colapso topológico del vórtice ocurre cuando el estado de mínima energía desaparece; es decir, en el punto exacto donde la primera derivada de la energía respecto al parámetro de deformación geométrica se anula, y simultáneamente el determinante del Hessiano de estabilidad se vuelve cero ($\det H_E = 0$). 
+
+Por lo tanto, establecer matemáticamente que $\ln(8R/r) = 1$ equivale a postular que el electrón existe exactamente en el **umbral crítico de pérdida de estabilidad topológica** del estado vorticial. Este límite asintótico no es una calibración arbitraria, sino que define la escala mínima de compresión que la arquitectura geométrica puede soportar antes de aniquilarse y disiparse en el medio continuo.
 
 $$
 \ln(e) = 1
