@@ -121,59 +121,60 @@ El presente documento emplea el formalismo matemático de la dinámica de fluido
 ## ÍNDICE
 
 **1. Diagnóstico del Estado del Arte: Desde Newton a La Crisis del Modelo Estándar**
-**Introducción: El Retorno al Medio Continuo**
-* 1.1 La Fuerza, la Masa y el triunfo de la mecánica clásica.
-* 1.2 Los Campos y la síntesis de Maxwell: El fluido que se volvió vacío.
-* 1.3 Einstein y la Relatividad: La geometrización del vacío y el misterio de la masa.
-  * 1.3.1 La equivalencia masa-energía y la falta de un mecanismo de condensación.
-  * 1.3.2 La Relatividad General y la ironía del Tensor $T_{\mu\nu}$.
-  * 1.3.3 El éxito orbital frente a la singularidad cosmológica.
-* 1.4 La crisis cuántica: Funciones, probabilidad y la pérdida de la Partícula.
-  * 1.4.1 Planck y la invención de $h$: El origen industrial y la fractura del continuo.
-  * 1.4.2 Schrödinger y la probabilidad: Ondas sin medio.
-  * 1.4.3 Dirac, la antimateria y la abstracción del Espín.
-  * 1.4.4 El Modelo Estándar: El zoológico de partículas y la crisis actual.
-* 1.5 El colapso cosmológico, las bajas aceleraciones y el sesgo epistemológico.
+Introducción: El Retorno al Medio Continuo
+- 1.1 La Fuerza, la Masa y el triunfo de la mecánica clásica.
+- 1.2 Los Campos y la síntesis de Maxwell: El fluido que se volvió vacío.
+- 1.3 Einstein y la Relatividad: La geometrización del vacío y el misterio de la masa.
+  - 1.3.1 La equivalencia masa-energía y la falta de un mecanismo de condensación.
+  - 1.3.2 La Relatividad General y la ironía del Tensor $T_{\mu\nu}$.
+  - 1.3.3 El éxito orbital frente a la singularidad cosmológica.
+- 1.4 La crisis cuántica: Funciones, probabilidad y la pérdida de la Partícula.
+  - 1.4.1 Planck y la invención de $h$: El origen industrial y la fractura del continuo.
+  - 1.4.2 Schrödinger y la probabilidad: Ondas sin medio.
+  - 1.4.3 Dirac, la antimateria y la abstracción del Espín.
+  - 1.4.4 El Modelo Estándar: El zoológico de partículas y la crisis actual.
+- 1.5 El colapso cosmológico, las bajas aceleraciones y el sesgo epistemológico.
 
 **2. La Solución: Mecánica Cuántica Hidrodinámica (MQH)**
-* Los Postulados Fundamentales de La Fuente (1 al 7).
-* 2.1 La Transición Ontológica y la Mecánica de Medios Continuos.
-* 2.2 Geometría Subatómica y el Origen Inercial de la Masa.
-* 2.3 La Ecuación del Vórtice y la Derivación Analítica de la Densidad Base ($\rho_0$).
-* 2.4 Las 3 Generaciones (Electrón, Muón, Tau) y la Autopsia Topológica del Decaimiento.
-* 2.5 El Aporte Original de la MQH: Más allá de la Hidrodinámica Cuántica.
-* 2.6 Síntesis Axiomática: Las Ecuaciones Fundamentales de La Fuente.
+- Los Postulados Fundamentales de La Fuente (1 al 7).
+- 2.1 La Transición Ontológica y la Mecánica de Medios Continuos.
+- 2.2 Geometría Subatómica y el Origen Inercial de la Masa.
+- 2.3 La Ecuación del Vórtice y la Derivación Analítica de la Densidad Base ($\rho_0$).
+- 2.4 Las 3 Generaciones y la Autopsia Topológica del Decaimiento.
+- 2.5 El Aporte Original de la MQH: Más allá de la Hidrodinámica Cuántica.
+- 2.6 Síntesis Axiomática: Las Ecuaciones Fundamentales de La Fuente.
 
 **3. La Unificación Electromagnética (De Navier-Stokes a Maxwell)**
-* 3.1 La Identidad Matemática del Fluido.
-* 3.2 Derivación de las Leyes "Sin Fuentes" (Gauss Magnético y Faraday).
-* 3.3 La Ley de Gauss para la Electricidad (El Origen Hidrodinámico de la Carga).
-* 3.4 La Ley de Ampère-Maxwell (La Elasticidad de La Fuente).
-* 3.5 La Revelación de $\alpha$: La Impedancia Acústico-Elástica de La Fuente.
-* 3.6 El Triunfo de la Mecánica (Conclusión del Capítulo).
+- 3.1 La Identidad Matemática del Fluido y el Isomorfismo Estructural.
+- 3.2 Derivación de las Leyes "Sin Fuentes" (Gauss Magnético y Faraday).
+- 3.3 La Ley de Gauss para la Electricidad (El Origen Hidrodinámico de la Carga).
+- 3.4 La Ley de Ampère-Maxwell y la Elasticidad de La Fuente.
+- 3.5 La Revelación de $\alpha$: La Impedancia Acústico-Elástica de La Fuente.
+- 3.6 El Isomorfismo Fundamental (Conclusión de Maxwell).
+- 3.7 La Emergencia de la Relatividad: Einstein como Cinemática de Fluidos.
 
 **4. La Tabla Periódica de los Vórtices (Reinterpretando el Modelo Estándar)**
-* 4.1 Leptones y Neutrinos: Armónicos y Ondas de Choque.
-* 4.2 Topología Bariónica y Confinamiento Dinámico: Derivación Analítica de la Masa del Protón.
-* 4.3 El Confinamiento de los Quarks y el Origen Analítico de la Masa Bariónica.
-  * 4.3.1 El Neutrón: El "Embarazo" Topológico y la Masa Virtual.
-  * 4.3.2 El Átomo de Hidrógeno: Equilibrio Hidrodinámico, el Radio de Bohr y la Verdadera Masa.
-    * 4.3.2.1 El Límite de Saturación Longitudinal (El Neutrino).
-  * 4.3.3 El Régimen Confinado: La Ecuación de Masa Toroidal y el Espectro de Resonancias.
-* 4.4 Bosones: Desmitificando las Partículas Mensajeras.
-* 4.5 La Obsolescencia del Bosón de Higgs ante la Inercia Hidrodinámica.
+- 4.1 Leptones y Neutrinos: Armónicos y Ondas de Choque.
+- 4.2 Topología Bariónica y Confinamiento Dinámico: La Conjetura de la Masa del Protón.
+  - 4.2.1 El Neutrón: El "Embarazo" Topológico y la Masa Virtual.
+  - 4.2.2 El Átomo de Hidrógeno: Equilibrio Hidrodinámico, el Radio de Bohr y la Verdadera Masa.
+    - 4.2.2.1 El Límite de Saturación Longitudinal: El Neutrino como Solitón Acústico.
+  - 4.2.3 El Régimen Confinado: La Ecuación de Masa Toroidal y el Espectro de Resonancias.
+- 4.3 Bosones: Desmitificando las Partículas Mensajeras.
+- 4.4 La Obsolescencia del Bosón de Higgs ante la Inercia Hidrodinámica.
 
-**5. Perspectivas Futuras y Conclusiones Cosmológicas**
-* 5.1 Derivación Analítica de la Gravedad Hidrodinámica ($G_{hidro}$).
-* 5.2 La Dualidad de la Constante: $G_{Newton}$ vs $G_{hidro}$.
-* 5.3 Dinámica Galáctica y Transición Dimensional: El Límite de Fluencia Gravitacional ($a_0$).
+**5. Macro-Dinámica, Gravedad y la Ilusión de la Materia Oscura**
+- 5.1 Derivación Analítica de la Gravedad Hidrodinámica ($G_{hidro}$).
+- 5.2 La Dualidad de la Constante: $G_{Newton}$ vs $G_{hidro}$ y la Fricción Topológica.
+- 5.3 Dinámica Galáctica y Transición Dimensional: El Límite de Fluencia Gravitacional ($a_0$).
 
 **6. Horizonte Tecnológico y Matemático (El Siglo de la MQH)**
-* 6.1 La Matemática del Fluido: La Transición a la Base 12.
-* 6.2 El Fin de la Fuerza Bruta: La Miniaturización de los Colisionadores.
-* 6.3 Ingeniería Fractal y la Impresión Topológica (Sintetizadores de Materia).
-* 6.4 Navegación de Gradientes: El Futuro de la Propulsión Espacial.
-* 6.5 Extracción Energética Directa: La Verdadera "Energía de Punto Cero".
+- 6.1 La Matemática del Fluido: La Transición a la Base 12.
+- 6.2 El Fin de la Fuerza Bruta: La Miniaturización de los Colisionadores.
+- 6.3 Ingeniería Fractal y la Impresión Topológica (Sintetizadores de Materia).
+- 6.4 Navegación de Gradientes: El Futuro de la Propulsión Espacial.
+- 6.5 Extracción Energética Directa: La Verdadera "Energía de Punto Cero".
+- 6.6 La Reconciliación Epistemológica: El Formalismo Cuántico como Herramienta Hidrodinámica.
 
 ## DESARROLLO
 
