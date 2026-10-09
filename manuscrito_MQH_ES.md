@@ -672,12 +672,17 @@ $$
 
 Con estas tres definiciones puramente mecánicas, las leyes "fundamentales" del electromagnetismo revelan su verdadera naturaleza como consecuencias del cálculo vectorial sobre un fluido incompresible.
 
-> **Nota de Rigor Mecánico y la Emergencia de la Fuerza de Lorentz:**  
-> La definición de $\mathbf{E}$ mostrada arriba opera en el régimen elástico lineal, que fue el alcance original de Maxwell. Un crítico exigente podría objetar la omisión temporal del término convectivo no-lineal de la aceleración de Navier-Stokes: $(\mathbf{v} \cdot \nabla)\mathbf{v}$. Lejos de ser una falencia, la MQH revela que este término esconde el origen mecánico de la Fuerza de Lorentz. 
-> 
-> Mediante la identidad vectorial fundamental, el término convectivo se expande como:
-> $$ (\mathbf{v} \cdot \nabla)\mathbf{v} = \nabla\left(\frac{v^2}{2}\right) - \mathbf{v} \times (\nabla \times \mathbf{v}) $$
-> Al multiplicar por la densidad $\rho_0$ y aplicar nuestra identidad de vorticidad ($\mathbf{B} = \rho_0 \nabla \times \mathbf{v}$), el segundo término se convierte exactamente en el producto cruz $\mathbf{v} \times \mathbf{B}$. Por consiguiente, la fuerza magnética de Lorentz que experimenta una carga en movimiento no es un axioma empírico aislado, sino la tensión inercial convectiva que experimenta un flujo al atravesar campos de vorticidad cruzada. La hidrodinámica incompresible no solo recupera a Maxwell, sino que deduce la fuerza electrodinámica completa de Lorentz de forma nativa.
+**Nota de Rigor Mecánico y la Emergencia de la Fuerza de Lorentz:**  
+
+La definición de $\mathbf{E}$ mostrada arriba opera en el régimen elástico lineal, que fue el alcance original de Maxwell. Un crítico exigente podría objetar la omisión del término convectivo no-lineal de la aceleración de Navier-Stokes: $(\mathbf{v} \cdot \nabla)\mathbf{v}$. Lejos de ser una falencia, la MQH revela que este término esconde el origen mecánico de la Fuerza de Lorentz. 
+
+Mediante la identidad vectorial fundamental, el término convectivo se expande como:
+
+$$
+(\mathbf{v} \cdot \nabla)\mathbf{v} = \nabla\left(\frac{v^2}{2}\right) - \mathbf{v} \times (\nabla \times \mathbf{v})
+$$
+
+Al multiplicar por la densidad $\rho_0$ y aplicar nuestra identidad de vorticidad ($\mathbf{B} = \rho_0 \nabla \times \mathbf{v}$), el segundo término se convierte exactamente en el producto cruz $\mathbf{v} \times \mathbf{B}$. Por consiguiente, la fuerza magnética de Lorentz que experimenta una carga en movimiento no es un axioma empírico aislado, sino la tensión inercial convectiva que experimenta un flujo al atravesar campos de vorticidad cruzada. La hidrodinámica incompresible no solo recupera a Maxwell, sino que deduce la fuerza electrodinámica completa de Lorentz de forma nativa.
 
 **3.2 Derivación de las Leyes "Sin Fuentes"**
 En la física clásica, hay dos leyes de Maxwell que no dependen de las cargas, sino de la geometría misma del espacio. Al aplicar nuestro diccionario de fluidos, su derivación es matemáticamente trivial.
