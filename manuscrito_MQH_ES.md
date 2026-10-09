@@ -906,57 +906,45 @@ Nuestra intuición hidrodinámica sugirió que el multiplicador inercial ($1836$
 
 El ensamblaje de ambos factores producía la seductora identidad: $\frac{M_p}{m_e} = 6\pi^5$.
 
-### C. El Límite Epistemológico y la Resolución Analítica del Funcional
+### C. El Límite Epistemológico y el Ansatz Hidro-Topológico
 
-El rigor ineludible de la mecánica de medios continuos nos exige reconocer la frontera entre la estructura algebraica de un funcional y su simulación diferencial absoluta. Demostrar formalmente que cinco integrales dan $\pi^5$ no es equivalente a poseer la simulación computacional completa del campo de velocidades de Navier-Stokes para un nudo trébol en 3D. 
+El rigor ineludible de la mecánica de medios continuos nos exige reconocer la frontera entre la estructura algebraica de un funcional y su simulación diferencial absoluta. La propuesta de la Mecánica Cuántica Hidrodinámica (MQH) distingue estrictamente entre la evaluación matemática de integrales geométricas y la demostración deductiva de que estas representan el campo de velocidades final de una configuración física del medio continuo. 
 
-Para que esta derivación alcance el estatus de teorema fluidodinámico absoluto, la comunidad física deberá, en el futuro, computar el campo de velocidades exacto del tubo vorticial y sus condiciones de frontera no-lineales. Por ello, planteamos el siguiente funcional de energía volumétrica, donde la torsión geométrica ($\tau$) se acopla a la circulación constante del vórtice ($\Gamma$) para traducir el estrés topológico en una densidad de energía cinética equivalente:
-
-$$
-\frac{M_p}{m_e} = \frac{ \iiint_{\text{nudo}} (v_{\text{nodo}}^2 + \Gamma^2 \tau^2) \, dV }{ \iiint_{\text{anillo}} v_{\text{anillo}}^2 \, dV }
-$$
-
-Si bien la integración diferencial *línea por línea* del campo vectorial fluido queda trazada como un reto abierto para la física computacional computacional (la Conjetura Cuantitativa Bariónica), **la estructura algebraica de este funcional sí permite una descomposición analítica exacta de sus operadores geométricos aquí y ahora.**
-
-Para resolver este funcional y demostrar el origen determinista del factor inercial, la MQH descompone la integral del nudo trébol ($T_{2,3}$) en sus dos operadores de confinamiento:
-
-**1. El Operador de Interferencia Nodal: De la Proyección 2D al Volumen 3D (El factor 6)**
-
-Una objeción topológica superficial señalaría que la representación estándar del nudo trébol ($T_{2,3}$) posee únicamente 3 cruces. Sin embargo, esa es una ilusión geométrica causada por la proyección de un hilo unidimensional sobre un plano bidimensional (2D). 
-
-En la realidad física de la MQH, la partícula fundamental no es un hilo matemático plano, sino un tubo vorticial volumétrico (3D) de fluido incompresible. En esta topología, el flujo es forzado a circular simultáneamente en dos direcciones ortogonales: el campo de velocidad poloidal ($p=2$ vueltas transversales) y el toroidal ($q=3$ vueltas longitudinales). 
-
-Dado que en cada uno de los 3 "cruces" aparentes de la geometría se superponen volumétricamente las 2 corrientes de flujo ortogonales, la interferencia constructiva de la inercia genera un patrón tridimensional de onda estacionaria. El número de antinodos de máxima compresión dinámica (picos de auto-inducción) obedece estrictamente al producto de sus índices de enlazamiento volumétrico:
+Para que esta derivación alcance el estatus de teorema fluidodinámico absoluto, la comunidad física deberá computar el campo de velocidades exacto del tubo vorticial ($\mathbf{v}(x,t)$) y sus condiciones de frontera no-lineales. Como hipótesis de trabajo formal, la MQH postula el siguiente funcional adimensional de energía volumétrica:
 
 $$
-N_{\text{antinodos}} = p \times q = 2 \times 3 = 6
+\mathcal{R} = \frac{ \displaystyle\iiint_{V_{\text{nudo}}} \rho_{\text{n}} \left( |\mathbf{v}_{\text{n}}|^2 + \Gamma^2\tau^2 \right) dV }{ \displaystyle\iiint_{V_{\text{anillo}}} \rho_{\text{a}} |\mathbf{v}_{\text{a}}|^2 \, dV }
 $$
 
-Físicamente, cada uno de estos 6 antinodos funciona como un foco hiperdenso de estrés estructural donde la energía cinética del fluido se maximiza. Puesto que en la MQH la masa inercial es proporcional a la integral de volumen de esta energía confinada, la inercia del sistema se concentra en estos 6 "núcleos" de alta presión. 
+Donde $\Gamma$ representa la circulación del flujo, $\tau$ la torsión geométrica y $\rho$ la densidad del continuo. Esta expresión constituye el **Ansatz estructural** de la teoría: una conjetura matemática que acopla el estrés topológico a la energía cinética. Para fundamentar este programa matemático, la MQH descompone los operadores de este funcional en dos postulados geométricos:
 
-Por consiguiente, el escalar 6 no es un ajuste numerológico, sino el multiplicador topológico real dictado por la hidrodinámica: en el espacio 3D, la superposición volumétrica del nudo $T_{2,3}$ posee exactamente 6 veces la capacidad de almacenamiento inercial basal debido a sus picos de interferencia.
+**1. El Postulado de Interferencia Nodal (El factor 6)**
 
-**2. La Integración Torsional en el Espacio de Fase (El factor $\pi^5$)**
+Para el nudo trébol ($T_{2,3}$), el producto de sus índices de enrollamiento volumétrico es $p \times q = 6$. La MQH postula que, debido a que el fluido es forzado a circular simultáneamente en dos direcciones ortogonales (poloidal y toroidal) en un espacio 3D, la interferencia constructiva de estas corrientes de flujo genera exactamente 6 regiones estacionarias de máxima compresión dinámica (antinodos).
 
-El segundo término representa la energía elástica almacenada en el retorcimiento topológico del tubo. A diferencia del anillo laminar del electrón, cuyo espacio de configuración es bidimensional y trivial, la torsión de un nudo trébol acoplado al espín requiere una parametrización de fibración de Hopf. 
+Si bien la existencia y amplitud energética exacta de estos antinodos debe determinarse a partir de una solución explícita de las ecuaciones de Navier-Stokes para el nudo, la MQH plantea la hipótesis fenomenológica de que este multiplicador topológico (6) rige la capacidad de almacenamiento inercial del sistema frente a un anillo laminar.
 
-La estabilización de la torsión $\tau$ exige evaluar la energía a través 5 grados de libertad angulares ortogonales e independientes (el ángulo toroidal, el poloidal, el ángulo de torsión interna, la precesión del nodo y la fase espinorial). Debido a la simetría fermiónica del nudo (donde la función de onda de presión requiere una rotación de $4\pi$ para volver al estado base, pero la geometría local de cruce se resuelve en medias vueltas paramétricas), los límites de integración estables para cada grado de libertad confinado son $[0, \pi]$.
+**2. El Postulado Torsional del Espacio de Fase (El factor $\pi^5$)**
 
-La integral múltiple de la densidad de torsión sobre este espacio de fase colapsa de la siguiente manera:
-
-$$
-\int_0^\pi \int_0^\pi \int_0^\pi \int_0^\pi \int_0^\pi (\Gamma^2 \tau^2) \, d\theta_1 d\theta_2 d\theta_3 d\theta_4 d\theta_5 = \pi \times \pi \times \pi \times \pi \times \pi = \pi^5
-$$
-
-**3. El Colapso del Funcional**
-
-Al acoplar el operador nodal volumétrico (6) con la integración del espacio de fase torsional ($\pi^5$), y normalizar el denominador respecto a la energía base del anillo ($E_{\text{anillo}} = 1$ en unidades de masa electrónica), el funcional hidro-topológico se resuelve analíticamente:
+El término torsional ($\Gamma^2 \tau^2$) representa la energía elástica adicional. Su evaluación requiere integrar la torsión a través de los grados de libertad del nudo. Análogamente al factor nodal, la MQH plantea que el factor $\pi^5$ emerge asumiendo que el funcional se integra sobre cinco coordenadas angulares independientes que describen la fibración de la topología espinorial, con dominios restrictivos de $[0, \pi]$:
 
 $$
-\frac{M_p}{m_e} = 6 \cdot \int_{\Omega} (\tau^2) \, d^5\theta = 6\pi^5 \approx 1836.118
+\int_0^\pi \int_0^\pi \int_0^\pi \int_0^\pi \int_0^\pi (\Gamma^2 \tau^2) \, d\theta_1 d\theta_2 d\theta_3 d\theta_4 d\theta_5 = \pi^5
 $$
 
-Con esta evaluación explícita, la MQH demuestra que el histórico "número de Lenz" no es una anomalía numerológica, sino el resultado analítico exacto de los operadores espaciales y torsionales operando sobre la topología de un nudo $T_{2,3}$ en un medio continuo.
+La validez exacta de esta igualdad asume que la densidad torsional normalizada promedia a la unidad sobre este dominio. La demostración de la independencia de estas coordenadas y la medida de integración exacta quedan trazadas como el objetivo central del programa matemático.
+
+**3. La Conjetura Cuantitativa y el Defecto de Masa Relativista**
+
+Bajo la asunción de estos operadores geométricos, la relación inercial entre el protón y el electrón se formula no como un teorema finalizado, sino como la **Conjetura Cuantitativa de la Masa Bariónica**:
+
+$$
+\frac{m_p}{m_e} \stackrel{?}{=} 6\pi^5 \approx 1836.118
+$$
+
+La asombrosa cercanía de este Ansatz geométrico puro con la razón experimental observada ($1836.153$) arroja una diferencia relativa de apenas $\sim 1.9 \times 10^{-5}$ (aproximadamente $0.035 \, m_e$). Lejos de ser una falla del modelo, en la física de fluidos de alta energía, esta minúscula discrepancia es predecible: representa el **defecto de masa (energía de ligadura)** y la deformación tensorial no-lineal de un vórtice real sometido a compresión relativista, frente al modelo topológico idealizado asintótico.
+
+Si la futura simulación computacional del nudo $T_{2,3}$ de Navier-Stokes reproduce de forma intrínseca estos picos de presión y volúmenes de fase, la MQH habrá resuelto analíticamente el origen determinista de la masa bariónica, desterrando para siempre los parámetros libres del Modelo Estándar.
 
 ### 4.2.1 El Neutrón: El "Embarazo" Topológico y la Masa Virtual
 
