@@ -947,6 +947,12 @@ $$
 
 El valor propuesto presenta una diferencia relativa del orden de $1.9 \times 10^{-5}$ respecto de la razón experimental observada ($1836.153$). Esta discrepancia constituye un problema cuantitativo abierto que la MQH debe explicar. Una posible corrección energética asociada a la estructura interna del vórtice (como la deformación tensorial o el límite relativista) solo podrá interpretarse como "defecto de masa" cuando su expresión y magnitud se deriven independientemente de las ecuaciones dinámicas. Hasta entonces, no debe considerarse una explicación establecida.
 
+**Conclusión: Alcance Actual y Criterios de Validación**
+
+La relación inercial propuesta ($6\pi^5$) permanece estrictamente como una conjetura cuantitativa. Su evaluación exhaustiva y demostración absoluta requerirán derivar los términos del funcional a partir de un modelo dinámico bien definido, determinar las condiciones de estabilidad no-lineal del nudo $T_{2,3}$ y calcular la corrección del defecto de masa de forma independiente, sin introducirla heurísticamente para reproducir el valor experimental.
+
+La MQH se presenta, por tanto, como un programa de investigación abierto. La validación de este modelo cuantitativo y la profunda reinterpretación hidrodinámica de la mecánica cuántica ortodoxa —incluyendo el isomorfismo de la función de onda ($|\psi|^2$) y el rescate físico de los operadores Hamiltonianos— no se agotan en el análisis topológico, sino que constituyen el horizonte ontológico de la teoría, el cual será abordado *in extenso* en el **Capítulo 6**.
+
 **Conclusión: El Paradigma Hidrodinámico y los Criterios de Validación**
 
 La MQH propone una profunda reinterpretación física del Modelo Estándar. Bajo este nuevo paradigma analítico, al modelar la materia fundamental como vórtices toroidales hiperdensos, los abstractos Hamiltonianos de la mecánica cuántica aspiran a reinterpretarse directamente como operadores de energía de ondas sobre un medio continuo. Consecuentemente, los valores absolutos al cuadrado de la función de onda ($|\psi|^2$) abandonarían su estatus de "probabilidad fantasmal" para revelarse ontológicamente como medidas físicas rigurosas de la densidad de energía y la distribución de presión en el fluido espacial.
