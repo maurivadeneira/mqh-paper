@@ -948,6 +948,38 @@ Como se demostró en la sección de las 3 generaciones, la familia de los lepton
 
 El Modelo Estándar postula la existencia de los *neutrinos* como partículas fantasmales, casi sin masa, que se emiten durante el decaimiento débil para conservar el momento. En la dinámica de fluidos de la MQH, el neutrino pierde su estatus de "partícula". Cuando un armónico superior (Muón o Tau) sufre cavitación debido al extremo estrés topológico, el vórtice colapsa violentamente hacia su estado base. La energía cinética confinada no desaparece; se libera como un pulso acústico direccional de altísima energía a través de *La Fuente*. El neutrino no es más que **la onda de choque transversal** producto de este evento de cavitación. Al carecer de vorticidad cerrada (no es un remolino continuo), no opone arrastre hidrodinámico sostenido; de ahí que su "masa" (inercia) medida experimentalmente sea prácticamente nula y no interactúe con el gradiente de presión (no tiene carga).
 
+### 4.2 Topología Bariónica y Confinamiento Dinámico: La Hipótesis de la Masa del Protón
+
+En el marco de la Cromodinámica Cuántica (QCD) del Modelo Estándar, la inmensa mayoría de la masa inercial del protón ($\approx 99\%$) no proviene de la masa intrínseca de los quarks, sino que se atribuye fenomenológicamente a la dinámica del campo de gluones, requiriendo parametrizaciones externas para coincidir con el valor empírico de laboratorio ($M_p/m_e \approx 1836.15$). La Mecánica Cuántica Hidrodinámica (MQH) prescinde de estas entidades mediadoras, explorando la masa bariónica como una consecuencia puramente topológica del medio continuo.
+
+**A. El Confinamiento como Condición de Frontera Geométrica**
+En la fluidodinámica de un medio continuo incompresible, los flujos abiertos son dinámicamente insostenibles frente a la inmensa presión isométrica de *La Fuente*. El "confinamiento" se postula aquí como una condición de frontera euclidiana: para alcanzar la estabilidad mecánica, las líneas de vórtice deben entrelazarse, constituyendo un circuito cerrado perfecto. El nucleón, bajo este marco, se modela como una singularidad topológica cerrada.
+
+**B. Helicidad, Geometría del Nudo e Hipótesis de la Razón de Masas**
+La configuración bariónica se modela provisionalmente como un vórtice cuya línea central presenta la topología del nudo trébol ($T_{2,3}$). Su geometría espacial puede parametrizarse mediante:
+
+$$
+\mathbf{r}(t) = 
+\begin{pmatrix}
+[R + a\cos(3t)]\cos(2t) \\
+[R + a\cos(3t)]\sin(2t) \\
+a\sin(3t)
+\end{pmatrix},
+\qquad t \in [0, 2\pi]
+$$
+
+Esta parametrización especifica la línea central del nudo, pero no determina por sí sola el campo de velocidades ni la energía cinética del tubo vorticial. Para calcular esas magnitudes con rigor, se requiere definir la distribución de vorticidad, el perfil del núcleo transversal y las condiciones de frontera hidrodinámicas.
+
+La helicidad ($H = \iiint \mathbf{v} \cdot \boldsymbol{\omega} \, dV$) se considera una magnitud directriz para caracterizar este enlazamiento topológico. Sin embargo, la relación cuantitativa estricta entre la helicidad, la energía cinética confinada y la masa inercial debe derivarse de las ecuaciones dinámicas completas del modelo fluido, y no presuponerse como una identidad universal a priori.
+
+La MQH explora si esta compleja geometría toroidal puede producir una razón de energías (entre la configuración bariónica anudada y la configuración electrónica laminar base) que contenga factores directamente derivados de sus índices de enlazamiento ($p=2$, $q=3$) y de la integral tridimensional de su torsión. La aparición de un factor de esfuerzo estructural nodal ($p \times q = 6$) y de un factor volumétrico de fase ($\pi^5$) arroja una convergencia numérica asombrosa:
+
+$$ \frac{M_p}{m_e} = 6\pi^5 \approx 1836.118 $$
+
+En esta etapa del desarrollo teórico, esta ecuación constituye una **hipótesis de trabajo y una conjetura cuantitativa**. Para establecerla como un teorema hidrodinámico definitivo, el desarrollo futuro de la MQH debe demostrar el origen mecánico exacto del factor de cruce, definir el espacio de configuración pertinente para la medida de integración de la torsión, y acoplar dicha integral a la energía física real del fluido. 
+
+Si la dinámica estricta de Navier-Stokes en este régimen permite demostrar que el cociente de energías es equivalente al cociente inercial en reposo, esta conjetura geométrica ($6\pi^5$) quedará validada frente a la razón experimental observada.
+
 ### 4.2 Topología Bariónica y Confinamiento Dinámico: Derivación Analítica de la Masa del Protón
 
 En el marco de la Cromodinámica Cuántica (QCD) del Modelo Estándar, los nucleones son modelados como sistemas compuestos por quarks poseedores de carga fraccionaria, sujetos a un mecanismo de "confinamiento del color" que impide su aislamiento empírico. Si bien la aproximación perturbativa de la QCD es altamente operativa, la inmensa mayoría de la masa inercial del protón ($\approx 99\%$) no proviene de la masa intrínseca de los quarks, sino que se atribuye fenomenológicamente a la dinámica del campo de gluones, requiriendo parametrizaciones externas para coincidir con el valor de laboratorio ($M_p/m_e \approx 1836.15$).
