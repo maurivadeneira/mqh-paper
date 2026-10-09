@@ -543,112 +543,73 @@ El espacio no es un vacío cuántico estadístico. Estamos inmersos en un océan
 
 Uno de los mayores callejones sin salida del Modelo Estándar es la existencia empírica de las tres "generaciones" de leptones (Electrón, Muón y Tau). Poseen exactamente las mismas propiedades, pero las superiores son exorbitantemente más masivas y estallan casi al instante (Decaimiento Débil). Al carecer de un modelo mecánico, la física las cataloga como un misterio insondable.
 
-Bajo la MQH, este enigma es una consecuencia directa de la resonancia hidrodinámica. La onda interna de un vórtice debe acoplarse sobre sí misma en múltiplos enteros o armónicos ($n = 1, 2, 3...$). El Muón y el Tau no son "otras" partículas; son el mismo remolino fundamental del electrón, forzado por colisiones de extrema energía a resonar en sobremarcha (Muón $n=2$, Tau $n=3$).
+Bajo la MQH, este enigma es una consecuencia directa de la resonancia hidrodinámica. La onda interna de un vórtice debe acoplarse sobre sí misma en múltiplos enteros o armónicos ($n=1, 2, 3...$). El Muón y el Tau no son "otras" partículas; son el mismo remolino fundamental del electrón, forzado por colisiones de extrema energía a resonar en sobremarcha (Muón $n=2$, Tau $n=3$).
 
 ### La Ley de Escala y la Inestabilidad Estructural
 
-Partiendo de nuestra ecuación general para cualquier armónico $n$, y aplicando el límite de colapso esférico deducido previamente, emerge la Ley de Escalamiento Universal de las Generaciones: 
+Partiendo de nuestra ecuación general para cualquier armónico $n$, y aplicando el límite de colapso esférico deducido previamente, emerge la Ley de Escalamiento Universal de las Generaciones:
 
-$$
-m_n^4 = m_e^4 \cdot n^3 \cdot \ln\left(\frac{8R_n}{r_n}\right)
-$$
+$$ m_n^4 = m_e^4 \cdot n^3 \cdot \ln\left(\frac{8R_n}{r_n}\right) $$
 
-Esta ecuación maestra revela por qué las partículas pesadas estallan. Despejando el término de tensión estructural (el logaritmo), realizamos una "autopsia topológica" con los datos de laboratorio: 
+Esta ecuación maestra revela por qué las partículas pesadas estallan. Despejando el término de tensión estructural (el logaritmo), realizamos una "autopsia topológica" con los datos empíricos de laboratorio:
 
-$$
-\ln\left(\frac{8R_n}{r_n}\right) = \frac{1}{n^3} \left(\frac{m_n}{m_e}\right)^4
-$$
+$$ \ln\left(\frac{8R_n}{r_n}\right) = \frac{1}{n^3} \left( \frac{m_n}{m_e} \right)^4 $$
 
-1.  **El Electrón (Estado Base, $n=1$, $m_e = 0.511 \text{ MeV}$):**
+1. **El Electrón (Estado Base, $n=1$, $m_e = 0.511 \text{ MeV}$):**
+   $$ \ln\left(\frac{8R_1}{r_1}\right) = \frac{1}{1^3} (1)^4 = 1 $$
+   El remolino base es un vórtice esférico cerrado (Toroide de Husillo). Sus presiones se anulan; es topológicamente inmortal.
 
-$$ 
-\ln\left(\frac{8R_1}{r_1}\right) = \frac{1}{1^3} \left(\frac{0.511}{0.511}\right)^4 = 1 
-$$
+2. **El Muón ($n=2$, $m_\mu \approx 206.7 m_e$):**
+   $$ \ln\left(\frac{8R_2}{r_2}\right) = \frac{1}{2^3} (206.7)^4 \approx 228,000,000 $$
+   El requerimiento salta violentamente. Para no romperse, el anillo necesita una proporción de delgadez de $8R/r = e^{228,000,000}$. Físicamente, el "tubo" tendría que ser trillones de veces más delgado que la Longitud de Planck. Esta deformación excede colosalmente el límite elástico por cizalladura (*shear stress*) del fluido. El remolino sufre cavitación y se desgarra (decaimiento).
 
-El remolino base es un vórtice esférico cerrado. Sus presiones se anulan; es topológicamente inmortal.
+3. **El Tau ($n=3$, $m_\tau \approx 3477 m_e$):**
+   $$ \ln\left(\frac{8R_3}{r_3}\right) = \frac{1}{3^3} (3477)^4 \approx 5.4 \times 10^{12} $$
+   El estiramiento topológico alcanza la insostenible cifra de 5.4 billones. El estrés estructural sobre el tejido continuo es tan absoluto que el desgarro es casi instantáneo.
 
-**El Muón ($n=2$, $m_\mu \approx 206.7 m_e$):**
+Las generaciones de leptones no son parámetros libres dictados al azar. El decaimiento no es una probabilidad estadística abstracta; es la respuesta mecánica pura de un fluido incompresible ante un estrés topológico destructivo.
 
-$$ 
-\ln\left(\frac{8R_\mu}{r_\mu}\right) = \frac{1}{2^3} (206.7)^4 \approx 228,000,000 
-$$
+### El Horizonte Predictivo: La Ley Analítica de las Masas
 
-El requerimiento salta violentamente. Para no romperse, el anillo necesita una proporción de delgadez de $8R/r = e^{228,000,000}$. Físicamente, el "tubo" tendría que ser trillones de veces más delgado que la Longitud de Planck. Esta deformación excede el límite elástico por cizalladura (*shear stress*) del fluido. El remolino sufre cavitación y se desgarra (decaimiento).
+Aunque la autopsia topológica demuestra cuantitativamente la causa mecánica de la inestabilidad empírica, el modelo de la MQH no se limita a explicar los datos *a posteriori*. Para predecir la masa de las generaciones superiores sin depender de mediciones previas, recurrimos al principio hidrodinámico clásico de la "Masa Virtual" o "Masa Añadida".
 
-**El Tau ($n=3$, $m_\tau \approx 3477 m_e$):**
+Cuando un cuerpo se acelera (o vibra) en un fluido, arrastra una capa del medio, aumentando su inercia. La masa efectiva ($m_n$) es la masa base en reposo ($m_e$) más la inercia del fluido arrastrado, el cual está gobernado por tres coeficientes analíticos:
 
-$$ 
-\ln\left(\frac{8R_\tau}{r_\tau}\right) = \frac{1}{3^3} (3477)^4 \approx 5.4 \times 10^{12} 
-$$
+1. **La Impedancia del Medio ($\alpha^{-1}$):** La cantidad de fluido arrastrado depende de la resistencia elástica del espacio. Esta impedancia acústico-elástica basal está cuantificada macroscópicamente por el inverso de la constante de estructura fina ($\alpha^{-1} \approx 137.036$).
+2. **El Coeficiente Toroidal ($3/2$):** La solución analítica de la hidrodinámica clásica para el volumen de fluido arrastrado por un anillo de vórtice dipolar arroja un factor de forma inercial exacto de $3/2$.
+3. **La Superposición Nodal ($\sum k^4$):** Al vibrar en armónicos superiores, el vórtice fragmenta su flujo en "nodos" internos. Puesto que la inercia topológica escala a la cuarta potencia de la masa (según la Ley de Escala deducida), el arrastre total es la superposición geométrica de estos modos vibracionales desde $k=1$ hasta el límite interno $n-1$.
 
-El estiramiento topológico alcanza la insostenible cifra de 5.4 billones. El estrés estructural sobre el tejido continuo es tan absoluto que el desgarro es casi instantáneo.
+Al ensamblar estos tres principios mecánicos, la MQH postula el siguiente funcional analítico para la serie predictiva de cualquier armónico leptónico:
 
-Las generaciones de leptones no son parámetros libres divinos. El decaimiento no es probabilidad estadística; es la respuesta mecánica pura de un fluido incompresible ante un estrés topológico destructivo.
+$$ m_n = m_e \left( 1 + \frac{3}{2} \alpha^{-1} \sum_{k=1}^{n-1} k^4 \right) $$
 
----
+### Evaluación Analítica de las Tres Generaciones
 
-**La Temporalidad del Colapso y el Reto Predictivo (Horizonte Predictivo)**
+Con esta ecuación de estado formulada, evaluamos el arrastre utilizando la impedancia teórica del vacío ($\alpha^{-1} = 137.036$):
 
-Aunque la autopsia topológica demuestra cuantitativamente la causa mecánica de la inestabilidad empírica, el modelo de la MQH no se limita a explicar los datos a posteriori. El último gran objetivo de una teoría unificada es la predicción teórica pura. Nos gustaría abordar este reto predictivo en dos frentes fundamentales para el futuro de la física:
+* **El Electrón (Estado Base, $n=1$):**
+  El límite de la sumatoria es $n-1 = 0$. La serie de arrastre es nula.
+  $$ m_1 = m_e \left( 1 + \frac{3}{2}(137.036)(0) \right) = m_e $$
+  El modelo predice exactamente la masa del electrón sin arrastre armónico, confirmando su flujo laminar perfecto.
 
-**1. La Predicción Teórica de las Masas (El Desarrollo de la Serie Predictiva)**  
-Para predecir la masa de las generaciones superiores sin depender de mediciones empíricas, recurrimos al principio hidrodinámico de la "Masa Virtual" o "Masa Añadida". Cuando un cuerpo se acelera en un fluido, arrastra una capa del medio, aumentando su inercia. La masa efectiva ($m_n$) es la masa base ($m_e$) más el arrastre del fluido, el cual está gobernado por tres factores analíticos:
+* **El Muón (Segundo Armónico, $n=2$):**
+  El vórtice incorpora un nodo de resonancia ($n-1 = 1$). El esfuerzo nodal es $1^4 = 1$.
+  $$ m_\mu = m_e \left( 1 + 1.5 \times 137.036 \times 1 \right) = 206.55 \, m_e $$
+  Frente a la masa empírica observada ($206.76 \, m_e$), el funcional puro de fluidos alcanza una precisión del **99.89%**.
 
-*   **La Impedancia del Medio ($\alpha^{-1}$):** La cantidad de fluido arrastrado depende de la resistencia elástica del espacio. Como adelantaremos en el Capítulo 3, esta impedancia acústico-elástica está cuantificada por la constante de estructura fina invertida ($\alpha^{-1} \approx 137.036$).
-*   **El Coeficiente Toroidal ($3/2$):** Un anillo rotatorio genera una circulación dipolar. La solución analítica clásica para la inercia de un anillo de vórtice arroja un coeficiente de forma exacto de $3/2$.
-*   **La Superposición Nodal ($\sum k^4$):** Al vibrar en armónicos superiores, el vórtice crea "nodos" internos de fricción. Como nuestra Ley de Escala demostró previamente ($m_n^4 \propto \ln...$), la inercia topológica escala a la cuarta potencia. Por tanto, el arrastre es la superposición de todos los modos vibracionales internos, creciendo geométricamente ($k^4$) desde $k=1$ hasta el límite interno $n-1$.
+* **El Tau (Tercer Armónico, $n=3$):**
+  El vórtice sostiene un régimen con dos fronteras nodales ($n-1 = 2$). Sumamos la cuarta potencia de los nodos: $1^4 + 2^4 = 17$.
+  $$ m_\tau = m_e \left( 1 + 1.5 \times 137.036 \times 17 \right) = 3495.4 \, m_e $$
+  Frente a la inmensa masa empírica oficial ($3477.2 \, m_e$), el cálculo sostiene una asombrosa precisión del **99.48%**.
 
-Al ensamblar estos tres principios mecánicos, emerge la serie predictiva de masas para cualquier generación:
+**El Significado Físico de las Variaciones:**
+Los ínfimos desfases asintóticos no son fallas conceptuales, sino la manifestación predecible de la no-linealidad del medio continuo. La ecuación predictiva de primer orden asume un anillo paramétricamente rígido. Sin embargo, bajo presiones extremas (como en el Tau), el vórtice físico sufre compresión del núcleo y contracción relativista, perturbando el coeficiente ideal de arrastre de $3/2$ y "derramando" una fracción marginal de inercia inestable antes del desgarro definitivo.
 
-$$ 
-m_n = m_e \left( 1 + \frac{3}{2\alpha} \sum_{k=1}^{n-1} k^4 \right) 
-$$
+### La Predicción Teórica del Tiempo de Vida
 
-**La Evaluación Analítica de las Tres Generaciones**  
-Con la ecuación ensamblada, evaluamos el arrastre para cada armónico observado utilizando la impedancia teórica del vacío ($\alpha^{-1} = 137.036$):
+Con la magnitud de la masa predecible y el estrés topológico cuantificado, el reto final es el cálculo puro del tiempo de vida. En fluidodinámica, el tiempo de colapso por cavitación está dictado por la velocidad máxima de propagación de la ruptura ($c$) a través de la inmensa geometría deformada del vórtice. 
 
-**El Electrón (Estado Base, $n=1$):**  
-El límite de la sumatoria es $n-1 = 0$. La serie es nula.
-
-$$ 
-m_1 \approx m_e \left( 1 + \frac{3}{2\alpha} (0) \right) = m_e 
-$$
-
-El modelo predice exactamente la masa del electrón sin arrastre adicional, confirmando su flujo laminar perfecto y su estabilidad absoluta.
-
-**El Muón (Segundo Armónico, $n=2$):**  
-El vórtice incorpora un nodo de resonancia ($n-1 = 1$). El esfuerzo nodal es $1^4 = 1$.
-
-$$ 
-m_\mu \approx m_e \left( 1 + \frac{3}{2} (137.036) \cdot (1) \right) 
-$$
-
-$$ 
-m_\mu \approx m_e ( 1 + 205.55 ) = 206.55 \, m_e 
-$$
-
-La teoría predice analíticamente **$206.55 \, m_e$**. Frente a la masa empírica observada en laboratorio ($206.76 \, m_e$), la ecuación pura de fluidos alcanza una precisión del **99.89%**.
-
-**El Tau (Tercer Armónico, $n=3$):**  
-El vórtice sostiene un régimen turbulento con dos fronteras nodales ($n-1 = 2$). Sumamos la cuarta potencia de los nodos: $1^4 + 2^4 = 1 + 16 = 17$.
-
-$$ 
-m_\tau \approx m_e \left( 1 + \frac{3}{2} (137.036) \cdot (17) \right) 
-$$
-
-$$ 
-m_\tau \approx m_e ( 1 + 3494.4 ) = 3495.4 \, m_e 
-$$
-
-La teoría predice una masa límite de **$3495.4 \, m_e$**. Frente a la inmensa masa empírica oficial ($3477.2 \, m_e$), el cálculo sostiene una precisión del **99.48%**.
-
-**El Significado Físico de las Variaciones**  
-Los ínfimos desfases ($0.11\%$ para el Muón y $0.52\%$ para el Tau) no son fallas del modelo, sino la manifestación de la hidrodinámica real. La ecuación predictiva asume un anillo matemáticamente rígido, pero bajo presiones extremas, el vórtice físico sufre compresión del núcleo y contracción relativista. En el caso del Tau, la turbulencia es tan violenta que el remolino "derrama" una pequeña fracción de masa (ese $0.5\%$) antes de poder cerrarse. 
-
-**2. La Predicción Teórica del Tiempo de Vida**  
-Con la magnitud de la masa analíticamente predecible y el estrés topológico ya deducido, el reto final es el cálculo puro del tiempo de vida. En fluidodinámica, el tiempo de colapso por cavitación está dictado por la velocidad de propagación de la ruptura (la velocidad máxima cinemática, $c$) a través de la inmensa geometría estirada del vórtice. 
-
-Derivar teóricamente los $2.2$ microsegundos del Muón y los $2.9 \times 10^{-13}$ segundos del Tau, directamente desde su logaritmo de deformación, será la prueba de fuego definitiva. La MQH deja este camino abierto para que futuras simulaciones confirmen lo que la topología ya nos revela: el universo no juega a los dados, fluye obedeciendo las leyes absolutas de la mecánica de medios continuos.
+Derivar teóricamente los $2.2$ microsegundos del Muón y los $2.9 \times 10^{-13}$ segundos del Tau, directamente desde su logaritmo de deformación extrema, constituye la prueba de fuego de esta conjetura. La MQH deja este camino analítico abierto para que futuras simulaciones confirmen lo que la topología ya revela: el universo subatómico fluye obedeciendo estrictamente las leyes de la mecánica de medios continuos.
 
 
 **2.5 El Aporte Original de la MQH: Más allá de la Hidrodinámica Cuántica**
