@@ -926,15 +926,21 @@ Dejamos trazada esta pista analítica —la intersección entre la topología de
 
 Para resolver este funcional y demostrar el origen determinista del factor inercial, la MQH descompone la integral del nudo trébol ($T_{2,3}$) en sus dos operadores de confinamiento geométrico:
 
-**1. El Operador de Interferencia Nodal (El factor 6)**
+**1. El Operador de Interferencia Nodal: De la Proyección 2D al Volumen 3D (El factor 6)**
 
-El primer término del numerador describe la energía cinética del flujo base. En un tubo vorticial cerrado, los campos de velocidad poloidal ($p=2$) y toroidal ($q=3$) se superponen. Puesto que el fluido es incompresible, esta superposición genera un patrón de interferencia constructiva con un número discreto de nodos de máxima densidad de energía (picos de auto-inducción). El número de estos picos es exactamente el producto de los índices de enlazamiento topológico:
+Una objeción topológica superficial señalaría que la representación estándar del nudo trébol ($T_{2,3}$) posee únicamente 3 cruces. Sin embargo, esa es una ilusión geométrica causada por la proyección de un hilo unidimensional sobre un plano bidimensional (2D). 
+
+En la realidad física de la MQH, la partícula fundamental no es un hilo matemático plano, sino un tubo vorticial volumétrico (3D) de fluido incompresible. En esta topología, el flujo es forzado a circular simultáneamente en dos direcciones ortogonales: el campo de velocidad poloidal ($p=2$ vueltas transversales) y el toroidal ($q=3$ vueltas longitudinales). 
+
+Dado que en cada uno de los 3 "cruces" aparentes de la geometría se superponen volumétricamente las 2 corrientes de flujo ortogonales, la interferencia constructiva de la inercia genera un patrón tridimensional de onda estacionaria. El número de antinodos de máxima compresión dinámica (picos de auto-inducción) obedece estrictamente al producto de sus índices de enlazamiento volumétrico:
 
 $$
-N_{\text{nodos}} = p \times q = 2 \times 3 = 6
+N_{\text{antinodos}} = p \times q = 2 \times 3 = 6
 $$
 
-Esta cuantización espacial permite factorizar el escalar 6 fuera de la integral de torsión, actuando como el multiplicador estructural del sistema.
+Físicamente, cada uno de estos 6 antinodos funciona como un foco hiperdenso de estrés estructural donde la energía cinética del fluido se maximiza. Puesto que en la MQH la masa inercial es proporcional a la integral de volumen de esta energía confinada, la inercia del sistema se concentra en estos 6 "núcleos" de alta presión. 
+
+Por consiguiente, el escalar 6 no es un ajuste numerológico, sino el multiplicador topológico real dictado por la hidrodinámica: en el espacio 3D, la superposición volumétrica del nudo $T_{2,3}$ posee exactamente 6 veces la capacidad de almacenamiento inercial basal debido a sus picos de interferencia.
 
 **2. La Integración Torsional en el Espacio de Fase (El factor $\pi^5$)**
 
