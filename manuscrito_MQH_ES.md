@@ -872,6 +872,30 @@ $$
 
 **Conclusión mecánica:** Al comparar esta derivación fluida con la ecuación clásica ($\nabla \cdot \mathbf{E} = \frac{\rho_e}{\epsilon_0}$), descubrimos la verdadera identidad de la carga eléctrica. La "carga" ($\rho_e$) no es más que un sumidero o fuente de presión topológica ($-\nabla^2 P$). Un electrón (carga negativa) es un vórtice que genera una zona de baja presión en el medio, succionando el fluido circundante. Un positrón (carga positiva) invierte la dinámica de la presión. ¡La carga es pura mecánica de presiones!
 
+### 3.4 La Ley de Ampère-Maxwell y la Elasticidad de La Fuente
+
+El mayor desafío histórico de los modelos fluidodinámicos del siglo XIX fue explicar la propagación de ondas transversales (la luz). Un fluido ideal carece de rigidez estructural y, por tanto, no puede soportar fuerzas de corte (cizalladura). Sin embargo, la MQH postula que *La Fuente* no es un líquido clásico ideal, sino un **medio continuo hiperdenso y viscoelástico**. 
+
+En la mecánica de medios continuos, la velocidad de una onda transversal ($v_t$) en un medio elástico está dictada por la relación entre su módulo de rigidez transversal ($G$) y su densidad inercial ($\rho$):
+
+$$ v_t = \sqrt{\frac{G}{\rho}} $$
+
+En el electromagnetismo clásico, la velocidad de la luz se define mediante la permitividad ($\epsilon_0$) y la permeabilidad ($\mu_0$) del vacío:
+
+$$ c = \frac{1}{\sqrt{\epsilon_0 \mu_0}} $$
+
+La MQH revela que estas dos ecuaciones son, de hecho, idénticas. Las misteriosas constantes del vacío no son propiedades abstractas de la "nada", sino los coeficientes mecánicos directos del fluido:
+*   **Permeabilidad Magnética ($\mu_0$):** Representa la inercia rotacional del fluido; es decir, la resistencia del medio a la formación de vorticidad. Es el análogo directo de la densidad inercial ($\rho_0$).
+*   **Permitividad Eléctrica ($\epsilon_0$):** Representa la "complianza" elástica (el inverso del módulo de rigidez, $1/G$). Cuantifica cuánto cede el tejido espacial ante un esfuerzo de tensión antes de romperse.
+
+Bajo este marco mecanicista estricto, la brillante adición de Maxwell a la Ley de Ampère —la llamada "Corriente de Desplazamiento" ($\mathbf{J}_D = \epsilon_0 \frac{\partial \mathbf{E}}{\partial t}$)— pierde su misticismo. No es una corriente de cargas fantasmas cruzando el vacío; es la formulación matemática exacta de la **tasa de deformación elástica del medio**. 
+
+$$ \nabla \times \mathbf{B} = \mu_0 \mathbf{J} + \mu_0 \epsilon_0 \frac{\partial \mathbf{E}}{\partial t} $$
+
+Cuando un campo eléctrico varía en el tiempo, *La Fuente* se estira transversalmente como una membrana de altísima rigidez. La Corriente de Desplazamiento de Maxwell es, en términos de Navier-Stokes, la acumulación de energía potencial elástica en el fluido antes de que la tensión de corte fuerce la rotación (campo magnético). 
+
+Por lo tanto, la luz no es una entidad que "viaja a través" del vacío. Un fotón es una onda de corte (*shear wave*) propagándose a través de la inmensa tensión elástica de *La Fuente*, topada a la velocidad límite $c$ dictada por la brutal rigidez geométrica del medio cuántico.
+
 **3.4 La Ley de Ampère-Maxwell (La Elasticidad de La Fuente)**
 La última ecuación de Maxwell dicta que un campo magnético puede generarse de dos formas: por una corriente eléctrica ($\mathbf{J}$) o por un campo eléctrico cambiando en el tiempo (la famosa "corriente de desplazamiento" que Maxwell añadió para salvar la ecuación).
 
