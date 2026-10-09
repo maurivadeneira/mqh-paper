@@ -644,9 +644,9 @@ Con este andamiaje axiomático, la MQH no solo recupera el determinismo clásico
 
 **CAPÍTULO 3: La Unificación Electromagnética (De Navier-Stokes a Maxwell)**
 
-**3.1 La Identidad Matemática del Fluido**
+## 3.1 La Identidad Matemática del Fluido y el Isomorfismo Estructural
 
-Durante más de un siglo, el electromagnetismo se ha enseñado como un conjunto de campos abstractos flotando en el vacío. Sin embargo, James Clerk Maxwell dedujo originalmente estas leyes analizando tensiones y vórtices en un medio continuo. Para recuperar esta realidad física, la Mecánica Cuántica Hidrodinámica (MQH) establece un diccionario de identidades exactas entre la cinemática de un fluido ideal (gobernado por las ecuaciones de Euler / Navier-Stokes) y la electrodinámica clásica.
+Durante más de un siglo, el electromagnetismo se ha enseñado como un conjunto de campos abstractos flotando en el vacío. Sin embargo, James Clerk Maxwell dedujo originalmente estas leyes analizando tensiones y vórtices en un medio continuo. Para recuperar esta realidad física, la Mecánica Cuántica Hidrodinámica (MQH) establece un **isomorfismo estructural formal** entre la cinemática de un fluido ideal (gobernado por las ecuaciones de Euler / Navier-Stokes) y la electrodinámica clásica.
 
 En el marco de un medio continuo con densidad $\rho_0$, definimos los equivalentes mecánicos:
 
@@ -664,15 +664,16 @@ $$
 \mathbf{B} \equiv \nabla \times \mathbf{A} = \rho_0 (\nabla \times \mathbf{v})
 $$
 
-* **Campo Eléctrico ($\mathbf{E}$):** Es la fuerza neta que impulsa al fluido. En hidrodinámica, el fluido es empujado por dos cosas: una diferencia de presiones (gradiente $\nabla P$) y la inercia del movimiento que cambia en el tiempo.
+* **Campo Eléctrico ($\mathbf{E}$):** Es la fuerza neta que impulsa al fluido. En hidrodinámica, el fluido es empujado por dos causas: una diferencia de presiones (gradiente $\nabla P$) y la inercia del movimiento que cambia en el tiempo.
 
 $$
 \mathbf{E} \equiv -\nabla P - \frac{\partial \mathbf{A}}{\partial t}
 $$
 
-Con estas tres definiciones puramente mecánicas, las leyes "fundamentales" del electromagnetismo dejan de ser axiomas misteriosos y se convierten en simples consecuencias del cálculo vectorial sobre un fluido.
+Con estas tres definiciones puramente mecánicas, las leyes "fundamentales" del electromagnetismo revelan su verdadera naturaleza como consecuencias del cálculo vectorial sobre un fluido incompresible.
 
-> **Nota de rigor mecánico:** La definición de $\mathbf{E}$ mostrada arriba es la aproximación lineal clásica que usó Maxwell. Al hacerlo, se omitió el término convectivo no-lineal de Navier-Stokes $(\mathbf{v} \cdot \nabla \mathbf{v})$. Como veremos en el siguiente capítulo, recuperar esta no-linealidad hidrodinámica extrema será la clave exacta para descifrar misterios como el origen y el límite energético del neutrino.
+> **Nota de Rigor Mecánico y Límite Epistemológico:**  
+> Las definiciones mostradas arriba operan en el régimen elástico lineal. Reconocemos formalmente que recuperar estas identidades vectoriales no equivale aún a la derivación exhaustiva de la dinámica relativista de fuentes. Esta formulación inicial tiene como objetivo acotado probar la correspondencia matemática exacta (el isomorfismo clásico) entre las tensiones del medio continuo y los campos de Maxwell, omitiendo transitoriamente el término convectivo no-lineal de Navier-Stokes ($\mathbf{v} \cdot \nabla \mathbf{v}$). La extensión de este marco fluidodinámico para incorporar la dinámica tensorial de manera autónoma constituye el paso analítico subsiguiente de la MQH.
 
 **3.2 Derivación de las Leyes "Sin Fuentes"**
 En la física clásica, hay dos leyes de Maxwell que no dependen de las cargas, sino de la geometría misma del espacio. Al aplicar nuestro diccionario de fluidos, su derivación es matemáticamente trivial.
