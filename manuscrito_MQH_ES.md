@@ -534,9 +534,7 @@ A diferencia de los remolinos efímeros macroscópicos, el fermión más estable
 
 Igualando ambas expresiones para aislar la escala de longitud del vórtice, obtenemos: 
 
-$$
-c \cdot L = \frac{h}{m_e} \implies L = \frac{h}{m_e \cdot c}
-$$
+$$ c \cdot L = \frac{h}{m_e} \implies L = \frac{h}{m_e \cdot c} $$
 
 Introduciendo las constantes universales:
 *   $h = 6.62607 \times 10^{-34} \text{ kg}\cdot\text{m}^2/\text{s}$ (Límite de tensión elástica)
@@ -545,11 +543,9 @@ Introduciendo las constantes universales:
 
 El cálculo explícito arroja la dimensión macroscópica de la partícula: 
 
-$$
-L = \frac{6.62607 \times 10^{-34}}{(9.10938 \times 10^{-31}) \cdot (2.99792 \times 10^8)} = 2.42631 \times 10^{-12} \text{ m}
-$$
+$$ L = \frac{6.62607 \times 10^{-34}}{(9.10938 \times 10^{-31}) \cdot (2.99792 \times 10^8)} = 2.42631 \times 10^{-12} \text{ m} $$
 
-La ecuación arroja un perímetro físico exacto de 2.42 picómetros. La física ortodoxa midió este valor empíricamente en 1923 (denominándolo *Longitud de onda de Compton*), pero su dogma de la "partícula puntual" le impidió reconocerlo como la circunferencia física real del vórtice.
+La ecuación arroja un perímetro físico exacto de $2.42$ picómetros. Este valor coincide numéricamente con la denominada *Longitud de onda de Compton*, medida empíricamente desde 1923. En la MQH, establecemos como hipótesis geométrica fundamental que esta longitud no es un parámetro estadístico abstracto de interacción, sino la circunferencia física real del vórtice. Esta identificación no pretende ser una demostración *a priori*, sino el ancla empírica estructural del modelo: el electrón es el bloque base que calibra la geometría del espacio.
 
 ### El Límite de Colapso Esférico y el Cálculo de la Densidad ($\rho_0$)
 
