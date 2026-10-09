@@ -1085,14 +1085,19 @@ El átomo de hidrógeno en su conjunto se estructura topológicamente como un **
 * **El Radio Menor ($r$):** Corresponde a la sección transversal del flujo arrastrado, el grosor intrínseco de la "corriente" dictado por la huella basal del vórtice del electrón (su Longitud de Onda Compton reducida, $\bar{\lambda}_c \approx 0.386 \text{ pm}$).
 * **El Núcleo:** En el "agujero" central de este toroide reside el colosal pozo de baja presión gravitacional del nudo trébol ($6\pi^5$) del protón.
 
-**El Descubrimiento Geométrico: La Verdadera Naturaleza de la Constante de Estructura Fina**
+### El Descubrimiento Geométrico: La Verdadera Naturaleza de la Constante de Estructura Fina
+
 Esta arquitectura topológica nos permite resolver uno de los mayores misterios de la física contemporánea. Durante un siglo, la física ortodoxa ha considerado a la Constante de Estructura Fina ($\alpha \approx 1/137.036$) como un número "mágico" y adimensional, un parámetro fundamental inexplicable que determina la fuerza del electromagnetismo.
 
 Sin embargo, al calcular la proporción geométrica de este macro-toroide del átomo de hidrógeno —dividiendo su Radio Mayor ($R$) entre su radio menor ($r$)—, la matemática hidrodinámica arroja un resultado irrefutable:
 
-$$ \text{Proporción Geométrica } = \frac{R}{r} = \frac{52.91 \text{ pm}}{0.386 \text{ pm}} \approx 137.07 $$
+$$\text{Proporción Geométrica} = \frac{R}{r} = \frac{52.91 \text{ pm}}{0.386 \text{ pm}} \approx 137.07$$
 
-Esta proporción es exactamente el inverso de la Constante de Estructura Fina ($1/\alpha$). En la Mecánica Cuántica Hidrodinámica (MQH), la constante $\alpha$ deja de ser un número aleatorio del universo; es la **relación de aspecto geométrica (aspect ratio) del macro-toroide fundamental de la materia**. Es la proporción estricta entre el radio de giro orbital del electrón y el grosor de su propia línea de vórtice.
+Esta proporción es exactamente el inverso de la Constante de Estructura Fina ($1/\alpha$). 
+
+> **Nota Metodológica:** *Es importante precisar el estatus epistemológico de este resultado. No se trata de una deducción analítica forzada a partir de primeros principios abstractos, sino de un hallazgo geométrico emergente. Al evaluar las dimensiones del hidrógeno dentro del modelo, la proporción matemática simplemente "disparó" de manera natural el valor inverso de $\alpha$, revelando que no estamos ante una constante arbitraria del universo, sino ante la relación de aspecto geométrica inherente con la que opera el fluido en esta escala fractal.*
+
+En la Mecánica Cuántica Hidrodinámica (MQH), por tanto, la constante $\alpha$ deja de ser un número aleatorio del universo; es la relación de aspecto geométrica (*aspect ratio*) del macro-toroide fundamental de la materia. Es la proporción estricta entre el radio de giro orbital del electrón y el grosor de su propia línea de vórtice.
 
 Finalmente, lo que el Modelo Estándar percibe a través de la estadística matemática como una misteriosa "nube esférica de probabilidad" (el orbital 1s), es en realidad la envoltura hidrodinámica —promediada en el tiempo— de este macro-toroide perfecto. Esta estructura de corrientes explica de forma natural y mecánica por qué el átomo de hidrógeno posee un eje magnético dipolar, consolidando la máxima absoluta de la MQH: el universo es de naturaleza fractal (vórtices dentro de vórtices), regido íntegramente por las leyes inquebrantables de la mecánica de fluidos.
 
