@@ -1095,7 +1095,7 @@ $$\text{Proporción Geométrica} = \frac{R}{r} = \frac{52.91 \text{ pm}}{0.386 \
 
 Esta proporción es exactamente el inverso de la Constante de Estructura Fina ($1/\alpha$). 
 
-> **Nota Metodológica:** *Es importante precisar el estatus epistemológico de este resultado. No se trata de una deducción analítica forzada a partir de primeros principios abstractos, sino de un hallazgo geométrico emergente. Al evaluar las dimensiones del hidrógeno dentro del modelo, la proporción matemática simplemente "disparó" de manera natural el valor inverso de $\alpha$, revelando que no estamos ante una constante arbitraria del universo, sino ante la relación de aspecto geométrica inherente con la que opera el fluido en esta escala fractal.*
+> **Nota Metodológica:** *Es importante precisar el estatus epistemológico de este resultado. No se trata de una deducción analítica forzada a partir de primeros principios abstractos, sino de un hallazgo geométrico emergente. Al evaluar las dimensiones del hidrógeno dentro del modelo, la proporción matemática simplemente "disparó" de manera natural el valor inverso de la constante alfa, revelando que no estamos ante una constante arbitraria del universo, sino ante la relación de aspecto geométrica inherente con la que opera el fluido en esta escala fractal.*
 
 En la Mecánica Cuántica Hidrodinámica (MQH), por tanto, la constante $\alpha$ deja de ser un número aleatorio del universo; es la relación de aspecto geométrica (*aspect ratio*) del macro-toroide fundamental de la materia. Es la proporción estricta entre el radio de giro orbital del electrón y el grosor de su propia línea de vórtice.
 
