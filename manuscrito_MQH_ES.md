@@ -1477,3 +1477,7 @@ Lejos de invalidar la mecánica cuántica estándar, la MQH la subsume de manera
 [30] Rayleigh, Lord (John William Strutt). (1894). *The Theory of Sound*. Macmillan and Co. (El tratado histórico fundamental sobre la propagación de ondas longitudinales, compresiones y acústica en medios continuos, base de la naturaleza del neutrino en la MQH).
 
 [31] Pauli, W. (1930). *Open Letter to the Group of Radioactive Radioactive People at the Tübingen Conference*. (El planteamiento histórico original de la partícula neutra, reinterpretada en la MQH como la onda acústica longitudinal del fluido).
+
+[32] Faddeev, L., & Niemi, A. J. (1997). Stable knot-like structures in classical field theory. Nature, 387(6628), 58-61. (Demostración matemática de que las teorías de gauge estándar admiten solitones anudados estables, validando la topología $T_{2,3}$ del protón como una configuración energética confinada).
+
+[33] Moffatt, H. K., & Ricca, R. L. (1992). Helicity and the Călugăreanu invariant. Proceedings of the Royal Society of London. Series A: Mathematical and Physical Sciences, 439(1906), 411-429. (Fundamento de la termodinámica topológica que demuestra que la energía cinética de un tubo vorticial se descompone analíticamente en energía central y energía de torsión o "Twist Energy").
