@@ -626,28 +626,28 @@ $$
 $$
 
 1.  **El Electrón (Estado Base, $n=1$, $m_e = 0.511 \text{ MeV}$):**
-    
-    $$
-    \ln\left(\frac{8R_1}{r_1}\right) = \frac{1}{1^3} \left(\frac{0.511}{0.511}\right)^4 = 1
-    $$
-    
-    El remolino base es un vórtice esférico cerrado. Sus presiones se anulan; es topológicamente inmortal.
 
-2.  **El Muón ($n=2$, $m_\mu \approx 206.7 m_e$):**
-    
-    $$
-    \ln\left(\frac{8R_\mu}{r_\mu}\right) = \frac{1}{2^3} (206.7)^4 \approx 228,000,000
-    $$
-    
-    El requerimiento salta violentamente. Para no romperse, el anillo necesita una proporción de delgadez de $8R/r = e^{228,000,000}$. Físicamente, el "tubo" tendría que ser trillones de veces más delgado que la Longitud de Planck. Esta deformación excede el límite elástico por cizalladura (shear stress) del fluido. El remolino sufre cavitación y se desgarra (decaimiento).
+$$ 
+\ln\left(\frac{8R_1}{r_1}\right) = \frac{1}{1^3} \left(\frac{0.511}{0.511}\right)^4 = 1 
+$$
 
-3.  **El Tau ($n=3$, $m_\tau \approx 3477 m_e$):**
-    
-    $$
-    \ln\left(\frac{8R_\tau}{r_\tau}\right) = \frac{1}{3^3} (3477)^4 \approx 5.4 \times 10^{12}
-    $$
-    
-    El estiramiento topológico alcanza la insostenible cifra de 5.4 billones. El estrés estructural sobre el tejido continuo es tan absoluto que el desgarro es casi instantáneo.
+El remolino base es un vórtice esférico cerrado. Sus presiones se anulan; es topológicamente inmortal.
+
+**El Muón ($n=2$, $m_\mu \approx 206.7 m_e$):**
+
+$$ 
+\ln\left(\frac{8R_\mu}{r_\mu}\right) = \frac{1}{2^3} (206.7)^4 \approx 228,000,000 
+$$
+
+El requerimiento salta violentamente. Para no romperse, el anillo necesita una proporción de delgadez de $8R/r = e^{228,000,000}$. Físicamente, el "tubo" tendría que ser trillones de veces más delgado que la Longitud de Planck. Esta deformación excede el límite elástico por cizalladura (*shear stress*) del fluido. El remolino sufre cavitación y se desgarra (decaimiento).
+
+**El Tau ($n=3$, $m_\tau \approx 3477 m_e$):**
+
+$$ 
+\ln\left(\frac{8R_\tau}{r_\tau}\right) = \frac{1}{3^3} (3477)^4 \approx 5.4 \times 10^{12} 
+$$
+
+El estiramiento topológico alcanza la insostenible cifra de 5.4 billones. El estrés estructural sobre el tejido continuo es tan absoluto que el desgarro es casi instantáneo.
 
 Las generaciones de leptones no son parámetros libres divinos. El decaimiento no es probabilidad estadística; es la respuesta mecánica pura de un fluido incompresible ante un estrés topológico destructivo.
 
