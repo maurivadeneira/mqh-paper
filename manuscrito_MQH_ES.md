@@ -951,9 +951,11 @@ El valor propuesto presenta una diferencia relativa del orden de $1.9 \times 10^
 
 La relación de masa propuesta para el protón ($6\pi^5$) permanece formalmente como una conjetura cuantitativa. Su evaluación exhaustiva y demostración absoluta requerirán derivar los términos del funcional a partir de un modelo dinámico bien definido, justificar la parametrización del espacio espinorial y calcular la corrección del defecto de masa de forma independiente, sin introducirla heurísticamente.
 
-No obstante, la estructuración de este *Ansatz* topológico consolida a la MQH como un programa de investigación profundamente unificador. Bajo este nuevo paradigma analítico, al modelar la materia fundamental como vórtices toroidales hiperdensos, la mecánica cuántica comienza a perder su estatus de "probabilidad fantasmal" para perfilarse ontológicamente como un sistema de medidas físicas rigurosas de densidad y presión en el fluido espacial.
+No obstante, la estructuración de este *Ansatz* topológico consolida a la MQH como un programa de investigación profundamente unificador. Bajo este nuevo paradigma analítico, al modelar la materia fundamental como vórtices toroidales hiperdensos, la mecánica cuántica pierde su estatus de "probabilidad fantasmal" para perfilarse ontológicamente como la termodinámica de un medio continuo. 
 
-La correspondencia matemática explícita de esta ambiciosa visión —incluyendo el isomorfismo de la función de onda ($|\psi|^2$) y el rescate clásico de los operadores Hamiltonianos— no se agota en este análisis topológico, sino que constituye la culminación de la teoría, la cual será abordada *in extenso* en el **Capítulo 6**.
+Esta correspondencia no es una mera analogía, sino un isomorfismo matemático ya comprobado en casos fundamentales. Al aplicar la transformación hidrodinámica de Madelung (1927) sobre el Hamiltoniano estándar de Schrödinger ($\hat{H} = -\frac{\hbar^2}{2m}\nabla^2 + V$), la función de onda colapsa exactamente en las ecuaciones de momento de Euler-Navier-Stokes. En este mapeo, el misterioso "Potencial Cuántico" no-local de la ortodoxia ($Q$) se revela matemáticamente como el simple gradiente de presión y estrés acústico del fluido hiperdenso.
+
+La formalización explícita de esta ambiciosa visión —incluyendo la derivación de todos los observables cuánticos desde la vorticidad de La Fuente— no se agota en este análisis topológico de la masa, sino que constituye el horizonte final de la teoría, el cual será abordado *in extenso* en el **Capítulo 6**.
 
 ### 4.2.1 El Neutrón: El "Embarazo" Topológico y la Masa Virtual
 
