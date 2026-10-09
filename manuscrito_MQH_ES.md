@@ -810,6 +810,29 @@ Esta es la justificación geométrica y causal de por qué, en el Capítulo 2.4,
 
 Las ecuaciones de Maxwell nunca pertenecieron al vacío. Son, línea por línea, la descripción geométrica y cinemática de un fluido hiperdenso ($\rho_0 \approx 801,419 \text{ kg/m}^3$) siendo empujado, rotado y comprimido por estructuras toroidales. Al devolverle el sustrato material (La Fuente) a las matemáticas, la Mecánica Cuántica Hidrodinámica (MQH) no solo reconcilia el electromagnetismo con la gravedad (la inercia), sino que destierra para siempre el misticismo de las "acciones a distancia".
 
+## 3.7 La Emergencia de la Relatividad: Einstein como Cinemática de Fluidos
+
+El mayor obstáculo histórico para la aceptación de un medio continuo ha sido la aparente incompatibilidad con la Relatividad Especial de Albert Einstein y su postulado de la Invariancia de Lorentz. El Modelo Estándar asume que la dilatación del tiempo y la contracción de la longitud son propiedades abstractas de un "espacio-tiempo vacío". La MQH demuestra que estas transformaciones relativistas son, por el contrario, la respuesta geométrica ineludible de cualquier sistema de ondas al desplazarse a través de un fluido incompresible.
+
+### 1. La Contracción de Lorentz como Deformación Aerodinámica
+En la MQH, la materia elemental (leptones y hadrones) no está compuesta por partículas puntuales, sino por vórtices topológicos (estructuras de onda confinadas). La cohesión estructural de estos vórtices depende del intercambio continuo de gradientes de presión que se propagan por el medio a la velocidad de corte transversal límite, $c$. 
+
+Cuando un vórtice se desplaza a través de *La Fuente* con una velocidad macroscópica $v$, enfrenta una presión dinámica frontal. Para mantener el equilibrio hidrodinámico y asegurar que las ondas internas cierren su ciclo resonante frente al efecto Doppler del flujo en contra, el vórtice debe comprimirse físicamente en la dirección del movimiento. La fluidodinámica de un paquete de ondas confinado predice que este aplastamiento estructural sigue exactamente el factor de corrección de Heaviside-FitzGerald:
+$$ L = L_0 \sqrt{1 - \frac{v^2}{c^2}} $$
+La contracción de la longitud relativista no es una contracción del espacio abstracto, sino la deformación mecánica real de la topología del vórtice debido al arrastre contra el continuo espacial.
+
+### 2. La Dilatación del Tiempo como Retraso Cíclico
+Dado que las partículas son osciladores fluidodinámicos, su "reloj" interno es simplemente la frecuencia armónica de su rotación vorticial. Al desplazarse a gran velocidad $v$ por el fluido, las ondas transversales que conforman el vórtice deben trazar trayectorias helicoidales más largas (hipotenusas cinemáticas). Como la velocidad de propagación de la onda en el medio ($c$) es estructural e insuperable, la onda tarda más tiempo real en completar un ciclo de rotación completo. El reloj del vórtice se ralentiza por pura geometría euclidiana, derivando directamente el factor de Lorentz ($\gamma$):
+$$ \Delta t = \frac{\Delta t_0}{\sqrt{1 - \frac{v^2}{c^2}}} = \gamma \Delta t_0 $$
+
+### 3. El Isomorfismo de la Métrica Acústica (Relatividad General)
+Finalmente, los principios de la Relatividad General postulan que la masa curva el espacio-tiempo, alterando las geodésicas de la luz. Bajo la MQH, este fenómeno se recupera analíticamente a través del concepto de *Métrica Acústica* (o Gravedad Análoga). 
+
+Como se establece en la derivación gravitacional (Capítulo 5), la materia masiva opera como un sumidero volumétrico que induce un gradiente de flujo estacionario en *La Fuente*. Cuando una onda transversal (fotón) atraviesa este gradiente de velocidades y densidades del fluido, experimenta refracción. La trayectoria curva de la luz alrededor de una estrella no obedece a una geometría tetradimensional inmaterial, sino a la ley de refracción óptica de Snell operando sobre un medio continuo con un gradiente de impedancia provocado por el sumidero bariónico.
+
+### Conclusión Relativista
+La Invariancia de Lorentz y la Relatividad de Einstein no contradicen la existencia de *La Fuente*; de hecho, la exigen. Las ecuaciones relativistas constituyen la métrica fenomenológica efectiva —la "ilusión cinemática"— que experimentan los observadores materiales (que están hechos de vórtices y utilizan luz para medir) al desplazarse a través del inmenso océano hiperdenso del continuo espacial. La Relatividad es, en su núcleo fundamental, la acústica no-lineal de La Fuente.
+
 # CAPÍTULO 4: La Tabla Periódica de los Vórtices (Reinterpretando el Modelo Estándar)
 
 El Modelo Estándar de la física de partículas es, indiscutiblemente, el modelo matemático más preciso jamás construido. Sin embargo, su éxito predictivo se basa en un catálogo de decenas de partículas "fundamentales" y fuerzas mediadas por bosones virtuales, careciendo de una ontología subyacente. Desde la perspectiva de la Mecánica Cuántica Hidrodinámica (MQH), este "zoológico de partículas" no es un conjunto de entidades distintas, sino una taxonomía exhaustiva de las diversas topologías, armónicos y tensiones que puede adoptar el fluido hiperdenso de *La Fuente*.
