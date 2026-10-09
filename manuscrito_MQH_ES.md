@@ -836,9 +836,27 @@ $$
 
 ### 3. El Isomorfismo de la Métrica Acústica (Relatividad General)
 
-Finalmente, los principios de la Relatividad General postulan que la masa curva el espacio-tiempo, alterando las geodésicas de la luz. Bajo la MQH, este fenómeno se recupera analíticamente a través del concepto de *Métrica Acústica* (o Gravedad Análoga). 
+Finalmente, los principios de la Relatividad General postulan que la masa curva el espacio-tiempo, alterando las geodésicas de la luz mediante un tensor métrico ($g_{\mu\nu}$). Bajo la MQH, este fenómeno fenomenológico se recupera analíticamente a través de la *Métrica Acústica* (Gravedad Análoga). 
 
-Como se establece en la derivación gravitacional (Capítulo 5), la materia masiva opera como un sumidero volumétrico que induce un gradiente de flujo estacionario en *La Fuente*. Cuando una onda transversal (fotón) atraviesa este gradiente de velocidades y densidades del fluido, experimenta refracción. La trayectoria curva de la luz alrededor de una estrella no obedece a una geometría tetradimensional inmaterial, sino a la ley de refracción óptica de Snell operando sobre un medio continuo con un gradiente de impedancia provocado por el sumidero bariónico.
+Como demostró W. Unruh (1981), la propagación de una onda en un fluido incompresible y no viscoso que fluye a una velocidad $\mathbf{v}$, no sigue una geometría euclidiana simple, sino que queda gobernada por la métrica efectiva del medio continuo:
+
+$$
+ds^2 = \frac{\rho_0}{c} \left[ - \left( c^2 - v^2 \right) dt^2 - 2 \mathbf{v} \cdot d\mathbf{r} dt + d\mathbf{r}^2 \right]
+$$
+
+Al expresar esto matricialmente, emerge de las entrañas de la hidrodinámica el tensor métrico Lorentziano:
+
+$$
+g_{\mu\nu} = \frac{\rho_0}{c} 
+\begin{pmatrix} 
+-(c^2 - v^2) & -v_x & -v_y & -v_z \\ 
+-v_x & 1 & 0 & 0 \\ 
+-v_y & 0 & 1 & 0 \\ 
+-v_z & 0 & 0 & 1 
+\end{pmatrix}
+$$
+
+Como se establece en la derivación gravitacional (Capítulo 5), la materia masiva opera como un sumidero volumétrico que induce un campo de velocidades radiales en el fluido ($\mathbf{v}$). Cuando una onda transversal (fotón) atraviesa este sumidero, sufre el efecto de este tensor métrico. La trayectoria curva de la luz alrededor de una estrella no requiere la postulación de una topología tetradimensional inmaterial; emerge determinísticamente como la refracción de ondas dictada por el tensor de velocidad del continuo espacial.
 
 ### Conclusión Relativista
 
