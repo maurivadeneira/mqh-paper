@@ -947,21 +947,13 @@ $$
 
 El valor propuesto presenta una diferencia relativa del orden de $1.9 \times 10^{-5}$ respecto de la razón experimental observada ($1836.153$). Esta discrepancia constituye un problema cuantitativo abierto que la MQH debe explicar. Una posible corrección energética asociada a la estructura interna del vórtice (como la deformación tensorial o el límite relativista) solo podrá interpretarse como "defecto de masa" cuando su expresión y magnitud se deriven independientemente de las ecuaciones dinámicas. Hasta entonces, no debe considerarse una explicación establecida.
 
-**Conclusión: Alcance Actual y Criterios de Validación**
-
-La relación inercial propuesta ($6\pi^5$) permanece estrictamente como una conjetura cuantitativa. Su evaluación exhaustiva y demostración absoluta requerirán derivar los términos del funcional a partir de un modelo dinámico bien definido, determinar las condiciones de estabilidad no-lineal del nudo $T_{2,3}$ y calcular la corrección del defecto de masa de forma independiente, sin introducirla heurísticamente para reproducir el valor experimental.
-
-La MQH se presenta, por tanto, como un programa de investigación abierto. La validación de este modelo cuantitativo y la profunda reinterpretación hidrodinámica de la mecánica cuántica ortodoxa —incluyendo el isomorfismo de la función de onda ($|\psi|^2$) y el rescate físico de los operadores Hamiltonianos— no se agotan en el análisis topológico, sino que constituyen el horizonte ontológico de la teoría, el cual será abordado *in extenso* en el **Capítulo 6**.
-
 **Conclusión: El Paradigma Hidrodinámico y los Criterios de Validación**
 
-La MQH propone una profunda reinterpretación física del Modelo Estándar. Bajo este nuevo paradigma analítico, al modelar la materia fundamental como vórtices toroidales hiperdensos, los abstractos Hamiltonianos de la mecánica cuántica aspiran a reinterpretarse directamente como operadores de energía de ondas sobre un medio continuo. Consecuentemente, los valores absolutos al cuadrado de la función de onda ($|\psi|^2$) abandonarían su estatus de "probabilidad fantasmal" para revelarse ontológicamente como medidas físicas rigurosas de la densidad de energía y la distribución de presión en el fluido espacial.
+La relación de masa propuesta para el protón ($6\pi^5$) permanece formalmente como una conjetura cuantitativa. Su evaluación exhaustiva y demostración absoluta requerirán derivar los términos del funcional a partir de un modelo dinámico bien definido, justificar la parametrización del espacio espinorial y calcular la corrección del defecto de masa de forma independiente, sin introducirla heurísticamente.
 
-Sin embargo, para que esta ambiciosa visión alcance el estatus de teorema absoluto, la reinterpretación hidrodinámica sugerida por la MQH requerirá construir una correspondencia matemática explícita que recupere formalmente las predicciones observadas de la mecánica cuántica tradicional. 
+No obstante, la estructuración de este *Ansatz* topológico consolida a la MQH como un programa de investigación profundamente unificador. Bajo este nuevo paradigma analítico, al modelar la materia fundamental como vórtices toroidales hiperdensos, la mecánica cuántica comienza a perder su estatus de "probabilidad fantasmal" para perfilarse ontológicamente como un sistema de medidas físicas rigurosas de densidad y presión en el fluido espacial.
 
-Asimismo, la relación de masa propuesta para el protón ($6\pi^5$) permanece formalmente como una conjetura cuantitativa. Su evaluación exhaustiva requiere derivar los términos del funcional a partir de un modelo dinámico bien definido, justificar la parametrización del espacio espinorial y calcular cualquier corrección de defecto de masa de forma independiente. 
-
-La MQH se presenta, por tanto, como un programa de investigación abierto y unificador. Su capacidad explicativa y su promesa de desterrar la aleatoriedad cuántica deberán establecerse en los próximos años mediante derivaciones reproducibles, predicciones independientes y contrastes cuantitativos con los datos experimentales (como se esbozará en el Capítulo 6).experimentales.
+La correspondencia matemática explícita de esta ambiciosa visión —incluyendo el isomorfismo de la función de onda ($|\psi|^2$) y el rescate clásico de los operadores Hamiltonianos— no se agota en este análisis topológico, sino que constituye la culminación de la teoría, la cual será abordada *in extenso* en el **Capítulo 6**.
 
 ### 4.2.1 El Neutrón: El "Embarazo" Topológico y la Masa Virtual
 
