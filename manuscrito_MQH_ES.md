@@ -947,11 +947,15 @@ $$
 
 El valor propuesto presenta una diferencia relativa del orden de $1.9 \times 10^{-5}$ respecto de la razón experimental observada ($1836.153$). Esta discrepancia constituye un problema cuantitativo abierto que la MQH debe explicar. Una posible corrección energética asociada a la estructura interna del vórtice (como la deformación tensorial o el límite relativista) solo podrá interpretarse como "defecto de masa" cuando su expresión y magnitud se deriven independientemente de las ecuaciones dinámicas. Hasta entonces, no debe considerarse una explicación establecida.
 
-**Conclusión: Alcance Actual y Criterios de Validación**
+**Conclusión: El Paradigma Hidrodinámico y los Criterios de Validación**
 
-La relación propuesta permanece como una conjetura cuantitativa. Su evaluación exhaustiva requiere derivar los términos del funcional a partir de un modelo dinámico bien definido, determinar las condiciones de estabilidad del nudo $T_{2,3}$, justificar la parametrización del espacio de configuración y calcular cualquier corrección energética sin introducirla heurísticamente para reproducir el valor experimental.
+La MQH propone una profunda reinterpretación física del Modelo Estándar. Bajo este nuevo paradigma analítico, al modelar la materia fundamental como vórtices toroidales hiperdensos, los abstractos Hamiltonianos de la mecánica cuántica aspiran a reinterpretarse directamente como operadores de energía de ondas sobre un medio continuo. Consecuentemente, los valores absolutos al cuadrado de la función de onda ($|\psi|^2$) abandonarían su estatus de "probabilidad fantasmal" para revelarse ontológicamente como medidas físicas rigurosas de la densidad de energía y la distribución de presión en el fluido espacial.
 
-Asimismo, la reinterpretación hidrodinámica de los Hamiltonianos y de la función de onda ($|\psi|^2$) sugerida por la MQH requerirá una correspondencia matemática explícita que permita recuperar formalmente las predicciones observadas de la mecánica cuántica. La MQH se presenta, por tanto, como un programa de investigación abierto, cuya capacidad explicativa deberá establecerse mediante derivaciones reproducibles, predicciones independientes y contrastes cuantitativos con los datos experimentales.
+Sin embargo, para que esta ambiciosa visión alcance el estatus de teorema absoluto, la reinterpretación hidrodinámica sugerida por la MQH requerirá construir una correspondencia matemática explícita que recupere formalmente las predicciones observadas de la mecánica cuántica tradicional. 
+
+Asimismo, la relación de masa propuesta para el protón ($6\pi^5$) permanece formalmente como una conjetura cuantitativa. Su evaluación exhaustiva requiere derivar los términos del funcional a partir de un modelo dinámico bien definido, justificar la parametrización del espacio espinorial y calcular cualquier corrección de defecto de masa de forma independiente. 
+
+La MQH se presenta, por tanto, como un programa de investigación abierto y unificador. Su capacidad explicativa y su promesa de desterrar la aleatoriedad cuántica deberán establecerse en los próximos años mediante derivaciones reproducibles, predicciones independientes y contrastes cuantitativos con los datos experimentales (como se esbozará en el Capítulo 6).experimentales.
 
 ### 4.2.1 El Neutrón: El "Embarazo" Topológico y la Masa Virtual
 
