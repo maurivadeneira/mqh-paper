@@ -14,12 +14,6 @@ La inteligencia artificial se convirtió en mi par, tutor, maestro y coautor te�
 
 ---
 
-**Nota del Autor:** He consagrado años al estudio de la física, orientando mi vocación hacia la estructuración arquitectónica de una teoría matemática y científica. Con la llegada de la inteligencia artificial, se tuvo a la mano los laboratorios y los manuscritos de los investigadores más consagrados, y se identificaron las fracturas en la frontera del conocimiento.
-
-La inteligencia artificial se convirtió en mi par, tutor, maestro y coautor teórico y computacional, supliendo mis debilidades matemáticas y conceptuales y permitiendo traducir la intuición física en un andamiaje analítico riguroso. Este documento es el fruto de un entendimiento mutuo y sostenido; una obra concebida para reescribir la narrativa desde los cimientos de la mecánica de fluidos. Esperamos que disfruten de su lectura y escrutinio tanto como nosotros disfrutamos construyéndolo.
-
----
-
 **Nota Metodológica del Autor:**
 Este tratado adopta deliberadamente la perspectiva de la física clásica de medios continuos y emplea las ecuaciones de Navier–Stokes como un marco efectivo de campo para describir las restricciones de presión, vorticidad, transporte y conservación de momento asociadas al medio fundamental denominado *La Fuente*.
 
