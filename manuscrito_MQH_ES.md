@@ -872,17 +872,27 @@ $$
 
 **Conclusión mecánica:** Al comparar esta derivación fluida con la ecuación clásica ($\nabla \cdot \mathbf{E} = \frac{\rho_e}{\epsilon_0}$), descubrimos la verdadera identidad de la carga eléctrica. La "carga" ($\rho_e$) no es más que un sumidero o fuente de presión topológica ($-\nabla^2 P$). Un electrón (carga negativa) es un vórtice que genera una zona de baja presión en el medio, succionando el fluido circundante. Un positrón (carga positiva) invierte la dinámica de la presión. ¡La carga es pura mecánica de presiones!
 
-### 3.4 La Ley de Ampère-Maxwell (La Elasticidad de La Fuente)
+### 3.4 La Ley de Ampère-Maxwell y la Elasticidad de La Fuente
 
 La última ecuación de Maxwell dicta que un campo magnético puede generarse de dos formas: por una corriente eléctrica ($\mathbf{J}$) o por un campo eléctrico cambiando en el tiempo (la famosa "corriente de desplazamiento" que Maxwell añadió para salvar la ecuación).
 
 $$ \nabla \times \mathbf{B} = \mu_0 \mathbf{J} + \frac{1}{c^2} \frac{\partial \mathbf{E}}{\partial t} $$
 
-Para llegar a esto desde los fluidos, debemos entender que La Fuente es un medio elástico. Cuando perturbas el fluido, este intenta regresar a su estado de equilibrio (como una banda elástica). En las ecuaciones de onda de los fluidos (Navier-Stokes para un medio viscoelástico), la resistencia al corte (vorticidad) se relaciona directamente con el flujo masivo del fluido y su rebote elástico. 
+El mayor desafío histórico de los modelos fluidodinámicos del siglo XIX fue explicar la propagación de ondas transversales (la luz). Un fluido ideal carece de rigidez estructural y, por tanto, no puede soportar fuerzas de corte (cizalladura). Sin embargo, la MQH postula que *La Fuente* no es un líquido clásico ideal, sino un **medio continuo hiperdenso y viscoelástico**.
 
-En la mecánica de medios continuos, la propagación de ondas transversales (la luz) exige rigidez estructural. La velocidad de corte está dictada por la relación entre el módulo de rigidez transversal ($G$) y la densidad inercial ($\rho$). Al contrastar esto con la velocidad de la luz clásica ($c = 1/\sqrt{\epsilon_0 \mu_0}$), la MQH revela que las misteriosas constantes del vacío son los coeficientes mecánicos directos del fluido: la permeabilidad ($\mu_0$) es la inercia rotacional del medio, y la permitividad ($\epsilon_0$) es su "complianza" elástica (el inverso del módulo de rigidez, $1/G$).
+En la mecánica de medios continuos, la velocidad de una onda transversal ($v_t$) en un medio elástico está dictada por la relación entre su módulo de rigidez transversal ($G$) y su densidad inercial ($\rho$):
 
-Aplicando el rotacional a nuestra definición de Campo Magnético ($\mathbf{B} = \nabla \times \mathbf{A}$):
+$$ v_t = \sqrt{\frac{G}{\rho}} $$
+
+En el electromagnetismo clásico, la velocidad de la luz se define mediante la permitividad ($\epsilon_0$) y la permeabilidad ($\mu_0$) del vacío:
+
+$$ c = \frac{1}{\sqrt{\epsilon_0 \mu_0}} $$
+
+La MQH revela que estas dos ecuaciones son, de hecho, idénticas. Las misteriosas constantes del vacío no son propiedades abstractas de la "nada", sino los coeficientes mecánicos directos del fluido:
+*   **Permeabilidad Magnética ($\mu_0$):** Representa la inercia rotacional del fluido; es decir, la resistencia del medio a la formación de vorticidad. Es el análogo directo de la densidad inercial ($\rho_0$).
+*   **Permitividad Eléctrica ($\epsilon_0$):** Representa la "complianza" elástica (el inverso del módulo de rigidez, $1/G$). Cuantifica cuánto cede el tejido espacial ante un esfuerzo de tensión antes de romperse.
+
+Para llegar a la ecuación de Maxwell desde la mecánica de fluidos, aplicamos el rotacional a nuestra definición de Campo Magnético ($\mathbf{B} = \nabla \times \mathbf{A}$):
 
 $$ \nabla \times \mathbf{B} = \nabla \times (\nabla \times \mathbf{A}) $$
 
@@ -890,17 +900,19 @@ Usando la identidad vectorial general, esto equivale a:
 
 $$ \nabla \times \mathbf{B} = \nabla(\nabla \cdot \mathbf{A}) - \nabla^2 \mathbf{A} $$
 
-En la teoría de ondas acústicas dentro de un fluido, el Laplaciano del momento ($-\nabla^2 \mathbf{A}$) está gobernado por la ecuación de onda d'Alembertiana, impulsada por un flujo macroscópico continuo (la Corriente, $\mathbf{J}$):
+En la teoría de ondas acústicas dentro de un fluido viscoelástico, el Laplaciano del momento ($-\nabla^2 \mathbf{A}$) está gobernado por la ecuación de onda d'Alembertiana, impulsada por un flujo macroscópico continuo (la Corriente, $\mathbf{J}$):
 
 $$ -\nabla^2 \mathbf{A} = \mu_0 \mathbf{J} - \frac{1}{c^2} \frac{\partial^2 \mathbf{A}}{\partial t^2} $$
 
-Si reorganizamos los términos y sustituimos nuestra definición de campo eléctrico ($\mathbf{E}$), recuperamos mágicamente el término de Maxwell:
+Si reorganizamos los términos y sustituimos nuestra definición hidrodinámica de campo eléctrico ($\mathbf{E} = -\nabla P - \frac{\partial \mathbf{A}}{\partial t}$), recuperamos mágicamente el término de Maxwell:
 
 $$ \nabla \times \mathbf{B} = \mu_0 \mathbf{J} + \mu_0 \epsilon_0 \frac{\partial \mathbf{E}}{\partial t} $$
 
 **Conclusión mecánica:**
-- La Corriente Eléctrica ($\mathbf{J}$) no es más que el flujo macroscópico de estos remolinos (vórtices) desplazándose a través del océano de La Fuente.
-- La Corriente de Desplazamiento ($\frac{\partial \mathbf{E}}{\partial t}$), que siempre ha sido un concepto abstracto difícil de visualizar, es físicamente el rebote elástico del espacio. Cuando un campo eléctrico (presión) cambia de golpe, el fluido "tiembla", generando ondas de choque transversales que nosotros medimos como un campo magnético inducido. Por lo tanto, la luz no es una entidad que "viaja a través" del vacío. Un fotón es una onda de corte (*shear wave*) propagándose a través de la inmensa tensión elástica de La Fuente.
+*   **La Corriente Eléctrica ($\mathbf{J}$):** No es más que el flujo macroscópico de remolinos desplazándose a través del océano de *La Fuente*.
+*   **La Corriente de Desplazamiento ($\frac{\partial \mathbf{E}}{\partial t}$):** Que siempre ha sido un concepto abstracto difícil de visualizar, es físicamente el **rebote elástico del espacio**. Cuando un campo eléctrico (presión) cambia de golpe, *La Fuente* se estira transversalmente como una membrana de altísima rigidez; el fluido "tiembla", generando ondas de choque transversales que nosotros medimos como un campo magnético inducido.
+
+Por lo tanto, la luz no es una entidad que "viaja a través" del vacío. Un fotón es una onda de corte (*shear wave*) propagándose a través de la inmensa tensión elástica de *La Fuente*, topada a la velocidad límite $c$ dictada por la brutal rigidez geométrica del medio cuántico.
 
 **3.5 La Revelación de $\alpha$: La Impedancia Acústico-Elástica de La Fuente**
 
