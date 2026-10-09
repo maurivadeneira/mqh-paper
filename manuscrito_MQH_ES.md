@@ -956,9 +956,10 @@ En el marco de la Cromodinámica Cuántica (QCD) del Modelo Estándar, la inmens
 Para abordar la masa del nucleón desde la mecánica de fluidos, la MQH rescata dos intuiciones históricas fundamentales que la ortodoxia abandonó. La primera es la proposición de Lord Kelvin (1867) de que la materia está constituida por "átomos-vórtice", es decir, topologías anudadas en un medio continuo. La segunda es la asombrosa observación empírica publicada por el físico Friedrich Lenz en 1951, quien notó que la relación exacta entre la masa del protón y la del electrón se aproxima con extrema precisión al valor geométrico $6\pi^5 \approx 1836.118$. Durante setenta años, este número ha sido tratado como una mera curiosidad numerológica debido a la carencia de un modelo físico que lo justificara.
 
 **B. La Ruta Exploratoria: El Nudo Trébol y el Espacio de Fase**
-Durante el desarrollo de esta teoría, y en estrecha colaboración humano-computacional, nos propusimos construir el puente analítico entre el nudo de Kelvin y el número de Lenz. Partimos de modelar el protón como la topología anudada estable más simple para confinar tres flujos (quarks): el nudo trébol ($T_{2,3}$). 
+Durante el desarrollo de esta teoría, y en estrecha colaboración humano-computacional, nos propusimos construir el puente analítico entre el nudo de Kelvin y el número de Lenz. Partimos de modelar el protón como la topología anudada estable más simple para confinar tres flujos (quarks): el nudo trébol ($T_{2,3}$).
 
 La geometría espacial de su línea central se parametrizó mediante las ecuaciones:
+
 $$
 \mathbf{r}(t) = 
 \begin{pmatrix}
@@ -970,19 +971,23 @@ a\sin(3t)
 $$
 
 Nuestra intuición hidrodinámica sugirió que el multiplicador inercial ($1836$) debía surgir de dos fuentes de estrés estructural al estabilizar este nudo contra la presión de *La Fuente*:
-1. **El Estrés Nodal (El factor 6):** Hipotetizamos que surgía de la hiper-velocidad requerida en los cuellos de botella geométricos, determinada por el producto de sus índices de enlazamiento toroidal ($p \times q = 2 \times 3 = 6$).
+1. **El Estrés Nodal (El factor $6$):** Hipotetizamos que surgía de la hiper-velocidad requerida en los cuellos de botella geométricos, determinada por el producto de sus índices de enlazamiento toroidal ($p \times q = 2 \times 3 = 6$).
 2. **La Torsión Volumétrica (El factor $\pi^5$):** Conjeturamos que, a diferencia del área de fase bidimensional de un anillo simple, el nudo trébol exigía integrar su energía de torsión geométrica sobre un espacio de configuración ampliado. Al proyectar esto sobre cinco grados de libertad ortogonales (análogo a una fibración geométrica para $SU(2)$), la integración de cinco diferenciales angulares independientes en el intervalo de $[0, \pi]$ arrojaba exactamente $\pi^5$.
 
-El ensamblaje de ambos factores producía la seductora identidad: $\frac{M_p}{m_e} = 6\pi^5$. 
+El ensamblaje de ambos factores producía la seductora identidad: $\frac{M_p}{m_e} = 6\pi^5$.
 
 **C. El Límite Epistemológico y la Hipótesis de la Razón de Masas**
-Sin embargo, el rigor ineludible de la mecánica de medios continuos nos exige reconocer la frontera entre una intuición geométrica brillante y una derivación matemática concluida. Demostrar formalmente que cinco integrales dan $\pi^5$ no es equivalente a demostrar que la dinámica física de las ecuaciones de Navier-Stokes para el nudo exige *exactamente* esas cinco integrales con esa medida específica. 
+Sin embargo, el rigor ineludible de la mecánica de medios continuos nos exige reconocer la frontera entre una intuición geométrica brillante y una derivación matemática concluida. Demostrar formalmente que cinco integrales dan $\pi^5$ no es equivalente a demostrar que la dinámica física de las ecuaciones de Navier-Stokes para el nudo exige *exactamente* esas cinco integrales con esa medida específica.
 
 Para que esta derivación sea un teorema absoluto, aún falta formular el campo de velocidades tridimensional exacto para el tubo vorticial, la condición de frontera que estabiliza la vorticidad transversal, y la demostración de que el cociente de las energías cinéticas confinadas (entre el nudo trébol y el anillo laminar del electrón) colapsa irremediablemente en dicha métrica.
 
 Por consiguiente, en esta obra fundacional de la MQH, establecemos la identidad:
-$$ \frac{M_p}{m_e} = 6\pi^5 \approx 1836.118 $$
-no como un teorema finalizado, sino formalmente como **la Conjetura Cuantitativa de la Masa Bariónica**. 
+
+$$
+\frac{M_p}{m_e} = 6\pi^5 \approx 1836.118
+$$
+
+no como un teorema finalizado, sino formalmente como la **Conjetura Cuantitativa de la Masa Bariónica**.
 
 Dejamos trazada esta pista analítica —la intersección entre la topología de nudos y los volúmenes de torsión en espacios de fase multidimensionales— como un reto abierto para la comunidad de física matemática. Si la futura integración rigurosa del campo de velocidades del nudo $T_{2,3}$ en un fluido hiperdenso arroja este cociente, la MQH habrá resuelto analíticamente el origen de la masa de la materia ordinaria sin recurrir a parámetros libres.
 
