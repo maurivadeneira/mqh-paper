@@ -1436,6 +1436,39 @@ Bajo este enfoque de reconciliación determinista, los pilares de la cuántica o
 
 Lejos de invalidar la mecánica cuántica estándar, la MQH la subsume de manera natural. El Modelo Estándar y su andamiaje estadístico se erigen así como el "límite de campo medio" de una realidad subyacente que es geométrica, estructurada y regida por la implacable exactitud causal de la dinámica de fluidos.
 
+## APÉNDICE A: Verificación Dimensional y Definición de Escalas
+
+Para garantizar la auditabilidad formal del modelo, se definen las escalas geométricas utilizadas y se verifica la coherencia dimensional en el Sistema Internacional (SI).
+
+**A.1 Definición Operativa de Escalas**
+*   $R$ (Radio Mayor Base): Longitud de onda de Compton reducida del electrón ($\bar{\lambda}_c = \frac{h}{2\pi m_e c}$).
+*   $r$ (Radio Menor Base): Grosor del cordón transversal, acotado por $R \cdot \alpha$.
+*   $\lambda_c$: Longitud de onda de Compton estándar ($\frac{h}{m_e c}$).
+
+**A.2 Verificación Dimensional de la Densidad ($\rho_0$)**
+Ecuación deducida: $\rho_0 = \frac{4\pi m_e^4 c^3}{h^3}$. 
+Sustituyendo unidades base ($[kg]$, $[m/s]$, $[kg \cdot m^2 / s]$):
+$$ 
+[\rho_0] = \frac{[kg]^4 [m/s]^3}{([kg \cdot m^2 / s])^3} = \frac{kg^4 \cdot m^3 / s^3}{kg^3 \cdot m^6 / s^3} = \frac{kg}{m^3} 
+$$
+*(Resultado: Densidad volumétrica pura).*
+
+**A.3 Verificación Dimensional del Neutrino ($E_{\nu(max)}$)**
+Ecuación deducida: $E_{\nu(max)} = \frac{3}{5}\alpha^3 (m_e c^2)$.
+Siendo $\alpha$ y $3/5$ coeficientes geométricos adimensionales:
+$$ 
+[E_{\nu(max)}] = [kg] [m/s]^2 = kg \cdot \frac{m^2}{s^2} \equiv \text{Joules (J)} \equiv \text{eV}
+$$
+*(Resultado: Energía pura).*
+
+**A.4 Verificación Dimensional de la Aceleración Límite ($a_0$)**
+Ecuación deducida: $a_0 = \frac{G_{hidro} \cdot m_p}{(\lambda_c / 2)^2}$. 
+Sabiendo que $G_{hidro}$ posee unidades de $[m^3 \cdot kg^{-1} \cdot s^{-2}]$:
+$$ 
+[a_0] = \frac{[m^3 \cdot kg^{-1} \cdot s^{-2}] \cdot [kg]}{[m]^2} = \frac{m^3 \cdot s^{-2}}{m^2} = \frac{m}{s^2} 
+$$
+*(Resultado: Aceleración cinemática pura).*
+
 ---
 
 ## REFERENCIAS Y BIBLIOGRAFÍA
