@@ -41,7 +41,7 @@ El espacio no es un vacío geométrico; es un medio físico, continuo, incompres
 Basada en la inercia del fluido cuántico:
 
 $$
-\rho_0 = \frac{2 m^3 c^2}{h^2 R} \approx 8.01 			times 10^5 \text{ kg/m}^3
+\rho_0 = \frac{2 m^3 c^2}{h^2 R} \approx 8.01 \times 10^5 \text{ kg/m}^3
 $$
 
 **4. EL ELECTRÓN (Fermión Base)** 
