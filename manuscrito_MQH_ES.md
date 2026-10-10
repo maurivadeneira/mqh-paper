@@ -1108,16 +1108,16 @@ En el marco de la Mecánica Cuántica Hidrodinámica (MQH), el neutrino se redef
 La inercia límite que este pulso longitudinal puede disipar no es un parámetro empírico, sino que se deriva de forma completamente analítica a través de la ecuación de saturación geométrica del medio:
 
 $$
-E_{\nu(max)} = \frac{3}{5}\alpha^3 m_e
+E_{\nu(max)} = \frac{3}{5}\alpha^3 (m_e c^2)
 $$
 
 La deducción rigurosa de cada componente de esta identidad mecanicista se desglosa a continuación:
 
-**1. El Ancla Inercial Base ($m_e c^2$)**  
+**1. El Ancla Inercial Base ($m_e c^2$)**
 Todo pulso longitudinal subatómico es el evento de disipación de un estado fundamental excitado o fracturado. La energía de reposo del electrón ($m_e c^2 \approx 510,998.95 \text{ eV}$) opera como la base energética del sistema topológico original; constituye el límite de energía confinada del cual se originará la fracción de fractura.
 
-**2. La Fracción de Energía Volumétrica ($\alpha^3$)**  
-Cuando un nudo topológico colapsa, la disipación de la energía está acotada por las fronteras geométricas del volumen de confinamiento. En el sistema hidrodinámico base (el hidrógeno), el macro-vórtice opera entre dos fronteras espaciales: el radio orbital macroscópico de equilibrio ($R$, el Radio de Bohr) y el núcleo transversal de la línea de vórtice ($r$, el Radio de Compton reducido).  
+**2. La Fracción de Energía Volumétrica ($\alpha^3$)**
+Cuando un nudo topológico colapsa, la disipación de la energía está acotada por las fronteras geométricas del volumen de confinamiento. En el sistema hidrodinámico base (el hidrógeno), el macro-vórtice opera entre dos fronteras espaciales: el radio orbital macroscópico de equilibrio ($R$, el Radio de Bohr) y el núcleo transversal de la línea de vórtice ($r$, el Radio de Compton reducido).
 
 Dado que la Constante de Estructura Fina ($\alpha$) en la MQH se deduce geométricamente como la relación de aspecto de estos radios ($\alpha = r/R$), y asumiendo una distribución de densidad de energía uniforme en el fluido incompresible local, la variación de energía inercial ($\Delta E_{vol}$) liberada durante una ruptura transversal localizada escala proporcionalmente a la relación de los volúmenes esféricos de control:
 
@@ -1127,8 +1127,8 @@ $$
 
 Esta restricción volumétrica indica que cualquier intento mecánico de inyectar una mayor fracción de energía en el medio desencadenaría un esfuerzo de corte transversal, obligando a la energía excedente a curvarse y regenerar vorticidad (masa rotacional) en lugar de propagarse como un solitón longitudinal puro.
 
-**3. El Potencial de Auto-Energía Esférica ($\frac{3}{5}$)**  
-Al ser inyectada esta fracción energética ($\alpha^3 m_e c^2$) en el fluido incompresible, la Ecuación de Poisson para la dispersión de la presión dicta que la perturbación debe estabilizarse tridimensionalmente. En un medio continuo isótropo, la energía requerida para estructurar una perturbación escalar uniforme (esfera) desde el infinito se rige por la integración clásica del potencial de ensamble. El coeficiente exacto de la auto-energía geométrica de una distribución de densidad uniforme es $\frac{3}{5}$.  
+**3. El Potencial de Auto-Energía Esférica ($\frac{3}{5}$)**
+Al ser inyectada esta fracción energética ($\alpha^3 m_e c^2$) en el fluido incompresible, la Ecuación de Poisson para la dispersión de la presión dicta que la perturbación debe estabilizarse tridimensionalmente. En un medio continuo isótropo, la energía requerida para estructurar una perturbación escalar uniforme (esfera) desde el infinito se rige por la integración clásica del potencial de ensamble. El coeficiente exacto de la auto-energía geométrica de una distribución de densidad uniforme es $\frac{3}{5}$.
 
 Al aplicar este coeficiente integrador sobre la densidad de energía volumétrica liberada, se obtiene analíticamente la energía total de la perturbación longitudinal:
 
@@ -1136,7 +1136,7 @@ $$
 E_{\nu(max)} = \frac{3}{5}\alpha^3 (m_e c^2)
 $$
 
-**4. Convergencia Analítica y Cota Cosmológica Observacional**  
+**4. Convergencia Analítica y Cota Cosmológica Observacional**
 Sustituyendo el valor analítico de los parámetros geométricos del fluido ($\alpha \approx 1/137.035999$) y la energía de reposo del electrón, la ecuación arroja un valor teórico autónomo para la inercia acústica del solitón:
 
 $$
@@ -1149,13 +1149,13 @@ $$
 
 Este cálculo puramente hidrodinámico y geométrico resulta coincidir, con un alto grado de precisión empírica, con las más recientes mediciones de los sondeos cosmológicos de fondo cósmico de microondas y oscilaciones acústicas de bariones (Misión Planck, 2018), los cuales fijan la cota superior estricta para la suma de las masas de los neutrinos en $\sum m_{\nu} < 0.12 \text{ eV}$.
 
-#### 5. Balance Termodinámico del Decaimiento Beta
+**5. Balance Termodinámico del Decaimiento Beta**
 Bajo el paradigma ortodoxo, surge una aparente divergencia de escalas: el déficit energético observado en el decaimiento de un neutrón es del orden de cientos de KeV, mientras que el neutrino teórico apenas transporta $\sim 0.119 \text{ eV}$.
 
 La dinámica de fluidos de la MQH restaura el rigor del balance termodinámico, indicando que el exceso energético inercial ($\approx 1.5 \, m_e$) originado por el hiper-arrastre acústico previo del electrón confinado dentro del protón no se invierte en estructurar el neutrino. Esta energía acumulada se transforma predominantemente en la Energía Cinética direccional con la que el electrón es expulsado del núcleo para recuperar su flujo laminar libre. El pulso longitudinal (neutrino) de $0.119 \text{ eV}$ representa única y exclusivamente la disipación acústica topológica del desgarro mismo; el remanente inercial de la reconfiguración del fluido base.
 
-#### 6. Frecuencia Acústica y la Sección Eficaz de Interacción (La Dinámica de Transmisión Longitudinal)
-Para comprender la aparente "invisibilidad" del neutrino y su extremadamente baja sección eficaz de interacción frente a la materia ordinaria, es imperativo traducir su inercia a su frecuencia de resonancia acústica en el fluido ($E = h\nu$). Al sustituir la masa del estado base por la frecuencia Compton del electrón ($\nu_e \approx 1.23 \times 10^{20} \text{ Hz}$), la frecuencia del pulso longitudinal se deduce como:
+**6. Frecuencia Acústica y la Sección Eficaz de Interacción (La Dinámica de Transmisión Longitudinal)**
+Para comprender la aparente "invisibilidad" del neutrino y su extremadamente baja sección eficaz de interacción frente a la materia ordinaria, es imperativo traducir su inercia a su frecuencia de resonancia acústica en el fluido ($E=h\nu$). Al sustituir la masa del estado base por la frecuencia Compton del electrón ($\nu_e \approx 1.23 \times 10^{20} \text{ Hz}$), la frecuencia del pulso longitudinal se deduce como:
 
 $$
 \nu_{\nu} = \frac{3}{5} \alpha^3 \nu_e \approx 28.7 \text{ THz}
@@ -1165,7 +1165,7 @@ La MQH predice que el solitón neutrino opera a una frecuencia aproximada de $28
 
 Este resultado explica mecánicamente la falta de interacción estadística. Dado que la materia bariónica y leptónica está estructurada por vórtices de momento angular transversal, y el pulso del neutrino es una onda de compresión puramente longitudinal, los campos de velocidad de ambos fenómenos son ortogonales. El solitón transita a través de los orbitales atómicos sin inducir fricción ni perturbar el momento angular local. En mecánica de fluidos, este fenómeno es análogo a una onda oceánica profunda de gran longitud (tsunami) que atraviesa sistemas de flotación superficiales sin alterar su estado inercial.
 
-#### 7. El Mecanismo de Detección: Detonación por Choque Inelástico
+**7. El Mecanismo de Detección: Detonación por Choque Inelástico**
 Si el solitón atraviesa el flujo transversal sin perturbación geométrica, surge la necesidad de explicar las colosales liberaciones energéticas registradas en detectores de Cherenkov (como Super-Kamiokande).
 
 Bajo la MQH, este fenómeno no es una transferencia directa de la energía cinética del neutrino. Debido a la estricta incompresibilidad local del fluido espacial, cuando esta onda longitudinal extrema impacta frontalmente contra un núcleo topológico de máxima rigidez (el nudo bariónico de un átomo masivo), se produce un choque acústico inelástico.
