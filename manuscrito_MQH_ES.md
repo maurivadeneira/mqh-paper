@@ -86,7 +86,7 @@ $$
 E_{max} = \frac{3}{5}\alpha^3 m_e \approx 0.119 \text{ eV} 
 $$ 
 
-Este resultado empata con precisión quirúrgica con la cota cosmológica observacional ($\sum m_{\nu} < 0.12 \text{ eV}$), demostrando que el neutrino es la onda de baja frecuencia que atraviesa la materia sin perturbar su momento angular transversal.
+Este resultado converge de forma notable con la cota cosmológica observacional ($\sum m_{\nu} < 0.12 \text{ eV}$), demostrando que el neutrino es la onda de baja frecuencia que atraviesa la materia sin perturbar su momento angular transversal.
 
 **10. EL UMBRAL GALÁCTICO ($a_0$) Y LA CONEXIÓN MICRO-MACRO**
 La aceleración crítica $a_0$, que marca la transición en la rotación de las galaxias, no es un parámetro empírico ajustado a mano. La MQH la deduce analíticamente como el límite estructural absoluto de *La Fuente*: la tensión gravitacional unitaria ejercida por un sumidero bariónico fundamental (el protón) sobre la frontera transversal del vórtice más cercano (el límite de la onda del electrón).
@@ -95,7 +95,7 @@ $$
 a_0 = \frac{G_{hidro} \cdot m_p}{(\lambda_c / 2)^2} \approx 1.13 \times 10^{-10} \text{ m/s}^2
 $$
 
-Este valor teórico puro converge impecablemente con el umbral astronómico medido en los bordes galácticos ($\approx 1.2 \times 10^{-10} \text{ m/s}^2$), erradicando definitivamente el paradigma de la Materia Oscura al demostrar que la macro-dinámica del cosmos es un reflejo fractal exacto de la mecánica cuántica de fluidos.
+Este valor teórico puro converge impecablemente con el umbral astronómico medido en los bordes galácticos ($\approx 1.2 \times 10^{-10} \text{ m/s}^2$), ofreciendo una derivación analítica frente al paradigma de la Materia Oscura al demostrar que la macro-dinámica del cosmos es un reflejo fractal exacto de la mecánica cuántica de fluidos.
 
 ---
 ## NOMENCLATURA Y PARÁMETROS DEL MEDIO CONTINUO
@@ -510,7 +510,7 @@ $$
 E = \frac{1}{2} \rho_0 \Gamma^2 R \ln\left(\frac{8R}{r}\right)
 $$
 
-Bajo el principio de equivalencia masa-energía, esta ecuación fluidodinámica constituye la fórmula analítica de la masa en reposo. Además, demuestra de manera irrefutable que las partículas elementales no pueden ser "puntos adimensionales" como postula erróneamente el Modelo Estándar: si un núcleo poseyera un radio $r=0$, el logaritmo tendería al infinito, generando una masa infinita. Esta derivación obliga al estrato cuántico a poseer volumen, tensión geométrica y estructura topológica real.
+Bajo el principio de equivalencia masa-energía, esta ecuación fluidodinámica constituye la fórmula analítica de la masa en reposo. Además, indica analíticamente que las partículas elementales no pueden ser "puntos adimensionales" como postula erróneamente el Modelo Estándar: si un núcleo poseyera un radio $r=0$, el logaritmo tendería al infinito, generando una masa infinita. Esta derivación obliga al estrato cuántico a poseer volumen, tensión geométrica y estructura topológica real.
 
 Una vez obtenida la energía cinética del medio continuo confinado, aplicamos el Principio de Equivalencia Inercial del Postulado 2, el cual establece que la masa inercial ($m$) es estrictamente la energía encerrada dividida por el cuadrado de la velocidad límite del medio ($c^2$):
 
@@ -779,7 +779,7 @@ $$
 **Conclusión mecánica:** La inducción electromagnética descubierta por Faraday en 1831 no es magia a distancia. Es la ley de inercia rotacional de los fluidos: si alteras la velocidad de giro de un remolino en La Fuente (cambias $\mathbf{B}$ en el tiempo), generas una fuerza de arrastre circular ($\mathbf{E}$) en el fluido circundante.
 
 **3.3 La Ley de Gauss para la Electricidad (El Origen Hidrodinámico de la Carga)**
-La Ley de Gauss establece que el flujo del campo eléctrico a través de una superficie cerrada es proporcional a la "carga eléctrica" encerrada ($\nabla \cdot \mathbf{E} = \frac{\rho_e}{\epsilon_0}$). Durante siglos, la carga ($\rho_e$) se ha aceptado como una propiedad mágica intrínseca de la materia.
+La Ley de Gauss establece que el flujo del campo eléctrico a través de una superficie cerrada es proporcional a la "carga eléctrica" encerrada ($\nabla \cdot \mathbf{E} = \frac{\rho_e}{\epsilon_0}$). Durante siglos, la carga ($\rho_e$) se ha aceptado como una propiedad intrínseca inexplicable de la materia.
 
 En la MQH, la "carga" no es una propiedad, es un evento mecánico. Para demostrarlo, aplicamos el operador divergencia ($\nabla \cdot$) a nuestra definición del campo eléctrico ($\mathbf{E} = -\nabla P - \frac{\partial \mathbf{A}}{\partial t}$):
 
@@ -1284,11 +1284,11 @@ Este valor de $7.20 \times 10^{22} \text{ Pascales}$ revela una propiedad fundam
 
 El colofón del Modelo Estándar fue la postulación del Bosón de Higgs y su campo escalar asociado (el mecanismo de ruptura espontánea de simetría), introducido con el único propósito de explicar cómo partículas teóricamente puntuales adquieren masa. La premisa ortodoxa es que el vacío está lleno de una "melaza cuántica" que frena a las partículas, otorgándoles inercia.
 
-Con la formalización de la MQH, el mecanismo de Higgs se revela como un pleonasmo matemático, un artificio redundante y obsoleto. 
+Con la formalización de la MQH, el mecanismo de Higgs se revela como un artificio no necesario. 
 
 Como se dedujo analíticamente en el Capítulo 2.3 a partir de la Ecuación del Vórtice, el universo ya está permeado por un campo físico, real y medible: *La Fuente*, poseedora de una densidad absoluta de $\rho_0 \approx 801,099 \text{ kg/m}^3$. La inercia (masa) no requiere de un bosón mediador ni de un campo escalar abstracto; nace estrictamente de la mecánica clásica de fluidos. La masa es el resultado directo y geométrico del **arrastre topológico** de un remolino cerrado oponiendo resistencia al intentar moverse a través de este océano hiperdenso.
 
-Bajo este marco mecanicista estricto, la masa no es una "sustancia" que un bosón pueda otorgar, sino un **comportamiento aerodinámico**. Tratar de encontrar la partícula que "da la masa" es tan absurdo en física de fluidos como tratar de encontrar la partícula que "da la turbulencia". 
+Bajo este marco mecanicista estricto, la masa no es una "sustancia" que un bosón pueda otorgar, sino un **comportamiento aerodinámico**. Tratar de encontrar la partícula que "da la masa" resulta inconsistente en física de fluidos como tratar de encontrar la partícula que "da la turbulencia". 
 
 ¿Qué fue entonces lo que descubrió el CERN en 2012 al anunciar una resonancia de $125 \text{ GeV}$ bautizada como el Bosón de Higgs? En un medio hiperdenso sometido a colisiones de fuerza bruta y energías catastróficas (como las del Gran Colisionador de Hadrones), el fluido de *La Fuente* es capaz de formar ondas estacionarias masivas y burbujas de cavitación efímeras en armónicos altísimos. La resonancia de $125 \text{ GeV}$ es una onda de choque acústica real y medible del fluido cuántico; pero no es el origen de la masa del universo. El vacío no requiere una "melaza mágica" añadida a mano en las ecuaciones cuando ya es, axiomáticamente, un medio continuo perfecto.
 
@@ -1400,7 +1400,7 @@ El enfoque experimental moderno, encarnado en megaestructuras como el Gran Colis
 Si la materia (los quarks y leptones) consiste únicamente en geometrías de nudos toroidales estructurados en el fluido base, los paradigmas actuales de manufactura y ciencia de materiales sufrirán una disrupción absoluta. La intersección entre la MQH y la impresión 3D dará origen a la ingeniería fractal profunda. El objetivo ya no será ensamblar átomos preexistentes, sino desarrollar transductores capaces de "anudar" temporal o permanentemente las corrientes locales de *La Fuente*. El dominio de las ondas de presión a nivel picométrico permitirá el desarrollo de sintetizadores de materia: dispositivos capaces de alterar la topología del medio para fabricar materiales exóticos desde el nivel subatómico hacia arriba, guiados por leyes de escalamiento fractal.
 
 **6.4 Navegación de Gradientes: El Futuro de la Propulsión Espacial**
-Al abolir la Relatividad General vacía y comprender la gravedad como un gradiente de presión hidrodinámica macroscópica (Capítulo 5), la exploración espacial se liberará de la dictadura de la propulsión química newtoniana. La expulsión de masa para lograr aceleración (acción-reacción) será reemplazada por la "Navegación de Gradientes". 
+Al abolir la Relatividad General vacía y comprender la gravedad como un gradiente de presión hidrodinámica macroscópica (Capítulo 5), la exploración espacial se liberará de las limitaciones de la propulsión química newtoniana. La expulsión de masa para lograr aceleración (acción-reacción) será reemplazada por la "Navegación de Gradientes". 
 Las naves del futuro operarán mediante metamateriales o emisores electromagnéticos que induzcan un vacío de presión topológica de forma asimétrica (un sumidero hidrodinámico localizado en la proa de la nave). Al crear artificialmente una zona de baja presión por delante, la inmensa inercia constante de La Fuente ($\rho_0 \approx 801,099 \text{ kg/m}^3$) empujará la nave desde atrás, logrando velocidades extremas sin los devastadores efectos de fuerza G convencionales, ya que la nave y su tripulación no estarían acelerando en el sentido clásico, sino "cayendo" perpetuamente en una ola de presión inducida.
 
 ### 6.5 Extracción Energética Directa: La Verdadera "Energía de Punto Cero"
