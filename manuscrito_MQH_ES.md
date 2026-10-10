@@ -324,8 +324,12 @@ $$ \rho_0 \left( \frac{\partial \mathbf{v}}{\partial t} + \mathbf{v} \cdot \nabl
 Para que este marco hidrodinámico sea aplicable a la escala cuántica sin divergencias matemáticas, el modelo impone dos condiciones de contorno estrictas sobre el campo de velocidades ($\mathbf{v}$):
 
 1. **Incompresibilidad Local:** El fluido base carece de divergencia ($\nabla \cdot \mathbf{v} = 0$), lo que garantiza la estabilización de la densidad inercial ($\rho_0$) y delega la transmisión longitudinal pura a la Ecuación de Poisson.
+
 2. **Cuantización de la Circulación:** La vorticidad que conforma la materia no adopta valores continuos aleatorios. La integral de línea a lo largo de un bucle cerrado queda estrictamente cuantizada por el cuanto de acción hidrodinámica ($h$) y la inercia del vórtice ($m$):
-$$ \Gamma = \oint \mathbf{v} \cdot d\mathbf{l} = n \frac{h}{m} $$
+
+$$ 
+\Gamma = \oint \mathbf{v} \cdot d\mathbf{l} = n \frac{h}{m} 
+$$
 
 ### Los Postulados Fundamentales de La Fuente
 
