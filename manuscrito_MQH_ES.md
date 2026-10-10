@@ -659,13 +659,13 @@ $$
 $$
 
 **II. La Cinemática del Fluido (Límite Elástico)**
-La velocidad de la luz ($c$) pierde su misticismo relativista para definirse estrictamente como la velocidad del sonido dentro de La Fuente. Es el límite máximo de propagación de una onda mecánica transversal a través del medio:
+La velocidad de la luz ($c$) pierde su misticismo relativista para definirse estrictamente como la velocidad de onda transversal dentro de La Fuente. Es el límite máximo de propagación de una onda mecánica de corte a través del medio:
 
 $$
-v_{max} = c = \sqrt{\frac{K}{\rho_0}}
+v_{max} = c = \sqrt{\frac{G_s}{\rho_0}}
 $$
 
-(Donde $K$ representa el módulo de incompresibilidad del fluido).
+(Donde $G_s$ representa el módulo de corte transversal o rigidez elástica del continuo espacial).
 
 **III. La Ecuación Topológica de la Materia (Cuantización)**
 La materia no es fundamental; es un estado de resonancia del fluido. La existencia de un fermión requiere que el fluido circule ($\Gamma$) en órbitas cerradas dictadas por la tensión de corte ($h$):
