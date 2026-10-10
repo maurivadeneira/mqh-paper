@@ -1260,18 +1260,18 @@ Al recuperar el medio continuo hiperdenso (*La Fuente*), las "fuerzas a distanci
 
 El fotón no es un proyectil corpuscular ni un paquete de energía aislado flotando en un vacío abstracto. Físicamente, el fotón es una **onda de corte (transversal)** que se propaga a través de la tensión elástica del fluido continuo de *La Fuente*. Posee energía cinética y momento, pero su masa en reposo es nula ($m=0$) por una razón estrictamente topológica: no es un vórtice cerrado. Al carecer de un bucle que retenga y confine el flujo, no genera un arrastre hidrodinámico sostenido contra el medio.
 
-La velocidad límite a la que viaja ($c$) no es un decreto relativista de un espacio-tiempo abstracto, sino la consecuencia directa de la relación entre la elasticidad volumétrica y la densidad absoluta del medio fluido:
+La velocidad límite a la que viaja ($c$) no es un decreto relativista de un espacio-tiempo abstracto, sino la consecuencia directa de la relación entre la rigidez transversal y la densidad absoluta del medio fluido:
 
 $$
-c = \sqrt{\frac{K}{\rho_0}}
+c = \sqrt{\frac{G_s}{\rho_0}}
 $$
 
-Donde $\rho_0$ es la densidad incompresible basal del fluido cósmico ($\approx 8.01 	imes 10^5 \text{ kg/m}^3$). 
+Donde $\rho_0$ es la densidad incompresible basal del fluido cósmico ($\approx 8.01 \times 10^5 \text{ kg/m}^3$). 
 
-Si despejamos analíticamente el **Módulo de Elasticidad (o Bulk Modulus, $K$)** de *La Fuente* a partir de la velocidad de la luz y la densidad del medio ($K = c^2 \cdot \rho_0$), obtenemos un resultado de proporciones colosales:
+Si despejamos analíticamente el **Módulo de Corte Transversal ($G_s$)** de *La Fuente* a partir de la velocidad de la luz y la densidad del medio ($G_s = c^2 \cdot \rho_0$), obtenemos un resultado de proporciones colosales:
 
 $$
-K = (2.998 \times 10^8 \text{ m/s})^2 \times 8.01 	imes 10^5 \text{ kg/m}^3 \approx 7.20 \times 10^{22} \text{ Pa}
+G_s = (2.998 \times 10^8 \text{ m/s})^2 \times 8.01 \times 10^5 \text{ kg/m}^3 \approx 7.20 \times 10^{22} \text{ Pa}
 $$
 
 Este valor de $7.20 \times 10^{22} \text{ Pascales}$ revela una propiedad fundamental de la realidad: *La Fuente* no es un espacio pasivo ni un "vacío" débil. Posee una rigidez elástica billones de veces superior a la del acero más denso conocido en la Tierra. Es esta hiper-rigidez incompresible la que permite que las perturbaciones transversales (los fotones) viajen a una velocidad constante y colosal sin que la energía se disipe en el caos del medio. La luz es, en su sentido más puro, la onda acústica de corte de un super-fluido cósmico hiper-rígido.
