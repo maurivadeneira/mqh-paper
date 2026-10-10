@@ -89,7 +89,7 @@ $$
 Este resultado converge de forma notable con la cota cosmológica observacional ($\sum m_{\nu} < 0.12 \text{ eV}$), demostrando que el neutrino es la onda de baja frecuencia que atraviesa la materia sin perturbar su momento angular transversal.
 
 **10. EL UMBRAL GALÁCTICO ($a_0$) Y LA CONEXIÓN MICRO-MACRO**
-La aceleración crítica $a_0$, que marca la transición en la rotación de las galaxias, no es un parámetro empírico ajustado a mano. La MQH la deduce analíticamente como el límite estructural absoluto de *La Fuente*: la tensión gravitacional unitaria ejercida por un sumidero bariónico fundamental (el protón) sobre la frontera transversal del vórtice más cercano (el límite de la onda del electrón).
+La aceleración crítica $a_0$, que marca la transición en la rotación de las galaxias, no es un parámetro empírico ajustado a mano. La MQH la deduce analíticamente como el límite estructural absoluto de propagación de esfuerzos (*yield point*) de *La Fuente*: la tensión gravitacional unitaria ejercida por un sumidero bariónico fundamental (el protón, $m_p$) sobre la frontera transversal del vórtice adyacente (el radio de Compton del electrón, $\lambda_c / 2$). Para este cálculo fundamental se utiliza $G_{hidro}$ (la constante de acople pura del fluido, libre del factor de fricción bariónica que afecta a la constante macroscópica de Newton):
 
 $$
 a_0 = \frac{G_{hidro} \cdot m_p}{(\lambda_c / 2)^2} \approx 1.13 \times 10^{-10} \text{ m/s}^2
