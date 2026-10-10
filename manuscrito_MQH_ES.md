@@ -932,11 +932,9 @@ El Modelo Estándar postula la existencia de los *neutrinos* como partículas fa
 En el marco de la Cromodinámica Cuántica (QCD) del Modelo Estándar, la inmensa mayoría de la masa inercial del protón ($\approx 99\%$) no proviene de la masa intrínseca de los quarks, sino que se atribuye fenomenológicamente a la dinámica del campo de gluones, requiriendo parametrizaciones externas para coincidir con el valor empírico de laboratorio ($M_p/m_e \approx 1836.15$). La Mecánica Cuántica Hidrodinámica (MQH) prescinde de estas entidades mediadoras, explorando la masa bariónica como una consecuencia puramente topológica del medio continuo.
 
 ### A. El Eslabón Perdido: De Kelvin a Lenz
-
 Para abordar la masa del nucleón desde la mecánica de fluidos, la MQH rescata dos intuiciones históricas fundamentales que la ortodoxia abandonó. La primera es la proposición de Lord Kelvin (1867) de que la materia está constituida por "átomos-vórtice", es decir, topologías anudadas en un medio continuo. La segunda es la asombrosa observación empírica publicada por el físico Friedrich Lenz en 1951, quien notó que la relación exacta entre la masa del protón y la del electrón se aproxima con extrema precisión al valor geométrico $6\pi^5 \approx 1836.118$. Durante setenta años, este número ha sido tratado como una mera curiosidad numerológica debido a la carencia de un modelo físico que lo justificara.
 
 ### B. Deducción Analítica de la Inercia Topológica: El factor $6\pi^5$
-
 Para conectar analíticamente la geometría del nudo con la inercia fenomenológica, la MQH recurre a la termodinámica topológica de medios continuos (Moffatt & Ricca, 1992). En un fluido incompresible, la energía cinética confinada de un tubo vorticial no depende únicamente de su radio, sino de su Invariante de Helicidad ($H = \int \mathbf{v} \cdot \boldsymbol{\omega} \, dV$). 
 
 Cuando un vórtice simple (el electrón) se anuda sobre sí mismo para formar una estructura bariónica (el protón), su inercia total se dispara debido a dos factores de estrés fluidodinámico estrictos que el fluido debe contrarrestar para mantener la conservación de la divergencia ($\nabla \cdot \mathbf{v} = 0$):
@@ -970,7 +968,6 @@ $$
 El número de Lenz ($6\pi^5$) deja así de ser una coincidencia numerológica para revelarse como la resolución analítica exacta de la resistencia aerodinámica que opone un nudo trébol al desplazarse a través de un océano hiperdenso.
 
 ### C. El Límite Epistemológico y el Programa de Investigación Cuantitativa
-
 El rigor ineludible de la física teórica nos exige reconocer la frontera entre la estructuración algebraica de un funcional y la demostración ontológica absoluta. Aplicando los principios de la dinámica de fluidos, la Mecánica Cuántica Hidrodinámica (MQH) propone investigar si determinadas estructuras vorticiales y sus propiedades geométricas pueden proporcionar una descripción efectiva de la masa inercial.
 
 Como hipótesis de trabajo formal, la MQH postula el siguiente funcional adimensional de energía volumétrica para evaluar la razón de masas entre el protón (nudo trébol) y el electrón (anillo laminar):
@@ -982,7 +979,6 @@ $$
 Donde $\Gamma$ representa la circulación, $\tau$ la torsión geométrica y $\rho$ la densidad del continuo. 
 
 #### Antecedentes y Motivación Matemática
-
 La formulación de este funcional no opera en el vacío, sino que toma como motivación matemática tres importantes antecedentes de la física teórica:
 1. **La Estabilidad del Vórtice:** El modelo histórico de Lord Kelvin (1867), quien exploró la idea de los átomos como vórtices de un fluido ideal.
 2. **Solitones Anudados:** El trabajo de Faddeev y Niemi (1997), quienes demostraron que las ecuaciones de Yang-Mills admiten configuraciones anudadas estables de energía finita (específicamente topologías $T_{2,3}$). La MQH explora la traslación de este hallazgo de los campos de gauge hacia el campo de velocidades de un continuo.
@@ -993,15 +989,12 @@ Estos trabajos constituyen antecedentes relevantes para explorar la viabilidad d
 Bajo este marco exploratorio, la MQH plantea investigar sus operadores geométricos:
 
 **1. El Operador de Interferencia Nodal (El factor 6)**
-
 Para el nudo trébol ($T_{2,3}$), el producto de sus índices de enrollamiento volumétrico es $p \times q = 6$. La MQH plantea investigar si esta estructura topológica —donde el flujo es forzado a circular ortogonalmente en 3D— se relaciona fenomenológicamente con seis regiones de concentración energética (antinodos) por interferencia constructiva. La existencia física de tales regiones y su contribución a la energía total deben determinarse a partir de una solución explícita del campo de velocidades; no se deducen únicamente del producto de los índices topológicos.
 
 **2. El Volumen del Espacio de Fase (El factor $\pi^5$)**
-
 Análogamente, el factor $\pi^5$ se postula asumiendo que el funcional se integra sobre cinco coordenadas angulares independientes con dominios físicos de $[0, \pi]$. Que esta configuración emule la parametrización de un espacio espinorial anclado sobre el grupo de simetría $SU(2)$, y que su integración volumétrica corresponda exactamente al factor energético del nudo, es una hipótesis de la MQH. La independencia de esas coordenadas y su medida de integración exacta requieren una construcción geométrica explícita aún pendiente.
 
 **3. La Conjetura Cuantitativa y el Problema de la Discrepancia**
-
 En consecuencia, la relación inercial entre el protón y el electrón se formula estrictamente como la Conjetura Cuantitativa de la Masa Bariónica:
 
 $$
