@@ -669,14 +669,14 @@ Tal como Albert Einstein tomó las transformaciones matemáticas de Lorentz (qui
 
 Habiendo despojado a la física de partículas de sus parámetros libres y nubes estadísticas, la Mecánica Cuántica Hidrodinámica (MQH) consolida su marco teórico en un conjunto de ecuaciones deterministas. Todo fenómeno subatómico, electromagnético y másico en el universo observable emerge de las siguientes leyes que gobiernan nuestro medio continuo:
 
-**I. La Ecuación de Estado (Densidad Universal)**
+**I. La Ecuación de Estado (Densidad Universal)** 
 El espacio no es un ente geométrico vacío, sino un fluido hiperdenso. Su inercia base ($\rho_0$) dicta la constante de resistencia a la que se somete cualquier deformación topológica:
 
 $$
-\rho_0 = \frac{2 m_e^3 c^2}{h^2 R_e} \approx 8.01 		imes 10^5 \text{ kg/m}^3
+\rho_0 = \frac{2 m_e^3 c^2}{h^2 R_e} \approx 8.01 \times 10^5 \text{ kg/m}^3
 $$
 
-**II. La Cinemática del Fluido (Límite Elástico)**
+**II. La Cinemática del Fluido (Límite Elástico)** 
 La velocidad de la luz ($c$) pierde su misticismo relativista para definirse estrictamente como la velocidad de onda transversal dentro de La Fuente. Es el límite máximo de propagación de una onda mecánica de corte a través del medio:
 
 $$
@@ -685,24 +685,24 @@ $$
 
 (Donde $G_s$ representa el módulo de corte transversal o rigidez elástica del continuo espacial).
 
-**III. La Ecuación Topológica de la Materia (Cuantización)**
-La materia no es fundamental; es un estado de resonancia del fluido. La existencia de un fermión requiere que el fluido circule ($\Gamma$) en órbitas cerradas dictadas por la tensión de corte ($h$):
+**III. La Ecuación Topológica de la Materia (Cuantización y Condición de Contorno)** 
+Para que el marco hidrodinámico sea aplicable a la escala subatómica sin divergencias matemáticas (*blow-up*), el modelo impone que la estabilización de los vórtices no es arbitraria. La existencia de un fermión requiere que la integral de circulación del campo de velocidades a lo largo de una trayectoria cerrada ($d\mathbf{l}$) quede estrictamente cuantizada por el cuanto de acción hidrodinámica ($h$):
 
-$$
-\Gamma_n = \frac{n \cdot h}{m_n}
+$$ 
+\Gamma_n = \oint \mathbf{v} \cdot d\mathbf{l} = n \frac{h}{m_n} 
 $$
 
-Cuyo bloqueo topológico y decaimiento por cavitación está gobernado por el estrés logarítmico:
+El bloqueo topológico y decaimiento por cavitación de esta resonancia fluida está gobernado por el estrés logarítmico:
 
 $$
 \ln\left(\frac{8R_n}{r_n}\right) = \frac{1}{n^3} \left(\frac{m_n}{m_e}\right)^4
 $$
 
-**IV. La Identidad de Maxwell - Navier-Stokes (El Electromagnetismo)**
+**IV. La Identidad de Maxwell - Navier-Stokes (El Electromagnetismo)** 
 Al reconocer el sustrato fluido, las ecuaciones abstractas del electromagnetismo clásico se revelan como casos particulares de las ecuaciones de Navier-Stokes para un medio continuo. Los campos vectoriales se traducen a hidrodinámica pura:
 
-* **Campo Eléctrico (Presión):** $\mathbf{E} \equiv \nabla P$ (El gradiente de presión empujando el fluido).
-* **Campo Magnético (Vorticidad):** $\mathbf{B} \equiv \nabla \times \mathbf{v}$ (El rotacional local de la corriente de fluido).
+*   **Campo Eléctrico (Presión):** $\mathbf{E} \equiv -\nabla P$ (El gradiente de presión empujando el fluido).
+*   **Campo Magnético (Vorticidad):** $\mathbf{B} \equiv \nabla \times \mathbf{v}$ (El rotacional local de la corriente de fluido).
 
 Con este andamiaje axiomático, la MQH no solo recupera el determinismo clásico que Einstein siempre anheló, sino que proporciona el puente matemático definitivo entre la mecánica de fluidos macroscópica y la geometría cuántica.
 
