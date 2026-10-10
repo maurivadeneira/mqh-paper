@@ -41,7 +41,7 @@ El espacio no es un vacío geométrico; es un medio físico, continuo, incompres
 Basada en la inercia del fluido cuántico:
 
 $$
-\rho_0 = \frac{2 m^3 c^2}{h^2 R} \approx 801,419 \text{ kg/m}^3
+\rho_0 = \frac{2 m^3 c^2}{h^2 R} \approx 801,099 \text{ kg/m}^3
 $$
 
 **4. EL ELECTRÓN (Fermión Base)** 
@@ -104,7 +104,7 @@ El presente documento emplea el formalismo matemático de la dinámica de fluido
 
 | Símbolo | Definición en el Marco de la MQH | Valor Analítico / Empírico | Naturaleza Física / Topológica |
 | :---: | :--- | :--- | :--- |
-| **$\rho_0$** | **Densidad Inercial Absoluta:** Densidad basal del fluido incompresible del vacío. | $\approx 801,419 \text{ kg/m}^3$ | Inercia intrínseca del medio continuo, deducida de la integral volumétrica del vórtice toroidal fundamental. |
+| **$\rho_0$** | **Densidad Inercial Absoluta:** Densidad basal del fluido incompresible del vacío. | $\approx 801,099 \text{ kg/m}^3$ | Inercia intrínseca del medio continuo, deducida de la integral volumétrica del vórtice toroidal fundamental. |
 | **$K$** | **Módulo de Elasticidad Volumétrica (Bulk Modulus):** Rigidez elástica de *La Fuente*. | $\approx 7.20 \times 10^{22} \text{ Pa}$ | Constante de resistencia a la compresión estructural del fluido espacio-temporal. |
 | **$c$** | **Límite de Propagación Transversal:** Máxima velocidad de tensión de corte en el medio. | $2.997 \times 10^8 \text{ m/s}$ | Límite cinemático de rotación y transmisión de ondas elásticas ortogonales (fotones). |
 | **$h$** | **Límite de Tensión Elástica y Vorticidad:** Cuanto fundamental de acción hidrodinámica. | $6.626 \times 10^{-34} \text{ J}\cdot\text{s}$ | Medida mínima e indivisible del momento angular (circulación transversal) que estabiliza una topología fluida. |
@@ -326,7 +326,7 @@ $$ \rho_0 \left( \frac{\partial \mathbf{v}}{\partial t} + \mathbf{v} \cdot \nabl
 La Mecánica Cuántica Hidrodinámica (MQH) se erige sobre siete axiomas o postulados ineludibles. Estos principios no introducen entidades metafísicas ni matemáticas abstractas, sino que aplican el rigor estricto de la mecánica de fluidos clásica a la escala cuántica y relativista.
 
 **Postulado 1. La Fuente (Naturaleza del Medio)**  
-El espacio físico no es un vacío, sino un medio fluido continuo, incompresible y perfecto. Este medio primordial es isotrópico y está caracterizado por poseer una densidad absoluta, constante y uniforme $\rho_0$ (cuyo valor exacto, que ronda los $801,419 \text{ kg/m}^3$, será deducido analíticamente a partir de las constantes fundamentales de la cuántica y la relatividad). Aunque la medición empírica directa de esta colosal densidad resulta experimentalmente esquiva —dado que nuestros propios instrumentos están constituidos por vórtices de la misma sustancia que intentan medir—, su validación científica quedará demostrada de forma irrefutable a través de su poder predictivo: si este valor es correcto, nos permitirá deducir analíticamente las demás constantes, masas y fenómenos observables de la mecánica cuántica sin recurrir a parámetros libres.
+El espacio físico no es un vacío, sino un medio fluido continuo, incompresible y perfecto. Este medio primordial es isotrópico y está caracterizado por poseer una densidad absoluta, constante y uniforme $\rho_0$ (cuyo valor exacto, que ronda los $801,099 \text{ kg/m}^3$, será deducido analíticamente a partir de las constantes fundamentales de la cuántica y la relatividad). Aunque la medición empírica directa de esta colosal densidad resulta experimentalmente esquiva —dado que nuestros propios instrumentos están constituidos por vórtices de la misma sustancia que intentan medir—, su validación científica quedará demostrada de forma irrefutable a través de su poder predictivo: si este valor es correcto, nos permitirá deducir analíticamente las demás constantes, masas y fenómenos observables de la mecánica cuántica sin recurrir a parámetros libres.
 
 **Postulado 2. Principio de Equivalencia Inercial (La Naturaleza de la Materia y el Origen del Vórtice)**  
 La masa inercial es energía confinada ($m = E/c^2$). En este marco, la masa ($m$) de cualquier cuerpo no representa una partícula material sólida flotando en el vacío, sino una región de energía dinámica localizada; es decir, un remolino estructurado (vórtice) formado por el mismo fluido primordial de La Fuente. 
@@ -339,7 +339,7 @@ Por tanto, la inercia no es una propiedad mágica de la materia, sino estrictame
 
 > ### Corolario Astrofísico: La Ilusión de la Compresión y el Agujero Negro Hidrodinámico
 >
-> Al establecer que *La Fuente* es un medio continuo estrictamente incompresible ($\rho_0 \approx 801,419 \text{ kg/m}^3$), surge una aparente divergencia con la astrofísica ortodoxa, la cual postula la existencia de cuerpos con densidades inerciales de hasta $\sim 10^{17} \text{ kg/m}^3$ (estrellas de neutrones) o tendientes al infinito (singularidades). Esta divergencia se resuelve al corregir un error conceptual histórico: **la confusión entre la compresión del espacio y la concentración topológica de la energía.**
+> Al establecer que *La Fuente* es un medio continuo estrictamente incompresible ($\rho_0 \approx 801,099 \text{ kg/m}^3$), surge una aparente divergencia con la astrofísica ortodoxa, la cual postula la existencia de cuerpos con densidades inerciales de hasta $\sim 10^{17} \text{ kg/m}^3$ (estrellas de neutrones) o tendientes al infinito (singularidades). Esta divergencia se resuelve al corregir un error conceptual histórico: **la confusión entre la compresión del espacio y la concentración topológica de la energía.**
 >
 > En el marco de la MQH, la inercia (masa) de un cuerpo celeste extremo no implica que el fluido base se haya comprimido. Representa, en cambio, una concentración colosal de energía cinética (vorticidad) en una región localizada. Al igual que un tornado masivo no requiere que el aire sea más "denso", sino que concentra una cantidad devastadora de energía dinámica en su vórtice (oponiendo una resistencia extrema a ser atravesado), un objeto hipermasivo es una agrupación de vórtices altamente energéticos cuya resistencia inercial combinada arroja una falsa "densidad de materia" al ser promediada en su volumen geométrico.
 > 
@@ -641,7 +641,7 @@ La idea de conectar la mecánica cuántica con la dinámica de fluidos no es nue
 
 El aporte original y la ruptura histórica de la MQH no radica en inventar la dinámica de fluidos desde cero, sino en despojarla de su velo estadístico y aplicarla con rigor de ingeniería a la estructura misma de la partícula. Las contribuciones inéditas de este modelo son tres:
 
-1.  **El cálculo analítico de la Densidad del Vacío ($\rho_0$):** Por primera vez, se utiliza la longitud de onda de Compton no como una "sección eficaz de interacción", sino como el perímetro físico real del Toroide de Lamb. Esto permitió despejar analíticamente la inercia del medio continuo, revelando que *La Fuente* posee una densidad exacta de $\approx 801,419 \text{ kg/m}^3$.
+1.  **El cálculo analítico de la Densidad del Vacío ($\rho_0$):** Por primera vez, se utiliza la longitud de onda de Compton no como una "sección eficaz de interacción", sino como el perímetro físico real del Toroide de Lamb. Esto permitió despejar analíticamente la inercia del medio continuo, revelando que *La Fuente* posee una densidad exacta de $\approx 801,099 \text{ kg/m}^3$.
 2.  **La eliminación de la Masa como propiedad fundamental:** Mientras que los modelos anteriores (incluyendo la hidrodinámica cuántica del siglo XX) seguían tratando la masa como una propiedad intrínseca, la MQH demuestra que la masa es un espejismo macroscópico. Es puramente el arrastre topológico (roce mecánico) de un vórtice cerrado oponiendo resistencia al fluido base.
 3.  **La solución mecánica a las 3 Generaciones (Cavitación):** Ningún modelo previo logró explicar la existencia y el decaimiento del Muón y el Tau sin recurrir a parámetros libres. La MQH es el primer marco teórico que demuestra matemáticamente que la inestabilidad del decaimiento débil es, en realidad, la cavitación del fluido causada por el estrés topológico extremo al forzar el vórtice hacia armónicos superiores ($n=2$ y $n=3$).
 
@@ -655,7 +655,7 @@ Habiendo despojado a la física de partículas de sus parámetros libres y nubes
 El espacio no es un ente geométrico vacío, sino un fluido hiperdenso. Su inercia base ($\rho_0$) dicta la constante de resistencia a la que se somete cualquier deformación topológica:
 
 $$
-\rho_0 = \frac{2 m_e^3 c^2}{h^2 R_e} \approx 801,419 \text{ kg/m}^3
+\rho_0 = \frac{2 m_e^3 c^2}{h^2 R_e} \approx 801,099 \text{ kg/m}^3
 $$
 
 **II. La Cinemática del Fluido (Límite Elástico)**
@@ -1302,12 +1302,12 @@ $$
 c = \sqrt{\frac{K}{\rho_0}}
 $$
 
-Donde $\rho_0$ es la densidad incompresible basal del fluido cósmico ($\approx 801,419 \text{ kg/m}^3$). 
+Donde $\rho_0$ es la densidad incompresible basal del fluido cósmico ($\approx 801,099 \text{ kg/m}^3$). 
 
 Si despejamos analíticamente el **Módulo de Elasticidad (o Bulk Modulus, $K$)** de *La Fuente* a partir de la velocidad de la luz y la densidad del medio ($K = c^2 \cdot \rho_0$), obtenemos un resultado de proporciones colosales:
 
 $$
-K = (2.998 \times 10^8 \text{ m/s})^2 \times 801,419 \text{ kg/m}^3 \approx 7.20 \times 10^{22} \text{ Pa}
+K = (2.998 \times 10^8 \text{ m/s})^2 \times 801,099 \text{ kg/m}^3 \approx 7.20 \times 10^{22} \text{ Pa}
 $$
 
 Este valor de $7.20 \times 10^{22} \text{ Pascales}$ revela una propiedad fundamental de la realidad: *La Fuente* no es un espacio pasivo ni un "vacío" débil. Posee una rigidez elástica billones de veces superior a la del acero más denso conocido en la Tierra. Es esta hiper-rigidez incompresible la que permite que las perturbaciones transversales (los fotones) viajen a una velocidad constante y colosal sin que la energía se disipe en el caos del medio. La luz es, en su sentido más puro, la onda acústica de corte de un super-fluido cósmico hiper-rígido.
@@ -1322,7 +1322,7 @@ El colofón del Modelo Estándar fue la postulación del Bosón de Higgs y su ca
 
 Con la formalización de la MQH, el mecanismo de Higgs se revela como un pleonasmo matemático, un artificio redundante y obsoleto. 
 
-Como se dedujo analíticamente en el Capítulo 2.3 a partir de la Ecuación del Vórtice, el universo ya está permeado por un campo físico, real y medible: *La Fuente*, poseedora de una densidad absoluta de $\rho_0 \approx 801,419 \text{ kg/m}^3$. La inercia (masa) no requiere de un bosón mediador ni de un campo escalar abstracto; nace estrictamente de la mecánica clásica de fluidos. La masa es el resultado directo y geométrico del **arrastre topológico** de un remolino cerrado oponiendo resistencia al intentar moverse a través de este océano hiperdenso.
+Como se dedujo analíticamente en el Capítulo 2.3 a partir de la Ecuación del Vórtice, el universo ya está permeado por un campo físico, real y medible: *La Fuente*, poseedora de una densidad absoluta de $\rho_0 \approx 801,099 \text{ kg/m}^3$. La inercia (masa) no requiere de un bosón mediador ni de un campo escalar abstracto; nace estrictamente de la mecánica clásica de fluidos. La masa es el resultado directo y geométrico del **arrastre topológico** de un remolino cerrado oponiendo resistencia al intentar moverse a través de este océano hiperdenso.
 
 Bajo este marco mecanicista estricto, la masa no es una "sustancia" que un bosón pueda otorgar, sino un **comportamiento aerodinámico**. Tratar de encontrar la partícula que "da la masa" es tan absurdo en física de fluidos como tratar de encontrar la partícula que "da la turbulencia". 
 
@@ -1334,7 +1334,7 @@ En el marco de la Mecánica Cuántica Hidrodinámica (MQH), la gravedad deja de 
 
 ### 5.1 Derivación Analítica de la Gravedad Hidrodinámica ($G_{hidro}$)
 
-Conforme al Postulado 6, toda masa estelar o planetaria opera como un macro-sumidero en *La Fuente*. En la mecánica de fluidos incompresibles, la masa inercial ($M$) equivale al volumen de fluido desplazado modulado por su densidad absoluta ($\rho_0 \approx 801,419 \text{ kg/m}^3$). Sin embargo, para que exista un gradiente de atracción dinámico, este volumen debe estar acoplado a una frecuencia de recambio o pulsación temporal fundamental del vacío ($\nu_0$), dictando el caudal o flujo volumétrico ($Q$) real del sumidero:
+Conforme al Postulado 6, toda masa estelar o planetaria opera como un macro-sumidero en *La Fuente*. En la mecánica de fluidos incompresibles, la masa inercial ($M$) equivale al volumen de fluido desplazado modulado por su densidad absoluta ($\rho_0 \approx 801,099 \text{ kg/m}^3$). Sin embargo, para que exista un gradiente de atracción dinámico, este volumen debe estar acoplado a una frecuencia de recambio o pulsación temporal fundamental del vacío ($\nu_0$), dictando el caudal o flujo volumétrico ($Q$) real del sumidero:
 
 $$Q = \nu_0 \left( \frac{M}{\rho_0} \right)$$
 
@@ -1354,7 +1354,7 @@ Al contrastar geométricamente esta ley de fluidos con la formulación empírica
 
 $$G_{hidro} = \frac{\nu_0^2}{4\pi \rho_0}$$
 
-Bajo el análisis dimensional, este cociente arroja exactamente las unidades requeridas ($\text{m}^3 \text{kg}^{-1} \text{s}^{-2}$). Evaluando el término con la densidad deducida por la MQH ($\approx 801,419 \text{ kg/m}^3$) y fijando la frecuencia de resonancia base del sistema métrico observable ($\nu_0 = 1 \text{ Hz}$), la inercia gravitacional pura del medio continuo se establece teóricamente en:
+Bajo el análisis dimensional, este cociente arroja exactamente las unidades requeridas ($\text{m}^3 \text{kg}^{-1} \text{s}^{-2}$). Evaluando el término con la densidad deducida por la MQH ($\approx 801,099 \text{ kg/m}^3$) y fijando la frecuencia de resonancia base del sistema métrico observable ($\nu_0 = 1 \text{ Hz}$), la inercia gravitacional pura del medio continuo se establece teóricamente en:
 
 $$G_{hidro} \approx 9.93 \times 10^{-8} \text{ m}^3\text{kg}^{-1}\text{s}^{-2}$$
 
@@ -1437,12 +1437,12 @@ Si la materia (los quarks y leptones) consiste únicamente en geometrías de nud
 
 **6.4 Navegación de Gradientes: El Futuro de la Propulsión Espacial**
 Al abolir la Relatividad General vacía y comprender la gravedad como un gradiente de presión hidrodinámica macroscópica (Capítulo 5), la exploración espacial se liberará de la dictadura de la propulsión química newtoniana. La expulsión de masa para lograr aceleración (acción-reacción) será reemplazada por la "Navegación de Gradientes". 
-Las naves del futuro operarán mediante metamateriales o emisores electromagnéticos que induzcan un vacío de presión topológica de forma asimétrica (un sumidero hidrodinámico localizado en la proa de la nave). Al crear artificialmente una zona de baja presión por delante, la inmensa inercia constante de La Fuente ($\rho_0 \approx 801,419 \text{ kg/m}^3$) empujará la nave desde atrás, logrando velocidades extremas sin los devastadores efectos de fuerza G convencionales, ya que la nave y su tripulación no estarían acelerando en el sentido clásico, sino "cayendo" perpetuamente en una ola de presión inducida.
+Las naves del futuro operarán mediante metamateriales o emisores electromagnéticos que induzcan un vacío de presión topológica de forma asimétrica (un sumidero hidrodinámico localizado en la proa de la nave). Al crear artificialmente una zona de baja presión por delante, la inmensa inercia constante de La Fuente ($\rho_0 \approx 801,099 \text{ kg/m}^3$) empujará la nave desde atrás, logrando velocidades extremas sin los devastadores efectos de fuerza G convencionales, ya que la nave y su tripulación no estarían acelerando en el sentido clásico, sino "cayendo" perpetuamente en una ola de presión inducida.
 
 ### 6.5 Extracción Energética Directa: La Verdadera "Energía de Punto Cero"
 La civilización actual fundamenta su matriz energética en procesos termodinámicos primitivos: quemar restos fósiles o fisionar núcleos pesados para evaporar agua y mover turbinas mecánicas. Por su parte, la física cuántica ortodoxa reconoce la existencia de una energía remanente incalculable en el vacío absoluto (la Energía de Punto Cero), pero al carecer de un modelo de medio continuo, la considera una curiosidad matemática inaccesible.
 
-En el paradigma de la MQH, el vacío no está vacío. Es *La Fuente*, un océano hiperdenso ($\rho_0 \approx 801,419 \text{ kg/m}^3$) dotado de una inmensa inercia y energía cinética latente. La "energía de punto cero" deja de ser un misterio esotérico para convertirse en la simple presión hidrodinámica y acústica del espacio mismo. 
+En el paradigma de la MQH, el vacío no está vacío. Es *La Fuente*, un océano hiperdenso ($\rho_0 \approx 801,099 \text{ kg/m}^3$) dotado de una inmensa inercia y energía cinética latente. La "energía de punto cero" deja de ser un misterio esotérico para convertirse en la simple presión hidrodinámica y acústica del espacio mismo. 
 
 El salto tecnológico definitivo de la MQH será el desarrollo de generadores de estado sólido o "turbinas topológicas". Estos dispositivos no requerirán combustible químico ni material radiactivo; operarán induciendo gradientes de presión asimétricos a nivel microscópico (resonancia armónica dirigida) para extraer trabajo eléctrico directamente de las tensiones locales del fluido base. Dominar esta tecnología no solo descarbonizará el planeta en cuestión de años, sino que marcará el fin de la escasez energética global, proporcionando una fuente de energía descentralizada, inagotable y en perfecta armonía con la dinámica natural del universo.
 
