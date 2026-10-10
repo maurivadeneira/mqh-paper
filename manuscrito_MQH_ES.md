@@ -980,47 +980,34 @@ La MQH propone investigar si dicho formalismo puede ampliarse para explicar el o
 
 Esta visión —que transforma las entidades abstractas en tensores topológicos— formula el horizonte teórico de la teoría, el cual será abordado *in extenso* en el **Capítulo 6**.
 
-### 4.2.1 El Neutrón: El "Embarazo" Topológico y la Masa Virtual
+### 4.2.1 El Neutrón: Hipótesis de Confinamiento Topológico y Balance de Masa
 
-Si el protón se fundamenta geométricamente como un nudo trébol estable de tres vórtices abiertos ($6\pi^5$), el Modelo Estándar choca inmediatamente con su siguiente gran obstáculo: el Neutrón.
+Si la MQH propone modelar el protón como una estructura vorticial anudada, resulta pertinente investigar si una configuración hidrodinámica más compleja podría contribuir a describir las propiedades inerciales del neutrón. Esta propuesta debe distinguirse de la descripción establecida por la Cromodinámica Cuántica, según la cual el protón y el neutrón son bariones compuestos, y el decaimiento beta del neutrón libre ocurre mediante la interacción débil.
 
-La física ortodoxa clasifica al neutrón como una partícula elemental hermana del protón. Sin embargo, la evidencia experimental contradice la etiqueta de "fundamental": un neutrón libre es inestable y, en aproximadamente 15 minutos, estalla (decaimiento beta), arrojando al espacio un protón, un electrón y un antineutrino (onda de choque). 
+**Hipótesis hidro-topológica**
+La MQH plantea investigar si una configuración vorticial confinada puede reproducir la diferencia de masa entre el neutrón y el protón, así como las propiedades dinámicas del decaimiento beta. Una posible interpretación mediante un vórtice electrónico confinado constituye, en esta etapa, una hipótesis de trabajo y no una identificación experimentalmente establecida.
 
-Bajo el marco de la Mecánica Cuántica Hidrodinámica (MQH), el decaimiento beta revela la verdadera anatomía del neutrón: no es una entidad elemental, sino un **nudo compuesto**. Topológicamente, un neutrón es un vórtice de protón que ha capturado o "engullido" a un vórtice de electrón en el interior de su flujo central. 
+**Balance cuantitativo provisional**
+Si se adopta como estimación para la razón de masas del protón el valor hipotético $m_p/m_e = 6\pi^5$, y se postula una contribución efectiva adicional de masa virtual hidrodinámica de $2.5 m_e$ (basada clásicamente en el arrastre dipolar $1 + 3/2$), se obtiene:
 
-**El Cálculo de la Presión de Confinamiento**
-
-Para validar esta arquitectura hidrodinámica de forma determinista, debemos calcular su inercia. Si sumamos aisladamente las masas teóricas, un protón ($1836.12 \, m_e$) más un electrón base ($1.00 \, m_e$) suman un total de $1837.12 \, m_e$. 
-
-Sin embargo, la masa empírica del neutrón libre medida en laboratorio es de $1838.68 \, m_e$. Existe un exceso inercial de $\approx 1.56 \, m_e$. En la física ortodoxa, este sobrante se despacha vagamente como "energía de interacción fuerte". En la MQH, este valor es una deducción directa de la mecánica de medios continuos.
-
-Como establecimos en el Capítulo 2.4 al calcular las masas del Muón y el Tau, cuando un vórtice toroidal se desplaza empujando fluido, sufre un arrastre inercial gobernado por el **Coeficiente Geométrico Dipolar ($3/2$)**. 
-
-En el estado base en el vacío abierto, el electrón ($n=1$) fluye de forma laminar sin arrastre. Sin embargo, al ser forzado a existir *dentro* del núcleo hiper-presurizado y turbulento del nudo trébol (el protón), el anillo del electrón debe soportar y desplazar el implacable embate del fluido interno. La inercia del electrón atrapado ($m_{atrapado}$) se convierte en su masa de reposo más su **Masa Virtual Hidrodinámica** (el arrastre de forma clásico dictado por la corriente constante):
-
-$$ 
-m_{atrapado} = m_e + \left( \frac{3}{2} \cdot m_e \right) = 2.5 \, m_e 
+$$
+\frac{m_n^{(\mathrm{MQH})}}{m_e} = 6\pi^5 + 2.5 \approx 1838.618
 $$
 
-Por lo tanto, la masa analítica total del Neutrón ($M_n$) en el marco de la MQH es la suma topológica del nudo trébol ($6\pi^5$) y el anillo confinado bajo arrastre dipolar ($2.5 \, m_e$):
+Este resultado debe compararse con la razón experimental neutrón-electrón, aproximadamente $1838.683$. La diferencia es de alrededor de $0.065 m_e$, equivalente a una discrepancia relativa de aproximadamente $0.0036\%$.
 
-$$ 
-M_n = M_p + m_{atrapado} 
+La proximidad numérica constituye un resultado de comparación, pero no demuestra por sí sola el mecanismo físico propuesto. En particular, el coeficiente hidrodinámico $3/2$ utilizado para representar el arrastre de masa añadida debe derivarse de un modelo dinámico independiente, definiendo el campo de velocidades, las condiciones de contorno de la interacción protón-electrón y un balance energético riguroso.
+
+**El decaimiento beta como criterio de validación**
+La evaluación definitiva de esta hipótesis requiere reproducir el balance energético del proceso:
+
+$$
+n \rightarrow p + e^- + \bar{\nu}_e
 $$
 
-$$ 
-M_n = 6\pi^5 + 2.5 \, m_e 
-$$
+Esto incluye la justificación hidrodinámica de la energía liberada ($\approx 0.782 \text{ MeV}$), la distribución de los momentos del electrón y el antineutrino, y la derivación estocástica de la vida media observada del neutrón libre ($\approx 880 \text{ s}$).
 
-$$ 
-M_n \approx 1836.12 + 2.5 = 1838.62 \, m_e 
-$$
-
-**La Precisión y el Decaimiento Mecánico**
-
-La ecuación puramente hidrodinámica y topológica arroja una masa de **$1838.62 \, m_e$**. Frente a la masa empírica oficial del neutrón ($1838.68 \, m_e$), nuestro modelo analítico, sin recurrir a parámetros libres, Quarks fraccionarios abstractos, ni Bosones de Higgs, alcanza una abrumadora precisión del **99.996%**. (La ínfima discrepancia del $0.004\%$ corresponde a la contracción relativista radial que sufre el anillo de electrón al ser estrangulado por los tres cruces del nudo trébol).
-
-Esta deducción mecánica resuelve simultáneamente el misterio de los 15 minutos de su tiempo de vida. El exceso de $1.5 \, m_e$ no es una "fuerza fundamental de unión", es la **hiper-presión acústica** del protón intentando aplastar al electrón. El nudo trébol actúa como una centrífuga incesante. Durante 15 minutos, el anillo del electrón resiste la turbulencia extrema hasta que su límite de tensión de corte colapsa; es expulsado violentamente del núcleo recuperando su forma laminar libre (masa 1), mientras la energía elástica acumulada por el estrés de arrastre estalla en forma de energía cinética y un antineutrino (la onda de choque transversal de la expulsión).
+En consecuencia, la MQH plantea el confinamiento vorticial como una línea de investigación fundamental. Su validez última dependerá de que una formulación de medios continuos explícita permita calcular las propiedades inerciales del neutrón sin ajustar retrospectivamente los coeficientes de arrastre para reproducir su masa empírica.
 
 ### 4.2.2 El Átomo de Hidrógeno: Equilibrio Hidrodinámico, el Radio de Bohr y la Verdadera Masa
 
