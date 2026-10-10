@@ -592,6 +592,7 @@ $$
 $$
 \rho_0 \approx 8.01 		imes 10^5 \text{ kg/m}^3
 $$
+
 **Consistencia Dimensional:**
 La validez física de esta deducción se confirma al someter la ecuación a un estricto análisis dimensional. Sustituyendo las unidades del Sistema Internacional para la masa ($[kg]$), la velocidad ($[m/s]$), el radio ($[m]$) y la constante de Planck ($[J \cdot s] \equiv [kg \cdot m^2 / s]$):
 $$ [\rho_0] = \frac{[kg]^3 [m/s]^2}{([kg \cdot m^2 / s])^2 [m]} = \frac{kg^3 \cdot m^2 / s^2}{kg^2 \cdot m^4 / s^2 \cdot m} = \frac{kg}{m^3} $$
