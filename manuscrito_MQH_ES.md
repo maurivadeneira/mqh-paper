@@ -593,10 +593,30 @@ $$
 \rho_0 \approx 8.01 		imes 10^5 \text{ kg/m}^3
 $$
 
+**4. Auditoría Numérica:**
+Evaluando la ecuación pura con los valores empíricos del CODATA:
+*   $m_e = 9.109383 \times 10^{-31} \text{ kg}$
+*   $c = 299,792,458 \text{ m/s}$
+*   $h = 6.626070 \times 10^{-34} \text{ J s}$
+
+$$
+\rho_0 = \frac{4\pi \times (9.109383 \times 10^{-31})^4 \times (299792458)^3}{(6.626070 \times 10^{-34})^3}
+$$
+
+$$
+\rho_0 \approx 8.01 \times 10^5 \text{ kg/m}^3
+$$
+
 **Consistencia Dimensional:**
 La validez física de esta deducción se confirma al someter la ecuación a un estricto análisis dimensional. Sustituyendo las unidades del Sistema Internacional para la masa ($[kg]$), la velocidad ($[m/s]$), el radio ($[m]$) y la constante de Planck ($[J \cdot s] \equiv [kg \cdot m^2 / s]$):
-$$ [\rho_0] = \frac{[kg]^3 [m/s]^2}{([kg \cdot m^2 / s])^2 [m]} = \frac{kg^3 \cdot m^2 / s^2}{kg^2 \cdot m^4 / s^2 \cdot m} = \frac{kg}{m^3} $$
+
+$$ 
+[\rho_0] = \frac{[kg]^3 [m/s]^2}{([kg \cdot m^2 / s])^2 [m]} = \frac{kg^3 \cdot m^2 / s^2}{kg^2 \cdot m^4 / s^2 \cdot m} = \frac{kg}{m^3} 
+$$
+
 El resultado es rigurosamente una densidad volumétrica de masa, demostrando que no existen desajustes algebraicos en la deducción.
+
+El espacio no es un vacío cuántico estadístico. Estamos inmersos en un océano continuo cuya densidad supera 800 veces a la del agua. Es esta inmensa inercia primigenia la que confina y estabiliza la monstruosa energía cinética de los micro-huracanes que componen toda la materia del universo.
 
 El espacio no es un vacío cuántico estadístico. Estamos inmersos en un océano continuo cuya densidad supera 800 veces a la del agua. Es esta inmensa inercia primigenia la que confina y estabiliza la monstruosa energía cinética de los micro-huracanes que componen toda la materia del universo.
 
