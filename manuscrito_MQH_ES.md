@@ -175,6 +175,11 @@ Introducción: El Retorno al Medio Continuo
 - 6.5 Extracción Energética Directa: La Verdadera "Energía de Punto Cero".
 - 6.6 La Reconciliación Epistemológica: El Formalismo Cuántico como Herramienta Hidrodinámica.
 
+APÉNDICES
+- Apéndice A: Verificación Dimensional y Definición de Escalas
+
+REFERENCIAS Y BIBLIOGRAFÍA
+
 ## DESARROLLO
 
 **1. Diagnóstico del Estado del Arte: Desde Newton a La Crisis del Modelo Estándar**
