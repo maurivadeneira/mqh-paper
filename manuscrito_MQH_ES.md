@@ -1113,11 +1113,11 @@ $$
 
 La deducción rigurosa de cada componente de esta identidad mecanicista se desglosa a continuación:
 
-#### 1. El Ancla Inercial Base ($m_e$)
-Todo pulso longitudinal subatómico es el evento de disipación de un estado fundamental excitado o fracturado. La masa inercial del electrón ($m_e = 510,998.95 \text{ eV}$) opera como la base energética del sistema topológico original; constituye el límite de energía confinada del cual se originará la fracción de fractura.
+**1. El Ancla Inercial Base ($m_e c^2$)**  
+Todo pulso longitudinal subatómico es el evento de disipación de un estado fundamental excitado o fracturado. La energía de reposo del electrón ($m_e c^2 \approx 510,998.95 \text{ eV}$) opera como la base energética del sistema topológico original; constituye el límite de energía confinada del cual se originará la fracción de fractura.
 
-#### 2. La Fracción de Energía Volumétrica ($\alpha^3$)
-Cuando un nudo topológico colapsa, la disipación de la energía está acotada por las fronteras geométricas del volumen de confinamiento. En el sistema hidrodinámico base (el hidrógeno), el macro-vórtice opera entre dos fronteras espaciales: el radio orbital macroscópico de equilibrio ($R$, el Radio de Bohr) y el núcleo transversal de la línea de vórtice ($r$, el Radio de Compton reducido).
+**2. La Fracción de Energía Volumétrica ($\alpha^3$)**  
+Cuando un nudo topológico colapsa, la disipación de la energía está acotada por las fronteras geométricas del volumen de confinamiento. En el sistema hidrodinámico base (el hidrógeno), el macro-vórtice opera entre dos fronteras espaciales: el radio orbital macroscópico de equilibrio ($R$, el Radio de Bohr) y el núcleo transversal de la línea de vórtice ($r$, el Radio de Compton reducido).  
 
 Dado que la Constante de Estructura Fina ($\alpha$) en la MQH se deduce geométricamente como la relación de aspecto de estos radios ($\alpha = r/R$), y asumiendo una distribución de densidad de energía uniforme en el fluido incompresible local, la variación de energía inercial ($\Delta E_{vol}$) liberada durante una ruptura transversal localizada escala proporcionalmente a la relación de los volúmenes esféricos de control:
 
@@ -1127,24 +1127,24 @@ $$
 
 Esta restricción volumétrica indica que cualquier intento mecánico de inyectar una mayor fracción de energía en el medio desencadenaría un esfuerzo de corte transversal, obligando a la energía excedente a curvarse y regenerar vorticidad (masa rotacional) en lugar de propagarse como un solitón longitudinal puro.
 
-#### 3. El Potencial de Auto-Energía Esférica ($\frac{3}{5}$)
-Al ser inyectada esta fracción energética ($\alpha^3 m_e$) en el fluido incompresible, la Ecuación de Poisson para la dispersión de la presión dicta que la perturbación debe estabilizarse tridimensionalmente. En un medio continuo isótropo, la energía requerida para estructurar una perturbación escalar uniforme (esfera) desde el infinito se rige por la integración clásica del potencial de ensamble. El coeficiente exacto de la auto-energía geométrica de una distribución de densidad uniforme es $\frac{3}{5}$.
+**3. El Potencial de Auto-Energía Esférica ($\frac{3}{5}$)**  
+Al ser inyectada esta fracción energética ($\alpha^3 m_e c^2$) en el fluido incompresible, la Ecuación de Poisson para la dispersión de la presión dicta que la perturbación debe estabilizarse tridimensionalmente. En un medio continuo isótropo, la energía requerida para estructurar una perturbación escalar uniforme (esfera) desde el infinito se rige por la integración clásica del potencial de ensamble. El coeficiente exacto de la auto-energía geométrica de una distribución de densidad uniforme es $\frac{3}{5}$.  
 
 Al aplicar este coeficiente integrador sobre la densidad de energía volumétrica liberada, se obtiene analíticamente la energía total de la perturbación longitudinal:
 
 $$
-E_{\nu(max)} = \frac{3}{5} (\alpha^3 m_e)
+E_{\nu(max)} = \frac{3}{5}\alpha^3 (m_e c^2)
 $$
 
-#### 4. Convergencia Analítica y Cota Cosmológica Observacional
-Sustituyendo el valor analítico de los parámetros geométricos del fluido ($\alpha \approx 1/137.035999$), la ecuación arroja un valor teórico autónomo para la inercia acústica del solitón:
+**4. Convergencia Analítica y Cota Cosmológica Observacional**  
+Sustituyendo el valor analítico de los parámetros geométricos del fluido ($\alpha \approx 1/137.035999$) y la energía de reposo del electrón, la ecuación arroja un valor teórico autónomo para la inercia acústica del solitón:
 
 $$
 E_{\nu(max)} = \frac{3}{5} \left( \frac{1}{137.035999} \right)^3 \times 510,998.95 \text{ eV}
 $$
 
 $$
-E_{\nu(max)} = 0.1190 \text{ eV}
+E_{\nu(max)} \approx 0.1190 \text{ eV}
 $$
 
 Este cálculo puramente hidrodinámico y geométrico resulta coincidir, con un alto grado de precisión empírica, con las más recientes mediciones de los sondeos cosmológicos de fondo cósmico de microondas y oscilaciones acústicas de bariones (Misión Planck, 2018), los cuales fijan la cota superior estricta para la suma de las masas de los neutrinos en $\sum m_{\nu} < 0.12 \text{ eV}$.
