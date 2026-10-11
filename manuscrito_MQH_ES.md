@@ -1041,16 +1041,6 @@ El valor experimental de CODATA establece la relación inercial del protón en $
 
 Las leves discrepancias empíricas restantes (el $\approx 0.018\%$ en el protón y el $\approx 0.0036$ en el ensamble del neutrón) dejan de ser anomalías inexplicables y adquieren un significado físico preciso: representan el residuo natural ($\mathcal{R}$), es decir, la disipación elástica de campo lejano, la fricción de interfaz y la asimetría viscosa que sufre La Fuente en los bordes de confinamiento, desviándose fraccionalmente del fluido incompresible ideal. Su integración numérica exacta mediante dinámica de fluidos computacional (CFD) define el horizonte de trabajo de este modelo.
 
-**El decaimiento beta como criterio de validación**
-La evaluación definitiva de esta hipótesis requiere reproducir el balance energético del proceso:
-
-$$
-n \rightarrow p + e^- + \bar{\nu}_e
-$$
-
-Esto incluye la justificación hidrodinámica de la energía liberada ($\approx 0.782 \text{ MeV}$), la distribución de los momentos del electrón y el antineutrino, y la derivación estocástica de la vida media observada del neutrón libre ($\approx 880 \text{ s}$).
-
-En consecuencia, la MQH plantea el confinamiento vorticial como una línea de investigación fundamental. Su validez última dependerá de que una formulación de medios continuos explícita permita calcular las propiedades inerciales del neutrón sin ajustar retrospectivamente los coeficientes de arrastre para reproducir su masa empírica.
 
 ### 4.2.2 El Átomo de Hidrógeno: Equilibrio Hidrodinámico, el Radio de Bohr y la Verdadera Masa
 
