@@ -583,8 +583,8 @@ $$
 \ln\left(\frac{8R}{r}\right) = 7
 $$
 
-#### C. La Derivación Analítica Pura de $\alpha$
-Aplicando la función exponencial ($e$) a ambos lados para despejar la relación de aspecto geométrica del macro-toroide:
+#### C. La Derivación Analítica Pura de la Proporción ($\alpha$)
+Aplicando la función exponencial ($e$) a ambos lados de la ecuación armónica para despejar la relación de aspecto geométrica del macro-toroide:
 
 $$
 \frac{8R}{r} = e^7
@@ -596,29 +596,31 @@ $$
 \frac{R}{r} = \frac{e^7}{8}
 $$
 
-Evaluando explícitamente el numerador ($e^7 \approx 1096.633$), obtenemos numéricamente esta proporción puramente topológica:
+Evaluando explícitamente el numerador ($e^7 \approx 1096.633$), obtenemos numéricamente esta proporción geométrica:
 
 $$
 \frac{R}{r} = \frac{1096.633}{8} \approx 137.079
 $$
 
-Esto demuestra analíticamente que el inverso de la Constante de Estructura Fina no es una rareza electromagnética, sino **el límite geométrico exacto de proporción** ($R/r$) que exige un fluido incompresible para que un sistema en rotación resuene sin destruirse en el Armónico 7.
+Esta deducción demuestra analíticamente que el inverso de la Constante de Estructura Fina ($\alpha^{-1}$) no es un parámetro electromagnético arbitrario, sino **la exigencia geométrica de proporción** ($R/r$) que impone un fluido incompresible para que cualquier sistema vorticial resuene en el Armónico 7.
 
-#### D. La Identidad del Radio Menor ($r$): El Radio Clásico del Electrón
-Establecida la proporción armónica ($R/r = \alpha^{-1}$), el marco hidrodinámico nos obliga mecánicamente a deducir el radio menor o núcleo del vórtice ($r$). Despejando $r$ de nuestra relación geométrica e insertando el radio mayor base calculado en la Sección A ($R_e \approx 0.386 \times 10^{-12} \text{ m}$):
+#### D. La Deducción del Núcleo ($r$) y el Radio Clásico del Electrón
+Establecida la proporción armónica obligatoria ($R/r = \alpha^{-1}$), el marco hidrodinámico nos permite deducir analíticamente la dimensión transversal oculta del vórtice: el radio menor de su núcleo ($r_e$). 
 
-$$
-r = \frac{R_e}{\alpha^{-1}} = \frac{0.386 \times 10^{-12} \text{ m}}{137.036}
-$$
+Tomando como ancla el radio mayor base calculado en la Sección A ($R_e = \bar{\lambda}_c \approx 0.386 \times 10^{-12} \text{ m}$), despejamos $r_e$:
 
 $$
-r \approx 2.817 \times 10^{-15} \text{ m} \, (2.817 \text{ fm})
+r_e = \frac{R_e}{\alpha^{-1}} = \frac{0.386 \times 10^{-12} \text{ m}}{137.036}
 $$
 
-Esta deducción cierra el sistema de forma magistral: el valor de $2.817 \text{ fm}$ corresponde con exactitud matemática a lo que la física ortodoxa denomina el **Radio Clásico del Electrón**. Bajo la MQH, este valor pierde su abstracción y se revela como el grosor transversal físico del remolino topológico.
+$$
+r_e \approx 2.817 \times 10^{-15} \text{ m} \, (2.817 \text{ fm})
+$$
+
+El resultado de esta derivación fluida cierra el andamiaje teórico con una confirmación absoluta: el valor de $2.817 \text{ fm}$ deducido geométricamente corresponde con exactitud a la constante que la física ortodoxa denomina el **Radio Clásico del Electrón**. Bajo la MQH, este parámetro deja de ser una abstracción matemática basada en la energía electrostática y se revela empíricamente como el grosor transversal físico del remolino topológico.
 
 #### E. El Residuo Viscoso
-El límite analítico ideal deducido ($137.079$) asume un comportamiento estacionario perfecto. La levísima discrepancia frente a la medición experimental del CODATA ($137.036$) —una diferencia relativa del **$0.03\%$**— cuantifica mecánicamente el arrastre de capa límite (boundary layer) y la fricción de interfaz del vórtice real al interactuar con las micro-fluctuaciones del medio cósmico.
+El límite analítico ideal deducido para la proporción ($\approx 137.079$) asume un comportamiento estacionario en un fluido perfecto. La levísima discrepancia frente a la medición experimental del CODATA ($137.036$) —una diferencia relativa del **$0.03\%$**— cuantifica mecánicamente el arrastre de capa límite (boundary layer) y la fricción de interfaz del vórtice real al interactuar con las micro-fluctuaciones del medio cósmico.
 
 ## 2.4 Las 3 Generaciones y la Autopsia Topológica del Decaimiento
 
