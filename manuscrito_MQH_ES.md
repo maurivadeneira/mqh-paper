@@ -610,6 +610,55 @@ El resultado es rigurosamente una densidad volumétrica de masa, demostrando que
 
 El espacio no es un vacío cuántico estadístico. Estamos inmersos en un océano continuo cuya densidad supera 800 veces a la del agua. Es esta inmensa inercia primigenia la que confina y estabiliza la monstruosa energía cinética de los micro-huracanes que componen toda la materia del universo.
 
+### Deducción Analítica Rigurosa de la Inercia y la Densidad de La Fuente
+
+Para demostrar que la masa no es una propiedad intrínseca y estática, sino una consecuencia geométrica del confinamiento de fluidos, desarrollamos la derivación analítica completa a partir de los postulados fundamentales de la MQH.
+
+**1. El Funcional Energético del Vórtice (Postulado 3)**
+Conforme al Postulado 3, la energía total ($E$) de una estructura cerrada en el medio continuo de La Fuente se define mediante la integral de volumen de la energía cinética:
+$$ E = \iiint \frac{1}{2} \rho_0 v^2 \, dV $$
+
+Para un anillo de vórtice toroidal (toroide simple) de radio mayor $R$ y radio menor (núcleo) $r$, la solución analítica exacta de esta integral, derivada inicialmente por Sir Horace Lamb mediante la distribución de líneas de corriente y conservación del momento angular, colapsa en la expresión geométrica:
+$$ E = \frac{1}{2} \rho_0 \Gamma^2 R \ln\left(\frac{8R}{r}\right) $$
+*(Donde $\Gamma$ representa la circulación hidrodinámica del fluido alrededor del núcleo).*
+
+**2. El Principio de Equivalencia Inercial (Postulado 2)**
+Aplicando el Principio de Equivalencia Inercial, la masa en reposo de la partícula ($m$) es estrictamente la energía cinética confinada dividida por el cuadrado de la velocidad límite del medio ($c^2$):
+$$ m = \frac{E}{c^2} = \frac{\rho_0 \Gamma^2 R}{2 c^2} \ln\left(\frac{8R}{r}\right) $$
+
+**3. La Cuantización de la Circulación (Postulado 4)**
+A diferencia de los remolinos macroscópicos, el vórtice fundamental que constituye la materia es topológicamente estable porque su rotación está estrictamente cuantizada. Conforme al Postulado 4, la circulación del fluido obedece a la relación inversa con la masa confinada y el cuanto de acción hidrodinámica ($h$):
+$$ \Gamma = \frac{h}{m} $$
+
+**4. El Acople y la Ecuación Implícita de Estado**
+Sustituyendo la condición de cuantización ($\Gamma = \frac{h}{m}$) en nuestra ecuación general de masa, obtenemos:
+$$ m = \frac{\rho_0 R}{2 c^2} \left(\frac{h}{m}\right)^2 \ln\left(\frac{8R}{r}\right) $$
+$$ m = \frac{\rho_0 R h^2}{2 c^2 m^2} \ln\left(\frac{8R}{r}\right) $$
+
+Multiplicando ambos lados por $m^2$ para despejar la cúbica de masa ($m^3$):
+$$ m^3 = \frac{\rho_0 R h^2}{2 c^2} \ln\left(\frac{8R}{r}\right) $$
+
+O expresado de forma explícita para resolver la inercia del leptón base ($m_e$):
+$$ m_e = \left( \frac{\rho_0 R h^2}{2 c^2} \ln\left(\frac{8R}{r}\right) \right)^{1/3} $$
+
+**5. El Límite de Colapso Esférico y la Derivación de la Densidad ($\rho_0$)**
+Para resolver analytically esta ecuación sin introducir parámetros libres, evaluamos las condiciones de frontera extremas del electrón en su estado fundamental:
+1. **El Radio Mayor ($R$):** Corresponde a la longitud de onda de Compton reducida, que define el radio físico del vórtice: $R = \bar{\lambda}_c = \frac{h}{2\pi m_e c}$.
+2. **El Límite Topológico ($n=1$):** En el umbral de máxima compresión (Toroide de Husillo), el "hueco" del toroide colapsa y el índice de tensión topológica se estabiliza en la unidad: $\ln\left(\frac{8R}{r}\right) = 1$.
+
+Despejando la densidad inercial absoluta de La Fuente ($\rho_0$) a partir de la ecuación cúbica anterior:
+$$ \rho_0 = \frac{2 m_e^3 c^2}{h^2 R \ln\left(\frac{8R}{r}\right)} $$
+
+Sustituyendo las condiciones de frontera Compton ($R = \frac{h}{2\pi m_e c}$) y el límite topológico ($\ln = 1$):
+$$ \rho_0 = \frac{2 m_e^3 c^2}{h^2 \left(\frac{h}{2\pi m_e c}\right) (1)} $$
+
+Simplificando algebraicamente los términos:
+$$ \rho_0 = \frac{2 m_e^3 c^2}{\frac{h^3}{2\pi m_e c}} = \frac{4\pi m_e^4 c^3}{h^3} $$
+
+**6. Auditoría Numérica Final**
+Evaluando esta expresión pura con los valores universales del CODATA para el electrón ($m_e, c, h$), la MQH demuestra analíticamente que el espacio no es un vacío estadístico, sino un medio incompresible con una densidad absoluta de:
+$$ \rho_0 \approx 8.01 \times 10^5 \text{ kg/m}^3 $$
+
 ## 2.4 Las 3 Generaciones y la Autopsia Topológica del Decaimiento
 
 Uno de los mayores callejones sin salida del Modelo Estándar es la existencia empírica de las tres "generaciones" de leptones (Electrón, Muón y Tau). Poseen exactamente las mismas propiedades, pero las superiores son exorbitantemente más masivas y estallan casi al instante (Decaimiento Débil). Al carecer de un modelo mecánico, la física las cataloga como un misterio insondable.
