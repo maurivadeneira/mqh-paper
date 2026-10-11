@@ -470,113 +470,72 @@ En conclusión, la materia ordinaria no está formada por esferas sólidas eleme
 
 ### 2.3 La Ecuación del Vórtice y la Derivación Analítica de la Densidad Base ($\rho_0$)
 
-Habiendo conceptualizado la masa como un remolino confinado, procedemos a su deducción analítica estricta aplicando las herramientas de la hidrodinámica clásica sobre nuestro marco axiomático.
-
-En la mecánica de fluidos incompresibles, la energía total ($E$) de un sistema no es una propiedad abstracta o mística, sino la energía cinética absoluta del fluido en movimiento. Conforme al Postulado 3, esta energía global se rige por la integral de volumen de Euler/Navier-Stokes:
-$$ E = \iiint \frac{1}{2} \rho_0 v^2 \, dV $$
+Habiendo conceptualizado la masa como un remolino confinado, procedemos a su deducción analítica estricta aplicando las herramientas de la hidrodinámica clásica sobre nuestro marco axiomático. En la mecánica de fluidos incompresibles, la energía total ($E$) de un sistema es la energía cinética absoluta del fluido en movimiento. Conforme al Postulado 3, esta energía global se rige por la integral de volumen: $E = \iiint \frac{1}{2} \rho_0 v^2 \, dV$.
 
 #### La Bifurcación de La Fuente: Masa vs. Campos
-Llegados a esta integral universal, la MQH establece una bifurcación ontológica y matemática que divide el comportamiento físico en dos grandes regímenes operativos:
-1. **El Régimen Abierto (Campos, Gradientes e Ingeniería):** Si el flujo de La Fuente no se encierra sobre sí mismo, la integral describe energía libre: ondas transversales, campos electromagnéticos y vectores de macro-presión. Este es el dominio que permite trascender la mecánica teórica hacia la Ingeniería de La Fuente (desarrollada en los Capítulos 3 y 6), sentando las bases para la manipulación de densidades de energía, la alteración de gradientes de vacío y los futuros motores de propulsión sin inercia.
-2. **El Régimen Confinado (Inercia y Física de Partículas):** Si la interacción de flujos obliga a la energía a anudarse en un bucle topológico estable (Postulado 7), el fluido queda atrapado girando en el mismo sitio. Es aquí donde nace la materia.
+Llegados a esta integral universal, la MQH establece una bifurcación ontológica que divide el comportamiento físico en dos regímenes:
+1. **El Régimen Abierto (Campos, Gradientes e Ingeniería):** Si el flujo no se encierra sobre sí mismo, la integral describe energía libre: ondas transversales, campos electromagnéticos y vectores de macro-presión.
+2. **El Régimen Confinado (Inercia y Física de Partículas):** Si la interacción obliga a la energía a anudarse en un bucle topológico estable (Postulado 7), el fluido queda atrapado girando en el mismo sitio. Es aquí donde nace la materia.
 
 #### Derivación Paso a Paso de la Masa (El Vórtice Toroidal)
-Para el propósito estricto de derivar la masa de la partícula fundamental, tomamos el segundo camino geométrico: el nudo cerrado más básico, un toroide (anillo de vórtice). Un anillo de vórtice se define topológicamente por dos radios y una carga:
-- $R$: El radio mayor del anillo.
-- $r$: El radio menor (el grosor o núcleo del tubo).
-- $\Gamma$: La Circulación, que cuantifica la rotación del fluido alrededor del núcleo.
+Para derivar la masa de la partícula fundamental, tomamos un toroide (anillo de vórtice) definido por tres parámetros: radio mayor ($R$), radio menor o núcleo ($r$), y circulación ($\Gamma$). Por conservación del momento angular, la velocidad local del fluido decae de forma inversamente proporcional a la distancia perpendicular ($d$): $v = \frac{\Gamma}{2\pi d}$. 
 
-Para calcular la energía atrapada en esta geometría, desarrollamos la integral de volumen. Por conservación del momento angular, la velocidad local del fluido ($v$) decae de forma inversamente proporcional a la distancia perpendicular ($d$) desde el centro del tubo:
-$$ v = \frac{\Gamma}{2\pi d} $$
+El diferencial de volumen del anillo extendido es $dV = 4\pi^2 R \cdot d \, dd$. Sustituyendo en la integral y simplificando las constantes ($4\pi^2$), la energía cinética del anillo se reduce a:
+$E = \frac{1}{2} \rho_0 \Gamma^2 R \int \frac{1}{d} \, dd$
 
-El diferencial de volumen ($dV$) de un anillo extendido a una distancia $d$ se define como el perímetro del toroide ($2\pi R$) multiplicado por el área del anillo transversal ($2\pi d \, dd$):
-$$ dV = 4\pi^2 R \cdot d \, dd $$
+Resolviendo la integral analítica desde la superficie del núcleo ($r$) hasta el límite paramétrico diametral ($8R$, conforme a la solución de Sir Horace Lamb): $\int_{r}^{8R} \frac{1}{d} \, dd = \ln(8R) - \ln(r) = \ln\left(\frac{8R}{r}\right)$. 
 
-Sustituyendo el campo de velocidades y el volumen diferencial en nuestra integral de energía inicial:
-$$ E = \frac{1}{2} \rho_0 \int \left(\frac{\Gamma}{2\pi d}\right)^2 (4\pi^2 R \cdot d) \, dd $$
+Por lo tanto, la energía total del anillo colapsa en la expresión geométrica exacta:
+$E = \frac{1}{2} \rho_0 \Gamma^2 R \ln\left(\frac{8R}{r}\right)$
 
-Las constantes espaciales ($4\pi^2$) se cancelan algebraicamente en el numerador y el denominador, y simplificando la variable espacial $d$, la integral se purifica:
-$$ E = \frac{1}{2} \rho_0 \Gamma^2 R \int \frac{1}{d} \, dd $$
+Aplicando el Principio de Equivalencia Inercial ($m = E/c^2$), la masa en reposo es:
+$m = \frac{\rho_0 \Gamma^2 R}{2 c^2} \ln\left(\frac{8R}{r}\right)$
 
-La variable espacial nos exige integrar analíticamente la función $1/d$, lo cual genera matemáticamente un logaritmo natural ($\ln$). Para establecer los límites de integración, evaluamos el fluido exterior desde la superficie del núcleo rígido (límite inferior $= r$) hasta el límite paramétrico diametral donde el campo de influencia del vórtice se cancela a sí mismo por la curvatura del anillo (límite superior $= 8R$, conforme a la resolución analítica original de Sir Horace Lamb):
-$$ \int_{r}^{8R} \frac{1}{d} \, dd = \ln(8R) - \ln(r) = \ln\left(\frac{8R}{r}\right) $$
-
-Al acoplar el resultado de esta integral con nuestras constantes hidrodinámicas, el caos tridimensional colapsa en la siguiente expresión geométrica exacta para la energía total del anillo:
-$$ E = \frac{1}{2} \rho_0 \Gamma^2 R \ln\left(\frac{8R}{r}\right) $$
-
-Bajo el principio de equivalencia masa-energía, esta ecuación fluidodinámica constituye la fórmula analítica de la masa en reposo. Además, indica analíticamente que las partículas elementales no pueden ser "puntos adimensionales" como postula erróneamente el Modelo Estándar: si un núcleo poseyera un radio $r = 0$, el logaritmo tendería al infinito, generando una masa infinita. Esta derivación obliga al estrato cuántico a poseer volumen, tensión geométrica y estructura topológica real.
-
-Una vez obtenida la energía cinética del medio continuo confinado, aplicamos el Principio de Equivalencia Inercial del Postulado 2, el cual establece que la masa inercial ($m$) es estrictamente la energía encerrada dividida por el cuadrado de la velocidad límite del medio ($c^2$):
-$$ m = \frac{\rho_0 \Gamma^2 R}{2 c^2} \ln\left(\frac{8R}{r}\right) $$
-
-#### La Cuantización de la Circulación y el Tamaño Geométrico
-A diferencia de los remolinos efímeros macroscópicos, el fermión más estable del universo —el electrón— es un armónico de estabilidad perpetua. En la dinámica de superfluidos, esto exige que la circulación ($\Gamma$) obedezca a una cuantización estricta ($\Gamma = \frac{h}{m_e}$).
-
-Sustituyendo esta condición de circulación en nuestra ecuación general de masa, el formalismo revela una simetría profunda:
-$$ m_e = \frac{\rho_0 R_e}{2 c^2} \left(\frac{h}{m_e}\right)^2 \ln\left(\frac{8R_e}{r_e}\right) $$
-
-Esta es una ecuación implícita donde la masa inercial ($m_e$) define su propia dependencia hidrodinámica. Para obtener el estado físico cerrado y explícito de la partícula, desarrollamos el cuadrado de la constante de Planck ($h^2 / m_e^2$) y trasladamos la masa al lado izquierdo de la ecuación multiplicando algebraicamente ($m_e \times m_e^2 = m_e^3$).
-
-Despejando la masa en reposo del vórtice, obtenemos la Ecuación de Estado Fundamental para el Leptón:
-$$ m_e = \left( \frac{\rho_0 R_e h^2}{2 c^2} \ln\left(\frac{8R_e}{r_e}\right) \right)^{1/3} $$
-
-Con esta ecuación analítica explícita y despejada, proponemos que la masa de la partícula fundamental puede relacionarse geométricamente, calibrando el modelo: la masa es la raíz cúbica de la interacción entre la constante de Planck ($h$), la densidad absoluta del espacio ($\rho_0$) y el límite elástico del medio ($c$), modulada por su topología geométrica ($R_e, r_e$).
+#### La Cuantización de la Circulación y la Ecuación de Estado
+Para el fermión más estable (el electrón), la circulación obedece a una cuantización estricta basada en el cuanto de acción hidrodinámica: $\Gamma = \frac{h}{m_e}$. Sustituyendo esta condición y operando algebraicamente para despejar la masa inercial ($m_e$), obtenemos la Ecuación de Estado Fundamental para el Leptón:
+$m_e = \left( \frac{\rho_0 R_e h^2}{2 c^2} \ln\left(\frac{8R_e}{r_e}\right) \right)^{1/3}$
 
 #### El Límite de Colapso Esférico y el Cálculo de la Densidad ($\rho_0$)
-Para resolver el término logarítmico $\ln(8R_e/r_e)$ y calcular la densidad base de La Fuente sin introducir parámetros ad-hoc, debemos definir estrictamente las condiciones de frontera para el radio mayor ($R_e$) y la relación topológica extrema del electrón.
+Para resolver el término logarítmico $\ln(8R_e/r_e)$, evaluamos las condiciones de frontera extremas:
+1. **El Radio Mayor ($R_e$):** Corresponde a la longitud de onda de Compton reducida del electrón: $R_e = \bar{\lambda}_c = \frac{h}{2\pi m_e c}$.
+2. **El Límite Topológico ($n=1$):** En el umbral de máxima compresión (Toroide de Husillo), el "hueco" del toroide colapsa y la relación de radios encierra el número de Euler, fijando el índice de tensión topológica en la unidad: $\ln\left(\frac{8R}{r}\right) = 1$.
 
-1. **El Radio Mayor ($R_e$):** La MQH postula que la longitud de onda de Compton reducida ($\bar{\lambda}_c$) no es una simple escala de interacción estadística, sino el radio físico exacto del vórtice del electrón. Por lo tanto, establecemos como condición analítica:
-   $$ R_e = \bar{\lambda}_c = \frac{h}{2\pi m_e c} $$
-2. **El Límite Topológico (El Logaritmo):** Un anillo de vórtice posee un "hueco" central siempre que su radio mayor ($R$) sea más grande que su grosor transversal ($r$). Sin embargo, el electrón representa el estado de energía mínima y de compresión máximo permitido por el espacio. En este límite, el grosor del tubo engulle al anillo interior ($r \approx 2.94R$). El "hueco" de la dona desaparece y la geometría colapsa en un vórtice esférico perfecto (el Toroide de Husillo o Spindle Torus).
-   En la hidrodinámica topológica, el umbral de energía mínima de auto-preservación ocurre cuando la relación de radios encierra el número de Euler: $\frac{8R}{r} = e$. Bajo este límite asintótico, la imposición de la condición $\ln(8R/r) = 1$ (donde $\ln(e) = 1$) no es un ajuste algebraico, sino la formulación de la condición de frontera de colapso topológico.
-3. **La Derivación Autónoma de la Densidad:** Regresando a nuestra ecuación implícita despejada para la densidad:
-   $$ \rho_0 = \frac{2 m_e^3 c^2}{h^2 R_e \ln\left(\frac{8R_e}{r_e}\right)} $$
-   Sustituyectoriamente el logaritmo por $1$ y reemplazando el radio $R_e$ por su definición Compton explícita:
-   $$ \rho_0 = \frac{2 m_e^3 c^2}{h^2 \left(\frac{h}{2\pi m_e c}\right) (1)} $$
-   Simplificando algebraicamente los términos, la densidad de La Fuente se expande a su forma pura:
-   $$ \rho_0 = \frac{4\pi m_e^4 c^3}{h^3} $$
-4. **Auditoría Numérica:** Evaluando la ecuación pura con los valores empíricos del CODATA ($m_e \approx 9.109383 \times 10^{-31} \text{ kg}$, $c \approx 299,792,458 \text{ m/s}$, $h \approx 6.626070 \times 10^{-34} \text{ J}\cdot\text{s}$):
-   $$ \rho_0 \approx 8.01 \times 10^5 \text{ kg/m}^3 $$
+Sustituyendo estas condiciones en la ecuación implícita despejada para la densidad:
+$\rho_0 = \frac{2 m_e^3 c^2}{h^2 R_e \ln(8R_e/r_e)} = \frac{2 m_e^3 c^2}{h^2 \left(\frac{h}{2\pi m_e c}\right) (1)}$
 
-Consistencia Dimensional: La validez física de esta deducción se confirma al someter la ecuación a un estricto análisis dimensional:
-$$ [\rho_0] = \frac{[\text{kg}]^3 [\text{m/s}]^2}{([\text{J}\cdot\text{s}])^2 [\text{m}]} \equiv \frac{\text{kg}}{\text{m}^3} $$
+Simplificando algebraicamente, la densidad absoluta de La Fuente se expande a su forma pura:
+$\rho_0 = \frac{4\pi m_e^4 c^3}{h^3}$
 
-El espacio no es un vacío cuántico estadístico. Estamos inmersos en un océano continuo cuya densidad supera 800 veces a la del agua. Es esta inmensa inercia primigenia la que confina y estabiliza la monstruosa energía cinética de los micro-huracanes que componen toda la materia del universo.
+Evaluando con los valores del CODATA, se obtiene la densidad inercial absoluta: **$\rho_0 \approx 8.01 \times 10^5 \text{ kg/m}^3$**.
 
 ---
 
 ### 5. La Escala Fractal y la Derivación Analítica de la Constante de Estructura Fina ($\alpha$)
 
-Habiendo calibrado la inercia absoluta del vacío ($\rho_0$), el modelo MQH exige demostrar que las constantes universales restantes no son parámetros libres o "ajustes finos" inexplicables, sino consecuencias geométricas ineludibles de la resonancia de ondas en este medio continuo. La más enigmática de estas constantes es la Constante de Estructura Fina ($\alpha^{-1} \approx 137.036$). Para derivarla analíticamente, debemos desentrañar la dualidad de escala entre el electrón aislado y el átomo.
+Habiendo calibrado la inercia absoluta del vacío ($\rho_0$), demostramos que la Constante de Estructura Fina ($\alpha^{-1} \approx 137.036$) surge de la resonancia geométrica del fluido entre el electrón aislado y el átomo.
 
-#### A. El Perímetro de la Onda y la Geometría Base del Electrón (El Armónico $n=1$)
-La física ortodoxa asigna al electrón una longitud de onda Compton estándar ($\lambda_c = h/m_e c \approx 2.42 \text{ pm}$), tratándola históricamente como una abstracción probabilística. En la MQH, rescatamos la materialidad hidrodinámica de esta onda: los $2.42 \text{ pm}$ de la longitud de onda representan físicamente el **perímetro exacto** (la circunferencia) del tubo de fluido vibrando en su estado fundamental.
+#### A. El Perímetro de la Onda y la Geometría Base ($n=1$)
+La longitud de onda Compton estándar ($\lambda_c \approx 2.42 \text{ pm}$) representa físicamente el **perímetro exacto** (la circunferencia) del tubo de fluido vibrando en su estado fundamental. Al curvar este perímetro para formar un anillo cerrado, su radio mayor de giro ($R_e$) se calcula dividiendo el perímetro entre $2\pi$:
+$R_e = \frac{\lambda_c}{2\pi} = \bar{\lambda}_c \approx 0.386 \text{ pm}$
+*(Nota: Esto desmitifica el origen geométrico de la constante de Planck reducida $\hbar = h/2\pi$).*
 
-Al curvar este perímetro lineal para formar un anillo cerrado (el vórtice toroidal), la geometría elemental dicta que su radio mayor de giro ($R_e$) se calcula dividiendo el perímetro entre $2\pi$:
-$$ R_e = \frac{\text{Perímetro}}{2\pi} = \frac{\lambda_c}{2\pi} = \frac{2.42 \text{ pm}}{2\pi} = \bar{\lambda}_c \approx 0.386 \text{ pm} $$
+En este umbral de máxima compresión (Toroide de Husillo), el remolino estabiliza su tensión topológica en la unidad: $\ln\left(\frac{8R}{r}\right) = 1$.
 
-*(Nota: Esto desmitifica mecánicamente el uso constante de la constante de Planck reducida $\hbar = h/2\pi$ en la física moderna; el Modelo Estándar divide por $2\pi$ porque, sin advertirlo topológicamente, está operando con el radio de una onda circular cerrada).*
-
-En este umbral extremo de compresión (Toroide de Husillo, $n=1$), el remolino estabiliza su índice de tensión topológica en la unidad:
-$$ \ln\left(\frac{8R}{r}\right) = 1 $$
-
-#### B. La Expansión Topológica y el Armónico 7
-Sin embargo, cuando este vórtice interactúa y forma un sistema orbital complejo (como el macro-toroide dinámico del átomo de hidrógeno al orbitar un protón), el remolino es forzado a expandirse. 
-
-Para garantizar el cierre de fase perfecto y la supervivencia del sistema sin interferencia destructiva, la hidrodinámica impone que la tensión del anillo debe anclarse ineludiblemente en un armónico superior entero ($n$). Cuando el flujo establece su primer equilibrio de confinamiento orbital estable, la tensión de La Fuente lo obliga a expandir su radio mayor orbital ($R$) hasta alcanzar el **Séptimo Armónico ($n=7$)**:
-$$ \ln\left(\frac{8R}{r}\right) = 7 $$
+#### B. La Expansión Topológica y el Armónico 7 ($n=7$)
+Cuando el vórtice interactúa y forma un sistema orbital complejo (como el átomo de hidrógeno al orbitar un protón), el remolino se expande. Para garantizar un cierre de fase perfecto sin interferencia destructiva, la hidrodinámica exige que la tensión del anillo se ancle en un armónico superior entero. El sistema alcanza su primer equilibrio orbital estable al expandir su radio mayor hasta el **Séptimo Armónico ($n=7$)**:
+$\ln\left(\frac{8R}{r}\right) = 7$
 
 #### C. La Derivación Analítica Pura de $\alpha$
-Aplicando la función exponencial para despejar la relación de aspecto de este macro-toroide atómico:
-$$ \frac{8R}{r} = e^7 \implies \frac{R}{r} = \frac{e^7}{8} $$
+Aplicando la función exponencial para despejar la relación de aspecto del macro-toroide:
+$\frac{8R}{r} = e^7 \implies \frac{R}{r} = \frac{e^7}{8}$
 
 Evaluando numéricamente esta proporción puramente topológica:
-$$ \frac{R}{r} = \frac{1096.633}{8} \approx 137.079 $$
+$\frac{R}{r} = \frac{1096.633}{8} \approx 137.079$
 
-Esta deducción demuestra analíticamente que el inverso de la Constante de Estructura Fina empírica no es una rareza de la interacción electromagnética, sino **el límite geométrico exacto de proporción** ($R/r$) que exige un fluido incompresible para que un sistema en rotación resuene sin destruirse en el Armónico 7.
+Esto demuestra analíticamente que el inverso de la Constante de Estructura Fina no es una rareza empírica, sino **el límite geométrico exacto de proporción** ($R/r$) que exige un fluido incompresible para que un sistema en rotación resuene sin destruirse en el Armónico 7.
 
 #### D. El Residuo Viscoso
-El límite analítico ideal ($137.079$) asume el comportamiento de un fluido perfecto. La levísima discrepancia frente a la medición empírica del CODATA ($137.036$) —una diferencia relativa de apenas el **$0.03\%$**— cuantifica mecánicamente el arrastre de capa límite (*boundary layer*) y la fricción de interfaz que sufre el vórtice real al interactuar con las micro-fluctuaciones de presión del fluido cósmico.
+El límite analítico ideal ($137.079$) asume un fluido perfecto. La levísima discrepancia frente a la medición del CODATA ($137.036$) —una diferencia de apenas el **$0.03\%$**— cuantifica mecánicamente el arrastre de capa límite y la fricción de interfaz del vórtice real al interactuar con las micro-fluctuaciones del medio continuo.
 
 ## 2.4 Las 3 Generaciones y la Autopsia Topológica del Decaimiento
 
