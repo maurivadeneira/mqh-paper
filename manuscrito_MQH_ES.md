@@ -354,16 +354,15 @@ La masa inercial es energía confinada ($m = E/c^2$). En este marco, la masa ($m
 
 Por tanto, la inercia no es una propiedad mágica de la materia, sino estrictamente el **arrastre hidrodinámico** y la fricción que opone esta arquitectura geométrica al intentar ser desplazada a través del océano continuo.
 
-> ### Corolario Astrofísico: La Ilusión de la Compresión y el Agujero Negro Hidrodinámico
->
-> Al establecer que *La Fuente* es un medio continuo estrictamente incompresible ($\rho_0 \approx 8.01 		imes 10^5 \text{ kg/m}^3$), surge una aparente divergencia con la astrofísica ortodoxa, la cual postula la existencia de cuerpos con densidades inerciales de hasta $\sim 10^{17} \text{ kg/m}^3$ (estrellas de neutrones) o tendientes al infinito (singularidades). Esta divergencia se resuelve al corregir un error conceptual histórico: **la confusión entre la compresión del espacio y la concentración topológica de la energía.**
->
-> En el marco de la MQH, la inercia (masa) de un cuerpo celeste extremo no implica que el fluido base se haya comprimido. Representa, en cambio, una concentración colosal de energía cinética (vorticidad) en una región localizada. Al igual que un tornado masivo no requiere que el aire sea más "denso", sino que concentra una cantidad devastadora de energía dinámica en su vórtice (oponiendo una resistencia extrema a ser atravesado), un objeto hipermasivo es una agrupación de vórtices altamente energéticos cuya resistencia inercial combinada arroja una falsa "densidad de materia" al ser promediada en su volumen geométrico.
-> 
-> **La inexistencia de la Singularidad y el Horizonte Acústico:** 
-> Bajo la incompresibilidad del fluido, es físicamente imposible el colapso hacia un punto de volumen cero y densidad infinita. Lo que la Relatividad General describe matemáticamente como un "Agujero Negro", en la mecánica de fluidos de la MQH emerge naturalmente como un **Sumidero Hidrodinámico Extremo**.
-> 
-> A medida que los gradientes de presión convergen hacia el centro del sumidero, la velocidad de arrastre del fluido hacia el interior aumenta. El "Horizonte de Eventos" no es el borde de un abismo de espacio-tiempo, sino una **frontera acústica determinista**: es el radio exacto donde la velocidad del flujo de convergencia del medio iguala y supera el límite elástico de propagación de ondas transversales ($c$). Dado que la luz (onda de tensión) no puede viajar contracorriente más rápido que la velocidad a la que el fluido que la sustenta está siendo arrastrado hacia adentro, la radiación queda atrapada. La MQH elimina así la necesidad de singularidades, restaurando la cordura fluidodinámica en los entornos más extremos del cosmos.
+**Corolario Astrofísico: La Ilusión de la Compresión y el Agujero Negro Hidrodinámico**
+
+Al establecer que La Fuente es un medio continuo estrictamente incompresible ($\rho_0 \approx 8.01 \times 10^5 \text{ kg/m}^3$), surge una aparente divergencia con la astrofísica ortodoxa, la cual postula la existencia de cuerpos con densidades inerciales de hasta $\sim 10^{17} \text{ kg/m}^3$ (estrellas de neutrones) o tendientes al infinito (singularidades). Esta divergencia se resuelve al corregir un error conceptual histórico: la confusión entre la compresión del espacio y la concentración topológica de la energía.
+
+En el marco de la MQH, la inercia (masa) de un cuerpo celeste extremo no implica que el fluido base se haya comprimido. Representa, en cambio, una concentración colosal de energía cinética (vorticidad) en una región localizada. Al igual que un tornado masivo no requiere que el aire sea más "denso", sino que concentra una cantidad devastadora de energía dinámica en su vórtice (oponiendo una resistencia extrema a ser atravesado), un objeto hipermasivo es una agrupación de vórtices altamente energéticos cuya resistencia inercial combinada arroja una falsa "densidad de materia" al ser promediada en su volumen geométrico.
+
+**La inexistencia de la Singularidad y el Horizonte Acústico:** Bajo la incompresibilidad absoluta del fluido, es físicamente imposible el colapso hacia un punto de volumen cero y densidad infinita. Lo que la Relatividad General describe matemáticamente como un "Agujero Negro", en la mecánica de fluidos de la MQH emerge naturalmente como un **Sumidero Hidrodinámico Extremo**.
+
+A medida que los gradientes de presión convergen hacia el centro del sumidero, la velocidad de arrastre del fluido hacia el interior aumenta. El "Horizonte de Eventos" no es el borde de un abismo de espacio-tiempo, sino una **frontera acústica determinista**: es el radio exacto donde la velocidad del flujo de convergencia del medio iguala y supera el límite elástico de propagación de ondas transversales ($c$). Dado que la luz (onda de tensión) no puede viajar contracorriente más rápido que la velocidad a la que el fluido que la sustenta está siendo arrastrado hacia adentro, la radiación queda atrapada. La MQH elimina así la necesidad de singularidades, restaurando la cordura fluidodinámica en los entornos más extremos del cosmos.
 
 ### Postulado 3. Energía del Medio Continuo y Geometría Toroidal
 
