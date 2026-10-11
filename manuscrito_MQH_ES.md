@@ -610,7 +610,7 @@ El resultado es rigurosamente una densidad volumétrica de masa, demostrando que
 
 El espacio no es un vacío cuántico estadístico. Estamos inmersos en un océano continuo cuya densidad supera 800 veces a la del agua. Es esta inmensa inercia primigenia la que confina y estabiliza la monstruosa energía cinética de los micro-huracanes que componen toda la materia del universo.
 
-### Deducción Analítica Rigurosa de la Inercia y la Densidad de La Fuente
+##5. Deducción Analítica Rigurosa de la Inercia y la Densidad de La Fuente
 
 Para demostrar que la masa no es una propiedad intrínseca y estática, sino una consecuencia geométrica del confinamiento de fluidos, desarrollamos la derivación analítica completa a partir de los postulados fundamentales de la MQH.
 
