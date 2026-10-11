@@ -1315,11 +1315,9 @@ $$
 
 Donde $\rho_0$ es la densidad incompresible basal del fluido cósmico ($\approx 8.01 \t	imes 10^5 \text{ kg/m}^3$). 
 
-Si despejamos analíticamente el **Módulo de Corte Transversal ($G_s$)** de *La Fuente* a partir de la velocidad de la luz y la densidad del medio ($G_s = c^2 \cdot \rho_0$), obtenemos un resultado de proporciones colosales:
+Si despejamos analíticamente el Módulo de Corte Transversal ($G_s$) de *La Fuente* a partir de la velocidad de la luz y la densidad del medio ($G_s = c^2 \cdot \rho_0$), obtenemos un resultado de proporciones colosales:
 
-$$
-G_s = (2.998 \times 10^8 \text{ m/s})^2 \times 8.01 \t	imes 10^5 \text{ kg/m}^3 \approx 7.20 \times 10^{22} \text{ Pa}
-$$
+$$ G_s = (2.998 \times 10^8 \text{ m/s})^2 \times (8.01 \times 10^5 \text{ kg/m}^3) \approx 7.20 \times 10^{22} \text{ Pa} $$
 
 Este valor de $7.20 \times 10^{22} \text{ Pascales}$ revela una propiedad fundamental de la realidad: *La Fuente* no es un espacio pasivo ni un "vacío" débil. Posee una rigidez elástica billones de veces superior a la del acero más denso conocido en la Tierra. Es esta hiper-rigidez incompresible la que permite que las perturbaciones transversales (los fotones) viajen a una velocidad constante y colosal sin que la energía se disipe en el caos del medio. La luz es, en su sentido más puro, la onda acústica de corte de un super-fluido cósmico hiper-rígido.
 
