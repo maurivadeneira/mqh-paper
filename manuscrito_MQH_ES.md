@@ -568,7 +568,7 @@ La longitud de onda Compton estándar del electrón ($\lambda_c \approx 2.426 \t
 $$
 R_e = \frac{\lambda_c}{2\pi} = \bar{\lambda}_c \approx 0.386 \times 10^{-12} \text{ m} \, (0.386 \text{ pm})
 $$
-*(Nota: Esto desmitifica geométricamente el uso de la constante de Planck reducida $\hbar = h/2\pi$).*
+*(Nota: Esto desmitifica geométricamente el uso de la constante de Planck reducida $\hbar = h/2\pi$$).*
 
 En este umbral de máxima compresión (Toroide de Husillo), el remolino estabiliza su tensión topológica en la unidad: 
 
