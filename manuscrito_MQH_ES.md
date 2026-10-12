@@ -28,6 +28,21 @@ El objetivo del formalismo es, por tanto, determinar si una dinámica continua y
 
 El presente trabajo debe entenderse en consecuencia como una hipótesis física efectiva sometida a prueba fenomenológica. La evaluación de la MQH exigirá distinguir sistemáticamente entre resultados establecidos por la física contemporánea, postulados específicos del modelo, relaciones matemáticas derivadas y coincidencias numéricas que aún carezcan de una justificación dinámica independiente. En particular, la concordancia aproximada con un valor experimental no se considerará una predicción confirmada cuando dependa de parámetros calibrados con ese mismo observable o de elecciones geométricas introducidas a posteriori. El programa se considerará fortalecido en la medida en que produzca resultados cuantitativos reproducibles, independientes de su calibración inicial y susceptibles de contrastación o refutación experimental.
 
+### Cuadro Resumen: Estatus Epistemológico del Modelo
+
+Para garantizar la máxima transparencia científica y delimitar el alcance exacto de este documento fundacional, se establece la siguiente clasificación epistemológica de las premisas aquí desarrolladas:
+
+| Elemento del Modelo | Estado Actual en este Manuscrito |
+| :--- | :--- |
+| Regla topológica $\ln(8R_n/r) = n$ | Ansatz topológico propuesto |
+| Resultado geométrico $R_7/r = e^7/8$ | Consecuencia matemática exacta del Ansatz |
+| Identificación con $\alpha^{-1}$ | Hipótesis de conexión física |
+| Discrepancia empírica (Residuo viscoso) | Mecanismo conjeturado, pendiente de derivación del tensor de esfuerzos |
+| Configuración $n=1$ como modelo del electrón | Interpretación física, pendiente de validación dinámica |
+| Estabilidad frente a armónicos superiores | Hipótesis dinámica, pendiente de resolución analítica rigurosa |
+
+Esta clasificación protege el valor exploratorio de las conjeturas formales presentadas e identifica con precisión los desafíos matemáticos que la MQH plantea para el desarrollo de simulaciones en la dinámica de fluidos computacional (CFD).
+
 ## RESUMEN: PRINCIPIOS TOPOLÓGICOS DE LA MECÁNICA CUÁNTICA HIDRODINÁMICA (MQH)
 
 ### 1. La Fuente
