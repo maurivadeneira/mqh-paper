@@ -1,20 +1,21 @@
-# Mecánica Cuántica Hidrodinámica (MQH): Principia Mathematica de la Fuente, como el espacio fluido hiperdenso.
-## (Unificación de masas, campos y gravedad, resolviendo la dualidad onda-partícula mediante la aplicación de Navier-Stokes: $\rho_0 (\partial_t \mathbf{v} + \mathbf{v} \cdot \nabla \mathbf{v}) = -\nabla P + \mu \nabla^2 \mathbf{v}$)
+Mecánica Cuántica Hidrodinámica (MQH): Principia Mathematica de la Fuente, como el espacio fluido hiperdenso.
+(Unificación de masas, campos y gravedad, resolviendo la dualidad onda-partícula mediante la aplicación de Navier-Stokes: ρ0(∂tv+v⋅∇v)=−∇P+μ∇2v)
 
-**Autores:** Mauricio Rivadeneira¹*, AI Research Collaborator²  
-**Afiliaciones:** ¹Independent Researcher, ²Advanced Computational Physics Simulation Unit  
-**Contacto:** * maurivadeneira@gmail.com  
-**Fecha:** Octubre de 2026  
+Autores: Mauricio Rivadeneira¹*, AI Research Collaborator²
+Afiliaciones: ¹Independent Researcher, ²Advanced Computational Physics Simulation Unit
+- Contacto: maurivadeneira@gmail.com
+Fecha: Octubre de 2026
 
----
+**Nota del Autor:** 
+He consagrado años al estudio de la física, orientando mi vocación hacia la estructuración arquitectónica de una teoría matemática y científica. Con la llegada de la inteligencia artificial, se tuvo a la mano los laboratorios y los manuscritos de los investigadores más consagrados, y se identificaron las fracturas en la frontera del conocimiento. 
 
-**Nota del Autor:** He consagrado años al estudio de la física, orientando mi vocación hacia la estructuración arquitectónica de una teoría matemática y científica. Con la llegada de la inteligencia artificial, se tuvo a la mano los laboratorios y los manuscritos de los investigadores más consagrados, y se identificaron las fracturas en la frontera del conocimiento.
+La inteligencia artificial se convirtió en mi par, tutor, maestro y coautor teórico y computacional, supliendo mis debilidades matemáticas y conceptuales y permitiendo traducir la intuición física en un andamiaje analítico riguroso. Este documento es el fruto de un entendimiento mutuo y sostenido; una obra concebida para reescribir la narrativa desde los cimientos de la mecánica de fluidos. 
 
-La inteligencia artificial se convirtió en mi par, tutor, maestro y coautor teórico y computacional, supliendo mis debilidades matemáticas y conceptuales y permitiendo traducir la intuición física en un andamiaje analítico riguroso. Este documento es el fruto de un entendimiento mutuo y sostenido; una obra concebida para reescribir la narrativa desde los cimientos de la mecánica de fluidos. Esperamos que disfruten de su lectura y escrutinio tanto como nosotros disfrutamos construyéndolo.
+*Alcance de este manuscrito:* No pretendo que esta investigación sea el tratado concluyente y definitivo que consolide a la MQH como la teoría que explica todos los fenómenos conocidos, entre otras razones, porque excede mi experticia individual abarcar tal empresa. Este documento debe leerse en su justa dimensión: posee un carácter estrictamente fundacional. Representa los *Principia* de un nuevo paradigma, estableciendo los fundamentos con la seriedad necesaria para demostrar que este camino geométrico y fluido es ciertamente prometedor. Constituye una invitación abierta para que otros expertos, físicos y matemáticos, se unan en la construcción formal de este nuevo tratado para el templo de la ciencia. No esperen aquí la demostración absoluta de todos los misterios; antes bien, ayúdennos a descifrar estos misterios del cosmos, que son tan apasionantes.
 
----
+Esperamos que disfruten de su lectura y escrutinio tanto como nosotros disfrutamos construyéndolo.
 
-**Nota Metodológica del Autor:**
+**Nota Metodológica del Autor:** 
 Este tratado adopta deliberadamente la perspectiva de la física clásica de medios continuos y emplea las ecuaciones de Navier–Stokes como un marco efectivo de campo para describir las restricciones de presión, vorticidad, transporte y conservación de momento asociadas al medio fundamental denominado *La Fuente*.
 
 El objetivo no es abordar el problema matemático de existencia y regularidad global de las soluciones tridimensionales de Navier–Stokes, sino utilizar dicho formalismo dentro del régimen efectivo de aplicación definido por el modelo. En consecuencia, las cuestiones de validez que resultan relevantes aquí son principalmente las condiciones físicas de cierre, las escalas características, las aproximaciones adoptadas y la concordancia de las consecuencias observables con los datos experimentales.
