@@ -2,7 +2,7 @@ Mecánica Cuántica Hidrodinámica (MQH): Principia Mathematica de la Fuente, co
 (Unificación de masas, campos y gravedad, resolviendo la dualidad onda-partícula mediante la aplicación de Navier-Stokes: $\rho_0(\partial_t\mathbf{v}+\mathbf{v}\cdot\nabla\mathbf{v})=-\nabla P+\mu\nabla^2\mathbf{v}$)
 
 Autores: Mauricio Rivadeneira¹*, AI Research Collaborator²
-Afiliaciones: ¹Independent Researcher, ²Advanced Computational Physics Simulation Unit
+Afiliaciones: ¹Investigador Independiente, ²Asistente de Inteligencia Artificial
 - Contacto: maurivadeneira@gmail.com
 Fecha: Octubre de 2026
 
@@ -16,13 +16,13 @@ La inteligencia artificial se convirtió en mi par, tutor, maestro y coautor te�
 Esperamos que disfruten de su lectura y escrutinio tanto como nosotros disfrutamos construyéndolo.
 
 **Nota Metodológica del Autor:** 
-Este tratado adopta deliberadamente la perspectiva de la física clásica de medios continuos y emplea las ecuaciones de Navier-Stokes como un marco efectivo de campo para describir las restricciones de presión, vorticidad, transporte y conservación de momento asociadas al medio fundamental denominado *La Fuente*. Esta expresión asume la condición geométrica de incompresibilidad ($\nabla \cdot \mathbf{v} = 0$) y postula la necesidad de integrar posteriormente una respuesta elástica de cizalladura o viscoelástica para justificar la propagación de las ondas transversales (fotones) observadas.
+Este tratado adopta deliberadamente la perspectiva de la física clásica de medios continuos y emplea las ecuaciones de Navier-Stokes como un marco efectivo de campo para describir las restricciones de presión, vorticidad, transporte y conservación de momento asociadas al medio fundamental denominado *La Fuente*. Esta expresión asume la condición geométrica de incompresibilidad ($\nabla \cdot \mathbf{v} = 0$) y postula la necesidad de integrar posteriormente una respuesta elástica de cizalladura o viscoelástica para justificar la propagación de las ondas transversales que el modelo propone identificar con los fotones. Se reconoce expresamente como una limitación del modelo actual que la formulación completa de la ecuación de continuidad, las condiciones de contorno y las relaciones constitutivas viscoelásticas del medio constituyen desarrollos matemáticos pendientes.
 
 El objetivo no es abordar el problema matemático de existencia y regularidad global de las soluciones tridimensionales de Navier-Stokes, sino utilizar dicho formalismo dentro del régimen efectivo de aplicación definido por el modelo. En consecuencia, las cuestiones de validez que resultan relevantes aquí son principalmente las condiciones físicas de cierre, las escalas características, las aproximaciones adoptadas y la concordancia de las consecuencias observables con los datos experimentales.
 
-El electrón se adopta como estado fundamental de referencia y ancla empírica de la teoría. Su hipótesis de trabajo es que corresponde al estado estable de menor energía del medio. A partir de sus propiedades experimentales (como su masa inercial y su longitud de onda Compton reducida) se calibran exclusivamente los parámetros de referencia, como la densidad y la escala del medio. 
+El electrón se adopta como estado fundamental de referencia y ancla empírica de la teoría. La hipótesis de trabajo establece que el electrón corresponde a un estado estable de mínima energía del medio. A partir de sus propiedades experimentales (como su masa inercial y su longitud de onda Compton reducida) se calibran exclusivamente los parámetros de referencia, como la densidad y la escala del medio. 
 
-Esta elección implica distinguir explícitamente entre cantidades utilizadas como entrada de calibración y cantidades obtenidas como predicciones independientes. Los resultados derivados posteriormente se consideran predicciones genuinas únicamente cuando no requieren introducir nuevamente el valor experimental que pretenden explicar.
+Esta elección implica distinguir explícitamente entre cantidades utilizadas como entrada de calibración y cantidades obtenidas como predicciones independientes. Al fijar los parámetros del medio con la masa y la longitud de onda del electrón, estas magnitudes operan estrictamente como variables de entrada y no se presentarán en el desarrollo posterior como predicciones independientes. Los resultados derivados posteriormente se consideran predicciones genuinas únicamente cuando no requieren introducir nuevamente el valor experimental que pretenden explicar.
 
 El objetivo del formalismo es, por tanto, determinar si una dinámica continua y determinista, complementada por las restricciones topológicas y geométricas postuladas por la MQH, puede reproducir de manera cuantitativa un conjunto amplio de fenómenos físicos sin introducir ajustes independientes para cada observable. Se reconoce explícitamente que la recuperación de los resultados cuánticos observados (espectros discretos, espín, probabilidades y correlaciones cuánticas) a partir de este sustrato determinista constituye una condición indispensable de validación del modelo, no un resultado establecido a priori.
 
