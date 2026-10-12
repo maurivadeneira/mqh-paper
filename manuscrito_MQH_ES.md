@@ -1,5 +1,5 @@
 # Mecánica Cuántica Hidrodinámica (MQH): Principia Mathematica de la Fuente, como el espacio fluido hiperdenso.
-*(Unificación de masas, campos y gravedad, resolviendo la dualidad onda-partícula mediante la aplicación de Navier-Stokes: $\rho_0(\partial_t\mathbf{v}+\mathbf{v}\cdot\nabla\mathbf{v})=-\nabla P+\mu\nabla^2\mathbf{v}$)*
+*(Una propuesta de descripción hidrodinámica y topológica de la materia y los campos, orientada a investigar el origen de la dualidad onda-partícula y las conexiones entre masa, electromagnetismo y gravedad mediante la aplicación de Navier-Stokes: $\rho_0(\partial_t\mathbf{v}+\mathbf{v}\cdot\nabla\mathbf{v})=-\nabla P+\mu\nabla^2\mathbf{v}$)*
 
 **Autores:** Mauricio Rivadeneira¹*, AI Research Collaborator² 
 **Afiliaciones:** ¹Investigador Independiente, ²Asistente de Inteligencia Artificial
@@ -20,13 +20,13 @@ Esperamos que disfruten de su lectura y escrutinio tanto como nosotros disfrutam
 ---
 
 **Nota Metodológica del Autor:** 
-Este tratado adopta deliberadamente la perspectiva de la física clásica de medios continuos y emplea las ecuaciones de Navier-Stokes como un marco efectivo de campo para describir las restricciones de presión, vorticidad, transporte y conservación de momento asociadas al medio fundamental denominado *La Fuente*. Esta expresión asume la condición geométrica de incompresibilidad ($\nabla \cdot \mathbf{v} = 0$) y postula la necesidad de integrar posteriormente una respuesta elástica de cizalladura o viscoelástica para justificar la propagación de las ondas transversales que el modelo propone identificar con los fotones. Se reconoce expresamente como una limitación del modelo actual que la formulación completa de la ecuación de continuidad, las condiciones de contorno y las relaciones constitutivas viscoelásticas del medio constituyen desarrollos matemáticos pendientes.
+Este tratado adopta deliberadamente la perspectiva de la física clásica de medios continuos y emplea las ecuaciones de Navier-Stokes como un marco efectivo de campo para describir las restricciones de presión, vorticidad, transporte y conservación de momento asociadas al medio fundamental denominado *La Fuente*. Esta expresión asume la condición geométrica de incompresibilidad ($\nabla \cdot \mathbf{v} = 0$) y postula la necesidad de integrar posteriormente una respuesta elástica de cizalladura o viscoelástica para justificar la propagación de las ondas transversales. Se subraya que la asimilación de estas ondas con los fotones constituye una hipótesis cuya validez dependerá de derivar formalmente su dinámica, y no únicamente de postularla. Asimismo, se reconoce expresamente como una limitación del modelo actual que la formulación completa de la ecuación de continuidad, las condiciones de contorno y las relaciones constitutivas viscoelásticas del medio constituyen desarrollos matemáticos pendientes.
 
 El objetivo no es abordar el problema matemático de existencia y regularidad global de las soluciones tridimensionales de Navier-Stokes, sino utilizar dicho formalismo dentro del régimen efectivo de aplicación definido por el modelo. En consecuencia, las cuestiones de validez que resultan relevantes aquí son principalmente las condiciones físicas de cierre, las escalas características, las aproximaciones adoptadas y la concordancia de las consecuencias observables con los datos experimentales.
 
-El electrón se adopta como estado fundamental de referencia y ancla empírica de la teoría. La hipótesis de trabajo establece que el electrón corresponde a un estado estable de mínima energía del medio. A partir de sus propiedades experimentales (como su masa inercial y su longitud de onda Compton reducida) se calibran exclusivamente los parámetros de referencia, como la densidad y la escala del medio.
+El electrón se adopta como estado fundamental de referencia y ancla empírica de la teoría. La hipótesis de trabajo establece que el electrón corresponde a un estado estable de mínima energía del medio. A partir de sus propiedades experimentales (su masa inercial $m_e$ y su longitud de onda Compton reducida $\bar{\lambda}_c = \hbar/m_e c$) se calibran los parámetros libres del modelo. En esta formulación inicial, la velocidad límite de propagación ($c$) se emplea como una constante experimental de entrada para determinar de manera unívoca la densidad ($\rho_0$) y la escala del continuo.
 
-Esta elección implica distinguir explícitamente entre cantidades utilizadas como entrada de calibración y cantidades obtenidas como predicciones independientes. Al fijar los parámetros del medio con la masa y la longitud de onda del electrón, estas magnitudes operan estrictamente como variables de entrada y no se presentarán en el desarrollo posterior como predicciones independientes. Los resultados derivados posteriormente se consideran predicciones genuinas únicamente cuando no requieren introducir nuevamente el valor experimental que pretenden explicar.
+Esta elección implica distinguir explícitamente entre cantidades utilizadas como entrada de calibración y cantidades obtenidas como predicciones independientes. Al fijar los parámetros del medio con las magnitudes experimentales del electrón y la cinemática de la luz, estas operan estrictamente como variables de base y no se presentarán en el desarrollo posterior como predicciones independientes. Los resultados derivados posteriormente se consideran predicciones genuinas únicamente cuando no requieren introducir nuevamente el valor experimental que pretenden explicar.
 
 El objetivo del formalismo es, por tanto, determinar si una dinámica continua y determinista, complementada por las restricciones topológicas y geométricas postuladas por la MQH, puede reproducir de manera cuantitativa un conjunto amplio de fenómenos físicos sin introducir ajustes independientes para cada observable. Se reconoce explícitamente que la recuperación de los resultados cuánticos observados (espectros discretos, espín, probabilidades y correlaciones cuánticas) a partir de este sustrato determinista constituye una condición indispensable de validación del modelo, no un resultado establecido *a priori*.
 
@@ -36,14 +36,15 @@ El presente trabajo debe entenderse en consecuencia como una hipótesis física 
 
 Para garantizar la máxima transparencia científica y delimitar el alcance exacto de este documento fundacional, se establece la siguiente clasificación epistemológica de las premisas aquí desarrolladas:
 
-| Elemento del Modelo | Estado Actual en este Manuscrito |
+| Elemento del Modelo | Estado Epistemológico |
 | :--- | :--- |
-| Regla topológica $\ln(8R_n/r) = n$ | *Ansatz* topológico propuesto |
-| Resultado geométrico $R_7/r = e^7/8$ | Consecuencia matemática exacta del *Ansatz* |
-| Identificación con $\alpha^{-1}$ | Hipótesis de conexión física |
-| Discrepancia empírica (Residuo viscoso) | Mecanismo conjeturado, pendiente de derivación del tensor de esfuerzos |
-| Configuración $n=1$ como modelo del electrón | Interpretación física, pendiente de validación dinámica |
-| Estabilidad frente a armónicos superiores | Hipótesis dinámica, pendiente de resolución analítica rigurosa |
+| Regla topológica $\ln(8R_n/r)=n$ | *Ansatz* geométrico propuesto |
+| Relación $R_7/r=e^7/8$ | Consecuencia matemática del *Ansatz* |
+| Correspondencia con $\alpha^{-1}$ | Hipótesis de identificación física |
+| Diferencia respecto al valor experimental | Discrepancia cuantificada; origen físico sin determinar |
+| Corrección atribuida a la viscosidad | Hipótesis de mecanismo, pendiente de derivación |
+| Configuración $n=1$ como modelo del electrón | Interpretación física pendiente de validación dinámica |
+| Estabilidad frente a armónicos superiores | Hipótesis pendiente de análisis de estabilidad |
 
 Esta clasificación protege el valor exploratorio de las conjeturas formales presentadas e identifica con precisión los desafíos matemáticos que la MQH plantea para el desarrollo de simulaciones en la dinámica de fluidos computacional (CFD).
 
