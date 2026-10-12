@@ -548,7 +548,7 @@ $$
 
 ## 5. La Escala Fractal y la Derivación Analítica de la Constante de Estructura Fina ($\alpha$)
 
-Habiendo calibrado la inercia absoluta del vacío ($\rho_0$), el marco analítico de la MQH postula que la Constante de Estructura Fina ($\alpha^{-1} \approx 137.036$) surge de la resonancia geométrica del fluido entre el estado fundamental del fermión y su expansión armónica en el sistema atómico.
+Habiendo calibrado la inercia absoluta del vacío ($\rho_0$), el marco analítico de la MQH postula que la Constante de Estructura Fina ($\alpha^{-1}$) surge de la resonancia geométrica del fluido entre el estado fundamental del fermión y su expansión armónica en el sistema atómico.
 
 ### A. El Perímetro de la Onda y la Geometría Base ($n=1$)
 
@@ -560,7 +560,7 @@ $$ R_e = \frac{\lambda_c}{2\pi} = \bar{\lambda}_c \approx 0.386 \times 10^{-12} 
 
 En este umbral de máxima compresión correspondiente al estado fundamental aislado, el remolino estabiliza su tensión topológica interna en la unidad ($n=1$):
 
-$$ \ln\left(\frac{8R_e}{r}\right) = 1 \implies \frac{8R_e}{r} = e \implies \frac{R_e}{r} = \frac{e}{8} \approx 0.340 $$
+$$ \ln\left(\frac{8R_e}{r}\right) = 1 \implies \frac{R_e}{r} = \frac{e}{8} \approx 0.340 $$
 
 ### B. La Expansión Topológica y el Armónico 7 ($n=7$)
 
@@ -568,39 +568,33 @@ Cuando el vórtice interactúa y forma un sistema orbital complejo (como el áto
 
 $$ \ln\left(\frac{8R}{r}\right) = 7 $$
 
-### C. La Derivación Analítica Pura de la Proporción ($\alpha^{-1}$)
+### C. La Proporción Geométrica Ideal del Sistema
 
 Aplicando la función exponencial ($e$) a ambos lados de la ecuación armónica para despejar la relación de aspecto geométrica del macro-toroide resultante:
 
-$$ \frac{8R}{r} = e^7 $$
+$$ \frac{8R}{r} = e^7 \implies \frac{R}{r} = \frac{e^7}{8} $$
 
-Despejando analíticamente la proporción pura entre los radios:
-
-$$ \frac{R}{r} = \frac{e^7}{8} $$
-
-Evaluando explícitamente el numerador ($e^7 \approx 1096.633$), obtenemos numéricamente esta proporción geométrica macroscópica:
+Evaluando explícitamente el numerador ($e^7 \approx 1096.633$), obtenemos numéricamente esta proporción geométrica macroscópica ideal:
 
 $$ \frac{R}{r} = \frac{1096.633}{8} \approx 137.079 $$
 
-Esta deducción demuestra analíticamente que el inverso de la Constante de Estructura Fina ($\alpha^{-1}$) no es un parámetro electromagnético arbitrario, sino la exigencia geométrica de proporción ($R/r$) que impone un fluido incompresible para que el sistema vorticial resuene armónicamente en el nivel $n=7$.
+Esta deducción propone que el inverso de la Constante de Estructura Fina ($\alpha^{-1}$) tiene un origen estrictamente geométrico: es la proporción límite ($R/r$) que impone un fluido incompresible para que el sistema vorticial resuene armónicamente en el nivel $n=7$.
 
-#### D. La Deducción del Núcleo ($r$) y el Radio Clásico del Electrón
-Establecida la proporción armónica obligatoria ($R/r = \alpha^{-1}$), el marco hidrodinámico nos permite deducir analíticamente la dimensión transversal oculta del vórtice: el radio menor de su núcleo ($r_e$). 
+### D. El Radio Clásico del Electrón y la Consistencia del Modelo
 
-Tomando como ancla el radio mayor base calculado en la Sección A ($R_e = \bar{\lambda}_c \approx 0.386 \times 10^{-12} \text{ m}$), despejamos $r_e$:
+Establecida la proporción armónica ($R/r = \alpha^{-1}$), el marco hidrodinámico nos permite observar la coherencia dimensional de la teoría al evaluar el radio menor del núcleo ($r_e$). 
 
-$$
-r_e = \frac{R_e}{\alpha^{-1}} = \frac{0.386 \times 10^{-12} \text{ m}}{137.036}
-$$
+Tomando como ancla el radio mayor base calculado en la Sección A ($R_e = \bar{\lambda}_c \approx 0.386 \text{ pm}$) y utilizando el valor empírico de la constante ($\alpha^{-1} \approx 137.036$), evaluamos $r_e$:
 
-$$
-r_e \approx 2.817 \times 10^{-15} \text{ m} \, (2.817 \text{ fm})
-$$
+$$ r_e = \frac{R_e}{\alpha^{-1}} = \frac{0.386 \times 10^{-12} \text{ m}}{137.036} \approx 2.817 \times 10^{-15} \text{ m} \quad (2.817 \text{ fm}) $$
 
-El resultado de esta derivación fluida cierra el andamiaje teórico con una confirmación absoluta: el valor de $2.817 \text{ fm}$ deducido geométricamente corresponde con exactitud a la constante que la física ortodoxa denomina el **Radio Clásico del Electrón**. Bajo la MQH, este parámetro deja de ser una abstracción matemática basada en la energía electrostática y se revela empíricamente como el grosor transversal físico del remolino topológico.
+Este resultado demuestra una consistencia estructural impecable con la electrodinámica convencional: el valor de $2.817 \text{ fm}$ corresponde exactamente al **Radio Clásico del Electrón**. Bajo la MQH, este parámetro adquiere un significado tangible: no es solo una abstracción matemática basada en la energía electrostática, sino que coincide matemáticamente con el grosor transversal del cordón vorticial.
 
-#### E. El Residuo Viscoso
-El límite analítico ideal deducido para la proporción ($\approx 137.079$) asume un comportamiento estacionario en un fluido perfecto. La levísima discrepancia frente a la medición experimental del CODATA ($137.036$) —una diferencia relativa del **$0.03\%$**— cuantifica mecánicamente el arrastre de capa límite (boundary layer) y la fricción de interfaz del vórtice real al interactuar con las micro-fluctuaciones del medio cósmico.
+### E. La Discrepancia Numérica y la Hipótesis del Residuo Viscoso
+
+El límite analítico ideal deducido en la Sección C para la proporción ($\approx 137.079$) asume un comportamiento estacionario en un fluido perfecto. Existe una leve discrepancia frente a la medición experimental del CODATA ($137.036$), lo que representa una diferencia relativa de apenas el **$0.03\%$**. 
+
+Dentro del marco de la MQH, se postula como hipótesis fundamental que esta diferencia no es un error algebraico, sino que cuantifica mecánicamente el arrastre de capa límite (*boundary layer*) y la fricción de interfaz del vórtice real al interactuar con las micro-fluctuaciones del medio cósmico. La derivación exacta de este residuo viscoso a partir de las ecuaciones constitutivas del fluido queda establecida como la prueba cuantitativa definitiva para validar el modelo en futuras simulaciones computacionales.
 
 ## 2.4 Las 3 Generaciones y la Autopsia Topológica del Decaimiento
 
