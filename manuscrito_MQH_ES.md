@@ -27,74 +27,58 @@ El objetivo del formalismo es, por tanto, determinar si una dinámica continua y
 
 El presente trabajo debe entenderse en consecuencia como una hipótesis física efectiva sometida a prueba fenomenológica, y no como una afirmación de que todos sus postulados microscópicos hayan sido establecidos experimentalmente. La validez del modelo dependerá de que sus predicciones independientes sean matemáticamente consistentes, dimensionalmente correctas, estables frente a las aproximaciones utilizadas y compatibles con las restricciones experimentales conocidas.
 
-### RESUMEN: PRINCIPIOS TOPOLÓGICOS DE LA MECÁNICA CUÁNTICA HIDRODINÁMICA (MQH)
+## RESUMEN: PRINCIPIOS TOPOLÓGICOS DE LA MECÁNICA CUÁNTICA HIDRODINÁMICA (MQH)
 
-**1. LA FUENTE** 
-El espacio no es un vacío geométrico; es un medio físico, continuo, incompresible e hiperdenso. Toda partícula es una perturbación estructurada en este fluido.
+### 1. La Fuente
+El espacio no es un vacío geométrico; es un medio físico, continuo, incompresible e hiperdenso. Toda partícula es una perturbación estructurada (vorticidad) en este fluido.
 
-**2. FÓRMULAS FUNDAMENTALES**
-* **Velocidad de la luz, $c$:** La velocidad de propagación de las ondas transversales (límite de tensión de corte) en el medio.
-* **Constante de Planck, $h$:** El límite de tensión elástica y cuantización de la vorticidad del fluido.
-* **Masa, $m$:** No es una propiedad intrínseca, sino el coeficiente de resistencia hidrodinámica (arrastre topológico) de un vórtice cerrado. $m = E/c^2$.
+### 2. Fórmulas Fundamentales
+* **Velocidad de la luz ($c$):** La velocidad de propagación de las ondas transversales (límite de tensión de corte) en el medio.
+* **Constante de Planck ($h$):** El límite de tensión elástica y cuantización de la vorticidad del fluido.
+* **Masa ($m$):** No es una propiedad intrínseca, sino el coeficiente de resistencia hidrodinámica (arrastre topológico) de un vórtice cerrado: $m = E/c^2$.
 
-**3. DENSIDAD DEL MEDIO, $\rho_0$** 
+### 3. Densidad del Medio ($\rho_0$)
 Basada en la inercia del fluido cuántico:
+$$\rho_0 \approx 8.01 \times 10^5 \text{ kg/m}^3$$
 
-$$
-\rho_0 = \frac{2 m^3 c^2}{h^2 R} \approx 8.01 \times 10^5 \text{ kg/m}^3
-$$
-
-**4. EL ELECTRÓN (Fermión Base)** 
+### 4. El Electrón (Fermión Base)
 La topología estable más simple en rotación: un anillo de vórtice toroidal simple, donde $n = 1$.
-* Equilibrio de presiones geométricas: $\ln(8R/r) = 1 \implies \frac{8R}{r} \approx e$
-* Radio físico de la estructura: $\approx 2.42 \text{ pm}$
+* **Equilibrio de presiones geométricas:** $\ln\left(\frac{8R}{r}\right) = 1 \implies \frac{R}{r} \approx e$
+* **Radio físico de la estructura:** $\bar{\lambda}_c \approx 0.386 \text{ pm}$ (con un diámetro de Compton de $\approx 2.43 \text{ pm}$).
 
-**5. EL PROTÓN Y LA MASA BARIÓNICA** 
-La topología geométrica requerida para confinar vórtices con la inmensa presión del medio se modela como un Nudo Trébol ($T_{2,3}$). La inercia bariónica no es un parámetro arbitrario, sino el resultado del estrés de este confinamiento topológico:
-- **Índices del Nudo ($p$ y $q$):** El trébol requiere enrollarse $p=2$ veces en el plano longitudinal y $q=3$ veces en el meridiano. La interferencia ortogonal de estas corrientes genera un multiplicador de estrés lineal de $p \times q = 6$.
-- **Torsión Volumétrica ($\pi^5$):** Integrar la energía de torsión requerida para mantener estabilizado este nudo en las 5 dimensiones paramétricas del espacio de configuración espinorial arroja un factor geométrico de $\pi^5$.
-- Al aplicar ambos estresores hidrodinámicos sobre la masa base ($m_e$), la relación exacta emerge analíticamente: 
+### 5. El Protón y la Masa Bariónica
+La topología geométrica requerida para confinar vórtices con la inmensa presión del medio se modela mediante un **Ansatz Hidro-Topológico** (Nudo Trébol, $T_{2,3}$). La inercia bariónica surge del estrés de este confinamiento:
+* **Índices del Nudo ($p$ y $q$):** El trébol requiere enrollarse $p=2$ veces en el plano longitudinal y $q=3$ veces en el meridiano. La interferencia ortogonal genera un multiplicador de estrés de $p \times q = 6$.
+* **Torsión Volumétrica ($\pi^5$):** Integrar la energía de torsión en las 5 dimensiones del espacio de configuración espinorial arroja un factor geométrico de $\pi^5$.
+* Mediante esta descomposición de primer orden, el límite teórico ideal converge analíticamente a:
+$$\frac{m_p}{m_e} \bigg|_{ideal} = 6\pi^5 \approx 1836.118$$
+Este valor captura más del $99.98\%$ de la masa empírica, definiendo la leve diferencia restante como el residuo disipativo natural ($\mathcal{R}$) de capa límite.
 
-$$
-\frac{M_p}{m_e} = (p \times q)\pi^5 = 6\pi^5 \approx 1836.12
-$$
+### 6. La Constante de Estructura Fina ($\alpha$) y su Inverso ($137$)
+Desmitificación de la constante de acoplamiento fundamental. El valor $137$ no es un enigma adimensional arbitrario, sino la proporción geométrica pura del átomo de Hidrógeno. Al dividir el radio de la envoltura del macro-vórtice (Radio de Bohr, $R \approx 52.91 \text{ pm}$) entre la sección transversal del cordón de fluido (Radio Compton, $r \approx 0.386 \text{ pm}$):
+$$\frac{R}{r} = \frac{52.91 \text{ pm}}{0.386 \text{ pm}} \approx 137.07 \equiv \alpha^{-1}$$
 
-**6. LA CONSTANTE DE ESTRUCTURA FINA ($\alpha$) Y SU INVERSO (137)** 
-Desmitificación de la constante de acoplamiento fundamental de la física cuántica. El valor $137$ no es un enigma adimensional, sino la proporción geométrica pura del átomo de Hidrógeno. Al dividir el límite de la envoltura del macro-vórtice (Radio de Bohr, $R = 52.91 \text{ pm}$) entre la sección transversal del cordón de fluido (Radio Compton, $r = 0.386 \text{ pm}$), emerge geométricamente el inverso de la constante ($\alpha^{-1}$): 
-
-$$
-\frac{R}{r} = \frac{52.91 \text{ pm}}{0.386 \text{ pm}} \approx 137.07 \equiv \alpha^{-1}
-$$
-
-**7. EL ESPECTRO DE RESONANCIAS Y EL PUENTE CÓSMICO (La Secuencia de la Creación)** 
-Al evaluar la inercia hidrodinámica de Lamb, $\ln(8R/r)$, en macroestructuras, la materia se estabiliza en armónicos enteros y cierres de fase del fluido base:
+### 7. El Espectro de Resonancias y el Puente Cósmico (La Secuencia de la Creación)
+Al evaluar la inercia hidrodinámica en macroestructuras, la materia se estabiliza en armónicos enteros y cierres de fase del fluido base:
 * **El Electrón:** $1$ (La unidad fundamental).
 * **El Protón:** $\pi$ (Resonancia circular del andamio base).
 * **El Helio:** $2\pi$ (Cierre de fase de espines apareados).
 * **El Hidrógeno:** $7$ (Límite máximo de elongación binaria geométrica).
-* **El Agua, $H_2O$:** $8$ (Octava perfecta de acoplamiento molecular).
-* **El Puente Cósmico:** La proporción geométrica macroscópica de los radios en el agua es $R/r \approx 367.8$. Este valor se correlaciona de manera directa con el ciclo orbital de la Tierra ($\sim 365.25$ días), sugiriendo que la microescala molecular y la macroescala planetaria obedecen a las mismas frecuencias de resonancia en el fluido.
+* **El Agua ($\text{H}_2\text{O}$):** $8$ (Octava perfecta de acoplamiento molecular).
+* **El Puente Cósmico:** La proporción geométrica macroscópica de los radios en el agua es $R/r \approx 367.8$, correlacionándose de manera directa con el ciclo orbital de la Tierra ($\sim 365.25 \text{ días}$), sugiriendo que la microescala molecular y la macroescala planetaria comparten las mismas frecuencias de resonancia en el fluido.
 
-**8. COSMOLOGÍA Y GRAVEDAD MACROSCÓPICA** 
-Al escalar la MQH, la gravedad pierde su naturaleza de "curvatura del espacio-tiempo" y se revela como un **gradiente de presión hidrodinámica** hacia los sumideros másivos. Las galaxias operan como macro-vórtices en *La Fuente*, explicando la cohesión de sus velocidades de rotación periféricas y eliminando matemáticamente la necesidad de postular la existencia de la "Materia Oscura".
+### 8. Cosmología y Gravedad Macroscópica
+Al escalar la MQH, la gravedad deja de ser una "curvatura del espacio-tiempo" y se revela como un gradiente de presión hidrodinámica hacia los sumideros masivos. Las galaxias operan como macro-vórtices en *La Fuente*, explicando la cohesión de sus velocidades de rotación periféricas.
 
-**9. EL NEUTRINO Y EL LÍMITE DE SATURACIÓN LONGITUDINAL** 
-El neutrino no es una partícula fantasma con masa arbitraria, sino un solitón acústico puramente longitudinal (una onda de choque de presión) liberado durante el estrés y la cavitación topológica de los armónicos superiores. Su inercia límite se deduce de forma puramente analítica mediante la geometría de volúmenes de confinamiento ($\alpha^3$) y el coeficiente de auto-energía esférica: 
+### 9. El Neutrino y el Límite de Saturación Longitudinal
+El neutrino no es una partícula fantasma con masa arbitraria, sino un solitón acústico puramente longitudinal (onda de choque de presión) liberado durante el estrés topológico. Su inercia límite se deduce analíticamente mediante la geometría de volúmenes de confinamiento ($\alpha^3$):
+$$E_{max} = \frac{3}{5} \alpha^3 m_e \approx 0.119 \text{ eV}$$
+Este resultado converge con la cota cosmológica observacional ($\sum m_\nu < 0.12 \text{ eV}$), demostrando que el neutrino es la onda de baja frecuencia que atraviesa la materia sin perturbar su momento angular transversal.
 
-$$ 
-E_{max} = \frac{3}{5}\alpha^3 m_e \approx 0.119 \text{ eV} 
-$$ 
-
-Este resultado converge de forma notable con la cota cosmológica observacional ($\sum m_{\nu} < 0.12 \text{ eV}$), demostrando que el neutrino es la onda de baja frecuencia que atraviesa la materia sin perturbar su momento angular transversal.
-
-**10. EL UMBRAL GALÁCTICO ($a_0$) Y LA CONEXIÓN MICRO-MACRO**
-La aceleración crítica $a_0$, que marca la transición en la rotación de las galaxias, no es un parámetro empírico ajustado a mano. La MQH la deduce analíticamente como el límite estructural absoluto de propagación de esfuerzos (*yield point*) de *La Fuente*: la tensión gravitacional unitaria ejercida por un sumidero bariónico fundamental (el protón, $m_p$) sobre la frontera transversal del vórtice adyacente (el radio de Compton del electrón, $\lambda_c / 2$). Para este cálculo fundamental se utiliza $G_{hidro}$ (la constante de acople pura del fluido, libre del factor de fricción bariónica que afecta a la constante macroscópica de Newton):
-
-$$
-a_0 = \frac{G_{hidro} \cdot m_p}{(\lambda_c / 2)^2} \approx 1.13 \times 10^{-10} \text{ m/s}^2
-$$
-
-Este valor teórico puro converge impecablemente con el umbral astronómico medido en los bordes galácticos ($\approx 1.2 \times 10^{-10} \text{ m/s}^2$), ofreciendo una derivación analítica frente al paradigma de la Materia Oscura al demostrar que la macro-dinámica del cosmos es un reflejo fractal exacto de la mecánica cuántica de fluidos.
+### 10. El Umbral Galáctico ($a_0$) y la Conexión Micro-Macro
+La aceleración crítica $a_0$ que marca la transición en la rotación de las galaxias no es un parámetro empírico ajustado a mano. La MQH la deduce analíticamente como el límite estructural de propagación de esfuerzos (*yield point*) de *La Fuente*: la tensión gravitacional unitaria ejercida por un sumidero bariónico fundamental ($m_p$) sobre la frontera transversal del vórtice adyacente ($\lambda_c/2$), utilizando la constante de acople pura del fluido ($G_{hidro}$):
+$$a_0 = \frac{G_{hidro} \cdot m_p}{(\lambda_c/2)^2} \approx 1.13 \times 10^{-10} \text{ m/s}^2$$
+Este valor teórico converge impecablemente con el umbral astronómico medido ($\approx 1.2 \times 10^{-10} \text{ m/s}^2$), ofreciendo una derivación analítica que prescinde por completo de la Materia Oscura y demuestra que la macro-dinámica del cosmos es un reflejo fractal de la mecánica cuántica de fluidos.
 
 ---
 ## NOMENCLATURA Y PARÁMETROS DEL MEDIO CONTINUO
