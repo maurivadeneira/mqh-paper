@@ -1313,7 +1313,7 @@ $$
 c = \sqrt{\frac{G_s}{\rho_0}}
 $$
 
-Donde $\rho_0$ es la densidad incompresible basal del fluido cósmico ($\approx 8.01 \t	imes 10^5 \text{ kg/m}^3$). 
+Donde $\rho_0$ es la densidad incompresible basal del fluido cósmico ($\approx 8.01 \times 10^5 \text{ kg/m}^3$). 
 
 Si despejamos analíticamente el Módulo de Corte Transversal ($G_s$) de *La Fuente* a partir de la velocidad de la luz y la densidad del medio ($G_s = c^2 \cdot \rho_0$), obtenemos un resultado de proporciones colosales:
 
