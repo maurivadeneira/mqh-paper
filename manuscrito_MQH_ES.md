@@ -1331,7 +1331,7 @@ El colofón del Modelo Estándar fue la postulación del Bosón de Higgs y su ca
 
 Con la formalización de la MQH, el mecanismo de Higgs se revela como un artificio no necesario. 
 
-Como se dedujo analíticamente en el Capítulo 2.3 a partir de la Ecuación del Vórtice, el universo ya está permeado por un campo físico, real y medible: *La Fuente*, poseedora de una densidad absoluta de $\rho_0 \approx 8.01 		imes 10^5 \text{ kg/m}^3$. La inercia (masa) no requiere de un bosón mediador ni de un campo escalar abstracto; nace estrictamente de la mecánica clásica de fluidos. La masa es el resultado directo y geométrico del **arrastre topológico** de un remolino cerrado oponiendo resistencia al intentar moverse a través de este océano hiperdenso.
+Como se dedujo analíticamente en el Capítulo 2.3 a partir de la Ecuación del Vórtice, el universo ya está permeado por un campo físico, real y medible: *La Fuente*, poseedora de una densidad absoluta de $\rho_0 \approx 8.01 \times 10^5 \text{ kg/m}^3$. La inercia (masa) no requiere de un bosón mediador ni de un campo escalar abstracto; nace estrictamente de la mecánica clásica de fluidos. La masa es el resultado directo y geométrico del arrastre topológico de un remolino cerrado oponiendo resistencia al intentar moverse a través de este océano hiperdenso.
 
 Bajo este marco mecanicista estricto, la masa no es una "sustancia" que un bosón pueda otorgar, sino un **comportamiento aerodinámico**. Tratar de encontrar la partícula que "da la masa" resulta inconsistente en física de fluidos como tratar de encontrar la partícula que "da la turbulencia". 
 
