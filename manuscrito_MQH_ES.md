@@ -42,8 +42,8 @@ Basada en la inercia del fluido cuántico:
 $$\rho_0 \approx 8.01 \times 10^5 \text{ kg/m}^3$$
 
 ### 4. El Electrón (Fermión Base)
-La topología estable más simple en rotación: un anillo de vórtice toroidal simple, donde $n = 1$.
-* **Equilibrio de presiones geométricas:** $\ln\left(\frac{8R}{r}\right) = 1 \implies \frac{R}{r} \approx e$
+La topología estable más simple en rotación: un anillo de vórtice toroidal simple, donde $n=1$.
+* **Equilibrio de presiones geométricas:** $\ln\left(\frac{8R_e}{r}\right) = 1 \implies \frac{R_e}{r} = \frac{e}{8} \approx 0.340$
 * **Radio físico de la estructura:** $\bar{\lambda}_c \approx 0.386 \text{ pm}$ (con un diámetro de Compton de $\approx 2.43 \text{ pm}$).
 
 ### 5. El Protón y la Masa Bariónica
