@@ -55,8 +55,9 @@ $$\frac{m_p}{m_e} \bigg|_{ideal} = 6\pi^5 \approx 1836.118$$
 Este valor captura más del $99.98\%$ de la masa empírica, definiendo la leve diferencia restante como el residuo disipativo natural ($\mathcal{R}$) de capa límite.
 
 ### 6. La Constante de Estructura Fina ($\alpha$) y su Inverso ($137$)
-Desmitificación de la constante de acoplamiento fundamental. El valor $137$ no es un enigma adimensional arbitrario, sino la proporción geométrica pura del átomo de Hidrógeno. Al dividir el radio de la envoltura del macro-vórtice (Radio de Bohr, $R \approx 52.91 \text{ pm}$) entre la sección transversal del cordón de fluido (Radio Compton, $r \approx 0.386 \text{ pm}$):
-$$\frac{R}{r} = \frac{52.91 \text{ pm}}{0.386 \text{ pm}} \approx 137.07 \equiv \alpha^{-1}$$
+Desmitificación de la constante de acoplamiento fundamental de la física cuántica. El valor $137$ no es un enigma adimensional arbitrario, sino la proporción geométrica pura del átomo de Hidrógeno. Al aplicar la función exponencial sobre el armónico $n=7$ para despejar la relación de aspecto del macro-toroide:
+$$\frac{R}{r} = \frac{e^7}{8} \approx \frac{1096.63}{8} \approx 137.07 \equiv \alpha^{-1}$$
+Esta deducción demuestra que el inverso de la Constante de Estructura Fina surge de la exigencia geométrica de proporción que impone un fluido incompresible para que un sistema vorticial resuene en el Séptimo Armónico.
 
 ### 7. El Espectro de Resonancias y el Puente Cósmico (La Secuencia de la Creación)
 Al evaluar la inercia hidrodinámica en macroestructuras, la materia se estabiliza en armónicos enteros y cierres de fase del fluido base:
