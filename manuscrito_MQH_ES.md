@@ -1217,17 +1217,20 @@ Sustituyendo la energía toroidal de Lamb en la ecuación de equivalencia inerci
 $$ m = \frac{\rho_0 \Gamma^2 R}{2 c^2} \ln\left(\frac{8R}{r}\right) $$
 
 #### 1. La Cuantización del Hidrógeno: El Colapso en el Armónico 7
+
 En la física de fluidos macroscópica, el término logarítmico $\ln(8R/r)$ es simplemente un factor de forma que varía según el grosor del anillo. Sin embargo, al aplicar esta ecuación al macro-toroide cuántico fundamental (el átomo de hidrógeno), la relación geométrica deja de ser arbitraria.
 
-Como demostramos en la arquitectura global del átomo, la proporción entre el radio mayor orbital ($R$) y el radio menor del flujo arrastrado ($r$) está dictada por la impedancia de *La Fuente*, dando como resultado el inverso exacto de la Constante de Estructura Fina ($1/\alpha \approx 137.036$). Al introducir esta implacable condición topológica dentro de la ecuación de masa de Lamb, ocurre una de las simplificaciones matemáticas más profundas de la física teórica:
+Como demostramos en la arquitectura global del átomo, la proporción entre el radio mayor orbital ($R$) y el radio menor del flujo arrastrado ($r$) está dictada por la impedancia de *La Fuente*, dando como resultado el inverso exacto de la Constante de Estructura Fina ($1/\alpha \approx 137.036$). 
 
-$$ \ln\left(8 \frac{R}{r}\right) = \ln(8 \times 137.036) = \ln(1096.288) \approx 6.9996... $$
+Al introducir esta condición topológica dentro de la ecuación de masa de Lamb, la formulación de la MQH introduce formalmente su **Ansatz Topológico**: se postula que la condición de resonancia estacionaria absorbe los términos de distribución interna, permitiendo que la tensión de confinamiento colapse en armónicos enteros. En el caso del macro-toroide del hidrógeno, la relación arroja:
 
-El caos del logaritmo neperiano colapsa asombrosamente en un número entero perfecto: el armónico **7**. Esto reduce la intrincada ecuación de masa a una expresión de suprema pureza algebraica para la escala atómica:
+$$ \ln\left(8 \frac{R}{r}\right) = \ln(8 \times 137.036) \approx 6.9996... $$
+
+Este valor converge asombrosamente en un número entero perfecto: el armónico **7**. Es fundamental distinguir que esta relación geométrica ($R/r \approx 137$) corresponde al macro-toroide orbital acoplado, diferenciándose del límite asintótico del electrón en su estado base aislado ($n=1$), el cual adopta una topología confinada análoga a un toroide de husillo ($R < r$). Esta deducción postula que la masa está matemáticamente *cuantizada* porque la inercia del fluido resuena en estos armónicos exactos, reduciendo la intrincada ecuación de masa a una expresión de suprema pureza algebraica para la escala atómica:
 
 $$ m = \frac{7 \rho_0 \Gamma^2 R}{2 c^2} $$
 
-Esta deducción demuestra analíticamente que la "masa" no requiere de campos de Higgs ni de postulados ad hoc; está matemáticamente *cuantizada* porque la topología del toroide cuántico se estabiliza mecánicamente en una relación de aspecto estricta, obligando a la inercia del fluido confinado a resonar en un armónico exacto.
+Esta deducción demuestra analíticamente que la "masa" no requiere de campos de Higgs ni de postulados *ad hoc*; está estabilizada mecánicamente en una relación de aspecto estricta.
 
 #### 2. Más Allá del Hidrógeno: El Espectro de Resonancias Topológicas (Hacia la Tabla Periódica)
 
