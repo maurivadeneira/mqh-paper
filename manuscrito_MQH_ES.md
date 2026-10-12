@@ -1347,27 +1347,29 @@ En el marco de la Mecánica Cuántica Hidrodinámica (MQH), la gravedad deja de 
 
 Conforme al Postulado 6, toda masa estelar o planetaria opera como un macro-sumidero en *La Fuente*. En la mecánica de fluidos incompresibles, la masa inercial ($M$) equivale al volumen de fluido desplazado modulado por su densidad absoluta ($\rho_0 \approx 8.01 \times 10^5 \text{ kg/m}^3$). Sin embargo, para que exista un gradiente de atracción dinámico, este volumen desplazado debe evaluarse respecto a una unidad de tiempo para establecer el caudal o flujo volumétrico ($Q$) real del sumidero. Definiendo $t_0$ como el tiempo de caudal unitario:
 
-$$Q = \frac{M}{\rho_0 \cdot t_0}$$
+$$ Q = \frac{M}{\rho_0 \cdot t_0} $$
 
 Para determinar la fuerza de interacción entre dos sumideros separados por una distancia radial ($r$) en un espacio esférico tridimensional ($4\pi r^2$), recurrimos al Teorema de Bjerknes de la hidrodinámica acústica:
 
-$$F_{hidro} = \frac{\rho_0 \cdot Q_1 \cdot Q_2}{4\pi r^2}$$
+$$ F_{hidro} = \frac{\rho_0 \cdot Q_1 \cdot Q_2}{4\pi r^2} $$
 
 Al sustituir los caudales reales de ambos sumideros ($Q_1$ y $Q_2$) en la ecuación, obtenemos:
 
-$$F_{hidro} = \frac{\rho_0 \left(\frac{M_1}{\rho_0 \cdot t_0}\right) \left(\frac{M_2}{\rho_0 \cdot t_0}\right)}{4\pi r^2}$$
+$$ F_{hidro} = \frac{\rho_0 \left(\frac{M_1}{\rho_0 \cdot t_0}\right) \left(\frac{M_2}{\rho_0 \cdot t_0}\right)}{4\pi r^2} $$
 
 Simplificando algebraicamente la densidad en el numerador y reordenando las constantes, la ecuación del empuje de *La Fuente* emerge con absoluta pureza dimensional:
 
-$$F_{hidro} = \left( \frac{1}{4\pi \rho_0 \cdot t_0^2} \right) \frac{M_1 \cdot M_2}{r^2}$$
+$$ F_{hidro} = \left( \frac{1}{4\pi \rho_0 \cdot t_0^2} \right) \frac{M_1 \cdot M_2}{r^2} $$
 
 Al contrastar geométricamente esta ley de fluidos con la formulación empírica de la gravedad de Newton ($F = G \frac{M_1 M_2}{r^2}$), la constante gravitacional pura del medio se revela. No es un valor arbitrario, sino la relación geométrica entre el tiempo de caudal y la densidad esférica del medio:
 
-$$G_{hidro} \equiv \frac{1}{4\pi \rho_0 \cdot t_0^2}$$
+$$ G_{hidro} \equiv \frac{1}{4\pi \rho_0 \cdot t_0^2} $$
 
-Bajo el análisis dimensional, este cociente arroja exactamente las unidades requeridas ($\text{m}^3 \text{kg}^{-1} \text{s}^{-2}$). Evaluando el término con la densidad deducida por la MQH ($\rho_0 \approx 8.01 \times 10^5 \text{ kg/m}^3$) y fijando la ventana temporal de normalización estándar del Sistema Internacional para el cálculo de caudales macroscópicos ($t_0 = 1 \text{ s}$), la inercia gravitacional pura del medio continuo se establece teóricamente en:
+Bajo el análisis dimensional, este cociente arroja exactamente las unidades requeridas ($\text{m}^3 \text{kg}^{-1} \text{s}^{-2}$). Evaluando el término con la densidad deducida por la MQH ($\rho_0 \approx 8.01 \times 10^5 \text{ kg/m}^3$) y fijando la ventana temporal de normalización estándar del Sistema Internacional para el cálculo de caudales macroscópicos ($t_0 = 1 \text{ s}$), la inercia gravitacional pura del medio continuo se establece operativamente en:
 
-$$G_{hidro} \approx 9.93 \times 10^{-8} \text{ m}^3 \text{kg}^{-1} \text{s}^{-2}$$
+$$ G_{hidro} \approx 9.93 \times 10^{-8} \text{ m}^3 \text{kg}^{-1} \text{s}^{-2} $$
+
+> **Nota epistemológica:** Se reconoce expresamente que la adopción de $t_0 = 1 \text{ s}$ opera en esta etapa como una normalización fenomenológica por convención humana. La derivación analítica del tiempo de relajación característico propio de *La Fuente* a partir de primeros principios (e.g., derivado de la frecuencia de Compton base) constituye una línea de investigación abierta para la consolidación de esta constante.
 
 ### 5.2 La Dualidad de la Constante: $G_{Newton}$ vs $G_{hidro}$ y la Fricción Topológica
 
@@ -1375,7 +1377,7 @@ La astrofísica asume que la constante medida empíricamente por Cavendish ($G_{
 
 Si establecemos la relación de amortiguación topológica dividiendo la constante clásica medida empíricamente entre la constante fluida pura del medio continuo, obtenemos el factor exacto de discrepancia:
 
-$$\frac{G_{Newton}}{G_{hidro}} = \frac{6.674 \times 10^{-11}}{9.93 \times 10^{-8}} \approx 0.00067$$
+$$ \frac{G_{Newton}}{G_{hidro}} = \frac{6.674 \times 10^{-11}}{9.93 \times 10^{-8}} \approx 0.00067 $$
 
 Este factor ($\sim 0.00067$) no es un parámetro libre; representa mecánicamente la fricción aerodinámica (coeficiente de arrastre) de la materia ordinaria. La gravedad empírica de Newton no mide el empuje del vacío libre; mide el empuje del fluido actuando exclusivamente sobre la materia bariónica (protones y neutrones).
 
@@ -1388,37 +1390,41 @@ En la astrofísica observacional contemporánea, el perfil de las curvas de rota
 La Mecánica Cuántica Hidrodinámica (MQH) ofrece una resolución mecanicista a esta divergencia, abordando la galaxia no como un conjunto discreto de masas orbitando en el vacío, sino como un macro-vórtice acoplado en el medio continuo incompresible.
 
 #### 1. La Transición Topológica de Disipación (3D $\to$ 2D)
+
 La discrepancia entre la predicción y la observación surge de una superposición geométrica errónea: aplicar un modelo de propagación isótropa puntual (Sistema Solar) a una estructura topológicamente extendida (el disco galáctico).
 
 Bajo la dinámica de medios continuos de la MQH, el gradiente de presión que rige el sistema transiciona de acuerdo con las condiciones de frontera del vórtice rotatorio:
-* **Régimen de Núcleo (Disipación Esférica 3D):** En el bulbo galáctico, la concentración bariónica genera una succión omnidireccional. La propagación del esfuerzo hidrodinámico se distribuye sobre la superficie de una esfera geométrica ($4\pi r^2$), recuperando el régimen de decaimiento newtoniano convencional ($1/r^2$).
-* **Régimen Periférico (Disipación Cilíndrica 2D):** A medida que la fuerza centrífuga del momento angular galáctico amplía el radio del sistema, las líneas de flujo se confinan en un estrato bidimensional, el disco estelar. En este régimen, el gradiente local pierde el acceso al fluido perpendicular ("arriba" y "abajo" del disco). La tensión de presión se ve obligada a disiparse lateralmente sobre un perímetro cilíndrico ($\propto 2\pi r$).
+- **Régimen de Núcleo (Disipación Esférica 3D):** En el bulbo galáctico, la concentración bariónica genera una succión omnidireccional. La propagación del esfuerzo hidrodinámico se distribuye sobre la superficie de una esfera geométrica ($4\pi r^2$), recuperando el régimen de decaimiento newtoniano convencional ($1/r^2$).
+- **Régimen Periférico (Disipación Cilíndrica 2D):** A medida que la fuerza centrífuga del momento angular galáctico amplía el radio del sistema, las líneas de flujo se confinan en un estrato bidimensional, el disco estelar. En este régimen, el gradiente local pierde el acceso al fluido perpendicular ("arriba" y "abajo" del disco). La tensión de presión se ve obligada a disiparse lateralmente sobre un perímetro cilíndrico ($\propto 2\pi r$).
 
 Al resolver la ecuación de equilibrio de Navier-Stokes para un sumidero cilíndrico distribuido ($M(r) \propto r$), la aceleración centrípeta se equilibra con el gradiente dimensional reducido:
 
-$$\frac{v^2}{r} \propto G_{hidro} \left(\frac{\lambda}{r}\right) \implies v = \text{Constante}$$
+$$ \frac{v^2}{r} \propto G_{hidro} \left(\frac{\lambda}{r}\right) \implies v = \text{Constante} $$
 
 Esta transición dimensional explica analíticamente el aplanamiento de las curvas de rotación sin necesidad de insertar materia adicional en el sistema.
 
 #### 2. Deducción Analítica del Límite Cuántico de Fluencia ($a_0$)
+
 Para que el macro-vórtice galáctico sufra el quiebre de simetría y fuerce a la gravedad a transicionar de 3D a 2D, el esfuerzo de tracción tridimensional debe debilitarse hasta alcanzar un punto crítico. En la reología de medios continuos, los fluidos no ideales no transmiten esfuerzos infinitesimales; poseen un límite de fluencia (*yield stress*), un umbral acústico-tensional por debajo del cual el medio cesa de estructurar un gradiente organizado y cede a la corriente inercial de fondo.
 
 Postulando una isomorfía escalar (fractalidad) propia de la MQH, este umbral macroscópico de rotura galáctica debe ser el eco exacto de la interacción tensorial más débil permitida en la microescala cuántica. Específicamente, corresponde a la tensión gravitacional unitaria basal: la aceleración inducida por la singularidad bariónica fundamental (el nudo topológico del protón, $m_p$) evaluada en la frontera transversal del sumidero fermiónico adyacente (el diámetro acústico de la onda del electrón, acotado por $\lambda_c/2$).
 
 Formalizando esta relación geométrica e introduciendo la constante de acople hidrodinámico pura del continuo ($G_{hidro} \approx 9.93 \times 10^{-8} \text{ m}^3 \text{kg}^{-1} \text{s}^{-2}$):
 
-$$a_{0(\text{teo})} = \frac{G_{hidro} \cdot m_p}{(\lambda_c / 2)^2}$$
+$$ a_{0(teo)} = \frac{G_{hidro} \cdot m_p}{(\lambda_c/2)^2} $$
 
 Evaluando numéricamente el límite de tensión basal:
 
-$$a_{0(\text{teo})} = \frac{(9.93 \times 10^{-8}) \times (1.672 \times 10^{-27})}{(1.213 \times 10^{-12})^2} \approx 1.13 \times 10^{-10} \text{ m/s}^2$$
+$$ a_{0(teo)} = \frac{(9.93 \times 10^{-8}) \times (1.672 \times 10^{-27})}{(1.213 \times 10^{-12})^2} \approx 1.13 \times 10^{-10} \text{ m/s}^2 $$
 
-#### 3. Validación Inversa y el Sentido Físico de la Normalización
-Si realizamos el ejercicio de ingeniería inversa —es decir, si exigimos que el modelo converja de manera exacta al parámetro empírico central de MOND ($a_0 \approx 1.2 \times 10^{-10} \text{ m/s}^2$)—, la ecuación de campo nos devuelve un tiempo característico de acople de $t_0 \approx 0.97 \text{ s}$. 
+#### 3. Validación Inversa y la Hipótesis del Tiempo de Relajación Macroscópico
 
-La asombrosa cercanía de este valor al segundo estándar del Sistema Internacional ($1 \text{ s}$) no es una coincidencia fortuita; demuestra que la normalización unitaria macroscópica empleada refleja con notable precisión el tiempo de relajación real del medio continuo a escala galáctica.
+Si realizamos el ejercicio de ingeniería inversa —es decir, si introducimos el parámetro empírico central medido por la astrofísica para las galaxias ($a_0 \approx 1.2 \times 10^{-10} \text{ m/s}^2$) y despejamos la variable temporal en nuestra ecuación de campo—, el océano de *La Fuente* nos devuelve un tiempo característico de acople macroscópico de $t_0 \approx 0.97 \text{ s}$.
+
+Postulamos como hipótesis fenomenológica que este valor ($0.97 \text{ s}$) representa el tiempo de relajación real o "latido natural" del medio continuo a escala galáctica. El hecho de que sea casi idéntico al segundo estándar del Sistema Internacional ($1 \text{ s}$) constituye una coincidencia antropológica fascinante, pero el parámetro físicamente real que rige la macro-dinámica del fluido galáctico es este valor derivado de la observación.
 
 #### 4. Conclusión: La Innecesariedad de la Materia Oscura
+
 La predicción analítica de la MQH ($1.13 \times 10^{-10} \text{ m/s}^2$) converge con extraordinaria precisión con el umbral fenomenológico deducido por la cinemática galáctica empírica ($\sim 1.2 \times 10^{-10} \text{ m/s}^2$).
 
 Esta demostración establece que el parámetro $a_0$ no es una anomalía astrofísica ni una variable ajustable libre. Representa, rigurosamente, el límite estructural absoluto de propagación de esfuerzos (*yield point*) del continuo hiperdenso. Cuando la aceleración inercial inducida por un cuerpo decae por debajo de este umbral cuántico basal, la tensión tridimensional colapsa, acoplando cinemáticamente la materia observable a la rotación hidro-inercial del disco galáctico extendido.
