@@ -148,7 +148,7 @@ Introducción: El Retorno al Medio Continuo
     - 4.2.2.1 El Límite de Saturación Longitudinal: El Neutrino como Solitón Acústico.
   - 4.2.3 El Régimen Confinado: La Ecuación de Masa Toroidal y el Espectro de Resonancias.
 - 4.3 Bosones: Desmitificando las Partículas Mensajeras.
-- 4.4 La Obsolescencia del Bosón de Higgs ante la Inercia Hidrodinámica.
+- 4.4 Reinterpretación del Mecanismo de Higgs y la Inercia Hidrodinámica.
 
 **5. Macro-Dinámica, Gravedad y la Ilusión de la Materia Oscura**
 - 5.1 Derivación Analítica de la Gravedad Hidrodinámica ($G_{hidro}$).
@@ -1035,9 +1035,9 @@ Las leves discrepancias empíricas restantes (el $\approx 0.018\%$ en el protón
 En la física ortodoxa, el átomo de hidrógeno representa una paradoja histórica que dio a luz a la mecánica cuántica moderna a través de un acto de desesperación matemática. Según el electromagnetismo clásico, un electrón orbitando un núcleo debería irradiar su energía y colapsar en espiral contra el protón en una fracción de billonésima de segundo. 
 
 #### 1. El Malabarismo Histórico de Niels Bohr (1913)
-Para evitar este colapso catastrófico, en 1913 Niels Bohr propuso su famoso modelo atómico. Al darse cuenta de que si dejaba las ecuaciones de Newton y Maxwell libres el electrón se estrellaba, Bohr decretó, por axioma, que el momento angular del electrón solo podía existir en paquetes enteros de $\hbar$ ($mvr = n\hbar$). 
+Para evitar este colapso catastrófico, en 1913 Niels Bohr propuso su famoso modelo atómico. Al notar que las ecuaciones clásicas predecían el colapso del electrón, Bohr postuló analíticamente que el momento angular solo podía existir en paquetes enteros de $\hbar$ ($mvr=n\hbar$).
 
-Bohr no sabía *por qué* el electrón tenía que obedecer esa regla; simplemente la impuso a la fuerza. Un dato histórico clave es que, en 1913, Bohr ni siquiera conocía la constante de estructura fina ($\alpha$), introducida años después por Arnold Sommerfeld. Bohr simplemente juntó las constantes disponibles porque el análisis dimensional daba la distancia correcta. Un siglo después, el Modelo Estándar sigue ocultando este vacío explicativo detrás de nubes de probabilidad estadística abstractas.
+Bohr no sabía *por qué* el electrón tenía que obedecer esa regla; simplemente la impuso a la fuerza. Un dato histórico clave es que, en 1913, Bohr ni siquiera conocía la constante de estructura fina ($\alpha$), introducida años después por Arnold Sommerfeld. Bohr agrupó las constantes disponibles basándose en el análisis dimensional para obtener la distancia correcta. Un siglo después, el Modelo Estándar sigue ocultando este vacío explicativo detrás de nubes de probabilidad estadística abstractas.
 
 #### 2. El Mecanismo Anti-Colapso: La Incompresibilidad de La Fuente
 Bajo la Mecánica Cuántica Hidrodinámica (MQH), la estabilidad del hidrógeno no requiere decretos mágicos. El átomo no colapsa porque *La Fuente* es un fluido hiperdenso e **incompresible**. 
@@ -1202,7 +1202,7 @@ El caos del logaritmo neperiano colapsa asombrosamente en un número entero perf
 
 $$ m = \frac{7 \rho_0 \Gamma^2 R}{2 c^2} $$
 
-Esta deducción demuestra de manera concluyente que la "masa" no requiere de campos de Higgs ni de postulados mágicos; está matemáticamente *cuantizada* porque la topología del toroide cuántico se estabiliza mecánicamente en una relación de aspecto estricta, obligando a la inercia del fluido confinado a resonar en un armónico exacto.
+Esta deducción demuestra analíticamente que la "masa" no requiere de campos de Higgs ni de postulados ad hoc; está matemáticamente *cuantizada* porque la topología del toroide cuántico se estabiliza mecánicamente en una relación de aspecto estricta, obligando a la inercia del fluido confinado a resonar en un armónico exacto.
 
 #### 2. Más Allá del Hidrógeno: El Espectro de Resonancias Topológicas (Hacia la Tabla Periódica)
 
@@ -1299,11 +1299,11 @@ Este valor de $7.20 \times 10^{22} \text{ Pascales}$ revela una propiedad fundam
 
 * **Gluones (La Presión de Confinamiento):** Descritos clásicamente como el "pegamento" místico que confina a los quarks (Fuerza Fuerte), en el modelo de la MQH los gluones son simplemente los gradientes de hiper-presión ($\nabla P$) y la tensión de corte que ocurre en los "cuellos" o intersecciones del nudo trébol bariónico. No hay partículas mediadoras volando dentro del protón; solo existe la fuerza de empuje implacable del fluido externo comprimiendo la topología anudada para evitar que sus flujos se repelan.
 
-### 4.4 La Obsolescencia del Bosón de Higgs ante la Inercia Hidrodinámica
+### 4.4 Reinterpretación del Mecanismo de Higgs y la Inercia Hidrodinámica
 
 El colofón del Modelo Estándar fue la postulación del Bosón de Higgs y su campo escalar asociado (el mecanismo de ruptura espontánea de simetría), introducido con el único propósito de explicar cómo partículas teóricamente puntuales adquieren masa. La premisa ortodoxa es que el vacío está lleno de una "melaza cuántica" que frena a las partículas, otorgándoles inercia.
 
-Con la formalización de la MQH, el mecanismo de Higgs se revela como un artificio no necesario. 
+Con la formalización de la MQH, el mecanismo de Higgs se revela como un postulado ad hoc no necesario. 
 
 Como se dedujo analíticamente en el Capítulo 2.3 a partir de la Ecuación del Vórtice, el universo ya está permeado por un campo físico, real y medible: *La Fuente*, poseedora de una densidad absoluta de $\rho_0 \approx 8.01 \times 10^5 \text{ kg/m}^3$. La inercia (masa) no requiere de un bosón mediador ni de un campo escalar abstracto; nace estrictamente de la mecánica clásica de fluidos. La masa es el resultado directo y geométrico del arrastre topológico de un remolino cerrado oponiendo resistencia al intentar moverse a través de este océano hiperdenso.
 
