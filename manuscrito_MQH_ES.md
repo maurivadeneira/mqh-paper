@@ -546,51 +546,43 @@ $$
 
 ---
 
-### 5. La Escala Fractal y la Derivación Analítica de la Constante de Estructura Fina ($\alpha$)
+## 5. La Escala Fractal y la Derivación Analítica de la Constante de Estructura Fina ($\alpha$)
 
-Habiendo calibrado la inercia absoluta del vacío ($\rho_0$), demostramos que la Constante de Estructura Fina ($\alpha^{-1} \approx 137.036$) surge de la resonancia geométrica del fluido entre el electrón aislado y el átomo.
+Habiendo calibrado la inercia absoluta del vacío ($\rho_0$), el marco analítico de la MQH postula que la Constante de Estructura Fina ($\alpha^{-1} \approx 137.036$) surge de la resonancia geométrica del fluido entre el estado fundamental del fermión y su expansión armónica en el sistema atómico.
 
-#### A. El Perímetro de la Onda y la Geometría Base ($n=1$)
-La longitud de onda Compton estándar del electrón ($\lambda_c \approx 2.426 \times 10^{-12} \text{ m}$) representa físicamente el **perímetro exacto** (la circunferencia) del tubo de fluido vibrando en su estado fundamental. Al curvar este perímetro para formar un anillo cerrado, su radio mayor de giro ($R_e$) se calcula dividiendo el perímetro entre $2\pi$:
+### A. El Perímetro de la Onda y la Geometría Base ($n=1$)
 
-$$
-R_e = \frac{\lambda_c}{2\pi} = \bar{\lambda}_c \approx 0.386 \times 10^{-12} \text{ m} \, (0.386 \text{ pm})
-$$
-*(Nota: Esto desmitifica geométricamente el uso de la constante de Planck reducida $\hbar = h/2\pi$$).*
+La longitud de onda Compton estándar del electrón ($\lambda_c \approx 2.426 \times 10^{-12} \text{ m}$) representa físicamente el perímetro exacto (la circunferencia) del tubo de fluido vibrando en su estado fundamental. Al curvar este perímetro para formar un anillo cerrado, su radio mayor de giro ($R_e$) se calcula dividiendo el perímetro entre $2\pi$:
 
-En este umbral de máxima compresión (Toroide de Husillo), el remolino estabiliza su tensión topológica en la unidad: 
+$$ R_e = \frac{\lambda_c}{2\pi} = \bar{\lambda}_c \approx 0.386 \times 10^{-12} \text{ m} \quad (0.386 \text{ pm}) $$
 
-$$
-\ln\left(\frac{8R}{r}\right) = 1
-$$
+*(Nota geométrica: Esto desmitifica la naturaleza abstracta del uso de la constante de Planck reducida $\hbar = h/2\pi$)*.
 
-#### B. La Expansión Topológica y el Armónico 7 ($n=7$)
-Cuando el vórtice interactúa y forma un sistema orbital complejo (como el átomo de hidrógeno al orbitar un protón), el remolino se expande. Para garantizar un cierre de fase perfecto sin interferencia destructiva, la hidrodinámica exige que la tensión del anillo se ancle en un armónico superior entero. El sistema alcanza su primer equilibrio orbital estable al expandir su radio mayor hasta el **Séptimo Armónico ($n=7$)**:
+En este umbral de máxima compresión correspondiente al estado fundamental aislado, el remolino estabiliza su tensión topológica interna en la unidad ($n=1$):
 
-$$
-\ln\left(\frac{8R}{r}\right) = 7
-$$
+$$ \ln\left(\frac{8R_e}{r}\right) = 1 \implies \frac{8R_e}{r} = e \implies \frac{R_e}{r} = \frac{e}{8} \approx 0.340 $$
 
-#### C. La Derivación Analítica Pura de la Proporción ($\alpha$)
-Aplicando la función exponencial ($e$) a ambos lados de la ecuación armónica para despejar la relación de aspecto geométrica del macro-toroide:
+### B. La Expansión Topológica y el Armónico 7 ($n=7$)
 
-$$
-\frac{8R}{r} = e^7
-$$
+Cuando el vórtice interactúa y forma un sistema orbital complejo (como el átomo de hidrógeno al acoplarse con el protón), el remolino experimenta un cambio de régimen y se expande. Para garantizar un cierre de fase perfecto sin interferencia destructiva, la hidrodinámica exige que la tensión del anillo se ancle en un armónico superior entero. El sistema alcanza su primer equilibrio orbital estable al expandir su radio mayor hasta el Séptimo Armónico ($n=7$):
 
-Despejando la proporción pura entre los radios:
+$$ \ln\left(\frac{8R}{r}\right) = 7 $$
 
-$$
-\frac{R}{r} = \frac{e^7}{8}
-$$
+### C. La Derivación Analítica Pura de la Proporción ($\alpha^{-1}$)
 
-Evaluando explícitamente el numerador ($e^7 \approx 1096.633$), obtenemos numéricamente esta proporción geométrica:
+Aplicando la función exponencial ($e$) a ambos lados de la ecuación armónica para despejar la relación de aspecto geométrica del macro-toroide resultante:
 
-$$
-\frac{R}{r} = \frac{1096.633}{8} \approx 137.079
-$$
+$$ \frac{8R}{r} = e^7 $$
 
-Esta deducción demuestra analíticamente que el inverso de la Constante de Estructura Fina ($\alpha^{-1}$) no es un parámetro electromagnético arbitrario, sino **la exigencia geométrica de proporción** ($R/r$) que impone un fluido incompresible para que cualquier sistema vorticial resuene en el Armónico 7.
+Despejando analíticamente la proporción pura entre los radios:
+
+$$ \frac{R}{r} = \frac{e^7}{8} $$
+
+Evaluando explícitamente el numerador ($e^7 \approx 1096.633$), obtenemos numéricamente esta proporción geométrica macroscópica:
+
+$$ \frac{R}{r} = \frac{1096.633}{8} \approx 137.079 $$
+
+Esta deducción demuestra analíticamente que el inverso de la Constante de Estructura Fina ($\alpha^{-1}$) no es un parámetro electromagnético arbitrario, sino la exigencia geométrica de proporción ($R/r$) que impone un fluido incompresible para que el sistema vorticial resuene armónicamente en el nivel $n=7$.
 
 #### D. La Deducción del Núcleo ($r$) y el Radio Clásico del Electrón
 Establecida la proporción armónica obligatoria ($R/r = \alpha^{-1}$), el marco hidrodinámico nos permite deducir analíticamente la dimensión transversal oculta del vórtice: el radio menor de su núcleo ($r_e$). 
