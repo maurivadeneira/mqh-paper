@@ -66,7 +66,7 @@ Al evaluar la inercia hidrodinámica en macroestructuras, la materia se estabili
 * **El Helio:** $2\pi$ (Cierre de fase de espines apareados).
 * **El Hidrógeno:** $7$ (Límite máximo de elongación binaria geométrica).
 * **El Agua ($\text{H}_2\text{O}$):** $8$ (Octava perfecta de acoplamiento molecular).
-* **El Puente Cósmico:** La proporción geométrica macroscópica de los radios en el agua es $R/r \approx 367.8$, correlacionándose de manera directa con el ciclo orbital de la Tierra ($\sim 365.25 \text{ días}$), sugiriendo que la microescala molecular y la macroescala planetaria comparten las mismas frecuencias de resonancia en el fluido.
+* **El Puente Cósmico:** La proporción geométrica macroscópica de los radios en el agua arroja $R/r \approx 367.8$. Su notable cercanía con el ciclo orbital de la Tierra ($\sim 365.25 \text{ días}$) sugiere, como hipótesis heurística, que la macroescala planetaria podría operar dentro de un rango aproximado o banda de tolerancia de estas mismas frecuencias fundamentales de resonancia, donde el fluido actúa como un atractor dinámico para la estabilización macroscópica.
 
 ### 8. Cosmología y Gravedad Macroscópica
 Al escalar la MQH, la gravedad deja de ser una "curvatura del espacio-tiempo" y se revela como un gradiente de presión hidrodinámica hacia los sumideros masivos. Las galaxias operan como macro-vórtices en *La Fuente*, explicando la cohesión de sus velocidades de rotación periféricas.
