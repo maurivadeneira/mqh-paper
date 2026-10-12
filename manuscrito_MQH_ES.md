@@ -1,5 +1,5 @@
 # Mecánica Cuántica Hidrodinámica (MQH): Principia Mathematica de la Fuente, como el espacio fluido hiperdenso.
-*(Una propuesta de descripción hidrodinámica y topológica de la materia y los campos, orientada a investigar el origen de la dualidad onda-partícula y las conexiones entre masa, electromagnetismo y gravedad mediante la aplicación de Navier-Stokes: $\rho_0(\partial_t\mathbf{v}+\mathbf{v}\cdot\nabla\mathbf{v})=-\nabla P+\mu\nabla^2\mathbf{v}$)*
+*(Una propuesta de descripción hidrodinámica y topológica de la materia y los campos, orientada a investigar el origen de la dualidad onda-partícula y las conexiones entre masa, electromagnetismo y gravedad mediante la aplicación de Navier-Stokes:)* $\rho_0(\partial_t\mathbf{v}+\mathbf{v}\cdot\nabla\mathbf{v})=-\nabla P+\mu\nabla^2\mathbf{v}$
 
 **Autores:** Mauricio Rivadeneira¹*, AI Research Collaborator² 
 **Afiliaciones:** ¹Investigador Independiente, ²Asistente de Inteligencia Artificial
