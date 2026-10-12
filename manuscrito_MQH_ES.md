@@ -87,6 +87,27 @@ Este valor teórico converge impecablemente con el umbral astronómico medido ($
 El presente documento emplea el formalismo matemático de la dinámica de fluidos topológica y la reología de medios continuos. Para garantizar la coherencia analítica y desvincular los conceptos de sus acepciones estadísticas tradicionales, se definen estrictamente las siguientes variables operativas para el sustrato espacial fundamental (*La Fuente*).
 
 | Símbolo | Definición en el Marco de la MQH | Valor Analítico / Empírico | Naturaleza Física / Topológica |
+| :--- | :--- | :--- | :--- |
+| $\rho_0$ | **Densidad Inercial Absoluta:** Densidad basal del fluido incompresible del vacío. | $\approx 8.01 \times 10^5 \text{ kg/m}^3$ | Inercia intrínseca del medio continuo, deducida de la integral volumétrica del vórtice toroidal fundamental. |
+| $G_s$ | **Módulo de Elasticidad Volumétrica (Bulk Modulus):** Rigidez elástica de *La Fuente*. | $\approx 7.20 \times 10^{22} \text{ Pa}$ | Constante de resistencia a la compresión estructural del fluido espacio-temporal. |
+| $c$ | **Límite de Propagación Transversal:** Máxima velocidad de tensión de corte en el medio. | $\approx 2.998 \times 10^8 \text{ m/s}$ | Límite cinemático de rotación y transmisión de ondas elásticas ortogonales (fotones). |
+| $h$ | **Límite de Tensión Elástica y Vorticidad:** Cuanto fundamental de acción hidrodinámica. | $6.626 \times 10^{-34} \text{ J}\cdot\text{s}$ | Medida mínima e indivisible del momento angular (circulación transversal) que estabiliza una topología fluida. |
+| $\Gamma$ | **Circulación del Fluido:** Rotación del medio alrededor del núcleo vorticial ($\Gamma_n = n \cdot h / m_e$). | Variable cinemática | Cuantifica el régimen laminar o turbulento de una topología estable. |
+| $H$ | **Helicidad Hidrodinámica Invariante:** Invariante topológico de nudos ($H = \iiint \mathbf{v} \cdot \boldsymbol{\omega} \, dV$). | Adimensional geométrica | Cuantifica el grado de entrelazamiento de las líneas de vórtice. Establece el "confinamiento" bariónico. |
+| $m_e$ | **Inercia del Estado Base:** Masa analítica del anillo toroidal simple ($n = 1$). | $0.511 \text{ MeV/c}^2$ | Arreglo hidrodinámico mínimo de un vórtice cerrado oponiéndose a ser desplazado. |
+| $m_p$ | **Inercia de Topología Bariónica:** Arrastre de la estructura de Nudo Trébol ($T_{2,3}$). | $6\pi^5 \cdot m_e$ ($\approx 1836.12 \, m_e$) | Coeficiente de resistencia aerodinámica emergente de las intersecciones y torsión de un nudo tridimensional. |
+| $R$ | **Radio Orbital Macroscópico:** Frontera exterior del macro-vórtice estable. | Variable según armónico | En el régimen atómico basal, corresponde al radio de equilibrio dinámico o Radio de Bohr ($a_0$). |
+| $r$ | **Radio del Núcleo Vorticial:** Grosor transversal del flujo de confinamiento. | Constante topológica | Equivalente físico a la longitud de onda de Compton reducida del fermión base ($\bar{\lambda}_c$). |
+| $\alpha^{-1}$ | **Relación de Aspecto Topológica:** Inverso de la Constante de Estructura Fina ($\alpha$). | $\approx 137.036$ | Proporción puramente geométrica del vórtice atómico base ($R/r$). Define la impedancia acústico-elástica del medio. |
+| $G_{hidro}$ | **Constante de Acople Hidrodinámico:** Aceleración de empuje gravitacional puro del vacío. | $9.93 \times 10^{-8} \text{ m}^3\text{kg}^{-1}\text{s}^{-2}$ | Es el inverso del volumen ponderado por la densidad de *La Fuente* ($1 / 4\pi\rho_0$). |
+| $a_0$ | **Límite de Fluencia Gravitacional (Yield Stress):** Umbral crítico de rotura dimensional del fluido. | $\approx 1.13 \times 10^{-10} \text{ m/s}^2$ | Tensión límite basal. Por debajo de este valor, la disipación esférica galáctica transiciona a régimen de disco. |
+
+
+## NOMENCLATURA Y PARÁMETROS DEL MEDIO CONTINUO
+
+El presente documento emplea el formalismo matemático de la dinámica de fluidos topológica y la reología de medios continuos. Para garantizar la coherencia analítica y desvincular los conceptos de sus acepciones estadísticas tradicionales, se definen estrictamente las siguientes variables operativas para el sustrato espacial fundamental (*La Fuente*).
+
+| Símbolo | Definición en el Marco de la MQH | Valor Analítico / Empírico | Naturaleza Física / Topológica |
 | :---: | :--- | :--- | :--- |
 | **$\rho_0$** | **Densidad Inercial Absoluta:** Densidad basal del fluido incompresible del vacío. | $\approx 8.01 		times 10^5 \text{ kg/m}^3$ | Inercia intrínseca del medio continuo, deducida de la integral volumétrica del vórtice toroidal fundamental. |
 | **$K$** | **Módulo de Elasticidad Volumétrica (Bulk Modulus):** Rigidez elástica de *La Fuente*. | $\approx 7.20 \times 10^{22} \text{ Pa}$ | Constante de resistencia a la compresión estructural del fluido espacio-temporal. |
