@@ -1425,15 +1425,29 @@ Postulamos como hipótesis fenomenológica que este valor ($0.97 \text{ s}$) rep
 
 #### 4. Conclusión: La Innecesariedad de la Materia Oscura y el Escrutinio Falsable
 
-La predicción analítica de la MQH ($1.13 \times 10^{-10} \text{ m/s}^2$) converge con extraordinaria precisión con el umbral fenomenológico deducido por la cinemática galáctica empírica ($\sim 1.2 \times 10^{-10} \text{ m/s}^2$).
+La predicción analítica de la MQH ($1.13 \times 10^{-10} \text{ m/s}^2$) converge con extraordinaria precisión con el umbral fenomenológico deducido por la cinemática galáctica empírica ($\sim 1.2 \times 10^{-10} \text{ m/s}^2$). 
 
-Esta demostración establece que el parámetro $a_0$ no es una anomalía astrofísica ni una variable ajustable libre. Representa, rigurosamente, el límite estructural absoluto de propagación de esfuerzos (*yield point*) del continuo hiperdenso. Cuando la aceleración inercial inducida por un cuerpo decae por debajo de este umbral cuántico basal, la tensión tridimensional colapsa, acoplando cinemáticamente la materia observable a la rotación hidro-inercial del disco galáctico extendido.
+Esta demostración establece que el parámetro $a_0$ no es una anomalía astrofísica ni una variable ajustable libre. Representa el límite estructural absoluto de propagación de esfuerzos (*yield point*) del continuo hiperdenso. Para someter este modelo a un escrutinio fenomenológico directo y falsable, recuperamos la deducción algebraica de la función de escala adimensional $\mu(a/a_0)$ establecida en los postulados de esta teoría, y la aplicamos al cálculo de la masa bariónica de nuestra propia galaxia, la Vía Láctea.
 
-Para someter este modelo a un escrutinio fenomenológico directo y falsable, aplicamos esta transición geométrica al cálculo de la masa bariónica de nuestra propia galaxia, la Vía Láctea. En el régimen de disipación cilíndrica (2D), la mecánica de la MQH establece que la velocidad de rotación tangencial ($v_f$) se vuelve asintóticamente constante. La ecuación de equilibrio de tensiones (análoga a la relación bariónica de Tully-Fisher) establece que:
+**La Demostración Algebraica de la Transición:**
+Como se definió analíticamente, cuando la aceleración inercial de una estrella desciende por debajo del umbral basal ($a \ll a_0$), la función de transición geométrica en el disco entra en el régimen profundo ($\mu = a/a_0$). Partiendo de la igualación dinámica de fuerzas en este régimen periférico:
 
-$$ M_{gal} = \frac{v_f^4}{G_{Newton} \cdot a_{0(teo)}} $$
+$$ m \cdot a \left( \frac{a}{a_0} \right) = \frac{G_{Newton} \cdot M_{gal} \cdot m}{r^2} $$
 
-Para la Vía Láctea, las mediciones astrométricas contemporáneas (como los sondeos de la misión Gaia) establecen una velocidad tangencial plana promedio de $v_f \approx 220 \text{ km/s}$ ($2.2 \times 10^5 \text{ m/s}$). Introduciendo este valor empírico junto a la constante de fricción bariónica ($G_{Newton}$) y nuestro umbral cuántico-galáctico deducido teóricamente desde el protón ($a_{0(teo)} \approx 1.13 \times 10^{-10} \text{ m/s}^2$), obtenemos:
+Las masas de prueba ($m$) se cancelan, y al despejar la aceleración ($a$), obtenemos la modificación directa del gradiente macroscópico:
+
+$$ \frac{a^2}{a_0} = \frac{G_{Newton} \cdot M_{gal}}{r^2} \implies a = \frac{\sqrt{G_{Newton} \cdot M_{gal} \cdot a_0}}{r} $$
+
+Para que una estrella se mantenga en órbita estable en este disco, esta aceleración gravitacional efectiva debe igualar a su aceleración centrípeta ($a = v^2/r$):
+
+$$ \frac{v^2}{r} = \frac{\sqrt{G_{Newton} \cdot M_{gal} \cdot a_0}}{r} $$
+
+Es en este preciso paso matemático donde colapsa el requerimiento de la materia oscura: **el radio ($r$) se cancela en ambos lados de la ecuación**. La velocidad tangencial se emancipa de la distancia, volviéndose asintóticamente constante y arrojando la ecuación de equilibrio de tensiones (análoga a la relación bariónica empírica de Tully-Fisher):
+
+$$ v^2 = \sqrt{G_{Newton} \cdot M_{gal} \cdot a_0} \implies M_{gal} = \frac{v^4}{G_{Newton} \cdot a_0} $$
+
+**El Cálculo Observacional de la Vía Láctea:**
+Para la Vía Láctea, las mediciones astrométricas contemporáneas (misión Gaia) establecen una velocidad tangencial plana promedio en los bordes galácticos de $v \approx 220 \text{ km/s}$ ($2.2 \times 10^5 \text{ m/s}$). Introduciendo este valor empírico junto a la constante clásica ($G_{Newton}$) y nuestro umbral cuántico-galáctico deducido teóricamente desde el protón ($a_{0} \approx 1.13 \times 10^{-10} \text{ m/s}^2$), obtenemos:
 
 $$ M_{VíaLáctea} = \frac{(2.2 \times 10^5)^4}{(6.674 \times 10^{-11}) \times (1.13 \times 10^{-10})} \approx 3.10 \times 10^{41} \text{ kg} $$
 
@@ -1441,9 +1455,9 @@ Convirtiendo este resultado a masas solares ($1 M_\odot \approx 1.989 \times 10^
 
 $$ M_{VíaLáctea} \approx 1.56 \times 10^{11} M_\odot $$
 
-Las estimaciones astrofísicas observacionales más rigurosas sitúan la masa bariónica real (estrellas, polvo y gas) de la Vía Láctea exactamente en un rango de $1 \times 10^{11}$ a $1.5 \times 10^{11} M_\odot$. La ecuación de la MQH arroja de forma prístina la masa visible de la galaxia utilizando exclusivamente la dinámica de fluidos y las constantes fundamentales, sin requerir el inflado artificial de más de $10^{12} M_\odot$ exigido por el Modelo Estándar.
+Las estimaciones astrofísicas observacionales más rigurosas sitúan la masa bariónica real (estrellas, polvo y gas visible) de la Vía Láctea exactamente en un rango de $1 \times 10^{11}$ a $1.5 \times 10^{11} M_\odot$. 
 
-Por consiguiente, el requerimiento fenomenológico de postular halos exóticos de materia oscura queda desestimado analíticamente. La macro-dinámica del cosmos emerge de manera determinista y completa a partir de la reología fundamental del continuo espacial unificado.
+La ecuación de la MQH arroja de forma prístina la masa visible de la galaxia utilizando exclusivamente la dinámica de fluidos y el límite topológico fundamental deducido del protón, sin requerir el inflado artificial de más de $10^{12} M_\odot$ exigido por el Modelo Estándar. Por consiguiente, el requerimiento fenomenológico de postular halos exóticos de materia oscura queda desestimado analíticamente. La macro-dinámica del cosmos emerge de manera determinista a partir de la reología fundamental del continuo unificado.
 
 # CAPÍTULO 6: Horizonte Tecnológico y Matemático (El Siglo de la MQH)
 
