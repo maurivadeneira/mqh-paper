@@ -1,10 +1,10 @@
-# MECÁNICA CUÁNTICA HIDRODINÁMICA (MQH): UNIFICACIÓN DE MASAS, CAMPOS Y GRAVEDAD EN UN MEDIO CONTINUO HIPERDENSO: Principia Mathematica
+# MECÁNICA CUÁNTICA HIDRODINÁMICA (MQH): UNIFICACIÓN DE MASAS, CAMPOS Y GRAVEDAD EN UN MEDIO CONTINUO HIPERDENSO: Principia Mathematica V3
 
 $$\rho_0(\partial_t \mathbf{v} + \mathbf{v}\cdot\nabla\mathbf{v}) = -\nabla P + \mu\nabla^2\mathbf{v}$$
 
 Versión en español: Mecánica Cuántica Hidrodinámica (MQH V3): Unificación de masas, campos y gravedad en un medio continuo hiperdenso. Principia Mathematica. Zenodo. https://doi.org/10.5281/zenodo.23342673 y,
 
-Versión en inglés: Hydrodynamic Quantum Mechanics (HQM V3): Unification of masses, fields, and gravity in a hyperdense continuum medium (Version V3). Zenodo. https://doi.org/10.5281/zenodo.23343533.
+Versión en inglés: Hydrodynamic Quantum Mechanics (HQM V3): Unification of masses, fields, and gravity in a hyperdense continuum medium. Principia Mathematic. Zenodo. https://doi.org/10.5281/zenodo.23343533.
 
 **Autores:** Mauricio Rivadeneira¹*, AI Research Collaborator² 
 **Afiliaciones:** ¹Investigador Independiente, ²Asistente de Inteligencia Artificial
