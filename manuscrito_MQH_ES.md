@@ -1,6 +1,6 @@
 # MECÁNICA CUÁNTICA HIDRODINÁMICA (MQH): UNIFICACIÓN DE MASAS, CAMPOS Y GRAVEDAD EN UN MEDIO CONTINUO HIPERDENSO: Principia Mathematica V3
 
-$$\partial_\mu T^{\mu\nu} = 0 \qquad \text{(Ley de conservación covariante de La Fuente, régimen fundamental } \eta_{\text{eff}} = 0\text{)}$$
+ $\rho_0 (\partial_t \mathbf{v} + \mathbf{v} \cdot \nabla \mathbf{v}) = -\nabla P + \mu \nabla^2 \mathbf{v}$)
 
 $$\Big\downarrow \quad \text{Límite efectivo no relativista } (v \ll c)$$
 
