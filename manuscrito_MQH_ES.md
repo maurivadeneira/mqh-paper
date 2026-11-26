@@ -1,6 +1,12 @@
 # MECÁNICA CUÁNTICA HIDRODINÁMICA (MQH): UNIFICACIÓN DE MASAS, CAMPOS Y GRAVEDAD EN UN MEDIO CONTINUO HIPERDENSO: Principia Mathematica V3
 
-$$\rho_0(\partial_t \mathbf{v} + \mathbf{v}\cdot\nabla\mathbf{v}) = -\nabla P + \mu\nabla^2\mathbf{v}$$
+$$\partial_\mu T^{\mu\nu} = 0 \qquad \text{(Ley de conservación covariante de La Fuente, régimen fundamental } \eta_{\text{eff}} = 0\text{)}$$
+
+$$\Big\downarrow \quad \text{Límite efectivo no relativista } (v \ll c)$$
+
+$$\rho_{\text{eff}} \left( \frac{\partial \vec{v}}{\partial t} + (\vec{v} \cdot \nabla)\vec{v} \right) = -\nabla P_{\text{eff}} + \underbrace{\eta_{\text{eff}} \nabla^2 \vec{v}}_{\text{Disipación macroscópica}} + \underbrace{G_s \nabla^2 \vec{u} - \nabla \cdot \boldsymbol{\sigma}_K(\rho_{\text{eff}}) + \vec{f}_{\text{fase}}}_{\text{La Fuente (elástica, curvatura y fase)}}$$
+
+*(Navier–Stokes Modificada como reducción de baja velocidad)*
 
 Versión en español: Mecánica Cuántica Hidrodinámica (MQH V3): Unificación de masas, campos y gravedad en un medio continuo hiperdenso. Principia Mathematica. Zenodo. https://doi.org/10.5281/zenodo.23342673 y,
 
